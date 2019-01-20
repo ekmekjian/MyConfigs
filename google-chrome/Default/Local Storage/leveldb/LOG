@@ -1,0 +1,27 @@
+2019/01/19-17:22:55.757 6295 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/01/19-17:22:55.757 6295 Recovering log #102
+2019/01/19-17:22:55.758 6295 Reusing old log leveldb/000102.log 
+2019/01/19-17:24:03.135 61fa Level-0 table #107: started
+2019/01/19-17:24:03.166 61fa Level-0 table #107: 16803 bytes OK
+2019/01/19-17:24:03.200 61fa Delete type=0 #102
+2019/01/19-18:46:03.135 6837 Level-0 table #109: started
+2019/01/19-18:46:03.171 6837 Level-0 table #109: 20100 bytes OK
+2019/01/19-18:46:03.197 6837 Delete type=0 #106
+2019/01/19-21:35:17.962 2261 Level-0 table #111: started
+2019/01/19-21:35:18.002 2261 Level-0 table #111: 21693 bytes OK
+2019/01/19-21:35:18.036 2261 Delete type=0 #108
+2019/01/19-23:31:53.761 359c Level-0 table #113: started
+2019/01/19-23:31:53.796 359c Level-0 table #113: 16710 bytes OK
+2019/01/19-23:31:53.846 359c Delete type=0 #110
+2019/01/19-23:31:53.847 359c Compacting 4@0 + 1@1 files
+2019/01/19-23:31:53.881 359c Generated table #114@0: 726 keys, 23509 bytes
+2019/01/19-23:31:53.881 359c Compacted 4@0 + 1@1 files => 23509 bytes
+2019/01/19-23:31:53.930 359c compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/19-23:31:53.931 359c Delete type=2 #109
+2019/01/19-23:31:53.931 359c Delete type=2 #104
+2019/01/19-23:31:53.931 359c Delete type=2 #113
+2019/01/19-23:31:53.931 359c Delete type=2 #107
+2019/01/19-23:31:53.931 359c Delete type=2 #111
+2019/01/19-23:47:23.019 359c Level-0 table #116: started
+2019/01/19-23:47:23.040 359c Level-0 table #116: 12410 bytes OK
+2019/01/19-23:47:23.074 359c Delete type=0 #112

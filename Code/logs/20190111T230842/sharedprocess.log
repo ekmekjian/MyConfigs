@@ -1,0 +1,17 @@
+[2019-01-11 23:08:47.183] [sharedprocess] [info] main {"machineId":"7152c86e346802aad0d599f04511b6651ad4146f7781d5fb6218156d357464a8"}
+[2019-01-11 23:08:47.570] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:47.585] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:47.595] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:47.597] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:47.664] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-11 23:08:47.665] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-11 23:08:47.669] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-11 23:08:48.840] [sharedprocess] [info] Installing extension: vscode-arduino
+[2019-01-11 23:08:48.849] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:52.867] [sharedprocess] [info] Downloaded extension: vscode-arduino /tmp/4d97aa92-41f4-4d2a-bd52-a6379c67c9ca
+[2019-01-11 23:08:53.765] [sharedprocess] [info] Extracted extension to /home/black/.vscode/extensions/.vsciot-vscode.vscode-arduino-0.2.25: vsciot-vscode.vscode-arduino-0.2.25
+[2019-01-11 23:08:53.765] [sharedprocess] [info] Renamed to /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25
+[2019-01-11 23:08:53.767] [sharedprocess] [info] Installation completed. vsciot-vscode.vscode-arduino-0.2.25
+[2019-01-11 23:08:53.867] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-11 23:08:53.882] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-11 23:08:53.882] [sharedprocess] [info] Extensions installed successfully: vsciot-vscode.vscode-arduino

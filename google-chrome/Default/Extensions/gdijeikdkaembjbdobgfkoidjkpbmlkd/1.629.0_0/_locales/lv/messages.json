@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Apvilkts/punktēts"
+   },
+   "1070809808108857931": {
+      "message": "pirms $NUM$ minūtes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Izveidojiet saiti uz lapu vai failu citur tīmeklī."
+   },
+   "1102310712956565239": {
+      "message": "Atklātā pirmkoda licences"
+   },
+   "1130652265542107236": {
+      "message": "Vecums"
+   },
+   "1134649645976473070": {
+      "message": "Arābu cipara zīme"
+   },
+   "1142417372321533593": {
+      "message": "Hanu 11–17 vilkumu saknes"
+   },
+   "1147656502873524992": {
+      "message": "Bengāļu"
+   },
+   "1163524414906063407": {
+      "message": "Viļņota atdalāmā zīme"
+   },
+   "1180214318241646187": {
+      "message": "Devanāgarī"
+   },
+   "1201655285096694629": {
+      "message": "Lai pabeigtu pirkumu, lūdzu, pievienojiet maksājuma veidu."
+   },
+   "1208097920246951223": {
+      "message": "Ji"
+   },
+   "12190752990595538": {
+      "message": "Vienmērīga"
+   },
+   "1237413374221837088": {
+      "message": "Atskaņošana tika pārtraukta, jo tika sākta šī videoklipa atskaņošana citā ierīcē. Lūdzu, atskaņojiet videoklipu vēlreiz pēc tam, kad būs pārtraukta tā atskaņošana citā ierīcē."
+   },
+   "123775052533814018": {
+      "message": "Gruzīnu"
+   },
+   "1257931524938240638": {
+      "message": "Skatīties"
+   },
+   "1297025664516669951": {
+      "message": "mljrd."
+   },
+   "1305766628630415604": {
+      "message": "Laikapstākļi, ainas un zodiaka zīmes"
+   },
+   "1310971928430788285": {
+      "message": "Arābu zīme Sanah"
+   },
+   "1347269818800657320": {
+      "message": "1 sērija"
+   },
+   "1358234736811100710": {
+      "message": "Gudžaratu"
+   },
+   "1361445704105826758": {
+      "message": "Ļoti šaura atstarpe"
+   },
+   "1364333963472303494": {
+      "message": "Termiņš: $EVAL_1$ minūtes",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Pārsvītrot"
+   },
+   "1368767014310906187": {
+      "message": "Uzzināt vairāk"
+   },
+   "1386128393601544077": {
+      "message": "Tiek lejupielādēts skatīšanai bezsaistē..."
+   },
+   "1394022802077775553": {
+      "message": "Mazs"
+   },
+   "1408430211331783844": {
+      "message": "Hanu 10 vilkumu saknes"
+   },
+   "140933529008432611": {
+      "message": "Pilnekrāna režīms"
+   },
+   "1410700625120387041": {
+      "message": "Lapa atsvaidzināta."
+   },
+   "1411272293021752124": {
+      "message": "Kad jūsu ierīce tiks pieslēgta internetam, tiks sinhronizēti Play filmas un TV dati. Pēc tam šo sēriju varēsiet skatīties citā ierīcē."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "24 stundu periodā tika izmantots pārāk daudz ierīču/IP adrešu. Lūdzu, izmantojiet kādu no iepriekš lietotajām ierīcēm vai vēlāk mēģiniet vēlreiz."
+   },
+   "1430062769418326205": {
+      "message": "Takri"
+   },
+   "1440735285675788071": {
+      "message": "Dzīvnieki, augi un pārtika"
+   },
+   "1446182608983200385": {
+      "message": "Skatieties saturu uz lielā ekrāna"
+   },
+   "1452953224047775588": {
+      "message": "Radās servera kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "1464429406563501593": {
+      "message": "Iegādāties ($PRICE_BUY$)",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Ugaritiešu"
+   },
+   "1511375217423134113": {
+      "message": "Šaurā atstarpe"
+   },
+   "1538935182784871964": {
+      "message": "Nav"
+   },
+   "1550882703360589242": {
+      "message": "Virsraksts"
+   },
+   "1569384361123250083": {
+      "message": "Šaurā nedalāmā atstarpe"
+   },
+   "1569694034972476152": {
+      "message": "Pievienot kredītkarti vai debetkarti"
+   },
+   "1574702217174092165": {
+      "message": "Lepča"
+   },
+   "1577035400209415987": {
+      "message": "Sports, svinības un aktivitātes"
+   },
+   "1578936298060149953": {
+      "message": "Ierīcē ir lejupielādēts pārāk daudz filmu. Lūdzu, noņemiet dažas filmas. Ja uzskatāt, ka ir radusies kļūda, lūdzu, sazinieties ar klientu apkalpošanas dienestu."
+   },
+   "1585399878613556769": {
+      "message": "Mandeju"
+   },
+   "1622977981214364224": {
+      "message": "Vērtība"
+   },
+   "1624496666386832541": {
+      "message": "Cilvēki un emocijas"
+   },
+   "163585285607136383": {
+      "message": "Atstarpe"
+   },
+   "1659260306743134961": {
+      "message": "Tiek atskaņots šajā ierīcē: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Brīdinājums par videonomu"
+   },
+   "167137904963051280": {
+      "message": "Aizvērt"
+   },
+   "1672514695079052416": {
+      "message": "Neparastu konta darbību dēļ šis videoklips pašlaik nav pieejams."
+   },
+   "1689687103490595695": {
+      "message": "Play filmas"
+   },
+   "1693658896006835421": {
+      "message": "Kombinēšanas grafēmu savienotājs"
+   },
+   "1695785777963864871": {
+      "message": "Atvērt saiti: "
+   },
+   "1705348214738149530": {
+      "message": "Termiņš: 1 minūte"
+   },
+   "1719824778219074772": {
+      "message": "Khmeru"
+   },
+   "1730622041976529093": {
+      "message": "Sestdaļa no lielās atstarpes"
+   },
+   "175470934010823676": {
+      "message": "Numurēts saraksts"
+   },
+   "17841002962364046": {
+      "message": "Atcelt atsaukšanu"
+   },
+   "1790234586531719509": {
+      "message": "Pirkt"
+   },
+   "1792545992204167651": {
+      "message": "Hanu 4 vilkumu saknes"
+   },
+   "179542577867490020": {
+      "message": "E-pasta adrese nav derīga."
+   },
+   "180976998764453681": {
+      "message": "Lejupielāde HD vai SD formātā"
+   },
+   "1814369088251817607": {
+      "message": "Daļskaitļi/saistīti"
+   },
+   "1828658977714723982": {
+      "message": "Spēļu figūras"
+   },
+   "1830872643153553266": {
+      "message": "Skatiet papildinformāciju par “$ASSET_PURCHASE_TITLE$”.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Singāļu"
+   },
+   "1846295350891951774": {
+      "message": "Atrodiet savus iecienītākos seriālus Play veikalā un noskatieties tos, izmantojot pārlūkprogrammai Chrome paredzēto lietotni “Play filmas un TV”."
+   },
+   "1855549404303496723": {
+      "message": "Termiņš: 1 stunda"
+   },
+   "1877803725479774313": {
+      "message": "Atskaņošana šajā ierīcē netiek atbalstīta."
+   },
+   "1890638601494854916": {
+      "message": "miljards"
+   },
+   "1901872524864997402": {
+      "message": "Iziet"
+   },
+   "1905843731663924055": {
+      "message": "pēc $NUM$ stundām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Pirkuma līgums netika atrasts."
+   },
+   "1935128618068091278": {
+      "message": "Etiopiešu"
+   },
+   "1938219414696116874": {
+      "message": "Pašlaik nav iespējams vilkt un nomest attēlu failus.\nLūdzu, ievelciet attēlu no savas tīmekļa pārlūkprogrammas."
+   },
+   "1954151364415665795": {
+      "message": "Hangils"
+   },
+   "1977431342799515224": {
+      "message": "Atskaņošana tika pārtraukta, jo tika sākta šī videoklipa atskaņošana citā ierīcē. Lūdzu, vēlreiz atskaņojiet videoklipu pēc tam, kad būs pārtraukta tā atskaņošana citā ierīcē."
+   },
+   "2029980907058777630": {
+      "message": "Pakalpojumu sniegšanas noteikumi"
+   },
+   "2044442466969080056": {
+      "message": "Decimāls"
+   },
+   "2047343614481498061": {
+      "message": "Pievienot krāsu"
+   },
+   "2072847589626610105": {
+      "message": "Nomāt"
+   },
+   "2092212617914314411": {
+      "message": "Jūs šobrīd esat bezsaistē. Izveidojiet savienojumu ar internetu, lai straumētu savas iecienītās filmas un TV pārraides."
+   },
+   "2101164867731291209": {
+      "message": "Kajahu"
+   },
+   "2113719628962111778": {
+      "message": "Arābu kājenes atzīme"
+   },
+   "2114961653707808791": {
+      "message": "Trūkst viena obligātā komponenta. Lūdzu, atveriet lapu chrome://components citā pārlūka cilnē, blakus WidevineCdm komponentam noklikšķiniet uz pogas “Pārbaudīt atjauninājumus” un restartējiet pārlūku, tiklīdz redzams statuss “Komponents atjaunināts”."
+   },
+   "2118949532496601536": {
+      "message": "Parasts"
+   },
+   "2123474539731286604": {
+      "message": "Atsvaidzināt"
+   },
+   "2124380732103580135": {
+      "message": "Filmas atskaņošana jau tika apturēta."
+   },
+   "2131073272476560470": {
+      "message": "Šī videoklipa nomas termiņš ir beidzies. Lai skatītos videoklipu, lūdzu, to iegādājieties vai iznomājiet vēlreiz."
+   },
+   "2149182740887046022": {
+      "message": "Variantu atlasītājs — $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Pašlaik neizdodas atskaņot šo videoklipu. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "2194774716002570022": {
+      "message": "Rindstarpu anotācijas pārtraukšanas zīme"
+   },
+   "2206769964843652278": {
+      "message": "Gotisks"
+   },
+   "22109057671064768": {
+      "message": "Tiek atskaņots ierīcē $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonētika (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Domuzīme"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Spēlēt $EXTRA_TITLE$",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Lielums"
+   },
+   "2285569294581055781": {
+      "message": "Punktuācijas atstarpe"
+   },
+   "230507365422499768": {
+      "message": "Santalu"
+   },
+   "2325815383560299041": {
+      "message": "Seriāli"
+   },
+   "2358744432156444454": {
+      "message": "Telugu"
+   },
+   "2370311583523472863": {
+      "message": "trilj."
+   },
+   "2378154636827917381": {
+      "message": "Atlasiet maksājuma veidu"
+   },
+   "2398583048519934048": {
+      "message": "Radās kļūda. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2404545964673636424": {
+      "message": "Apvilkts"
+   },
+   "2416235035434522626": {
+      "message": "Šis videoklipa pirkums tika atmaksāts. Lai skatītos videoklipu, lūdzu, to iegādājieties vai iznomājiet vēlreiz."
+   },
+   "2458370016363828146": {
+      "message": "Izveidojiet saiti ar e-pasta adresi."
+   },
+   "2469139219925930348": {
+      "message": "Meteoroloģiskās un astroloģiskās zīmes"
+   },
+   "2484918978489875840": {
+      "message": "Arābu"
+   },
+   "2500940977211244160": {
+      "message": "Izmantojot Chromecast ierīci, varat skatīties savas iecienītākās filmas un seriālus uz lielā ekrāna."
+   },
+   "2510334389873855577": {
+      "message": "Dienvidāzijas raksti"
+   },
+   "2524488082161774200": {
+      "message": "Tibetiešu"
+   },
+   "2556195906496703534": {
+      "message": "Defise"
+   },
+   "2567552453606568838": {
+      "message": "pirms $NUM$ stundas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Apakšraksts"
+   },
+   "2596943043266694861": {
+      "message": "Šo videoklipu nevar atrast."
+   },
+   "2602773901491715295": {
+      "message": "Subtitri"
+   },
+   "2609303773462214063": {
+      "message": "Filmu nevar lejupielādēt, jo autortiesību īpašnieks aizliedz skatīšanu bezsaistē."
+   },
+   "2617084065793155411": {
+      "message": "Vidējais kvadrāts"
+   },
+   "2623430506770319716": {
+      "message": "Klientu apkalpošanas dienesta darbinieki jūsu kontā šogad pārāk bieži ir veikuši atiestatīšanu."
+   },
+   "2624723575430661735": {
+      "message": "Versija $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Pašlaik jūsu iznomātās filmas “$MOVIE_TITLE$” nomas termiņš $LONG_EXPIRATION_MESSAGE$. Pēc atskaņošanas sākšanas tas $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Saņemt palīdzību"
+   },
+   "2634032400851497621": {
+      "message": "Ļoti liels"
+   },
+   "2636578811345390596": {
+      "message": "Diagramma."
+   },
+   "265418312065535093": {
+      "message": "Vienplatuma bezserifa"
+   },
+   "2669412054237461578": {
+      "message": "Iegādāties “$ASSET_PURCHASE_TITLE$”",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Ideogrāfiskā atstarpe"
+   },
+   "267152712329867450": {
+      "message": "Vēsturiskās zīmes"
+   },
+   "2676989239174849130": {
+      "message": "Iegādāto saturu var lejupielādēt ne vairāk kā 5 ierīcēs vienlaikus. Lai šo videoklipu lejupielādētu šeit, noņemiet visas tā lejupielādes no kādas citas ierīces."
+   },
+   "2694197056256485674": {
+      "message": "priekšpusdienā"
+   },
+   "2696605111162327790": {
+      "message": "Mūzikas simbols: līgas sākums"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Par Google Play filmām"
+   },
+   "2725131744113020753": {
+      "message": "Apraides sesijas termiņš ir beidzies. Lūdzu, pārtrauciet savienojumu un mēģiniet vēlreiz."
+   },
+   "2726210069762481377": {
+      "message": "Apjoms: $VOLUME_LEVEL$%",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Joprojām darbojas..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$ (ja pieejama)",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Vakar"
+   },
+   "2778320704487179651": {
+      "message": "Senais dienvidarābu raksts"
+   },
+   "2811578318938008571": {
+      "message": "Defise ar diairezi"
+   },
+   "2823408948793387406": {
+      "message": "Dzeltens teksts uz melna fona"
+   },
+   "2843666691789766965": {
+      "message": "Simboli"
+   },
+   "285220876417404298": {
+      "message": "Mainīt"
+   },
+   "2866884137027183397": {
+      "message": "Atklātā pirmkoda licences"
+   },
+   "287293401853426183": {
+      "message": "Lielā atstarpe"
+   },
+   "2873226479878121265": {
+      "message": "Dzimšanas vieta"
+   },
+   "2873450949697555837": {
+      "message": "Saņemt TV sērijas"
+   },
+   "2874298691560753701": {
+      "message": "kvadriljons(-i)"
+   },
+   "2874903004453257636": {
+      "message": "Tai lī"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{pirms # minūtēm}=1{pirms # minūtes}zero{pirms # minūtēm}one{pirms # minūtes}other{pirms # minūtēm}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Rādīt detalizētu informāciju$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Komponents$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Kļūdas kods$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Ziņojums$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Atribūti$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Atstarpes"
+   },
+   "2972646465175951960": {
+      "message": "Heks. krāsa"
+   },
+   "2976070904514926378": {
+      "message": "Kad jūsu ierīce tiks pieslēgta internetam, tiks sinhronizēti Play filmas un TV dati. Pēc tam šo filmu varēsiet skatīties citā ierīcē."
+   },
+   "299212393546620995": {
+      "message": "Pieejams, iegādājoties saturu SD vai HD formātā"
+   },
+   "3001599311394934937": {
+      "message": "Krāsa"
+   },
+   "3024031615064271409": {
+      "message": "Neredzamais reižu simbols"
+   },
+   "3051680812108612733": {
+      "message": "HD: $BUY_HD_PRICE$",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Ģeometriskas formas"
+   },
+   "3076131322444154485": {
+      "message": "Mūzika"
+   },
+   "3082451864182626107": {
+      "message": "Mazs"
+   },
+   "3082728000817887688": {
+      "message": "Savienojuma izveide ar ierīci"
+   },
+   "3090277567861361522": {
+      "message": "Mūzikas simbols: ligatūras beigas"
+   },
+   "3090955389577626836": {
+      "message": "Attēlojuma formāts vertikālai domuzīmei"
+   },
+   "3139446734703149686": {
+      "message": "Dažādi"
+   },
+   "3145479901031711697": {
+      "message": "Pareizrakstības pārbaude"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanua"
+   },
+   "3149652533781441921": {
+      "message": "Ar digitālā satura tiesību pārvaldības sistēmu saistītais ziņojums nav derīgs."
+   },
+   "3151300615969236340": {
+      "message": "Vāka attēls pārraides “$WN_SHOW_TITLE$” $WN_EPISODE_NUMBER$. sērijai (“$WN_EPISODE_TITLE$”)",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Ideogrāfisks apraksts"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} diena}zero{{TEXT} dienu}one{{TEXT} diena}other{{TEXT} dienas}}"
+   },
+   "3194384156250789686": {
+      "message": "Afrikāņu raksti"
+   },
+   "3201110180818098584": {
+      "message": "Čemu"
+   },
+   "3207692705529645309": {
+      "message": "Neredzamais atdalītājs"
+   },
+   "321244849474197695": {
+      "message": "Rīt"
+   },
+   "3229124980345092092": {
+      "message": "Nulles platuma atstarpe"
+   },
+   "322985691330688230": {
+      "message": "Jūsu vaicājumam netika atrasts neviens rezultāts."
+   },
+   "3230391931526221675": {
+      "message": "Formatēt"
+   },
+   "3232820577716196711": {
+      "message": "Ievietot attēlu"
+   },
+   "3243505317143754724": {
+      "message": "Pielāgots"
+   },
+   "3243750297590914955": {
+      "message": "Khmeru patskaņu raksturīgais Aq"
+   },
+   "3247076985979796797": {
+      "message": "Grieķu"
+   },
+   "3251309750789560433": {
+      "message": "Armēņu defise"
+   },
+   "3254567788720420543": {
+      "message": " "
+   },
+   "3256010424127814333": {
+      "message": "Mūzikas simbols: ligatūras sākums"
+   },
+   "3256903505595292698": {
+      "message": "Samazināt atkāpi"
+   },
+   "3265250603400790440": {
+      "message": "Darba sākšana"
+   },
+   "3281239119456770372": {
+      "message": "Kirilica"
+   },
+   "3289148576120895160": {
+      "message": "Kapiteļi"
+   },
+   "3294214489713824609": {
+      "message": "Hanu 5 vilkumu saknes"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Kļūdas kods: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Teksta krāsa"
+   },
+   "332000134635733746": {
+      "message": "Apvilkts"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Kipriešu"
+   },
+   "3336445884996834318": {
+      "message": "Videoklipa licenci nevar lejupielādēt. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "3347761840855731301": {
+      "message": "Apraides sesija nav pieejama. Lūdzu, atsvaidziniet lapu vai vēlāk mēģiniet vēlreiz."
+   },
+   "3351553150964917854": {
+      "message": "Variantu atlasītājs"
+   },
+   "3355166016320182029": {
+      "message": "Nevarēja iegūt šī videoklipa licenci. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "3391942411715503600": {
+      "message": "HD: $RENT_HD_PRICE$",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Rindstarpu anotācijas enkurs"
+   },
+   "3415775657739029002": {
+      "message": "Rakstzīmes platuma atstarpe"
+   },
+   "3427321493644124084": {
+      "message": "Zvaigznītes"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Meklēt šo aktieri: $ACTOR_NAME$",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matemātiska izteiksme"
+   },
+   "3496221549802542517": {
+      "message": "Ļoti mazs"
+   },
+   "3499317959717425890": {
+      "message": "Atsaukt"
+   },
+   "3500807335769892741": {
+      "message": "Vārdu savienotājs"
+   },
+   "3508852687023675805": {
+      "message": "pirms $NUM$ minūtēm",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Parasts"
+   },
+   "3540495086170177505": {
+      "message": "Pirkt seriālus"
+   },
+   "3546034467178790154": {
+      "message": "Apakšraksts"
+   },
+   "355565230200681214": {
+      "message": "Pilna platuma mīnusa zīme"
+   },
+   "3560179919548880444": {
+      "message": "Fona krāsa"
+   },
+   "3593213843486034190": {
+      "message": "Formatēt"
+   },
+   "3596415344748536540": {
+      "message": "Bamuma"
+   },
+   "3599005616661192177": {
+      "message": "Izslēgts"
+   },
+   "3600868534694594413": {
+      "message": "Attēls"
+   },
+   "3614370613824040896": {
+      "message": "Šo videoklipu vairs nevar lejupielādēt citā ierīcē, jo ir sasniegts maksimālais ierīču skaits. Lai atskaņotu vai lejupielādētu to šeit, noņemiet to no citas ierīces."
+   },
+   "3614813368690293135": {
+      "message": "Ivrita pieturzīme Maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Iegulšana no kreisās puses uz labo"
+   },
+   "3650983100916004596": {
+      "message": "miljards(-i)"
+   },
+   "3652059248591982819": {
+      "message": "Hanu 3 vilkumu saknes"
+   },
+   "3652469401274752477": {
+      "message": "Palielināt atkāpi"
+   },
+   "3653098733292921132": {
+      "message": "kvadrilj."
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ (standarta izšķirtspēja)",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Aktivizējot jūsu iznomāto vienumu, radās kļūda. Lūdzu, atsvaidziniet lapu vai vēlāk mēģiniet vēlreiz."
+   },
+   "3709540316929878378": {
+      "message": "Producents:"
+   },
+   "3721275173574409786": {
+      "message": "Priekšpasūtītas"
+   },
+   "3722812838665571404": {
+      "message": "Iegādātās"
+   },
+   "3728552702457015750": {
+      "message": "Iegādāto saturu var lejupielādēt ne vairāk kā 5 ierīcēs vienlaikus. Lai lejupielādētu šo videoklipu šeit, noņemiet visas lejupielādes no citas ierīces."
+   },
+   "3752083240065277436": {
+      "message": "Oriju"
+   },
+   "3808754582975714579": {
+      "message": "Ir sasniegts maksimālais skaits ierīču, kurās var lejupielādēt šo videoklipu. Lai videoklipu atskaņotu šeit, noņemiet to no kādas citas ierīces."
+   },
+   "3815693850657578096": {
+      "message": "Šarada"
+   },
+   "3826397878188995605": {
+      "message": "Šo filmu varat noskatīties šeit vai atbalstītā tālrunī vai planšetdatorā"
+   },
+   "3831022207582977943": {
+      "message": "Mūzikas simbols: frāzes beigas"
+   },
+   "3846565521051999754": {
+      "message": "Ierīcē ir lejupielādēts pārāk daudz filmu. Lūdzu, noņemiet dažas filmas. Ja uzskatāt, ka ir radusies kļūda, lūdzu, sazinieties ar klientu apkalpošanas dienestu."
+   },
+   "3878153116309225131": {
+      "message": "Uz kādu URL ir jānovirza šai saitei?"
+   },
+   "3878202445977233728": {
+      "message": "Dot priekšroku augstas kvalitātes audio, kad tiek lejupielādētas filmas vai sērijas skatīšanai bezsaistē."
+   },
+   "3890590273177043325": {
+      "message": "Pievienot atribūtu “$REL_NO_FOLLOW$” ($LINK_START$uzzināt vairāk$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javiešu"
+   },
+   "397098723873502323": {
+      "message": "Gatavs"
+   },
+   "3990377875754602116": {
+      "message": "Hanu 6 vilkumu saknes"
+   },
+   "3992132733680288700": {
+      "message": "Lanna"
+   },
+   "4001637111049313831": {
+      "message": "5.1 audio"
+   },
+   "4002348975328837413": {
+      "message": "Atskaņot"
+   },
+   "4005427126456357141": {
+      "message": "pirms $NUM$ dienas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Nomāt ($PRICE_RENT$)",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Slīpraksts"
+   },
+   "4023151405827971137": {
+      "message": "Jūsu datorā nav pietiekami daudz brīvas vietas, lai lejupielādētu šo videoklipu. Lūdzu, atbrīvojiet vietu un mēģiniet vēlreiz."
+   },
+   "4024812820054201230": {
+      "message": "Fonētika (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Lomās:"
+   },
+   "4050502316465597694": {
+      "message": "Silhetu nagri"
+   },
+   "406627050327127223": {
+      "message": "Iestatījumu lejupielāde"
+   },
+   "4068597226649219969": {
+      "message": "Apraides sesijā ietvertais videoklips neatbilst pieprasītajam videoklipam."
+   },
+   "409370207508422421": {
+      "message": "Mani seriāli"
+   },
+   "4115063437096532185": {
+      "message": "CJK vilkumi"
+   },
+   "4146453603518633252": {
+      "message": "Šeit tiks rādītas filmas, ko esat iznomājis vai iegādājies Play veikalā."
+   },
+   "4147180678866875282": {
+      "message": "$SEASON_NUMBER$. sezona",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Ēģiptiešu hieroglifi"
+   },
+   "4165304946050965012": {
+      "message": "Iekļauts nodoklis: $PURCHASE_TAX$",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Dzeltens teksts uz zila fona"
+   },
+   "4171449911657770848": {
+      "message": "Tai lī jaunā rakstība"
+   },
+   "4181834061497947522": {
+      "message": "KĻŪDA: “$COLOR$” nav derīga krāsa.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Apturēt"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "milj."
+   },
+   "4241565389203750613": {
+      "message": "Modificētājs"
+   },
+   "4242947662880926847": {
+      "message": "Mjao"
+   },
+   "4258500568871377211": {
+      "message": "Labi"
+   },
+   "4289161867449641226": {
+      "message": "Vai noņemt lejupielādēto filmu?"
+   },
+   "4326728310335009890": {
+      "message": "Vjetnamas taju"
+   },
+   "4327117004280518691": {
+      "message": "Šova alfabēts"
+   },
+   "4327135909829829353": {
+      "message": "Armēņu"
+   },
+   "4327389288032644198": {
+      "message": "Čakma"
+   },
+   "4330118138352331494": {
+      "message": "Mūzikas simbols: slitas sākums"
+   },
+   "4365544241082610712": {
+      "message": "Videoklipa oriģinālvaloda"
+   },
+   "4389982170398859731": {
+      "message": "Vispārīgi"
+   },
+   "4414892686324469274": {
+      "message": "Audio ieraksts"
+   },
+   "4430021444843507791": {
+      "message": "Funkcijas lietošana"
+   },
+   "4464935242536677493": {
+      "message": "Kas šī par dziesmu?"
+   },
+   "447254005463967829": {
+      "message": "Pāru zīmes"
+   },
+   "4489533087577236543": {
+      "message": "Tikko bija redzami"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{pirms # stundām}=1{pirms # stundas}zero{pirms # stundām}one{pirms # stundas}other{pirms # stundām}}"
+   },
+   "4516988402150653150": {
+      "message": "Trūkst viena obligātā komponenta. Lūdzu, atveriet lapu chrome://components citā pārlūka cilnē, blakus komponentam WidevineCdm noklikšķiniet uz pogas “Pārbaudīt atjauninājumus” un restartējiet pārlūku, tiklīdz redzams statuss “Komponents atjaunināts”."
+   },
+   "4524440614927500782": {
+      "message": "Proporcionāls bezserifa"
+   },
+   "4530344539930689918": {
+      "message": "Ogema atstarpes atzīme"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Meklēt"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ reiz $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Nomāt"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{pēc # minūtēm}=1{pēc # minūtes}zero{pēc # minūtēm}one{pēc # minūtes}other{pēc # minūtēm}}"
+   },
+   "463873241822657784": {
+      "message": "Viļņotā atdalāmā zīme"
+   },
+   "464267706146568699": {
+      "message": "Laosiešu"
+   },
+   "4654657327320140306": {
+      "message": "Augšraksts"
+   },
+   "4658723167166809016": {
+      "message": "Vidējā matemātiskā atstarpe"
+   },
+   "4661634374225039228": {
+      "message": "Rindkopas atdalītājs"
+   },
+   "467915794683941071": {
+      "message": "Atskaņot $EPISODE_NUMBER$. sēriju $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongoļu valoda"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{pirms # dienām}=1{pirms # dienas}zero{pirms # dienām}one{pirms # dienas}other{pirms # dienām}}"
+   },
+   "4712209269320332893": {
+      "message": "Papildsaturs"
+   },
+   "4716710616284048819": {
+      "message": "Diagrammas datu attēlojums tabulā."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minūte}zero{{TEXT} minūšu}one{{TEXT} minūte}other{{TEXT} minūtes}}"
+   },
+   "4725762888646270913": {
+      "message": "Atskaņot raidījuma $WN_SHOW_TITLE$ $WN_EPISODE_NUMBER$. sēriju $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Dubultā ieslīpā defise"
+   },
+   "4762347778259393153": {
+      "message": "Retāki"
+   },
+   "4800386880747162133": {
+      "message": "Radās īslaicīga servera kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "4822858567120963779": {
+      "message": "Vaicājuma “$SEARCH_QUERY$” meklēšanas rezultāti",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Ir sasniegts maksimālais skaits ierīču, kurās var lejupielādēt šo videoklipu. Lai videoklipu atskaņotu vai lejupielādētu šeit, noņemiet to no kādas citas ierīces."
+   },
+   "48271036515889672": {
+      "message": "Nederīga apraides sesija. Lūdzu, atsvaidziniet lapu vai vēlāk mēģiniet vēlreiz."
+   },
+   "4831214862800127209": {
+      "message": "Apraides sesijā ietvertais videoklips neatbilst pieprasītajam videoklipam."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogems"
+   },
+   "4871903967361312376": {
+      "message": "Idzin/Tai sjuaņ dzjin"
+   },
+   "4875958436183735304": {
+      "message": "Krītoša ēna pa labi"
+   },
+   "4906346168276586100": {
+      "message": "Ar digitālā satura tiesību pārvaldības sistēmu saistītais ziņojums nav derīgs."
+   },
+   "491995769371858733": {
+      "message": "Nav"
+   },
+   "4920312719509022176": {
+      "message": "Fonts"
+   },
+   "4930506384627295710": {
+      "message": "Iestatījumi"
+   },
+   "4933409796062109057": {
+      "message": "Lejupielādēts: $DOWNLOAD_PROGRESS$%. Noklikšķiniet, lai atceltu.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Hangila aizpildītājs"
+   },
+   "4950037820737346052": {
+      "message": "Pusplatuma hangila aizpildītājs"
+   },
+   "4968001688305770755": {
+      "message": "Noklikšķinot uz “$OFFER_TYPE$”, jūs piekrītat",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Saite uz:"
+   },
+   "500501967044040199": {
+      "message": "Vienumi"
+   },
+   "5011669227045570891": {
+      "message": "Horizontāla svītriņa"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Jebkurā ierīcē videoklipi var būt lejupielādēti vienlaikus 3 kontos. Lai šo videoklipu lejupielādētu šeit, noņemiet visas tā lejupielādes no kāda cita konta."
+   },
+   "5048838621444724614": {
+      "message": "Ir sasniegts maksimālais skaits ierīču, kurās var lejupielādēt šo videoklipu. Lai videoklipu lejupielādētu šeit, noņemiet to no kādas citas ierīces."
+   },
+   "5056334923803362149": {
+      "message": "Piekļuve šim videoklipam ir liegta."
+   },
+   "5057747709360994470": {
+      "message": "miljons"
+   },
+   "5072722173570082853": {
+      "message": "Labi"
+   },
+   "5079268465360103993": {
+      "message": "Hangila mediāles aizpildītājs"
+   },
+   "5089553823126293996": {
+      "message": "Atcelt"
+   },
+   "5135948647887912891": {
+      "message": "Vienums “$ASSET_TITLE$” ir pievienots jūsu bibliotēkā.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Nulles platuma savienotājs"
+   },
+   "5145175165902220114": {
+      "message": "Kanādiešu zilbju defise"
+   },
+   "5161805074897471162": {
+      "message": "Chrome lietotne Google Play filmas netiek atbalstīta operētājsistēmā Windows XP un vecākās versijās. Lūdzu, mēģiniet vēlreiz, izmantojot operētājsistēmu Windows Vista vai jaunāku versiju, Mac, Linux vai Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "Tifinagu"
+   },
+   "5176392387315400391": {
+      "message": "Nav datu."
+   },
+   "5179659870501454485": {
+      "message": "Pievienot maksājuma veidu"
+   },
+   "5184276027321226501": {
+      "message": "E-pasta adrese"
+   },
+   "5194883651451379462": {
+      "message": "Iegādāties"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Play filmu atsauksmes"
+   },
+   "5209758796360312502": {
+      "message": "Ķīļraksts"
+   },
+   "5216466426869773105": {
+      "message": "Iegravējumu pehlevi"
+   },
+   "522508588411648848": {
+      "message": "Skatīt vienumu “$STORE_LINK_TITLE$” Play veikalā",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Mūzikas simbols: frāzes sākums"
+   },
+   "524096672349210886": {
+      "message": "Transports un kartes"
+   },
+   "5241676005655672226": {
+      "message": "Hanu 9 vilkumu saknes"
+   },
+   "5241820237010230531": {
+      "message": "Vaju"
+   },
+   "5252668631265690404": {
+      "message": "Cits"
+   },
+   "52534048856251312": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "5255871588113212604": {
+      "message": "Nav ieteikumu"
+   },
+   "5261311595095150702": {
+      "message": "Mūzikas simbols: līgas beigas"
+   },
+   "5261596970471311774": {
+      "message": "Liels"
+   },
+   "5281671802836592116": {
+      "message": "Proporcionāls serifa"
+   },
+   "5293326322671103002": {
+      "message": "Notiek ielāde ierīcē $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Jūs noskatījāties $CURRENT_TIME$ no $DURATION$.",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Hanuno"
+   },
+   "5438255274292242922": {
+      "message": "Tehniskās zīmes"
+   },
+   "5439710597412767794": {
+      "message": "Ir sasniegts maksimālais skaits ierīču, kurās var lejupielādēt šo videoklipu. Lai videoklipu lejupielādētu šeit, noņemiet to no citas ierīces."
+   },
+   "545021630455133011": {
+      "message": "Koptu"
+   },
+   "5461901018141989680": {
+      "message": "Arābu simbols: ajaha beigas"
+   },
+   "5484073037133610477": {
+      "message": "Bugu"
+   },
+   "5490715514416345531": {
+      "message": "Balts teksts uz melna fona"
+   },
+   "54946385235790268": {
+      "message": "Filmu nevar noņemt sistēmas kļūdas dēļ. Lūdzu, sazinieties ar klientu apkalpošanas dienestu vai nosūtiet atsauksmes, izmantojot iestatījumu izvēlni."
+   },
+   "5496646217073800560": {
+      "message": "Skaitlis"
+   },
+   "5505627655067167147": {
+      "message": "Uz kādu e-pasta adresi ir jānovirza šai saitei?"
+   },
+   "5515365680802763380": {
+      "message": "Atskaņošana tika pārtraukta, jo šis videoklips ir ticis atskaņots pārāk daudzās ierīcēs. Lūdzu, vispirms nogaidiet 24 stundas un pēc tam vēlreiz atskaņojiet videoklipu."
+   },
+   "5527963094685167949": {
+      "message": "Pašlaik neizdodas atskaņot šo video. Lūdzu, atsvaidziniet šo lapu."
+   },
+   "5548738790581121863": {
+      "message": "Kontā ir sasniegts līgumā noteiktais ierīces atkārtotas aktivizācijas reižu skaita ierobežojums. Ja uzskatāt, ka radusies kļūda, lūdzu, sazinieties ar klientu apkalpošanas dienestu."
+   },
+   "556303983072423917": {
+      "message": "Filmu nevar lejupielādēt, jo autortiesību īpašnieks aizliedz skatīšanu bezsaistē."
+   },
+   "5568872195580328526": {
+      "message": "Izveidots savienojums ar ierīci $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Pārtraukts"
+   },
+   "5625642025808759710": {
+      "message": "Dienvidaustrumāzijas raksti"
+   },
+   "5649689590162845077": {
+      "message": "Izvērst vai sakļaut aprakstu"
+   },
+   "568365569990952204": {
+      "message": "Notiek ielāde..."
+   },
+   "5690743679710570538": {
+      "message": "Turpināt"
+   },
+   "5699299130874036286": {
+      "message": "Apsveicam!"
+   },
+   "5701676109334495247": {
+      "message": "Šis videoklipa pirkums tika atmaksāts. Lai skatītos videoklipu, lūdzu, to iegādājieties vai iznomājiet vēlreiz."
+   },
+   "5739753659630714071": {
+      "message": "Teksta fona krāsa"
+   },
+   "5740091738966096065": {
+      "message": "Pašlaik neesat lejupielādējis saturu izmantošanai bezsaistē. Izveidojiet savienojumu ar internetu un lejupielādējiet saturu no savas bibliotēkas, lai to skatītos bezsaistē."
+   },
+   "57403663622654391": {
+      "message": "Atmiņa"
+   },
+   "5758941098755146708": {
+      "message": "Pievienot vai noņemt saiti"
+   },
+   "5765285425521589331": {
+      "message": "Transports, kartes un ceļazīmes"
+   },
+   "5773223913514548808": {
+      "message": "Mēģinot pierakstīties kontā, radās kļūda. Lūdzu, dodieties uz vietni chrome://chrome-signin/, lai pārbaudītu, vai esat pierakstījies pārlūkprogrammā Chrome, un pēc tam restartējiet lietotni."
+   },
+   "5793916253768843563": {
+      "message": "Attēlu, kuru mēģināt vilkt, ir bloķējusi mitināšanas vietne."
+   },
+   "5818819286276765821": {
+      "message": "Buhida"
+   },
+   "5823773924892832157": {
+      "message": "Baltstarpas rakstzīme"
+   },
+   "5831261098398725527": {
+      "message": "Ievietot citātu"
+   },
+   "5843775533846981999": {
+      "message": "Skatieties filmas no pakalpojuma Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Apturēts. Atlikušais laiks: $EVAL_1$ min.}zero{Apturēts. Atlikušais laiks: $EVAL_2$ min.}one{Apturēts. Atlikušais laiks: $EVAL_2$ min.}other{Apturēts. Atlikušais laiks: $EVAL_2$ min.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Filmas “$MOVIE_TITLE$” reklāmas attēls",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Rediģēt HTML avotu"
+   },
+   "5884014452536244885": {
+      "message": "Iegūt bezmaksas TV sērijas"
+   },
+   "5889420664241962721": {
+      "message": "Chrome lietotne Google Play filmas tiek atbalstīta pārlūkā Chrome 34 un jaunākās versijās. Pārlūkam Chrome ir jābūt pilnībā atjauninātam."
+   },
+   "5891242694179659653": {
+      "message": "Pārbaudīt šo saiti"
+   },
+   "5911102149852781948": {
+      "message": "Sākotnējā virziena formatēšana"
+   },
+   "5924149156142134621": {
+      "message": "Serveris nevar pieņemt saziņā izmantoto saknes sertifikātu. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "592520084270766310": {
+      "message": "Taju"
+   },
+   "5931872839329863827": {
+      "message": "Melns teksts uz balta fona"
+   },
+   "593622950044400136": {
+      "message": "Parasts"
+   },
+   "5961302828987058223": {
+      "message": "Bultiņas"
+   },
+   "5970051322674660677": {
+      "message": "Apraides sesijas termiņš ir beidzies. Lūdzu, pārtrauciet savienojumu un mēģiniet vēlreiz."
+   },
+   "5984875596889567804": {
+      "message": "Filmu nevar noņemt sistēmas kļūdas dēļ. Lūdzu, sazinieties ar klientu apkalpošanas dienestu vai nosūtiet atsauksmes, izmantojot iestatījumu izvēlni."
+   },
+   "6003902003271431273": {
+      "message": "Noņemt"
+   },
+   "6005860289879017562": {
+      "message": "Pašlaik neizdodas atskaņot šo videoklipu. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "6014354480663192727": {
+      "message": "Šeit tiks rādīti seriāli, ko esat iegādājies Play veikalā."
+   },
+   "6034340809890392304": {
+      "message": "Iegādāties filmas"
+   },
+   "6060953217197345552": {
+      "message": "Kanādas iezemiešu"
+   },
+   "6061761559474667363": {
+      "message": "Labi"
+   },
+   "6071912363550058507": {
+      "message": "Tik un tā palaist"
+   },
+   "6084972307281346150": {
+      "message": "Kaithi numerācijas zīme"
+   },
+   "6105544360205581717": {
+      "message": "Atcelt"
+   },
+   "6122892080995252667": {
+      "message": "Formāts un baltstarpas rakstzīme"
+   },
+   "6137797587633467697": {
+      "message": "Meroes kursīvs"
+   },
+   "6155475143120453982": {
+      "message": "0 minūšu"
+   },
+   "6190120025272183060": {
+      "message": "Zīmes"
+   },
+   "6193238841287195586": {
+      "message": "Autors:"
+   },
+   "6222709653953533319": {
+      "message": "Teksta krāsa"
+   },
+   "6232382505914187032": {
+      "message": "Iegūt bezmaksas sērijas"
+   },
+   "6245954250506012649": {
+      "message": "Noma"
+   },
+   "6247516545605893720": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "6248269670479966135": {
+      "message": "Tastatūra un lietotāja saskarne"
+   },
+   "6252201064611373493": {
+      "message": "Rādīt kartītes"
+   },
+   "6270812530472396287": {
+      "message": "Šodien"
+   },
+   "6272228095428812454": {
+      "message": "Tagalu"
+   },
+   "6279370317435309772": {
+      "message": "Avestas"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Vai nezināt, ko ierakstīt lodziņā?$END_BOLD$ Vispirms atrodiet tīmekļa lapu, uz kuru vēlaties izveidot saiti. (Varat izmantot $SEARCH_ENGINE_LINK$meklētājprogrammu$END_LINK$.) Pēc tam kopējiet pārlūkprogrammas adreses joslā redzamo tīmekļa adresi un ielīmējiet to iepriekš esošajā lodziņā.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Atskaņošana"
+   },
+   "6335175380341340581": {
+      "message": "Apraides sesijā ietvertā ierīce neatbilst pieprasītajai ierīcei."
+   },
+   "6343010841347906907": {
+      "message": "pēc $NUM$ dienas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Saderība"
+   },
+   "6350391521435965588": {
+      "message": "Priekšpasūtītas"
+   },
+   "6352913008658578632": {
+      "message": "Pārnesumzīme"
+   },
+   "6363122915809877223": {
+      "message": "Krītoša ēna pa kreisi"
+   },
+   "6371465733575496232": {
+      "message": "Tuvo Austrumu raksti"
+   },
+   "6405814875010182725": {
+      "message": "Serveris nevar pieņemt saziņā izmantoto saknes sertifikātu. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "6407996489854784042": {
+      "message": "Saites rediģēšana"
+   },
+   "6414884042279967640": {
+      "message": "nederīgs URL"
+   },
+   "6425847105595230473": {
+      "message": "Ignorēt"
+   },
+   "6432298456231736850": {
+      "message": "Google Play filmas"
+   },
+   "6440344606961499591": {
+      "message": "Līciešu"
+   },
+   "6456384515113758910": {
+      "message": "Lasīt vairāk"
+   },
+   "6456933929616370051": {
+      "message": "Rediģēt vārdu"
+   },
+   "6479123880196723568": {
+      "message": "Kursīvs"
+   },
+   "6496283442053180405": {
+      "message": "No kreisās uz labo"
+   },
+   "6501155781262627001": {
+      "message": "24 stundu periodā tika izmantots pārāk daudz ierīču/IP adrešu. Lūdzu, izmantojiet kādu no iepriekš lietotajām ierīcēm vai vēlāk mēģiniet vēlreiz."
+   },
+   "6508375652910000957": {
+      "message": "Bez atstarpēm"
+   },
+   "6536020395223120161": {
+      "message": "Kļūda"
+   },
+   "6546669593466967671": {
+      "message": "Matemātika (burtciparu)"
+   },
+   "6551745305926008747": {
+      "message": "Priekšpasūtīt"
+   },
+   "6554134808157634636": {
+      "message": "B līnijraksts"
+   },
+   "656481501116924913": {
+      "message": "Atskaņošana tika pārtraukta, jo šis videoklips ir ticis atskaņots pārāk daudzās ierīcēs. Lūdzu, vispirms nogaidiet 24 stundas un pēc tam vēlreiz atskaņojiet videoklipu."
+   },
+   "6569656063466645753": {
+      "message": "Subtitri"
+   },
+   "6602025155112861839": {
+      "message": "Brahmi"
+   },
+   "6621933208862353132": {
+      "message": "Šis videoklips jūsu valstī nav pieejams."
+   },
+   "6625801467720528503": {
+      "message": "Senpersiešu"
+   },
+   "6629216961322187103": {
+      "message": "Saglabāt"
+   },
+   "6633629616609262609": {
+      "message": "Vēlāk savus iestatījumus varēsiet mainīt $START_TAG_19$lietotnes iestatījumos$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Citi eiropiešu raksti"
+   },
+   "6651639811736683845": {
+      "message": "Manas filmas"
+   },
+   "6661681603632549986": {
+      "message": "Subtitri"
+   },
+   "6667667434733000643": {
+      "message": "Ietver informācijas kartītes"
+   },
+   "6677363386267424723": {
+      "message": "Atskaņot filmu $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Iegādāties filmu $MOVIE_TITLE$ par $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Fonta lielums"
+   },
+   "677905689563333998": {
+      "message": "Atskaņošana tika pārtraukta, jo tiek atskaņots pārāk daudz vienam kontam piederošu videoklipu. Lūdzu, pārtrauciet dažu videoklipu atskaņošanu un mēģiniet vēlreiz."
+   },
+   "679571059806777318": {
+      "message": "Taana"
+   },
+   "6810753777984126315": {
+      "message": "Dezereta"
+   },
+   "6827910084162380306": {
+      "message": "Apraides sesijā ietvertā ierīce neatbilst pieprasītajai ierīcei."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} stunda}zero{{TEXT} stundu}one{{TEXT} stunda}other{{TEXT} stundas}}"
+   },
+   "6851957197139570861": {
+      "message": "Šis videoklips jūsu valstī nav pieejams."
+   },
+   "6853191352018412040": {
+      "message": "Balinēziešu"
+   },
+   "6855074016004156398": {
+      "message": "Rediģēt HTML"
+   },
+   "6860315656437719971": {
+      "message": "Filma jau ir lejupielādēta ierīcē. Lūdzu, pārbaudiet citus kontus šajā ierīcē."
+   },
+   "6875483133393301003": {
+      "message": "Citi Austrumāzijas raksti"
+   },
+   "6883682454262090493": {
+      "message": "Atrodiet lielisku filmu Play veikalā un noskatieties to, izmantojot pārlūkprogrammai Chrome paredzēto lietotni “Play filmas”."
+   },
+   "6889309596873739783": {
+      "message": "Ļoti liels"
+   },
+   "6896826577403437656": {
+      "message": "Mīnusa zīme"
+   },
+   "6902004800313673513": {
+      "message": "Apvērsti/spoguļoti"
+   },
+   "6964937916732516478": {
+      "message": "Parasts"
+   },
+   "696905759309523016": {
+      "message": "Atrodiet lielisku filmu vai TV pārraidi Play veikalā un noskatieties to, izmantojot pārlūkprogrammai Chrome paredzēto lietotni “Play filmas un TV”."
+   },
+   "6987338929609909868": {
+      "message": "Ja noņemsiet šo filmu, nevarēsiet to skatīties šajā ierīcē, kamēr tā neatsāks darboties tiešsaistes režīmā."
+   },
+   "6989393626433450594": {
+      "message": "Pagspa"
+   },
+   "7012766363608830434": {
+      "message": "Neredzamā pluszīme"
+   },
+   "7024834031644866926": {
+      "message": "Saņemt palīdzību"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "pirms $NUM$ stundām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Ja noņemsiet šo sēriju no ierīces, nevarēsiet to skatīties bez interneta pieslēguma."
+   },
+   "7094242414651579769": {
+      "message": "Iesakām"
+   },
+   "7101065047913928628": {
+      "message": "Nko"
+   },
+   "711332449732375422": {
+      "message": "Visi"
+   },
+   "7119313535591306971": {
+      "message": "Sīriešu"
+   },
+   "7133753811730291503": {
+      "message": "Redžangas"
+   },
+   "7134932904164509880": {
+      "message": "Audio un subtitri"
+   },
+   "7142370112218882473": {
+      "message": "Rakstzīmes platuma atdalāmā zīme"
+   },
+   "7143481033215693523": {
+      "message": "Feniķiešu"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{pēc # dienām}=1{pēc # dienas}zero{pēc # dienām}one{pēc # dienas}other{pēc # dienām}}"
+   },
+   "7166131491680306441": {
+      "message": "Treknraksts"
+   },
+   "717756764917242379": {
+      "message": "Klientu apkalpošanas dienesta darbinieki jūsu kontā šogad pārāk bieži ir veikuši atiestatīšanu."
+   },
+   "7209204842613884996": {
+      "message": "Čiroku"
+   },
+   "7217613154757397815": {
+      "message": "Neliels virsraksts"
+   },
+   "7222798856864539991": {
+      "message": "Emocijzīmes"
+   },
+   "7231513918080506880": {
+      "message": "Video atskaņošanas kļūda"
+   },
+   "7233133314598482636": {
+      "message": "Simbols"
+   },
+   "7237310906976510879": {
+      "message": "Autentifikācijas kļūda"
+   },
+   "7254769271789170667": {
+      "message": "Ignorēšana no labās puses uz kreiso"
+   },
+   "7271563194657138998": {
+      "message": "Sāciet darbu ar bezmaksas sēriju no Play veikala un noskatieties to uzreiz, izmantojot pārlūkprogrammai Chrome paredzēto lietotni “Play filmas un TV”."
+   },
+   "7322761727637390097": {
+      "message": "Pirkuma līgums nav atrasts."
+   },
+   "7333054716894862082": {
+      "message": "Taisnot"
+   },
+   "7352037235710614813": {
+      "message": "Režisors:"
+   },
+   "7379356741388986662": {
+      "message": "Iepirkties"
+   },
+   "738294154320637123": {
+      "message": "Manipūru"
+   },
+   "7403213530684675547": {
+      "message": "Filmu nevar noņemt, jo tā ir lejupielādēta citā ierīcē. Lūdzu, vispirms noņemiet šo filmu citā ierīcē."
+   },
+   "7423355034259912329": {
+      "message": "Filmas atskaņošana jau tika pārtraukta."
+   },
+   "742861914041471563": {
+      "message": "Līdzināt pa kreisi"
+   },
+   "7431208184373206966": {
+      "message": "Liels"
+   },
+   "7436129358876453178": {
+      "message": "Hanu 2 vilkumu saknes"
+   },
+   "7443523425660741023": {
+      "message": "Filmu nevar noņemt, jo tā ir lejupielādēta citā ierīcē. Lūdzu, vispirms noņemiet šo filmu citā ierīcē."
+   },
+   "7444530187008825696": {
+      "message": "Šo saiti nevar pārbaudīt."
+   },
+   "7445716324927695719": {
+      "message": "$DOWNLOADED_TITLE$ — lejupielādēts. Noklikšķiniet, lai noņemtu.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Pārtraukt savienojumu"
+   },
+   "7499894239558451540": {
+      "message": "Jā"
+   },
+   "7531884248412347499": {
+      "message": "Labi"
+   },
+   "7534921436388469168": {
+      "message": "Radās servera kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "754389774434351130": {
+      "message": "Mongoļu patskaņu atdalītājs"
+   },
+   "7545663607980395021": {
+      "message": "Apraides sesija nav pieejama. Lūdzu, atsvaidziniet lapu vai vēlāk mēģiniet vēlreiz."
+   },
+   "7559531330043741601": {
+      "message": "Līdzināt centrā"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (skaits)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangila iniciāles aizpildītājs"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Esiet uzmanīgs!$POSTB$ Ņemiet vērā, ka ikreiz, kad ievietojat e-pasta adresi tīmekļa lapā, to var atrast arī nevēlami mēstuļu sūtītāji.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Lai redzētu rakstzīmes nosaukumu, novietojiet kursoru virs attiecīgās šūnas."
+   },
+   "7628853095173216399": {
+      "message": "Lai atsāktu skatīšanos, lūdzu, pierakstieties."
+   },
+   "7628997973779702278": {
+      "message": "Lejupielādēt videoklipu $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Atskaņot reklāmkadrus"
+   },
+   "7644195558431380264": {
+      "message": "Paaugstināta"
+   },
+   "7656269245189992953": {
+      "message": "Neviens"
+   },
+   "765644786799307419": {
+      "message": "Ceturtdaļa no lielās atstarpes"
+   },
+   "7661273651737426088": {
+      "message": "Nedalāmā defise"
+   },
+   "7671671293660378394": {
+      "message": "Nedalāmā atstarpe"
+   },
+   "7687757766363784951": {
+      "message": "Pēdējās atlasītās:"
+   },
+   "7704099115712609154": {
+      "message": "Iestatījumi"
+   },
+   "7707854987324577924": {
+      "message": "Nulles platuma nedalāmā atstarpe"
+   },
+   "7721864005040197774": {
+      "message": "Objekti"
+   },
+   "7735652872804202135": {
+      "message": "Atskaņot videoklipus manas ierīces valodā, ja iespējams"
+   },
+   "7776630049782874310": {
+      "message": "Kādā ierīcē videoklipi, iespējams, ir lejupielādēti pat trīs kontos vienlaicīgi. Lai lejupielādētu šo videoklipu šeit, noņemiet visas tā lejupielādes no citiem kontiem."
+   },
+   "779039068486648656": {
+      "message": "Jūsu pārlūkprogrammā netiek atbalstītas diagrammas."
+   },
+   "7792182371277036944": {
+      "message": "Skatīties tūlīt"
+   },
+   "7807783089931705706": {
+      "message": "Iepriekš iestatīts"
+   },
+   "7825923098003586011": {
+      "message": "Meroes hieroglifi"
+   },
+   "7835136621565821438": {
+      "message": "Iegravējumu partiešu"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Filma jau ir lejupielādēta šajā ierīcē. Lūdzu, pārbaudiet citus kontus šajā ierīcē."
+   },
+   "7872307517743373476": {
+      "message": "Nederīga apraides sesija. Lūdzu, atsvaidziniet lapu vai vēlāk mēģiniet vēlreiz."
+   },
+   "7873756658795212081": {
+      "message": "Termiņš: $EVAL_1$ dienas",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "Aktieris $ACTOR_NAME$ Play veikalā",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "pēcpusdienā"
+   },
+   "7918520961628671120": {
+      "message": "Piekļuve šim videoklipam ir liegta."
+   },
+   "791855806965154343": {
+      "message": "Bataku"
+   },
+   "7926689704723702466": {
+      "message": "kvadriljons"
+   },
+   "7933902915184371880": {
+      "message": "Kāriešu"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Apturēts. Atlikušais laiks: $EVAL_1$ s.}zero{Apturēts. Atlikušais laiks: $EVAL_2$ s.}one{Apturēts. Atlikušais laiks: $EVAL_2$ s.}other{Apturēts. Atlikušais laiks: $EVAL_2$ s.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Amerikāņu raksti"
+   },
+   "7943286917138037388": {
+      "message": "Vienotājdomuzīme"
+   },
+   "7952530065274028271": {
+      "message": "Skatīt papildinformāciju par pārraides “$WN_SHOW_TITLE$” $WN_EPISODE_NUMBER$. sēriju “$WN_EPISODE_TITLE$”",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "Termiņš: $EVAL_1$ stundas",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamilu"
+   },
+   "7978764644554853286": {
+      "message": "pēc $NUM$ minūtes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Hanu 1 vilkuma saknes"
+   },
+   "7985246120023271230": {
+      "message": "Šī videoklipa nomas termiņš ir beidzies. Lai skatītos videoklipu, lūdzu, to iegādājieties vai iznomājiet vēlreiz."
+   },
+   "7991898653680244970": {
+      "message": "Latīņu 1 pielikums"
+   },
+   "7993302948330451962": {
+      "message": "Birmiešu"
+   },
+   "7993967737532196015": {
+      "message": "Novērtēta ar $VIEWER_RATING$ no 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Vai noņemt lejupielādēto sēriju?"
+   },
+   "8013309308261303688": {
+      "message": "Iegādāties filmas"
+   },
+   "8018308926864382762": {
+      "message": "Sīriešu saīsinājuma zīme"
+   },
+   "802273028390736200": {
+      "message": "BEZSAISTĒ"
+   },
+   "8023737429684265357": {
+      "message": "Pazemināta"
+   },
+   "8039844141475995654": {
+      "message": "pēc $NUM$ minūtēm",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Rūnu"
+   },
+   "8042716985296303990": {
+      "message": "Formāts"
+   },
+   "8042730852758398655": {
+      "message": "Audio valoda"
+   },
+   "8062522779459151420": {
+      "message": "Noņemt formatējumu"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "ID"
+   },
+   "8101733308672950303": {
+      "message": "Subtitri izskatīsies šādi:"
+   },
+   "8132424293432274889": {
+      "message": "Atpakaļ"
+   },
+   "8134822873948566976": {
+      "message": "Vairāk sēriju"
+   },
+   "8153387349716171448": {
+      "message": "Ir sasniegts maksimālais skaits ierīču, kurās var lejupielādēt šo videoklipu. Lai videoklipu atskaņotu šeit, noņemiet to no citas ierīces."
+   },
+   "8161910726112545534": {
+      "message": "Mazā mīnusa zīme"
+   },
+   "8167719451188045081": {
+      "message": "Nulles platuma nesavienotājs"
+   },
+   "8175552949837381315": {
+      "message": "Aizvērt"
+   },
+   "8176183622289427250": {
+      "message": "Atrodiet lielisku filmu Play veikalā un noskatieties to, izmantojot pārlūkprogrammai Chrome paredzēto lietotni “Play filmas un TV”."
+   },
+   "8179636923390390367": {
+      "message": "Mūzikas simbols: slitas beigas"
+   },
+   "8182154803169715176": {
+      "message": "Valūta"
+   },
+   "8188276694329647401": {
+      "message": "miljons(-i)"
+   },
+   "8203155312190167416": {
+      "message": "Saņemt bezmaksas sērijas"
+   },
+   "8204709243856731897": {
+      "message": "Kontā ir sasniegts līgumā noteiktais ierobežojums ierīces atkārtotai aktivizācijai. Ja uzskatāt, ka ir radusies kļūda, lūdzu, sazinieties ar klientu apkalpošanas dienestu."
+   },
+   "8209649773417809069": {
+      "message": "Vienplatuma serifa"
+   },
+   "8223592563721543961": {
+      "message": "Atzīmēšana no labās puses uz kreiso"
+   },
+   "8229110080399300640": {
+      "message": "Līdiešu"
+   },
+   "825047260879284602": {
+      "message": "Ievadiet pielāgotu krāsu, t.i., rozā, #F00, #D015FF vai RGB (100, 50, 25)."
+   },
+   "829017817517555824": {
+      "message": "Osmaņu turku"
+   },
+   "8303685272985764664": {
+      "message": "Lielais kvadrāts"
+   },
+   "8316357291574004120": {
+      "message": "Atskaņošana šajā ierīcē netiek atbalstīta."
+   },
+   "8317092845662281711": {
+      "message": "Audio"
+   },
+   "8317239070847268844": {
+      "message": "triljons(-i)"
+   },
+   "8356754494097778995": {
+      "message": "Iegulšana no labās puses uz kreiso"
+   },
+   "836493064290964717": {
+      "message": "Hanu 7 vilkumu saknes"
+   },
+   "8367205574605681054": {
+      "message": "Sazināties ar mums"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{pēc # stundām}=1{pēc # stundas}zero{pēc # stundām}one{pēc # stundas}other{pēc # stundām}}"
+   },
+   "838631802941302770": {
+      "message": "Kharosti"
+   },
+   "8387836334671661814": {
+      "message": "Parasts"
+   },
+   "8406794425024838870": {
+      "message": "Atskaņot videoklipus oriģinālvalodā, ja iespējams"
+   },
+   "8415457571769345476": {
+      "message": "Gurmuki"
+   },
+   "8432592301984570372": {
+      "message": "Kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Filmas"
+   },
+   "8439955599488894226": {
+      "message": "Konfidencialitātes politika"
+   },
+   "8440105734244130524": {
+      "message": "Ir slēgtie subtitri"
+   },
+   "8440128775129354214": {
+      "message": "Konfidencialitāte"
+   },
+   "8440161680481095392": {
+      "message": "Sorasompeņa"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Rindstarpu anotācijas atdalītājs"
+   },
+   "8468046265986853572": {
+      "message": "Mazā domuzīme"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Rādīt informāciju par aktieriem un dziesmām, kad videoklips ir apturēts"
+   },
+   "8480915536260760621": {
+      "message": "Līniju atdalītājs"
+   },
+   "8483017128806448808": {
+      "message": "Hanu — cits"
+   },
+   "8484953793514450798": {
+      "message": "Nevarēja lejupielādēt šo videoklipu"
+   },
+   "8496572760621552382": {
+      "message": "Vadīklu attēli"
+   },
+   "8504288534013316809": {
+      "message": "Vienmēr izmantot šo lietotni Play filmu un TV satura atskaņošanai šajā ierīcē"
+   },
+   "8533646618757813590": {
+      "message": "Zundu"
+   },
+   "8540686664487399786": {
+      "message": "Imperiālā aramiešu"
+   },
+   "854429928571549912": {
+      "message": "Kannadu"
+   },
+   "8544418813868326219": {
+      "message": "Apakšvirsraksts"
+   },
+   "8561163275403408048": {
+      "message": "Izvēlieties HD vai SD formātu"
+   },
+   "8562537001029340643": {
+      "message": "Vidējā atstarpe"
+   },
+   "8562629041340204805": {
+      "message": "Saraksts ar aizzīmēm"
+   },
+   "8564202903947049539": {
+      "message": "Skatīties"
+   },
+   "8595279472837556966": {
+      "message": "Šo videoklipu nevar atrast."
+   },
+   "8598425882608097102": {
+      "message": "Saurastru"
+   },
+   "8614813208619876018": {
+      "message": "Atvērt šo saiti jaunā logā"
+   },
+   "8620014669054622585": {
+      "message": "Augšraksts"
+   },
+   "8654580154537063858": {
+      "message": "Atdalāmā zīme/savienotājs"
+   },
+   "8683517921317388539": {
+      "message": "Izvērst informācijas kartītes tabulu"
+   },
+   "8686061785869890050": {
+      "message": "Atzīmēšana no kreisās puses uz labo"
+   },
+   "8721105090660343056": {
+      "message": "Samārijas aramiešu"
+   },
+   "8751395052938425392": {
+      "message": "Cits"
+   },
+   "8756624200843285720": {
+      "message": "Parasts/serifa"
+   },
+   "875775686870257693": {
+      "message": "Khmeru patskaņu raksturīgais Aa"
+   },
+   "8784627238941457153": {
+      "message": "No labās uz kreiso"
+   },
+   "8785585428177743106": {
+      "message": "Arābu zīme Safha"
+   },
+   "8788046284717061808": {
+      "message": "Mongoļu pārnesumzīme"
+   },
+   "8815814381380608540": {
+      "message": "Nē"
+   },
+   "8834132438727381257": {
+      "message": "Skatieties augstas izšķirtspējas saturu klēpjdatorā, Chromecast un Roku ierīcēs, kā arī lielākajā daļā Android ierīču. Iegādātais augstas izšķirtspējas saturs tiks atskaņots standarta izšķirtspējā citās ierīcēs. $START_TAG_1$Uzziniet vairāk$END_TAG_1$.",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Balstīts uz ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Tīmekļa adrese"
+   },
+   "8894457765459513654": {
+      "message": "Ievietot saiti"
+   },
+   "8917983075453481180": {
+      "message": "Attēlojuma formāts vertikālai vienotājdomuzīmei"
+   },
+   "8919720204772722134": {
+      "message": "Parādāmais teksts:"
+   },
+   "8921884278179224689": {
+      "message": "Google Play pakalpojumu sniegšanas noteikumiem"
+   },
+   "8924156420198940653": {
+      "message": "Šodien"
+   },
+   "892438729140054354": {
+      "message": "Glagolica"
+   },
+   "893068498689091913": {
+      "message": "SD: $BUY_SD_PRICE$",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malajalu"
+   },
+   "8945516772470397544": {
+      "message": "Ivrits"
+   },
+   "8975694361063929758": {
+      "message": "Notiek lejupielādes atcelšana..."
+   },
+   "900213554674035877": {
+      "message": "Brīdinājums: neatbalstīta platforma"
+   },
+   "9003255502339267646": {
+      "message": "Senturku"
+   },
+   "9006212563579865934": {
+      "message": "Radās īslaicīga servera kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "9007600562969287199": {
+      "message": "Atcelt"
+   },
+   "9009756347438736077": {
+      "message": "Emocijzīmes"
+   },
+   "9039190587572892203": {
+      "message": "Atvērts dialoglodziņš Atsauksmes."
+   },
+   "9058407001544582930": {
+      "message": "Braila raksts"
+   },
+   "9082286440748444032": {
+      "message": "Līdzināt pa labi"
+   },
+   "9119571405974007627": {
+      "message": "Noklikšķiniet, lai pārietu uz pilnekrāna režīmu."
+   },
+   "9129936585862826417": {
+      "message": "Katakana-hiragana dubultā defise"
+   },
+   "9133561684694194118": {
+      "message": "Hanu 8 vilkumu saknes"
+   },
+   "9140663398525770181": {
+      "message": "pirms $NUM$ dienām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ sērijas",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Senitāļu"
+   },
+   "9157868620634436826": {
+      "message": "Sūtīt Google serveriem anonīmu lietojuma statistiku no lietotnes “Play filmas un TV” šajā ierīcē"
+   },
+   "9169327677828809572": {
+      "message": "Pasvītrojums"
+   },
+   "9187708289836789739": {
+      "message": "Dzimums un ģenealoģija"
+   },
+   "9191795572559844778": {
+      "message": "Latīņu"
+   },
+   "9199894931939214644": {
+      "message": "Atskaņošana tika pārtraukta, jo tiek atskaņots pārāk daudz vienam kontam piederošu videoklipu. Lūdzu, pārtrauciet dažu videoklipu atskaņošanu un mēģiniet vēlreiz."
+   },
+   "936850558951011636": {
+      "message": "pēc $NUM$ dienām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "triljons"
+   },
+   "964943437084290735": {
+      "message": "Trešdaļa no lielās atstarpes"
+   },
+   "968485661339291047": {
+      "message": "Termiņš: 1 diena"
+   },
+   "969796838380220069": {
+      "message": "Pieturzīmes"
+   },
+   "992901664798536243": {
+      "message": "Heksadecimāla ievade"
+   },
+   "996885966963281379": {
+      "message": "Ignorēšana no kreisās puses uz labo"
+   },
+   "998767118090785897": {
+      "message": "pēc $NUM$ stundas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

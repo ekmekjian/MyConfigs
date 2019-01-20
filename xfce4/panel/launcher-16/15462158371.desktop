@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Overwatch
+Icon=lutris_overwatch
+Exec=lutris lutris:rungameid/1
+Categories=Game
+X-XFCE-Source=file:///home/black/.local/share/applications/overwatch-1.desktop

@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Punkteret/stiplet"
+   },
+   "1070809808108857931": {
+      "message": "For $NUM$ minut siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Opret et link til en side eller fil et andet sted på internettet"
+   },
+   "1102310712956565239": {
+      "message": "Open source-licenser"
+   },
+   "1130652265542107236": {
+      "message": "Alder"
+   },
+   "1134649645976473070": {
+      "message": "Arabisk tal"
+   },
+   "1142417372321533593": {
+      "message": "Han-ordstammer med 11-17 strøg"
+   },
+   "1147656502873524992": {
+      "message": "Bengali"
+   },
+   "1163524414906063407": {
+      "message": "Bølgestreg"
+   },
+   "1180214318241646187": {
+      "message": "Devanagari"
+   },
+   "1201655285096694629": {
+      "message": "Tilføj en betalingsmetode for at gennemføre dit køb."
+   },
+   "1208097920246951223": {
+      "message": "Yi"
+   },
+   "12190752990595538": {
+      "message": "Ensartet"
+   },
+   "1237413374221837088": {
+      "message": "Afspilningen blev standset, fordi denne video afspilles på en anden enhed. Afspil videoen igen, når afspilningen på den anden enhed er standset."
+   },
+   "123775052533814018": {
+      "message": "Georgisk"
+   },
+   "1257931524938240638": {
+      "message": "Se"
+   },
+   "1297025664516669951": {
+      "message": "B"
+   },
+   "1305766628630415604": {
+      "message": "Vejr, landskaber og stjernetegn"
+   },
+   "1310971928430788285": {
+      "message": "Arabisk tegn, sanah"
+   },
+   "1347269818800657320": {
+      "message": "1 afsnit"
+   },
+   "1358234736811100710": {
+      "message": "Gujarati"
+   },
+   "1361445704105826758": {
+      "message": "Ultratyndt mellemrum"
+   },
+   "1364333963472303494": {
+      "message": "udløber om $EVAL_1$ minutter",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Gennemstregning"
+   },
+   "1368767014310906187": {
+      "message": "Flere oplysninger"
+   },
+   "1386128393601544077": {
+      "message": "Downloades til offlineafspilning..."
+   },
+   "1394022802077775553": {
+      "message": "Lille"
+   },
+   "1408430211331783844": {
+      "message": "Han-ordstammer med 10 strøg"
+   },
+   "140933529008432611": {
+      "message": "Fuld skærm"
+   },
+   "1410700625120387041": {
+      "message": "Siden er opdateret."
+   },
+   "1411272293021752124": {
+      "message": "Når din enhed er online igen, synkroniseres din aktivitet i Play Film og tv. Du kan herefter se dette afsnit på en anden enhed."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "Der er brugt for mange enheder/IP-adresser i løbet af de seneste 24 timer. Benyt en af de tidligere anvendte enheder, eller prøv igen senere."
+   },
+   "1430062769418326205": {
+      "message": "Takri"
+   },
+   "1440735285675788071": {
+      "message": "Dyr, planter og mad"
+   },
+   "1446182608983200385": {
+      "message": "Se den på storskærmen"
+   },
+   "1452953224047775588": {
+      "message": "Der opstod en serverfejl. Prøv igen senere."
+   },
+   "1464429406563501593": {
+      "message": "$PRICE_BUY$ Køb",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Ugaritisk"
+   },
+   "1511375217423134113": {
+      "message": "Lille mellemrum"
+   },
+   "1538935182784871964": {
+      "message": "Ingen"
+   },
+   "1550882703360589242": {
+      "message": "Overskrift"
+   },
+   "1569384361123250083": {
+      "message": "Smalt hårdt mellemrum"
+   },
+   "1569694034972476152": {
+      "message": "Tilføj et betalingskort"
+   },
+   "1574702217174092165": {
+      "message": "Lepcha"
+   },
+   "1577035400209415987": {
+      "message": "Sport, fester og aktiviteter"
+   },
+   "1578936298060149953": {
+      "message": "Der er downloadet for mange film på enheden. Du skal fjerne nogle af disse film. Hvis du mener, at der er opstået en fejl, kan du kontakte kundeservice."
+   },
+   "1585399878613556769": {
+      "message": "Mandeisk"
+   },
+   "1622977981214364224": {
+      "message": "Værdi"
+   },
+   "1624496666386832541": {
+      "message": "Mennesker og følelser"
+   },
+   "163585285607136383": {
+      "message": "Mellemrum"
+   },
+   "1659260306743134961": {
+      "message": "Afspiller på $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Vigtige oplysninger om filmleje"
+   },
+   "167137904963051280": {
+      "message": "Luk"
+   },
+   "1672514695079052416": {
+      "message": "Denne video er ikke tilgængelig i øjeblikket på grund af usædvanlig kontoaktivitet."
+   },
+   "1689687103490595695": {
+      "message": "Play Film"
+   },
+   "1693658896006835421": {
+      "message": "Combining Grapheme Joiner"
+   },
+   "1695785777963864871": {
+      "message": "Gå til link: "
+   },
+   "1705348214738149530": {
+      "message": "udløber om ét minut"
+   },
+   "1719824778219074772": {
+      "message": "Khmerisk"
+   },
+   "1730622041976529093": {
+      "message": "1/6 langt mellemrum"
+   },
+   "175470934010823676": {
+      "message": "Nummereret liste"
+   },
+   "17841002962364046": {
+      "message": "Annuller fortryd"
+   },
+   "1790234586531719509": {
+      "message": "Køb"
+   },
+   "1792545992204167651": {
+      "message": "Han-ordstammer med 4 strøg"
+   },
+   "179542577867490020": {
+      "message": "Ugyldig e-mailadresse"
+   },
+   "180976998764453681": {
+      "message": "Download i HD eller SD"
+   },
+   "1814369088251817607": {
+      "message": "Brøktegn"
+   },
+   "1828658977714723982": {
+      "message": "Spilbrikker"
+   },
+   "1830872643153553266": {
+      "message": "Se oplysninger om $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Sinhala"
+   },
+   "1846295350891951774": {
+      "message": "Find alle dine foretrukne tv-udsendelser i Play Butik – og læn dig så bare tilbage, og nyd dem ved hjælp af Chrome-appen Play Film og TV."
+   },
+   "1855549404303496723": {
+      "message": "udløber om én time"
+   },
+   "1877803725479774313": {
+      "message": "Afspilning understøttes ikke på denne enhed."
+   },
+   "1890638601494854916": {
+      "message": "Milliard"
+   },
+   "1901872524864997402": {
+      "message": "Luk"
+   },
+   "1905843731663924055": {
+      "message": "om $NUM$ timer",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Købsaftalen blev ikke fundet."
+   },
+   "1935128618068091278": {
+      "message": "Etiopisk"
+   },
+   "1938219414696116874": {
+      "message": "Det er ikke muligt at trække og slippe billedfiler på nuværende tidspunkt.\nTræk et billede fra din webbrowser."
+   },
+   "1954151364415665795": {
+      "message": "Hangul"
+   },
+   "1977431342799515224": {
+      "message": "Afspilningen blev standset, fordi denne video afspilles på en anden enhed. Afspil videoen igen, når afspilningen på den anden enhed er standset."
+   },
+   "2029980907058777630": {
+      "message": "Servicevilkår"
+   },
+   "2044442466969080056": {
+      "message": "Decimaltal"
+   },
+   "2047343614481498061": {
+      "message": "Tilføj en farve"
+   },
+   "2072847589626610105": {
+      "message": "Lej den"
+   },
+   "2092212617914314411": {
+      "message": "Du er offline. Opret forbindelse igen for at streame din yndlingsfilm og dine foretrukne tv-udsendelser."
+   },
+   "2101164867731291209": {
+      "message": "Kayah Li"
+   },
+   "2113719628962111778": {
+      "message": "Arabisk fodnotemarkør"
+   },
+   "2114961653707808791": {
+      "message": "Der mangler en påkrævet komponent. Gå til chrome://components i en anden browserfane, klik på knappen \"Søg efter opdatering\" for at finde WidevineCdm-komponenten, og genstart browseren, når du ser statussen \"Komponenten er opdateret\"."
+   },
+   "2118949532496601536": {
+      "message": "Casual"
+   },
+   "2123474539731286604": {
+      "message": "Opdater"
+   },
+   "2124380732103580135": {
+      "message": "Filmen er allerede blevet stoppet."
+   },
+   "2131073272476560470": {
+      "message": "Denne videoudlejning er udløbet. Hvis du vil se den, skal du købe den eller leje den igen."
+   },
+   "2149182740887046022": {
+      "message": "Variantvælger – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Vi har problemer med at afspille denne video lige nu. Prøv igen senere."
+   },
+   "2194774716002570022": {
+      "message": "Interlinear Annotation Terminator"
+   },
+   "2206769964843652278": {
+      "message": "Gotisk"
+   },
+   "22109057671064768": {
+      "message": "Afspiller på $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonetik (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Lang tankestreg"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Afspil $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Størrelse"
+   },
+   "2285569294581055781": {
+      "message": "Tegnsætningsmellemrum"
+   },
+   "230507365422499768": {
+      "message": "Ol chiki"
+   },
+   "2325815383560299041": {
+      "message": "Tv-udsendelser"
+   },
+   "2358744432156444454": {
+      "message": "Telugu"
+   },
+   "2370311583523472863": {
+      "message": "Bio."
+   },
+   "2378154636827917381": {
+      "message": "Vælg betalingsmetode"
+   },
+   "2398583048519934048": {
+      "message": "Der opstod en fejl. Prøv igen."
+   },
+   "2404545964673636424": {
+      "message": "Omsluttet"
+   },
+   "2416235035434522626": {
+      "message": "Dette videokøb er blevet refunderet. Hvis du vil se videoen, skal du købe eller leje den igen."
+   },
+   "2458370016363828146": {
+      "message": "Link til en e-mailadresse"
+   },
+   "2469139219925930348": {
+      "message": "Vejr og astrologi"
+   },
+   "2484918978489875840": {
+      "message": "Arabisk"
+   },
+   "2500940977211244160": {
+      "message": "Chromecast giver dig mulighed for at se de film og tv-udsendelser, du bedst kan lide, på storskærmen."
+   },
+   "2510334389873855577": {
+      "message": "Sydasiatiske skrifter"
+   },
+   "2524488082161774200": {
+      "message": "Tibetansk"
+   },
+   "2556195906496703534": {
+      "message": "Bindestreg"
+   },
+   "2567552453606568838": {
+      "message": "For $NUM$ time siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Sænket skrift"
+   },
+   "2596943043266694861": {
+      "message": "Denne video blev ikke fundet."
+   },
+   "2602773901491715295": {
+      "message": "Undertekster"
+   },
+   "2609303773462214063": {
+      "message": "Filmen kan ikke downloades, fordi ejeren af ophavsretten forbyder offlinevisning."
+   },
+   "2617084065793155411": {
+      "message": "Halvgeviert"
+   },
+   "2623430506770319716": {
+      "message": "Kundeservice har nulstillet din konto for mange gange i år."
+   },
+   "2624723575430661735": {
+      "message": "Version $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Din lejefilm $MOVIE_TITLE$ $LONG_EXPIRATION_MESSAGE$. Den $SHORT_EXPIRATION_MESSAGE$ efter påbegyndt afspilning.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Få hjælp"
+   },
+   "2634032400851497621": {
+      "message": "Meget stor"
+   },
+   "2636578811345390596": {
+      "message": "Et diagram."
+   },
+   "265418312065535093": {
+      "message": "Monospaced sans serif"
+   },
+   "2669412054237461578": {
+      "message": "Køb $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Ideografisk mellemrum"
+   },
+   "267152712329867450": {
+      "message": "Historisk"
+   },
+   "2676989239174849130": {
+      "message": "Køb kan downloades på op til fem enheder samtidig. Hvis du vil downloade videoen på denne enhed, skal du fjerne alle downloads fra en anden enhed."
+   },
+   "2694197056256485674": {
+      "message": "am"
+   },
+   "2696605111162327790": {
+      "message": "Musical Symbol Begin Slur"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Om Google Play Film"
+   },
+   "2725131744113020753": {
+      "message": "Cast-sessionen er udløbet. Afbryd forbindelsen, og prøv igen."
+   },
+   "2726210069762481377": {
+      "message": "$VOLUME_LEVEL$ % lydstyrke",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Arbejder stadig..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, når dette er tilgængeligt",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "I går"
+   },
+   "2778320704487179651": {
+      "message": "Oldsydarabisk"
+   },
+   "2811578318938008571": {
+      "message": "Bindestreg med diæresis"
+   },
+   "2823408948793387406": {
+      "message": "Gul tekst på sort baggrund"
+   },
+   "2843666691789766965": {
+      "message": "Symboler"
+   },
+   "285220876417404298": {
+      "message": "Skift"
+   },
+   "2866884137027183397": {
+      "message": "Open source-licenser"
+   },
+   "287293401853426183": {
+      "message": "Langt mellemrum"
+   },
+   "2873226479878121265": {
+      "message": "Født"
+   },
+   "2873450949697555837": {
+      "message": "Hent tv-afsnit"
+   },
+   "2874298691560753701": {
+      "message": "Billiard"
+   },
+   "2874903004453257636": {
+      "message": "Tai le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{For # minutter siden}=1{For # minut siden}one{For # minutter siden}other{For # minutter siden}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Vis oplysninger$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Komponenter$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Fejlkode$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Meddelelse$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Attributter$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Mellemrum"
+   },
+   "2972646465175951960": {
+      "message": "Hex-farve"
+   },
+   "2976070904514926378": {
+      "message": "Når din enhed er online igen, synkroniseres din aktivitet i Play Film og tv. Du kan herefter se denne film på en anden enhed."
+   },
+   "299212393546620995": {
+      "message": "Tilgængelig ved køb af SD- eller HD-videoer"
+   },
+   "3001599311394934937": {
+      "message": "Farve"
+   },
+   "3024031615064271409": {
+      "message": "Usynlige klokkeslæt"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Geometriske figurer"
+   },
+   "3076131322444154485": {
+      "message": "Musical"
+   },
+   "3082451864182626107": {
+      "message": "Lille"
+   },
+   "3082728000817887688": {
+      "message": "Opret forbindelse"
+   },
+   "3090277567861361522": {
+      "message": "Musical Symbol End Tie"
+   },
+   "3090955389577626836": {
+      "message": "Præsentationsform for lang lodret tankestreg"
+   },
+   "3139446734703149686": {
+      "message": "Blandet"
+   },
+   "3145479901031711697": {
+      "message": "Stavekontrol"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "Den DRM-systemspecifikke meddelelse er ugyldig."
+   },
+   "3151300615969236340": {
+      "message": "Forsidebillede for $WN_SHOW_TITLE$, afsnit $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Ideografisk beskrivelse"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}one{{TEXT} dage}other{{TEXT} dage}}"
+   },
+   "3194384156250789686": {
+      "message": "Afrikanske skrifter"
+   },
+   "3201110180818098584": {
+      "message": "Cham"
+   },
+   "3207692705529645309": {
+      "message": "Usynlig separator"
+   },
+   "321244849474197695": {
+      "message": "I morgen"
+   },
+   "3229124980345092092": {
+      "message": "Mellemrum uden bredde"
+   },
+   "322985691330688230": {
+      "message": "Din søgning gav ingen resultater."
+   },
+   "3230391931526221675": {
+      "message": "Format"
+   },
+   "3232820577716196711": {
+      "message": "Indsæt billede"
+   },
+   "3243505317143754724": {
+      "message": "Tilpasset"
+   },
+   "3243750297590914955": {
+      "message": "Khmer Vowel Inherent Aq"
+   },
+   "3247076985979796797": {
+      "message": "Græsk"
+   },
+   "3251309750789560433": {
+      "message": "Armensk bindestreg"
+   },
+   "3254567788720420543": {
+      "message": "."
+   },
+   "3256010424127814333": {
+      "message": "Musical Symbol Begin Tie"
+   },
+   "3256903505595292698": {
+      "message": "Formindsk indrykning"
+   },
+   "3265250603400790440": {
+      "message": "Kom godt i gang"
+   },
+   "3281239119456770372": {
+      "message": "Kyrillisk"
+   },
+   "3289148576120895160": {
+      "message": "Kapitæler"
+   },
+   "3294214489713824609": {
+      "message": "Han-ordstammer med 5 strøg"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Fejlkode: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Tekstfarve"
+   },
+   "332000134635733746": {
+      "message": "Omfatter"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ minutter",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Cypriotisk"
+   },
+   "3336445884996834318": {
+      "message": "Videolicensen kan ikke downloades. Prøv igen senere."
+   },
+   "3347761840855731301": {
+      "message": "Cast-sessionen er ikke tilgængelig. Opdater, eller prøv igen senere."
+   },
+   "3351553150964917854": {
+      "message": "Variantvælger"
+   },
+   "3355166016320182029": {
+      "message": "Licensen for denne video kunne ikke hentes. Prøv igen senere."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Anker for interlineær annotering"
+   },
+   "3415775657739029002": {
+      "message": "Figurmellemrum"
+   },
+   "3427321493644124084": {
+      "message": "Stjerner"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Søg efter \"$ACTOR_NAME$\"",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematik"
+   },
+   "3496221549802542517": {
+      "message": "Meget lille"
+   },
+   "3499317959717425890": {
+      "message": "Fortryd"
+   },
+   "3500807335769892741": {
+      "message": "Ordsammenkædning"
+   },
+   "3508852687023675805": {
+      "message": "For $NUM$ minutter siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normal"
+   },
+   "3540495086170177505": {
+      "message": "Køb tv-udsendelser"
+   },
+   "3546034467178790154": {
+      "message": "Sænket skrift"
+   },
+   "355565230200681214": {
+      "message": "Bindestreg/minus i fuld bredde"
+   },
+   "3560179919548880444": {
+      "message": "Baggrundsfarve"
+   },
+   "3593213843486034190": {
+      "message": "Format"
+   },
+   "3596415344748536540": {
+      "message": "Bamum"
+   },
+   "3599005616661192177": {
+      "message": "Fra"
+   },
+   "3600868534694594413": {
+      "message": "Billede"
+   },
+   "3614370613824040896": {
+      "message": "Denne video er blevet downloadet til det maksimale antal enheder. Hvis du vil afspille eller downloade den her, skal du fjerne den fra en anden enhed."
+   },
+   "3614813368690293135": {
+      "message": "Hebræisk tegnsætning, maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Integrering fra venstre mod højre"
+   },
+   "3650983100916004596": {
+      "message": "Milliard"
+   },
+   "3652059248591982819": {
+      "message": "Han-ordstammer med 3 strøg"
+   },
+   "3652469401274752477": {
+      "message": "Øg indrykning"
+   },
+   "3653098733292921132": {
+      "message": "Bia."
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Der opstod en fejl under aktiveringen af din lejefilm. Opdater, eller prøv igen senere."
+   },
+   "3709540316929878378": {
+      "message": "Produceret af"
+   },
+   "3721275173574409786": {
+      "message": "Forudbestilte"
+   },
+   "3722812838665571404": {
+      "message": "Købt"
+   },
+   "3728552702457015750": {
+      "message": "Køb kan downloades på op til fem enheder samtidig. Hvis du vil downloade videoen på denne enhed, skal du fjerne alle downloads fra en anden enhed."
+   },
+   "3752083240065277436": {
+      "message": "Oriya"
+   },
+   "3808754582975714579": {
+      "message": "Denne video er blevet downloadet på det maksimale antal enheder. Hvis du vil afspille den her, skal du fjerne den fra en anden enhed."
+   },
+   "3815693850657578096": {
+      "message": "Sharada"
+   },
+   "3826397878188995605": {
+      "message": "Du kan se filmen her eller på understøttede telefoner og tablets."
+   },
+   "3831022207582977943": {
+      "message": "Musical Symbol End Phrase"
+   },
+   "3846565521051999754": {
+      "message": "Der er downloadet for mange film på enheden. Du skal fjerne nogle af disse film. Hvis du mener, at der er opstået en fejl, kan du kontakte kundeservice."
+   },
+   "3878153116309225131": {
+      "message": "Hvilken webadresse skal dette link føre hen til?"
+   },
+   "3878202445977233728": {
+      "message": "Foretræk lyd i høj kvalitet, når du downloader film eller afsnit til offlineafspilning."
+   },
+   "3890590273177043325": {
+      "message": "Tilføj attributten \"$REL_NO_FOLLOW$\" ($LINK_START$Få flere oplysninger$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javanesisk"
+   },
+   "397098723873502323": {
+      "message": "Udført"
+   },
+   "3990377875754602116": {
+      "message": "Han-ordstammer med 6 strøg"
+   },
+   "3992132733680288700": {
+      "message": "Tai tham"
+   },
+   "4001637111049313831": {
+      "message": "Har 5.1-lyd"
+   },
+   "4002348975328837413": {
+      "message": "Afspil"
+   },
+   "4005427126456357141": {
+      "message": "For $NUM$ dag siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "$PRICE_RENT$ Leje",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Kursiv"
+   },
+   "4023151405827971137": {
+      "message": "Din computer har ikke nok plads til at downloade denne video. Frigør plads, og prøv igen."
+   },
+   "4024812820054201230": {
+      "message": "Fonetik (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Medvirkende"
+   },
+   "4050502316465597694": {
+      "message": "Syloti Nagri"
+   },
+   "406627050327127223": {
+      "message": "Indstillinger for download"
+   },
+   "4068597226649219969": {
+      "message": "Videoen i Cast-sessionen svarer ikke til den ønskede enhed."
+   },
+   "409370207508422421": {
+      "message": "Mine tv-udsendelser"
+   },
+   "4115063437096532185": {
+      "message": "CJK-strøg"
+   },
+   "4146453603518633252": {
+      "message": "De film, du lejer eller køber i Play Butik, vises her."
+   },
+   "4147180678866875282": {
+      "message": "Sæson $SEASON_NUMBER$",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Egyptiske hieroglyffer"
+   },
+   "4165304946050965012": {
+      "message": "Inkl. skat ($PURCHASE_TAX$)",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Gul tekst på blå baggrund"
+   },
+   "4171449911657770848": {
+      "message": "Forenklet tai lue"
+   },
+   "4181834061497947522": {
+      "message": "FEJL: \"$COLOR$\" er ikke en gyldig farve.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Sæt på pause"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "Mio."
+   },
+   "4241565389203750613": {
+      "message": "Modificerende bogstav"
+   },
+   "4242947662880926847": {
+      "message": "Miao"
+   },
+   "4258500568871377211": {
+      "message": "OK, det er forstået"
+   },
+   "4289161867449641226": {
+      "message": "Vil du fjerne denne downloadede film?"
+   },
+   "4326728310335009890": {
+      "message": "Tai viet"
+   },
+   "4327117004280518691": {
+      "message": "Shaw'sk"
+   },
+   "4327135909829829353": {
+      "message": "Armensk"
+   },
+   "4327389288032644198": {
+      "message": "Chakma"
+   },
+   "4330118138352331494": {
+      "message": "Musical Symbol Begin Beam"
+   },
+   "4365544241082610712": {
+      "message": "Videoens originalsprog"
+   },
+   "4389982170398859731": {
+      "message": "Almindelig"
+   },
+   "4414892686324469274": {
+      "message": "Lydspor"
+   },
+   "4430021444843507791": {
+      "message": "Anvendelse af funktion"
+   },
+   "4464935242536677493": {
+      "message": "Hvilken sang er dette?"
+   },
+   "447254005463967829": {
+      "message": "Parret"
+   },
+   "4489533087577236543": {
+      "message": "Lige gået glip af"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{For # timer siden}=1{For # time siden}one{For # timer siden}other{For # timer siden}}"
+   },
+   "4516988402150653150": {
+      "message": "Der mangler en påkrævet komponent. Gå til chrome://components i en anden browserfane, klik på knappen \"Søg efter opdatering\" for at finde WidevineCdm-komponenten, og genstart browseren, når du ser statussen \"Komponenten er opdateret\"."
+   },
+   "4524440614927500782": {
+      "message": "Proportional sans serif"
+   },
+   "4530344539930689918": {
+      "message": "Ogam mellemrumstegn"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Søg"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ x $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Lej den"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{om # minutter}=1{om # minut}one{om # minutter}other{om # minutter}}"
+   },
+   "463873241822657784": {
+      "message": "Bølgestreg"
+   },
+   "464267706146568699": {
+      "message": "Laotisk"
+   },
+   "4654657327320140306": {
+      "message": "Hævet skrift"
+   },
+   "4658723167166809016": {
+      "message": "Mellemlangt matematisk mellemrum"
+   },
+   "4661634374225039228": {
+      "message": "Afsnitsseparator"
+   },
+   "467915794683941071": {
+      "message": "Afspil afsnit $EPISODE_NUMBER$, $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongolsk"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{For # dage siden}=1{For # dag siden}one{For # dage siden}other{For # dage siden}}"
+   },
+   "4712209269320332893": {
+      "message": "Ekstramateriale"
+   },
+   "4716710616284048819": {
+      "message": "En tabeloversigt over dataene i diagrammet."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}one{{TEXT} minutter}other{{TEXT} minutter}}"
+   },
+   "4725762888646270913": {
+      "message": "Afspil $WN_SHOW_TITLE$, afsnit $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Dobbelt skråstreg"
+   },
+   "4762347778259393153": {
+      "message": "Mindre almindelige"
+   },
+   "4800386880747162133": {
+      "message": "Der opstod en midlertidig serverfejl. Prøv igen senere."
+   },
+   "4822858567120963779": {
+      "message": "Søgeresultater for \"$SEARCH_QUERY$\"",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Denne video er blevet downloadet til det maksimale antal enheder. Hvis du vil afspille eller downloade den her, skal du fjerne den fra en anden enhed."
+   },
+   "48271036515889672": {
+      "message": "Ugyldig Cast-session. Opdater, eller prøv igen senere."
+   },
+   "4831214862800127209": {
+      "message": "Videoen i Cast-sessionen svarer ikke til den, der blev anmodet om."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min.",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogam"
+   },
+   "4871903967361312376": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "4875958436183735304": {
+      "message": "Højre dropskygge"
+   },
+   "4906346168276586100": {
+      "message": "Den DRM-systemspecifikke meddelelse er ugyldig."
+   },
+   "491995769371858733": {
+      "message": "Ingen"
+   },
+   "4920312719509022176": {
+      "message": "Skrifttype"
+   },
+   "4930506384627295710": {
+      "message": "Indstillinger"
+   },
+   "4933409796062109057": {
+      "message": "$DOWNLOAD_PROGRESS$ % er downloadet. Klik for at annullere.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Hangul-fyldtegn"
+   },
+   "4950037820737346052": {
+      "message": "Hangul fyldtegn i halv bredde"
+   },
+   "4968001688305770755": {
+      "message": "Ved at klikke på \"$OFFER_TYPE$\" accepterer du",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Link til:"
+   },
+   "500501967044040199": {
+      "message": "Elementer"
+   },
+   "5011669227045570891": {
+      "message": "Vandret bjælke"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Der må være op til tre konti med downloadede videoer på samme tid på en given enhed. Hvis du vil downloade videoen her, skal du fjerne alle downloads fra en anden konto."
+   },
+   "5048838621444724614": {
+      "message": "Denne video er blevet downloadet på det maksimale antal enheder. Hvis du vil downloade den her, skal du fjerne den fra en anden enhed."
+   },
+   "5056334923803362149": {
+      "message": "Adgangen til denne video er forbudt."
+   },
+   "5057747709360994470": {
+      "message": "Million"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Hangul Jungseong-fyldtegn"
+   },
+   "5089553823126293996": {
+      "message": "Annuller"
+   },
+   "5135948647887912891": {
+      "message": "$ASSET_TITLE$ er føjet til din samling.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Mellemrumssammenkædning uden bredde"
+   },
+   "5145175165902220114": {
+      "message": "Canadisk syllabisk bindestreg"
+   },
+   "5161805074897471162": {
+      "message": "Chrome-appen Google Play Film understøttes ikke i Windows XP eller ældre versioner. Prøv igen med Windows Vista eller nyere, Mac, Linux eller Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "Tifinagh"
+   },
+   "5176392387315400391": {
+      "message": "Ingen data"
+   },
+   "5179659870501454485": {
+      "message": "Tilføj en betalingsmetode"
+   },
+   "5184276027321226501": {
+      "message": "E-mailadresse"
+   },
+   "5194883651451379462": {
+      "message": "Køb"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Feedback til Play Film"
+   },
+   "5209758796360312502": {
+      "message": "Kileskrift"
+   },
+   "5216466426869773105": {
+      "message": "Pahlavi-inskriptioner"
+   },
+   "522508588411648848": {
+      "message": "Se $STORE_LINK_TITLE$ i Play Butik.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Musical Symbol Begin Phrase"
+   },
+   "524096672349210886": {
+      "message": "Transport og kort"
+   },
+   "5241676005655672226": {
+      "message": "Han-ordstammer med 9 strøg"
+   },
+   "5241820237010230531": {
+      "message": "Vai"
+   },
+   "5252668631265690404": {
+      "message": "Andet"
+   },
+   "52534048856251312": {
+      "message": "Send feedback"
+   },
+   "5255871588113212604": {
+      "message": "Ingen forslag"
+   },
+   "5261311595095150702": {
+      "message": "Musical Symbol End Slur"
+   },
+   "5261596970471311774": {
+      "message": "Stor"
+   },
+   "5281671802836592116": {
+      "message": "Proportional serif"
+   },
+   "5293326322671103002": {
+      "message": "Indlæser på $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Du har set $CURRENT_TIME$ af $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Hanunoo"
+   },
+   "5438255274292242922": {
+      "message": "Teknik"
+   },
+   "5439710597412767794": {
+      "message": "Denne video er blevet downloadet på det maksimale antal enheder. Hvis du vil downloade den her, skal du fjerne den fra en anden enhed."
+   },
+   "545021630455133011": {
+      "message": "Koptisk"
+   },
+   "5461901018141989680": {
+      "message": "Arabisk Ayah-slutning"
+   },
+   "5484073037133610477": {
+      "message": "Buginesisk"
+   },
+   "5490715514416345531": {
+      "message": "Hvid tekst på sort baggrund"
+   },
+   "54946385235790268": {
+      "message": "Filmen kan ikke fjernes på grund af en systemfejl. Kontakt kundeservice, eller send feedback via indstillingsmenuen."
+   },
+   "5496646217073800560": {
+      "message": "Tal"
+   },
+   "5505627655067167147": {
+      "message": "Hvilken e-mailadresse skal dette link føre hen til?"
+   },
+   "5515365680802763380": {
+      "message": "Afspilningen blev standset, fordi denne video er blevet afspillet på for mange enheder. Vent 24 timer, før du afspiller denne video igen."
+   },
+   "5527963094685167949": {
+      "message": "Vi har problemer med at afspille denne video lige nu. Prøv at opdatere denne side."
+   },
+   "5548738790581121863": {
+      "message": "Kontoen har nået den aftalte grænse for, hvor hurtig enheden må deaktiveres. Hvis du mener, at dette er en fejl, skal du kontakte kundeservice."
+   },
+   "556303983072423917": {
+      "message": "Filmen kan ikke downloades, fordi ejeren af ​​ophavsretten forbyder offlinevisning."
+   },
+   "5568872195580328526": {
+      "message": "Forbundet til $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Sat på pause."
+   },
+   "5625642025808759710": {
+      "message": "Sydøstasiatiske skrifter"
+   },
+   "5649689590162845077": {
+      "message": "Udvid eller skjul beskrivelsen"
+   },
+   "568365569990952204": {
+      "message": "Indlæser..."
+   },
+   "5690743679710570538": {
+      "message": "Fortsæt"
+   },
+   "5699299130874036286": {
+      "message": "Gennemført"
+   },
+   "5701676109334495247": {
+      "message": "Dette videokøb er blevet refunderet. Hvis du vil se videoen, skal du købe eller leje den igen."
+   },
+   "5739753659630714071": {
+      "message": "Tekstens baggrundsfarve"
+   },
+   "5740091738966096065": {
+      "message": "Du har i øjeblikket intet downloadet indhold til offlinebrug. Gå online, og download noget indhold fra din samling til offlineafspilning."
+   },
+   "57403663622654391": {
+      "message": "Lager"
+   },
+   "5758941098755146708": {
+      "message": "Tilføj eller fjern link"
+   },
+   "5765285425521589331": {
+      "message": "Transport, Kort og skiltning"
+   },
+   "5773223913514548808": {
+      "message": "Der opstod en fejl under forsøg på at logge ind på din konto. Kontrollér, at du er logget ind på Chrome ved at gå til chrome://chrome-signin/, og prøv derefter at genstarte appen."
+   },
+   "5793916253768843563": {
+      "message": "Det billede, du forsøger at trække, er blokeret af hostwebsitet."
+   },
+   "5818819286276765821": {
+      "message": "Buhid"
+   },
+   "5823773924892832157": {
+      "message": "Blanktegn"
+   },
+   "5831261098398725527": {
+      "message": "Citat"
+   },
+   "5843775533846981999": {
+      "message": "Se film fra Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Sat på pause. $EVAL_1$ min. tilbage.}one{Sat på pause. $EVAL_2$ min. tilbage.}other{Sat på pause. $EVAL_2$ min. tilbage.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Forsidebillede af $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Rediger HTML-kilde"
+   },
+   "5884014452536244885": {
+      "message": "Se gratis tv-afsnit"
+   },
+   "5889420664241962721": {
+      "message": "Chrome-appen Google Play Film understøttes kun i Chrome 34 eller nyere. Sørg for, at Chrome er fuldt opdateret."
+   },
+   "5891242694179659653": {
+      "message": "Afprøv dette link"
+   },
+   "5911102149852781948": {
+      "message": "Pop Directional Formatting"
+   },
+   "5924149156142134621": {
+      "message": "Serveren kan ikke acceptere rodcertifikatet, der anvendes i kommunikationen. Prøv igen senere."
+   },
+   "592520084270766310": {
+      "message": "Thai"
+   },
+   "5931872839329863827": {
+      "message": "Sort tekst på hvid baggrund"
+   },
+   "593622950044400136": {
+      "message": "Normal"
+   },
+   "5961302828987058223": {
+      "message": "Pile"
+   },
+   "5970051322674660677": {
+      "message": "Cast-sessionen er udløbet. Afbryd forbindelsen, og prøv igen."
+   },
+   "5984875596889567804": {
+      "message": "Filmen kan ikke fjernes på grund af en systemfejl. Kontakt kundeservice, eller send feedback via indstillingsmenuen."
+   },
+   "6003902003271431273": {
+      "message": "Fjern"
+   },
+   "6005860289879017562": {
+      "message": "Vi har problemer med at afspille denne video lige nu. Prøv igen senere."
+   },
+   "6014354480663192727": {
+      "message": "De tv-udsendelser, du køber i Play Butik, vises her."
+   },
+   "6034340809890392304": {
+      "message": "Køb film"
+   },
+   "6060953217197345552": {
+      "message": "Canadisk aboriginal"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Kør alligevel"
+   },
+   "6084972307281346150": {
+      "message": "Kaithi tal"
+   },
+   "6105544360205581717": {
+      "message": "Annuller"
+   },
+   "6122892080995252667": {
+      "message": "Format og blanktegn"
+   },
+   "6137797587633467697": {
+      "message": "Meroitisk kursiv"
+   },
+   "6155475143120453982": {
+      "message": "0 minutter"
+   },
+   "6190120025272183060": {
+      "message": "Markeringer"
+   },
+   "6193238841287195586": {
+      "message": "Skrevet af"
+   },
+   "6222709653953533319": {
+      "message": "Tekstfarve"
+   },
+   "6232382505914187032": {
+      "message": "Hent gratis afsnit"
+   },
+   "6245954250506012649": {
+      "message": "Filmleje"
+   },
+   "6247516545605893720": {
+      "message": "Send feedback"
+   },
+   "6248269670479966135": {
+      "message": "Tastatur og brugergrænseflade"
+   },
+   "6252201064611373493": {
+      "message": "Vis kort"
+   },
+   "6270812530472396287": {
+      "message": "I dag"
+   },
+   "6272228095428812454": {
+      "message": "Tagalog"
+   },
+   "6279370317435309772": {
+      "message": "Avestisk"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Ved du ikke, hvad du skal angive i feltet?$END_BOLD$ Find først den side på nettet, som du vil linke til (en $SEARCH_ENGINE_LINK$søgemaskine$END_LINK$ kan være nyttig). Kopiér derefter webadressen i browserens adresselinje, og indsæt den i feltet ovenfor.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Afspilning"
+   },
+   "6335175380341340581": {
+      "message": "Enheden i Cast-sessionen svarer ikke til den, der blev anmodet om."
+   },
+   "6343010841347906907": {
+      "message": "om $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Kompatibilitet"
+   },
+   "6350391521435965588": {
+      "message": "Forudbestilt"
+   },
+   "6352913008658578632": {
+      "message": "Blød bindestreg"
+   },
+   "6363122915809877223": {
+      "message": "Venstre dropskygge"
+   },
+   "6371465733575496232": {
+      "message": "Mellemøstlige skrifter"
+   },
+   "6405814875010182725": {
+      "message": "Serveren kan ikke acceptere rodcertifikatet, der anvendes i kommunikationen. Prøv igen senere."
+   },
+   "6407996489854784042": {
+      "message": "Rediger link"
+   },
+   "6414884042279967640": {
+      "message": "ugyldig webadresse"
+   },
+   "6425847105595230473": {
+      "message": "Ignorer"
+   },
+   "6432298456231736850": {
+      "message": "Google Play Film"
+   },
+   "6440344606961499591": {
+      "message": "Lykisk"
+   },
+   "6456384515113758910": {
+      "message": "Læs mere"
+   },
+   "6456933929616370051": {
+      "message": "Rediger ord"
+   },
+   "6479123880196723568": {
+      "message": "Kursiv"
+   },
+   "6496283442053180405": {
+      "message": "Venstre mod højre"
+   },
+   "6501155781262627001": {
+      "message": "Der er brugt for mange enheder/IP-adresser i løbet af de seneste 24 timer. Benyt en af de tidligere anvendte enheder, eller prøv igen senere."
+   },
+   "6508375652910000957": {
+      "message": "Usynlige tegn"
+   },
+   "6536020395223120161": {
+      "message": "Fejl"
+   },
+   "6546669593466967671": {
+      "message": "Matematik, alfanumerisk"
+   },
+   "6551745305926008747": {
+      "message": "Forudbestil"
+   },
+   "6554134808157634636": {
+      "message": "Linear B"
+   },
+   "656481501116924913": {
+      "message": "Afspilningen blev standset, fordi denne video er blevet afspillet på for mange enheder. Vent 24 timer, før du afspiller denne video igen."
+   },
+   "6569656063466645753": {
+      "message": "Undertekster"
+   },
+   "6602025155112861839": {
+      "message": "Brahmi"
+   },
+   "6621933208862353132": {
+      "message": "Denne video er ikke tilgængelig i dit land."
+   },
+   "6625801467720528503": {
+      "message": "Oldpersisk"
+   },
+   "6629216961322187103": {
+      "message": "Gem"
+   },
+   "6633629616609262609": {
+      "message": "Du kan ændre dine indstillinger senere i $START_TAG_19$appindstillinger$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Andre europæiske skrifter"
+   },
+   "6651639811736683845": {
+      "message": "Mine film"
+   },
+   "6661681603632549986": {
+      "message": "Undertekster"
+   },
+   "6667667434733000643": {
+      "message": "Har informationskort"
+   },
+   "6677363386267424723": {
+      "message": "Afspil $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Køb $MOVIE_TITLE$ til $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Skriftstørrelse"
+   },
+   "677905689563333998": {
+      "message": "Afspilningen blev standset, fordi der bliver afspillet for mange videoer, der tilhører den samme konto. Stands afspilningen af nogle af videoerne, og prøv igen."
+   },
+   "679571059806777318": {
+      "message": "Thaana"
+   },
+   "6810753777984126315": {
+      "message": "Deseret"
+   },
+   "6827910084162380306": {
+      "message": "Enheden i Cast-sessionen svarer ikke til den ønskede enhed."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} time}one{{TEXT} timer}other{{TEXT} timer}}"
+   },
+   "6851957197139570861": {
+      "message": "Denne video er ikke tilgængelig i dit land."
+   },
+   "6853191352018412040": {
+      "message": "Balinesisk"
+   },
+   "6855074016004156398": {
+      "message": "Rediger HTML"
+   },
+   "6860315656437719971": {
+      "message": "Denne film er allerede downloadet på enheden. Tjek de andre konti på enheden."
+   },
+   "6875483133393301003": {
+      "message": "Andre østasiatiske skrifter"
+   },
+   "6883682454262090493": {
+      "message": "Find en god film i Play Butik – og læn dig så bare tilbage, og nyd den ved hjælp af appen Play Film til Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Kæmpestor"
+   },
+   "6896826577403437656": {
+      "message": "Bindestreg/minus"
+   },
+   "6902004800313673513": {
+      "message": "Spejlvendt"
+   },
+   "6964937916732516478": {
+      "message": "Normal"
+   },
+   "696905759309523016": {
+      "message": "Find en god film eller tv-udsendelse i Play Butik – og læn dig så bare tilbage, og nyd den i Chrome-appen Play Film og TV."
+   },
+   "6987338929609909868": {
+      "message": "Hvis du fjerner denne film, kan du ikke se den på denne enhed, medmindre du er online."
+   },
+   "6989393626433450594": {
+      "message": "Phags Pa"
+   },
+   "7012766363608830434": {
+      "message": "Usynligt plus"
+   },
+   "7024834031644866926": {
+      "message": "Få hjælp"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "For $NUM$ timer siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Hvis du fjerner dette afsnit, kan du ikke se det på denne enhed, medmindre du er online."
+   },
+   "7094242414651579769": {
+      "message": "Anbefalet til dig"
+   },
+   "7101065047913928628": {
+      "message": "N'ko"
+   },
+   "711332449732375422": {
+      "message": "Alle"
+   },
+   "7119313535591306971": {
+      "message": "Syrisk"
+   },
+   "7133753811730291503": {
+      "message": "Rejang"
+   },
+   "7134932904164509880": {
+      "message": "Lyd og undertekster"
+   },
+   "7142370112218882473": {
+      "message": "Taltankestreg"
+   },
+   "7143481033215693523": {
+      "message": "Fønikisk"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{om # dage}=1{om # dag}one{om # dage}other{om # dage}}"
+   },
+   "7166131491680306441": {
+      "message": "Fed"
+   },
+   "717756764917242379": {
+      "message": "Kundeservice har redigeret din konto for mange gange i år."
+   },
+   "7209204842613884996": {
+      "message": "Cherokee"
+   },
+   "7217613154757397815": {
+      "message": "Mindre overskrift"
+   },
+   "7222798856864539991": {
+      "message": "Humørikoner"
+   },
+   "7231513918080506880": {
+      "message": "Fejl under videoafspilning"
+   },
+   "7233133314598482636": {
+      "message": "Symbol"
+   },
+   "7237310906976510879": {
+      "message": "Godkendelsesfejl"
+   },
+   "7254769271789170667": {
+      "message": "Tilsidesættelse fra højre mod venstre"
+   },
+   "7271563194657138998": {
+      "message": "Kom godt i gang med et gratis afsnit fra Play Butik, og se det med det samme i Chrome-appen Play Film og TV."
+   },
+   "7322761727637390097": {
+      "message": "Købsaftalen blev ikke fundet."
+   },
+   "7333054716894862082": {
+      "message": "Juster"
+   },
+   "7352037235710614813": {
+      "message": "Instrueret af"
+   },
+   "7379356741388986662": {
+      "message": "Køb"
+   },
+   "738294154320637123": {
+      "message": "Meetei Mayek"
+   },
+   "7403213530684675547": {
+      "message": "Filmen kan ikke fjernes, fordi den er downloadet på en anden enhed. Fjern filmen på den anden enhed først."
+   },
+   "7423355034259912329": {
+      "message": "Filmen er allerede blevet stoppet."
+   },
+   "742861914041471563": {
+      "message": "Venstrejuster"
+   },
+   "7431208184373206966": {
+      "message": "Stor"
+   },
+   "7436129358876453178": {
+      "message": "Han-ordstammer med 2 strøg"
+   },
+   "7443523425660741023": {
+      "message": "Filmen kan ikke fjernes, fordi den er downloadet på en anden enhed. Fjern filmen på den anden enhed først."
+   },
+   "7444530187008825696": {
+      "message": "Dette link kan ikke afprøves."
+   },
+   "7445716324927695719": {
+      "message": "$DOWNLOADED_TITLE$ er downloadet. Klik for at fjerne.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Afbryd forbindelsen"
+   },
+   "7499894239558451540": {
+      "message": "Ja"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Der opstod en serverfejl. Prøv igen senere."
+   },
+   "754389774434351130": {
+      "message": "Mongolsk vokalseparator"
+   },
+   "7545663607980395021": {
+      "message": "Cast-sessionen er ikke tilgængelig. Opdater, eller prøv igen senere."
+   },
+   "7559531330043741601": {
+      "message": "Midterjuster"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (antal)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangul Choseong-fyldtegn"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Vær forsigtig.$POSTB$ Husk, at hver gang du angiver en e-mailadresse på en webside, kan ubehagelige spammere også finde den.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Hold musemarkøren over den enkelte celle for at få vist navnet på tegnet."
+   },
+   "7628853095173216399": {
+      "message": "Log ind for at fortsætte afspilningen."
+   },
+   "7628997973779702278": {
+      "message": "Download $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Afspil trailer"
+   },
+   "7644195558431380264": {
+      "message": "Hævet skrift"
+   },
+   "7656269245189992953": {
+      "message": "Ingen"
+   },
+   "765644786799307419": {
+      "message": "1/4 langt mellemrum"
+   },
+   "7661273651737426088": {
+      "message": "Hård bindestreg"
+   },
+   "7671671293660378394": {
+      "message": "Hårdt mellemrum"
+   },
+   "7687757766363784951": {
+      "message": "Seneste valg:"
+   },
+   "7704099115712609154": {
+      "message": "Indstillinger"
+   },
+   "7707854987324577924": {
+      "message": "Hårdt mellemrum uden bredde"
+   },
+   "7721864005040197774": {
+      "message": "Objekter"
+   },
+   "7735652872804202135": {
+      "message": "Afspil videoer på min enheds sprog, når det er tilgængeligt"
+   },
+   "7776630049782874310": {
+      "message": "Der må være op til tre konti med downloadede videoer på samme tid på en given enhed. Hvis du vil downloade videoen på denne konto, skal du fjerne alle downloads fra en anden konto."
+   },
+   "779039068486648656": {
+      "message": "Din browser understøtter ikke diagrammer"
+   },
+   "7792182371277036944": {
+      "message": "Se nu"
+   },
+   "7807783089931705706": {
+      "message": "Forudindstillinger"
+   },
+   "7825923098003586011": {
+      "message": "Meroitiske hieroglyffer"
+   },
+   "7835136621565821438": {
+      "message": "Partiske inskriptioner"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ minutter",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Denne film er allerede downloadet på enheden. Tjek de andre konti på enheden."
+   },
+   "7872307517743373476": {
+      "message": "Ugyldig Cast-session. Opdater, eller prøv igen senere."
+   },
+   "7873756658795212081": {
+      "message": "udløber om $EVAL_1$ dage",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ i Play Butik",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "pm"
+   },
+   "7918520961628671120": {
+      "message": "Adgangen til denne video er forbudt."
+   },
+   "791855806965154343": {
+      "message": "Batak"
+   },
+   "7926689704723702466": {
+      "message": "Billiard"
+   },
+   "7933902915184371880": {
+      "message": "Kariansk"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Sat på pause. $EVAL_1$ sek. tilbage.}one{Sat på pause. $EVAL_2$ sek. tilbage.}other{Sat på pause. $EVAL_2$ sek. tilbage.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Amerikanske skrifter"
+   },
+   "7943286917138037388": {
+      "message": "Kort tankestreg"
+   },
+   "7952530065274028271": {
+      "message": "Få flere oplysninger om $WN_SHOW_TITLE$, afsnit $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "udløber om $EVAL_1$ timer",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamil"
+   },
+   "7978764644554853286": {
+      "message": "om $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Han-ordstammer med 1 strøg"
+   },
+   "7985246120023271230": {
+      "message": "Denne videoudlejning er udløbet. Hvis du vil se den, skal du købe den eller leje den igen."
+   },
+   "7991898653680244970": {
+      "message": "Latin 1-tillæg"
+   },
+   "7993302948330451962": {
+      "message": "Myanmar"
+   },
+   "7993967737532196015": {
+      "message": "Gav bedømmelsen $VIEWER_RATING$ ud af 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Vil du fjerne dette downloadede afsnit?"
+   },
+   "8013309308261303688": {
+      "message": "Køb film"
+   },
+   "8018308926864382762": {
+      "message": "Syrisk forkortelsestegn"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Sænket skrift"
+   },
+   "8039844141475995654": {
+      "message": "om $NUM$ minutter",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Runeskrift"
+   },
+   "8042716985296303990": {
+      "message": "Format"
+   },
+   "8042730852758398655": {
+      "message": "Lydsprog"
+   },
+   "8062522779459151420": {
+      "message": "Fjern formatering"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "Id"
+   },
+   "8101733308672950303": {
+      "message": "Underteksterne vil se sådan ud"
+   },
+   "8132424293432274889": {
+      "message": "Tilbage"
+   },
+   "8134822873948566976": {
+      "message": "Hent flere afsnit"
+   },
+   "8153387349716171448": {
+      "message": "Denne video er blevet downloadet på det maksimale antal enheder. Hvis du vil afspille den her, skal du fjerne den fra en anden enhed."
+   },
+   "8161910726112545534": {
+      "message": "Lille bindestreg/minus"
+   },
+   "8167719451188045081": {
+      "message": "Valgfrit mellemrum uden bredde"
+   },
+   "8175552949837381315": {
+      "message": "Luk"
+   },
+   "8176183622289427250": {
+      "message": "Find en god film i Play Butik – og læn dig så bare tilbage, og nyd den i Chrome-appen Play Film og TV."
+   },
+   "8179636923390390367": {
+      "message": "Musical Symbol End Beam"
+   },
+   "8182154803169715176": {
+      "message": "Valuta"
+   },
+   "8188276694329647401": {
+      "message": "Million"
+   },
+   "8203155312190167416": {
+      "message": "Hent gratis afsnit"
+   },
+   "8204709243856731897": {
+      "message": "Kontoen har nået den aftalte grænse for, hvor ofte enheder må deaktiveres. Hvis du mener, at dette er en fejl, skal du kontakte kundeservice."
+   },
+   "8209649773417809069": {
+      "message": "Monospaced serif"
+   },
+   "8223592563721543961": {
+      "message": "Højre mod venstre-mærke"
+   },
+   "8229110080399300640": {
+      "message": "Lydisk"
+   },
+   "825047260879284602": {
+      "message": "Angiv tilpasset farve, f.eks. pink, #F00, #D015FF eller rgb(100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "Somali"
+   },
+   "8303685272985764664": {
+      "message": "Geviert"
+   },
+   "8316357291574004120": {
+      "message": "Afspilning understøttes ikke på denne enhed."
+   },
+   "8317092845662281711": {
+      "message": "Lyd"
+   },
+   "8317239070847268844": {
+      "message": "Billion"
+   },
+   "8356754494097778995": {
+      "message": "Integrering fra højre mod venstre"
+   },
+   "836493064290964717": {
+      "message": "Han-ordstammer med 7 strøg"
+   },
+   "8367205574605681054": {
+      "message": "Kontakt os"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{om # timer}=1{om # time}one{om # timer}other{om # timer}}"
+   },
+   "838631802941302770": {
+      "message": "Kharosti"
+   },
+   "8387836334671661814": {
+      "message": "Normal"
+   },
+   "8406794425024838870": {
+      "message": "Afspil videoer på originalsproget, når det er tilgængeligt"
+   },
+   "8415457571769345476": {
+      "message": "Gurmukhi"
+   },
+   "8432592301984570372": {
+      "message": "Kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Film"
+   },
+   "8439955599488894226": {
+      "message": "Privatlivspolitik"
+   },
+   "8440105734244130524": {
+      "message": "Har undertekster"
+   },
+   "8440128775129354214": {
+      "message": "Privatliv"
+   },
+   "8440161680481095392": {
+      "message": "Sora Sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Interlinear Annotation Separator"
+   },
+   "8468046265986853572": {
+      "message": "Lille lang tankestreg"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Vis oplysninger om skuespillere og sange, når videoen er sat på pause"
+   },
+   "8480915536260760621": {
+      "message": "Linjeseparator"
+   },
+   "8483017128806448808": {
+      "message": "Han – andet"
+   },
+   "8484953793514450798": {
+      "message": "Denne video kunne ikke downloades"
+   },
+   "8496572760621552382": {
+      "message": "Kontrolbilleder"
+   },
+   "8504288534013316809": {
+      "message": "Brug altid denne app til at afspille indhold fra Play Film og TV på denne enhed."
+   },
+   "8533646618757813590": {
+      "message": "Sundanesisk"
+   },
+   "8540686664487399786": {
+      "message": "Rigsaramæisk"
+   },
+   "854429928571549912": {
+      "message": "Kannada"
+   },
+   "8544418813868326219": {
+      "message": "Underoverskrift"
+   },
+   "8561163275403408048": {
+      "message": "Vælg HD eller SD"
+   },
+   "8562537001029340643": {
+      "message": "Kort mellemrum"
+   },
+   "8562629041340204805": {
+      "message": "Punktopstilling"
+   },
+   "8564202903947049539": {
+      "message": "AFSPIL"
+   },
+   "8595279472837556966": {
+      "message": "Denne video blev ikke fundet."
+   },
+   "8598425882608097102": {
+      "message": "Saurashtra"
+   },
+   "8614813208619876018": {
+      "message": "Åbn dette link i et nyt vindue"
+   },
+   "8620014669054622585": {
+      "message": "Hævet skrift"
+   },
+   "8654580154537063858": {
+      "message": "Skråstreg/forbindelsesstreg"
+   },
+   "8683517921317388539": {
+      "message": "Udvid tabel over infokort"
+   },
+   "8686061785869890050": {
+      "message": "Venstre mod højre-mærke"
+   },
+   "8721105090660343056": {
+      "message": "Samaritansk"
+   },
+   "8751395052938425392": {
+      "message": "Andet"
+   },
+   "8756624200843285720": {
+      "message": "Normal/serif"
+   },
+   "875775686870257693": {
+      "message": "Khmer Vowel Inherent Aa"
+   },
+   "8784627238941457153": {
+      "message": "Højre mod venstre"
+   },
+   "8785585428177743106": {
+      "message": "Arabisk tegn, safha"
+   },
+   "8788046284717061808": {
+      "message": "Mongolsk blød bindestreg"
+   },
+   "8815814381380608540": {
+      "message": "Nej"
+   },
+   "8834132438727381257": {
+      "message": "Se videoer i HD-kvalitet på din computer, Chromecast, Roku og de fleste Android-enheder. $START_TAG_1$Få flere oplysninger$END_TAG_1$",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "ASCII-baseret"
+   },
+   "8860351949504760658": {
+      "message": "Webadresse"
+   },
+   "8894457765459513654": {
+      "message": "Link"
+   },
+   "8917983075453481180": {
+      "message": "Præsentationsform for kort lodret tankestreg"
+   },
+   "8919720204772722134": {
+      "message": "Tekst, der skal vises:"
+   },
+   "8921884278179224689": {
+      "message": "Google Plays servicevilkår"
+   },
+   "8924156420198940653": {
+      "message": "I dag"
+   },
+   "892438729140054354": {
+      "message": "Glagolitisk"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malayalam"
+   },
+   "8945516772470397544": {
+      "message": "Hebræisk"
+   },
+   "8975694361063929758": {
+      "message": "Annullerer download..."
+   },
+   "900213554674035877": {
+      "message": "Bemærk! Platformen understøttes ikke"
+   },
+   "9003255502339267646": {
+      "message": "Oldtyrkisk"
+   },
+   "9006212563579865934": {
+      "message": "Der opstod en midlertidig serverfejl. Prøv igen senere."
+   },
+   "9007600562969287199": {
+      "message": "Annuller"
+   },
+   "9009756347438736077": {
+      "message": "Emoji"
+   },
+   "9039190587572892203": {
+      "message": "Dialogboksen Feedback er åben."
+   },
+   "9058407001544582930": {
+      "message": "Braille"
+   },
+   "9082286440748444032": {
+      "message": "Højrejuster"
+   },
+   "9119571405974007627": {
+      "message": "Klik for at se i fuld skærm"
+   },
+   "9129936585862826417": {
+      "message": "Katakana-hiragana dobbelt bindestreg"
+   },
+   "9133561684694194118": {
+      "message": "Han-ordstammer med 8 strøg"
+   },
+   "9140663398525770181": {
+      "message": "For $NUM$ dage siden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ afsnit",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Olditalisk"
+   },
+   "9157868620634436826": {
+      "message": "Send anonyme brugsstatistikker fra Play Film og TV på denne enhed til Google"
+   },
+   "9169327677828809572": {
+      "message": "Understregning"
+   },
+   "9187708289836789739": {
+      "message": "Køn og oprindelse"
+   },
+   "9191795572559844778": {
+      "message": "Latinsk"
+   },
+   "9199894931939214644": {
+      "message": "Afspilningen blev standset, fordi der bliver afspillet alt for mange videoer, der tilhører den samme konto. Stands afspilningen af nogle af videoerne, og prøv igen."
+   },
+   "936850558951011636": {
+      "message": "om $NUM$ dage",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "Billion"
+   },
+   "964943437084290735": {
+      "message": "1/3 langt mellemrum"
+   },
+   "968485661339291047": {
+      "message": "udløber om én dag"
+   },
+   "969796838380220069": {
+      "message": "Tegnsætning"
+   },
+   "992901664798536243": {
+      "message": "Hex-input"
+   },
+   "996885966963281379": {
+      "message": "Tilsidesættelse fra venstre mod højre"
+   },
+   "998767118090785897": {
+      "message": "om $NUM$ time",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

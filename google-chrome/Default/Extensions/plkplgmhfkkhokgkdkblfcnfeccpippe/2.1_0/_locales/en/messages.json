@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extension description.",
+      "message": "A simple extension to fix error \"missing plugin\" when browsing flash content for Google Chrome."
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "\"Missing Plug-in\" Fix"
+   }
+}

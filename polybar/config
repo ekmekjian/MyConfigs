@@ -233,22 +233,22 @@ format-prefix = " "
 
 ramp-coreload-0 = ▁
 ramp-coreload-0-font = 2
-ramp-coreload-0-foreground = #aaff77
+ramp-coreload-0-foreground = #66ffcc
 ramp-coreload-1 = ▂
 ramp-coreload-1-font = 2
-ramp-coreload-1-foreground = #aaff77
+ramp-coreload-1-foreground = #66ffcc
 ramp-coreload-2 = ▃
 ramp-coreload-2-font = 2
-ramp-coreload-2-foreground = #aaff77
+ramp-coreload-2-foreground = #66ffcc
 ramp-coreload-3 = ▄
 ramp-coreload-3-font = 2
-ramp-coreload-3-foreground = #aaff77
+ramp-coreload-3-foreground = #66ffcc
 ramp-coreload-4 = ▅
 ramp-coreload-4-font = 2
-ramp-coreload-4-foreground = #fba922
+ramp-coreload-4-foreground = #ffffff
 ramp-coreload-5 = ▆
 ramp-coreload-5-font = 2
-ramp-coreload-5-foreground = #fba922
+ramp-coreload-5-foreground = #ffffff
 ramp-coreload-6 = ▇
 ramp-coreload-6-font = 2
 ramp-coreload-6-foreground = #ff5555
@@ -270,7 +270,7 @@ interface = wlp7s0
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
-format-connected-underline = #9f78e1
+format-connected-underline = #ff0000
 label-connected = %essid%
 format-prefix = "'
 
@@ -315,7 +315,7 @@ time-alt = %H:%M:%S
 
 format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #0a6cf5
+format-underline = #ffffff
 
 label = %date% %time%
 
@@ -358,11 +358,11 @@ format-muted-foreground = ${colors.foreground-alt}
 label-muted = sound muted
 
 bar-volume-width = 10
-bar-volume-foreground-0 = #55aa55
-bar-volume-foreground-1 = #55aa55
-bar-volume-foreground-2 = #55aa55
-bar-volume-foreground-3 = #55aa55
-bar-volume-foreground-4 = #55aa55
+bar-volume-foreground-0 = #66ffcc
+bar-volume-foreground-1 = #66ffcc
+bar-volume-foreground-2 = #66ffcc
+bar-volume-foreground-3 = #66ffcc
+bar-volume-foreground-4 = #66ffcc
 bar-volume-foreground-5 = #f5a70a
 bar-volume-foreground-6 = #ff5555
 bar-volume-gradient = false
@@ -413,7 +413,7 @@ thermal-zone = 0
 warn-temperature = 60
 
 format = <ramp> <label>
-format-underline = #f50a4d
+format-underline = #66ffcc
 format-warn = <ramp> <label-warn>
 format-warn-underline = ${self.format-underline}
 

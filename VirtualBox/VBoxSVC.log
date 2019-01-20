@@ -1,0 +1,32 @@
+00:00:00.000163 main     VirtualBox XPCOM Server 6.0.2 r128162 linux.amd64 (Jan 14 2019 16:22:23) release log
+00:00:00.000166 main     Log opened 2019-01-19T22:58:31.491978000Z
+00:00:00.000167 main     Build Type: release
+00:00:00.000170 main     OS Product: Linux
+00:00:00.000171 main     OS Release: 4.15.0-43-generic
+00:00:00.000172 main     OS Version: #46~16.04.1-Ubuntu SMP Fri Dec 7 13:31:08 UTC 2018
+00:00:00.000194 main     DMI Product Name: To Be Filled By O.E.M.
+00:00:00.000203 main     DMI Product Version: To Be Filled By O.E.M.
+00:00:00.000246 main     Host RAM: 16036MB (15.6GB) total, 13647MB (13.3GB) available
+00:00:00.000249 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000250 main     Process ID: 26174
+00:00:00.000250 main     Package type: LINUX_64BITS_UBUNTU_16_04
+00:00:00.001490 main     IPC socket path: /tmp/.vbox-black-ipc/ipcd
+00:00:00.104374 nspr-2   VirtualBox: object creation starts
+00:00:00.104481 nspr-2   Home directory: '/home/black/.config/VirtualBox'
+00:00:00.113140 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp7s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.113881 nspr-2   NAT: resolv.conf: nameserver 127.0.1.1
+00:00:00.113915 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.113933 nspr-2   HostDnsMonitor: old information
+00:00:00.113937 nspr-2     no server entries
+00:00:00.113940 nspr-2     no domain set
+00:00:00.113944 nspr-2     no search string entries
+00:00:00.113947 nspr-2   HostDnsMonitor: new information
+00:00:00.113950 nspr-2     server 1: 127.0.1.1
+00:00:00.113954 nspr-2     domain: fios-router.home
+00:00:00.113958 nspr-2     search string 1: fios-router.home
+00:00:00.116653 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.117259 nspr-2   VirtualBox: object created
+00:00:01.818676 nspr-2   Saving settings file "/home/black/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.870718 nspr-3   Saving settings file "/home/black/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+05:56:32.739798 MainPower Host suspending: Paused 0 VMs
+05:56:47.722337 MainPower Host resumed: Resumed 0 VMs

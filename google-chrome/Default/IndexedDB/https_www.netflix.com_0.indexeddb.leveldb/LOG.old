@@ -1,0 +1,15 @@
+2019/01/19-17:23:03.452 628c Reusing MANIFEST /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/01/19-17:23:03.452 628c Recovering log #50
+2019/01/19-17:23:03.457 628c Reusing old log /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000050.log 
+2019/01/19-18:26:53.111 6812 Level-0 table #54: started
+2019/01/19-18:26:53.183 6812 Level-0 table #54: 1827186 bytes OK
+2019/01/19-18:26:53.217 6812 Delete type=0 #50
+2019/01/19-18:26:53.218 6812 Compacting 4@0 + 1@1 files
+2019/01/19-18:26:53.268 6812 Generated table #55@0: 16 keys, 11101 bytes
+2019/01/19-18:26:53.268 6812 Compacted 4@0 + 1@1 files => 11101 bytes
+2019/01/19-18:26:53.301 6812 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/19-18:26:53.301 6812 Delete type=2 #49
+2019/01/19-18:26:53.302 6812 Delete type=2 #54
+2019/01/19-18:26:53.302 6812 Delete type=2 #46
+2019/01/19-18:26:53.303 6812 Delete type=2 #43
+2019/01/19-18:26:53.303 6812 Delete type=2 #51

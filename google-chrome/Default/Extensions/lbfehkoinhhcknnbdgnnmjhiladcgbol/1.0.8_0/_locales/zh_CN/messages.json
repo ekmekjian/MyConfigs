@@ -1,0 +1,10 @@
+{
+   "extensionDescription": {
+      "description": "A description of the application.",
+      "message": "将您所有的想法和经验保存在 Evernote 中，然后通过任一台电脑和手机即可访问。"
+   },
+   "extensionName": {
+      "description": "The name of the application.",
+      "message": "Evernote Web"
+   }
+}

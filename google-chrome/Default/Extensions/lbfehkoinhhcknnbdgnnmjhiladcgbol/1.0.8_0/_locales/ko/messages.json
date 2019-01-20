@@ -1,0 +1,10 @@
+{
+   "extensionDescription": {
+      "description": "A description of the application.",
+      "message": "모든 아이디어와 경험을 Evernote에 저장한 다음 사용하는 모든 컴퓨터 및 전화기를 통해 액세스하십시오."
+   },
+   "extensionName": {
+      "description": "The name of the application.",
+      "message": "Evernote 웹"
+   }
+}

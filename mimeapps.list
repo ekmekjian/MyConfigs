@@ -1,0 +1,16 @@
+[Default Applications]
+text/x-arduino=arduino-arduinoide.desktop
+text/plain=nvim.desktop
+
+[Added Associations]
+text/x-python=mousepad.desktop;
+text/plain=mousepad.desktop;org.gnome.gedit.desktop;nvim.desktop;
+audio/x-wav=rhythmbox-device.desktop;
+application/x-ms-dos-executable=wine.desktop;org.gnome.FileRoller.desktop;
+text/markdown=mousepad.desktop;
+application/pdf=evince.desktop;
+application/x-font-ttf=org.gnome.font-viewer.desktop;
+image/svg+xml=eog.desktop;
+video/x-matroska=org.gnome.Totem.desktop;
+image/png=eog.desktop;
+image/jpeg=eog.desktop;

@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Ingesloten/gestippeld"
+   },
+   "1070809808108857931": {
+      "message": "$NUM$ minuut geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Link naar een pagina of bestand ergens anders op internet"
+   },
+   "1102310712956565239": {
+      "message": "Open-sourcelicenties"
+   },
+   "1130652265542107236": {
+      "message": "Leeftijd"
+   },
+   "1134649645976473070": {
+      "message": "Arabisch numeriek teken"
+   },
+   "1142417372321533593": {
+      "message": "Han 11..17-Stroke Radicals"
+   },
+   "1147656502873524992": {
+      "message": "Bengaals"
+   },
+   "1163524414906063407": {
+      "message": "Golvend koppelstreepje"
+   },
+   "1180214318241646187": {
+      "message": "Devanagari"
+   },
+   "1201655285096694629": {
+      "message": "Voeg een betaalmethode toe om je aankoop te voltooien."
+   },
+   "1208097920246951223": {
+      "message": "Yi"
+   },
+   "12190752990595538": {
+      "message": "Uniform"
+   },
+   "1237413374221837088": {
+      "message": "Het afspelen is gestopt omdat het afspelen van deze video is gestart op een ander apparaat. Speel de video opnieuw af nadat je het afspelen hebt gestopt op het andere apparaat."
+   },
+   "123775052533814018": {
+      "message": "Georgisch"
+   },
+   "1257931524938240638": {
+      "message": "Bekijken"
+   },
+   "1297025664516669951": {
+      "message": "mlrd"
+   },
+   "1305766628630415604": {
+      "message": "Weer, scènes en sterrenbeelden"
+   },
+   "1310971928430788285": {
+      "message": "Arabisch teken Sanah"
+   },
+   "1347269818800657320": {
+      "message": "1 aflevering"
+   },
+   "1358234736811100710": {
+      "message": "Gujarati"
+   },
+   "1361445704105826758": {
+      "message": "Spatie (haardikte)"
+   },
+   "1364333963472303494": {
+      "message": "verloopt over $EVAL_1$ minuten",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Doorhalen"
+   },
+   "1368767014310906187": {
+      "message": "Meer informatie"
+   },
+   "1386128393601544077": {
+      "message": "Downloaden voor offline weergave..."
+   },
+   "1394022802077775553": {
+      "message": "Klein"
+   },
+   "1408430211331783844": {
+      "message": "Han 10-Stroke Radicals"
+   },
+   "140933529008432611": {
+      "message": "Volledig scherm"
+   },
+   "1410700625120387041": {
+      "message": "Pagina vernieuwd."
+   },
+   "1411272293021752124": {
+      "message": "Wanneer je apparaat weer online is, wordt je Play Films-activiteit gesynchroniseerd. Je kunt deze aflevering vervolgens bekijken op een ander apparaat."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "Er zijn in de periode van 24 uur te veel apparaten/IP-adressen gebruikt. Gebruik een van de eerder gebruikte apparaten of probeer het later opnieuw."
+   },
+   "1430062769418326205": {
+      "message": "Takri"
+   },
+   "1440735285675788071": {
+      "message": "Dieren, planten en eten"
+   },
+   "1446182608983200385": {
+      "message": "Bekijk je content op een groter scherm"
+   },
+   "1452953224047775588": {
+      "message": "Er is een serverfout opgetreden. Probeer het later opnieuw."
+   },
+   "1464429406563501593": {
+      "message": "Kopen voor $PRICE_BUY$",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Oegaritisch"
+   },
+   "1511375217423134113": {
+      "message": "Spatie (smal)"
+   },
+   "1538935182784871964": {
+      "message": "Geen"
+   },
+   "1550882703360589242": {
+      "message": "Kop"
+   },
+   "1569384361123250083": {
+      "message": "Smalle vaste spatie"
+   },
+   "1569694034972476152": {
+      "message": "Een creditcard of betaalpas toevoegen"
+   },
+   "1574702217174092165": {
+      "message": "Lepcha"
+   },
+   "1577035400209415987": {
+      "message": "Sport, feesten en activiteiten"
+   },
+   "1578936298060149953": {
+      "message": "Er zijn te veel films gedownload op het apparaat. Verwijder enkele films. Als je denkt dat dit een fout is, neem je contact op met de klantenservice."
+   },
+   "1585399878613556769": {
+      "message": "Mandaïsch"
+   },
+   "1622977981214364224": {
+      "message": "Waarde"
+   },
+   "1624496666386832541": {
+      "message": "Mensen en emoties"
+   },
+   "163585285607136383": {
+      "message": "Spatie"
+   },
+   "1659260306743134961": {
+      "message": "Wordt afgespeeld op $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Huurwaarschuwing"
+   },
+   "167137904963051280": {
+      "message": "Sluiten"
+   },
+   "1672514695079052416": {
+      "message": "Vanwege ongebruikelijke accountactiviteit is deze video momenteel niet beschikbaar."
+   },
+   "1689687103490595695": {
+      "message": "Play Films"
+   },
+   "1693658896006835421": {
+      "message": "Combinatietekens: verbindingselement voor grafemen"
+   },
+   "1695785777963864871": {
+      "message": "Ga naar link: "
+   },
+   "1705348214738149530": {
+      "message": "verloopt over één minuut"
+   },
+   "1719824778219074772": {
+      "message": "Khmer"
+   },
+   "1730622041976529093": {
+      "message": "6-per-em-spatie"
+   },
+   "175470934010823676": {
+      "message": "Genummerde lijst"
+   },
+   "17841002962364046": {
+      "message": "Opnieuw"
+   },
+   "1790234586531719509": {
+      "message": "Kopen"
+   },
+   "1792545992204167651": {
+      "message": "Han 4-Stroke Radicals"
+   },
+   "179542577867490020": {
+      "message": "Ongeldig e-mailadres"
+   },
+   "180976998764453681": {
+      "message": "Downloaden in HD of SD"
+   },
+   "1814369088251817607": {
+      "message": "Breuken/gerelateerd"
+   },
+   "1828658977714723982": {
+      "message": "Speelstukken"
+   },
+   "1830872643153553266": {
+      "message": "Details over $ASSET_PURCHASE_TITLE$ bekijken.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Sinhala"
+   },
+   "1846295350891951774": {
+      "message": "Kies je favoriete tv-programma's in de Play Store en ontspan en geniet met de Play Films-app voor Chrome."
+   },
+   "1855549404303496723": {
+      "message": "verloopt over één uur"
+   },
+   "1877803725479774313": {
+      "message": "Afspelen wordt niet ondersteund op dit apparaat."
+   },
+   "1890638601494854916": {
+      "message": "miljard"
+   },
+   "1901872524864997402": {
+      "message": "Afsluiten"
+   },
+   "1905843731663924055": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Koopovereenkomst niet gevonden."
+   },
+   "1935128618068091278": {
+      "message": "Ethiopisch"
+   },
+   "1938219414696116874": {
+      "message": "Het is momenteel niet mogelijk afbeeldingsbestanden te slepen en neer te zetten.\nSleep een afbeelding vanuit je webbrowser."
+   },
+   "1954151364415665795": {
+      "message": "Hangul (Koreaans)"
+   },
+   "1977431342799515224": {
+      "message": "Het afspelen is gestopt omdat het afspelen van deze video is gestart op een ander apparaat. Speel de video opnieuw af nadat je het afspelen hebt gestopt op het andere apparaat."
+   },
+   "2029980907058777630": {
+      "message": "Servicevoorwaarden"
+   },
+   "2044442466969080056": {
+      "message": "Decimaal"
+   },
+   "2047343614481498061": {
+      "message": "Een kleur toevoegen"
+   },
+   "2072847589626610105": {
+      "message": "Huren"
+   },
+   "2092212617914314411": {
+      "message": "Je bent momenteel offline. Maak opnieuw verbinding om je favoriete films te streamen."
+   },
+   "2101164867731291209": {
+      "message": "Kayah Li"
+   },
+   "2113719628962111778": {
+      "message": "Arabische voetnootmarkering"
+   },
+   "2114961653707808791": {
+      "message": "Er ontbreekt een vereiste component. Ga in een ander browsertabblad naar chrome://components, klik op de knop 'Controleren op updates' voor de WidevineCdm-component en start de browser opnieuw zodra de status 'Component geüpdatet' wordt weergegeven."
+   },
+   "2118949532496601536": {
+      "message": "Casual"
+   },
+   "2123474539731286604": {
+      "message": "Vernieuwen"
+   },
+   "2124380732103580135": {
+      "message": "De film is al gestopt."
+   },
+   "2131073272476560470": {
+      "message": "De huurperiode van deze video is afgelopen. Koop of huur de video opnieuw als je deze wilt bekijken."
+   },
+   "2149182740887046022": {
+      "message": "Variantkeuze - $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Er zijn momenteel problemen bij het afspelen van deze video. Probeer het later opnieuw."
+   },
+   "2194774716002570022": {
+      "message": "Interlineair annotatie-eindteken"
+   },
+   "2206769964843652278": {
+      "message": "Gotisch"
+   },
+   "22109057671064768": {
+      "message": "Wordt afgespeeld op $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonologie (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Em-streepje"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "$EXTRA_TITLE$ afspelen.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Grootte"
+   },
+   "2285569294581055781": {
+      "message": "Interpunctie-spatie"
+   },
+   "230507365422499768": {
+      "message": "Ol Chiki"
+   },
+   "2325815383560299041": {
+      "message": "Tv-programma's"
+   },
+   "2358744432156444454": {
+      "message": "Telugu"
+   },
+   "2370311583523472863": {
+      "message": "bln"
+   },
+   "2378154636827917381": {
+      "message": "Betaalmethode selecteren"
+   },
+   "2398583048519934048": {
+      "message": "Er is iets verkeerd gegaan. Probeer het opnieuw."
+   },
+   "2404545964673636424": {
+      "message": "Ingesloten"
+   },
+   "2416235035434522626": {
+      "message": "De aankoop van deze video is terugbetaald. Koop of huur de video opnieuw als je deze wilt bekijken."
+   },
+   "2458370016363828146": {
+      "message": "Link naar een e-mailadres"
+   },
+   "2469139219925930348": {
+      "message": "Weer en astrologie"
+   },
+   "2484918978489875840": {
+      "message": "Arabisch"
+   },
+   "2500940977211244160": {
+      "message": "Met Chromecast kun je je favoriete films en tv-programma's op je tv bekijken."
+   },
+   "2510334389873855577": {
+      "message": "Zuid-Aziatische schriften"
+   },
+   "2524488082161774200": {
+      "message": "Tibetaans"
+   },
+   "2556195906496703534": {
+      "message": "Koppelteken"
+   },
+   "2567552453606568838": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Subscript"
+   },
+   "2596943043266694861": {
+      "message": "Deze video kan niet worden gevonden."
+   },
+   "2602773901491715295": {
+      "message": "Ondertiteling"
+   },
+   "2609303773462214063": {
+      "message": "De film kan niet worden gedownload omdat de auteursrechteigenaar offline weergave verbiedt."
+   },
+   "2617084065793155411": {
+      "message": "Halve vierkant (en-spatie)"
+   },
+   "2623430506770319716": {
+      "message": "Er zijn dit jaar te veel resets door de klantenservice uitgevoerd voor je account."
+   },
+   "2624723575430661735": {
+      "message": "Versie $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Je huur van $MOVIE_TITLE$ $LONG_EXPIRATION_MESSAGE$. De huur $SHORT_EXPIRATION_MESSAGE$ nadat het afspelen is gestart.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Hulp vragen"
+   },
+   "2634032400851497621": {
+      "message": "Zeer groot"
+   },
+   "2636578811345390596": {
+      "message": "Een diagram."
+   },
+   "265418312065535093": {
+      "message": "Sans Serif - monospace"
+   },
+   "2669412054237461578": {
+      "message": "$ASSET_PURCHASE_TITLE$ kopen.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Ideografische spatie"
+   },
+   "267152712329867450": {
+      "message": "Historisch"
+   },
+   "2676989239174849130": {
+      "message": "Aankopen kunnen worden gedownload op maximaal vijf apparaten tegelijk. Als je deze video hier wilt downloaden, verwijder je alle downloads van een ander apparaat."
+   },
+   "2694197056256485674": {
+      "message": "a.m."
+   },
+   "2696605111162327790": {
+      "message": "Muzieksymbool begin legatoteken"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Over Google Play Films"
+   },
+   "2725131744113020753": {
+      "message": "De castsessie is verlopen. Verbreek de verbinding en probeer het opnieuw."
+   },
+   "2726210069762481377": {
+      "message": "$VOLUME_LEVEL$% volume",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Nog steeds bezig..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, indien beschikbaar",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Gisteren"
+   },
+   "2778320704487179651": {
+      "message": "Oud Zuid-Arabisch"
+   },
+   "2811578318938008571": {
+      "message": "Koppelteken met trema"
+   },
+   "2823408948793387406": {
+      "message": "Gele tekst op zwarte achtergrond"
+   },
+   "2843666691789766965": {
+      "message": "Symbolen"
+   },
+   "285220876417404298": {
+      "message": "Wijzigen"
+   },
+   "2866884137027183397": {
+      "message": "Open-sourcelicenties"
+   },
+   "287293401853426183": {
+      "message": "Em-spatie"
+   },
+   "2873226479878121265": {
+      "message": "Geboren in"
+   },
+   "2873450949697555837": {
+      "message": "Tv-afleveringen downloaden"
+   },
+   "2874298691560753701": {
+      "message": "biljard"
+   },
+   "2874903004453257636": {
+      "message": "Tai Le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{# minuten geleden}=1{# minuut geleden}other{# minuten geleden}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Details weergeven$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Component$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Foutcode$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Bericht$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Kenmerken$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Regelafstand"
+   },
+   "2972646465175951960": {
+      "message": "Hexadecimale kleur"
+   },
+   "2976070904514926378": {
+      "message": "Wanneer je apparaat weer online is, wordt je Play Films-activiteit gesynchroniseerd. Je kunt deze film vervolgens bekijken op een ander apparaat."
+   },
+   "299212393546620995": {
+      "message": "Beschikbaar bij SD- of HD-aankoop"
+   },
+   "3001599311394934937": {
+      "message": "Kleur"
+   },
+   "3024031615064271409": {
+      "message": "Onzichtbaar vermenigvuldigingsteken"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Geometrische vormen"
+   },
+   "3076131322444154485": {
+      "message": "Muzikaal"
+   },
+   "3082451864182626107": {
+      "message": "Klein"
+   },
+   "3082728000817887688": {
+      "message": "Verbinding maken met apparaat"
+   },
+   "3090277567861361522": {
+      "message": "Muzieksymbool eind boogje"
+   },
+   "3090955389577626836": {
+      "message": "Presentatievorm voor verticaal streepje (12-punts letterbreedte)"
+   },
+   "3139446734703149686": {
+      "message": "Overige"
+   },
+   "3145479901031711697": {
+      "message": "Spellingcontrole"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "Het DRM-systeemspecifieke bericht is ongeldig."
+   },
+   "3151300615969236340": {
+      "message": "Omslagafbeelding van $WN_SHOW_TITLE$, aflevering $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Ideografische beschrijving"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dag}other{{TEXT} dagen}}"
+   },
+   "3194384156250789686": {
+      "message": "Afrikaanse schriften"
+   },
+   "3201110180818098584": {
+      "message": "Cham"
+   },
+   "3207692705529645309": {
+      "message": "Onzichtbaar scheidingsteken"
+   },
+   "321244849474197695": {
+      "message": "Morgen"
+   },
+   "3229124980345092092": {
+      "message": "Spatie (breedte nul)"
+   },
+   "322985691330688230": {
+      "message": "Er zijn geen resultaten voor je zoekopdracht."
+   },
+   "3230391931526221675": {
+      "message": "Opmaak"
+   },
+   "3232820577716196711": {
+      "message": "Afbeelding invoegen"
+   },
+   "3243505317143754724": {
+      "message": "Aangepast"
+   },
+   "3243750297590914955": {
+      "message": "Khmer klinkerteken inherent Aq"
+   },
+   "3247076985979796797": {
+      "message": "Grieks"
+   },
+   "3251309750789560433": {
+      "message": "Armeens koppelstreepje"
+   },
+   "3254567788720420543": {
+      "message": "."
+   },
+   "3256010424127814333": {
+      "message": "Muzieksymbool begin boogje"
+   },
+   "3256903505595292698": {
+      "message": "Inspringen verkleinen"
+   },
+   "3265250603400790440": {
+      "message": "Aan de slag"
+   },
+   "3281239119456770372": {
+      "message": "Cyrillisch"
+   },
+   "3289148576120895160": {
+      "message": "Kleine hoofdletters"
+   },
+   "3294214489713824609": {
+      "message": "Han 5-Stroke Radicals"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (foutcode: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Tekstkleur"
+   },
+   "332000134635733746": {
+      "message": "Bijsluiten"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min.",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Cypriotisch"
+   },
+   "3336445884996834318": {
+      "message": "Kan de videolicentie niet downloaden. Probeer het later opnieuw."
+   },
+   "3347761840855731301": {
+      "message": "De castsessie is niet beschikbaar. Vernieuw de pagina of probeer het later opnieuw."
+   },
+   "3351553150964917854": {
+      "message": "Variantkeuze"
+   },
+   "3355166016320182029": {
+      "message": "De licentie van deze video kan niet worden verkregen. Probeer het later opnieuw."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Interlineair annotatie-anker"
+   },
+   "3415775657739029002": {
+      "message": "Cijferspatie"
+   },
+   "3427321493644124084": {
+      "message": "Sterretjes/asterisken"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Zoeken naar '$ACTOR_NAME$'",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Wiskunde"
+   },
+   "3496221549802542517": {
+      "message": "Zeer klein"
+   },
+   "3499317959717425890": {
+      "message": "Ongedaan maken"
+   },
+   "3500807335769892741": {
+      "message": "Verbindingselement voor woorden"
+   },
+   "3508852687023675805": {
+      "message": "$NUM$ minuten geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normaal"
+   },
+   "3540495086170177505": {
+      "message": "Tv-programma's kopen"
+   },
+   "3546034467178790154": {
+      "message": "Subscript"
+   },
+   "355565230200681214": {
+      "message": "Volledige breedte koppelteken/min-teken"
+   },
+   "3560179919548880444": {
+      "message": "Achtergrondkleur"
+   },
+   "3593213843486034190": {
+      "message": "Opmaak"
+   },
+   "3596415344748536540": {
+      "message": "Bamum"
+   },
+   "3599005616661192177": {
+      "message": "Uit"
+   },
+   "3600868534694594413": {
+      "message": "Afbeelding"
+   },
+   "3614370613824040896": {
+      "message": "Deze video is gedownload naar het maximumaantal apparaten. Als je de video hier wilt afspelen of downloaden, verwijder je deze van een ander apparaat."
+   },
+   "3614813368690293135": {
+      "message": "Hebreeuwse interpunctie Maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Links-naar-rechts ingesloten"
+   },
+   "3650983100916004596": {
+      "message": "miljard"
+   },
+   "3652059248591982819": {
+      "message": "Han 3-Stroke Radicals"
+   },
+   "3652469401274752477": {
+      "message": "Inspringen vergroten"
+   },
+   "3653098733292921132": {
+      "message": "blrd"
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Er is een fout opgetreden bij het activeren van je gehuurde video. Vernieuw de pagina of probeer het later opnieuw."
+   },
+   "3709540316929878378": {
+      "message": "Geproduceerd door"
+   },
+   "3721275173574409786": {
+      "message": "Gereserveerd"
+   },
+   "3722812838665571404": {
+      "message": "Gekocht"
+   },
+   "3728552702457015750": {
+      "message": "Aankopen kunnen worden gedownload op maximaal vijf apparaten tegelijk. Als je deze video hier wilt downloaden, verwijder je alle downloads van een ander apparaat."
+   },
+   "3752083240065277436": {
+      "message": "Oriya"
+   },
+   "3808754582975714579": {
+      "message": "Deze video is op het maximumaantal apparaten gedownload. Als je deze hier wilt afspelen, moet je de video eerst van een ander apparaat verwijderen."
+   },
+   "3815693850657578096": {
+      "message": "Sharada"
+   },
+   "3826397878188995605": {
+      "message": "Je kunt deze film hier of op ondersteunde telefoons en tablets bekijken."
+   },
+   "3831022207582977943": {
+      "message": "Muzieksymbool eind frase"
+   },
+   "3846565521051999754": {
+      "message": "Er zijn te veel films gedownload op het apparaat. Verwijder enkele films. Als je denkt dat dit een fout is, neem je contact op met de klantenservice."
+   },
+   "3878153116309225131": {
+      "message": "Naar welke URL moet deze link verwijzen?"
+   },
+   "3878202445977233728": {
+      "message": "Voorkeur voor audio van hoge kwaliteit bij het downloaden van films of afleveringen voor offline weergave"
+   },
+   "3890590273177043325": {
+      "message": "Kenmerk '$REL_NO_FOLLOW$' toevoegen ($LINK_START$Meer informatie$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javaans"
+   },
+   "397098723873502323": {
+      "message": "Gereed"
+   },
+   "3990377875754602116": {
+      "message": "Han 6-Stroke Radicals"
+   },
+   "3992132733680288700": {
+      "message": "Tai Tham"
+   },
+   "4001637111049313831": {
+      "message": "Bevat 5.1-kanaals audio"
+   },
+   "4002348975328837413": {
+      "message": "Afspelen"
+   },
+   "4005427126456357141": {
+      "message": "$NUM$ dag geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Huren voor $PRICE_RENT$",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Cursief"
+   },
+   "4023151405827971137": {
+      "message": "Je computer bevat onvoldoende vrije ruimte om deze video te downloaden. Maak ruimte vrij en probeer het opnieuw."
+   },
+   "4024812820054201230": {
+      "message": "Fonologie (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Met"
+   },
+   "4050502316465597694": {
+      "message": "Syloti Nagri"
+   },
+   "406627050327127223": {
+      "message": "Downloadinstellingen"
+   },
+   "4068597226649219969": {
+      "message": "De video in de castsessie komt niet overeen met de gevraagde video."
+   },
+   "409370207508422421": {
+      "message": "Mijn tv-programma's"
+   },
+   "4115063437096532185": {
+      "message": "CJK Strokes"
+   },
+   "4146453603518633252": {
+      "message": "Films die je huurt of koopt in de Play Store, worden hier weergegeven."
+   },
+   "4147180678866875282": {
+      "message": "Seizoen $SEASON_NUMBER$",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Egyptische hiërogliefen"
+   },
+   "4165304946050965012": {
+      "message": "Inclusief $PURCHASE_TAX$ aan btw",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Gele tekst op blauwe achtergrond"
+   },
+   "4171449911657770848": {
+      "message": "Nieuw Tai Lue"
+   },
+   "4181834061497947522": {
+      "message": "FOUT: '$COLOR$' is geen geldige kleur.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Onderbreken"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "mln"
+   },
+   "4241565389203750613": {
+      "message": "Modifier"
+   },
+   "4242947662880926847": {
+      "message": "Miao"
+   },
+   "4258500568871377211": {
+      "message": "OK"
+   },
+   "4289161867449641226": {
+      "message": "Gedownloade film verwijderen?"
+   },
+   "4326728310335009890": {
+      "message": "Tai Viet"
+   },
+   "4327117004280518691": {
+      "message": "Shavian"
+   },
+   "4327135909829829353": {
+      "message": "Armeens"
+   },
+   "4327389288032644198": {
+      "message": "Chakma"
+   },
+   "4330118138352331494": {
+      "message": "Muzieksymbool begin balk"
+   },
+   "4365544241082610712": {
+      "message": "Oorspronkelijke taal van de video"
+   },
+   "4389982170398859731": {
+      "message": "Gangbaar"
+   },
+   "4414892686324469274": {
+      "message": "Audiotrack"
+   },
+   "4430021444843507791": {
+      "message": "Functietoepassing"
+   },
+   "4464935242536677493": {
+      "message": "Welk nummer is dit?"
+   },
+   "447254005463967829": {
+      "message": "Gekoppeld"
+   },
+   "4489533087577236543": {
+      "message": "Net uit beeld"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{# uur geleden}=1{# uur geleden}other{# uur geleden}}"
+   },
+   "4516988402150653150": {
+      "message": "Er ontbreekt een vereiste component. Ga op een ander browsertabblad naar chrome://components, klik op de knop 'Controleren op updates' voor de WidevineCdm-component en start de browser opnieuw zodra de status 'Component geüpdatet' wordt weergegeven."
+   },
+   "4524440614927500782": {
+      "message": "Sans Serif - proportioneel"
+   },
+   "4530344539930689918": {
+      "message": "Ogham spatieteken"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Zoeken"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ bij $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Huren"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{over # minuten}=1{over # minuut}other{over # minuten}}"
+   },
+   "463873241822657784": {
+      "message": "Golvend koppelstreepje"
+   },
+   "464267706146568699": {
+      "message": "Lao"
+   },
+   "4654657327320140306": {
+      "message": "Superscript"
+   },
+   "4658723167166809016": {
+      "message": "Middelgrote wiskundige spatie"
+   },
+   "4661634374225039228": {
+      "message": "Alineascheidingsteken"
+   },
+   "467915794683941071": {
+      "message": "Aflevering $EPISODE_NUMBER$, $EPISODE_TITLE$ afspelen.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongools"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{# dagen geleden}=1{# dag geleden}other{# dagen geleden}}"
+   },
+   "4712209269320332893": {
+      "message": "Extra's"
+   },
+   "4716710616284048819": {
+      "message": "Een tabel met de gegevens uit het diagram."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuut}other{{TEXT} minuten}}"
+   },
+   "4725762888646270913": {
+      "message": "$WN_SHOW_TITLE$, aflevering $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$ afspelen",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Dubbel ondoorzichtig koppelteken"
+   },
+   "4762347778259393153": {
+      "message": "Minder gebruikelijk"
+   },
+   "4800386880747162133": {
+      "message": "Er is een tijdelijke serverfout opgetreden. Probeer het later opnieuw."
+   },
+   "4822858567120963779": {
+      "message": "Zoekresultaten voor '$SEARCH_QUERY$'",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Deze video is gedownload naar het maximumaantal apparaten. Als je de video hier wilt afspelen of downloaden, verwijder je deze van een ander apparaat."
+   },
+   "48271036515889672": {
+      "message": "Ongeldige castsessie. Vernieuw de pagina of probeer het later opnieuw."
+   },
+   "4831214862800127209": {
+      "message": "De video in de castsessie komt niet overeen met de gevraagde video."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogham"
+   },
+   "4871903967361312376": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "4875958436183735304": {
+      "message": "Slagschaduw rechts"
+   },
+   "4906346168276586100": {
+      "message": "Het DRM-systeemspecifieke bericht is ongeldig."
+   },
+   "491995769371858733": {
+      "message": "Geen"
+   },
+   "4920312719509022176": {
+      "message": "Lettertype"
+   },
+   "4930506384627295710": {
+      "message": "Instellingen"
+   },
+   "4933409796062109057": {
+      "message": "$DOWNLOAD_PROGRESS$% gedownload. Klik om te annuleren.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Hangul-opvulteken"
+   },
+   "4950037820737346052": {
+      "message": "Halve breedte Hangul-opvulteken"
+   },
+   "4968001688305770755": {
+      "message": "Door op '$OFFER_TYPE$' te klikken, ga je akkoord met de",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Link naar:"
+   },
+   "500501967044040199": {
+      "message": "Items"
+   },
+   "5011669227045570891": {
+      "message": "Horizontale balk"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Op een apparaat kunnen maximaal drie accounts tegelijk gedownloade video's bevatten. Als je deze video hier wilt downloaden, moet je alle downloads uit een ander account verwijderen."
+   },
+   "5048838621444724614": {
+      "message": "Deze video is op het maximumaantal apparaten gedownload. Als je deze hier wilt downloaden, moet je de video eerst van een ander apparaat verwijderen."
+   },
+   "5056334923803362149": {
+      "message": "Toegang tot deze video is verboden."
+   },
+   "5057747709360994470": {
+      "message": "miljoen"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Hangul Jungseong-opvulteken"
+   },
+   "5089553823126293996": {
+      "message": "Annuleren"
+   },
+   "5135948647887912891": {
+      "message": "$ASSET_TITLE$ is toegevoegd aan je bibliotheek.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Verbindingselement (breedte nul)"
+   },
+   "5145175165902220114": {
+      "message": "Canadees syllabisch koppelstreepje"
+   },
+   "5161805074897471162": {
+      "message": "De Chrome-app voor Google Play Films wordt niet ondersteund op Windows XP of lager. Probeer het opnieuw met Windows Vista of hoger, Mac, Linux of Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "Tifinagh"
+   },
+   "5176392387315400391": {
+      "message": "Geen gegevens"
+   },
+   "5179659870501454485": {
+      "message": "Een betaalmethode toevoegen"
+   },
+   "5184276027321226501": {
+      "message": "E-mailadres"
+   },
+   "5194883651451379462": {
+      "message": "Kopen"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Feedback over Play Films"
+   },
+   "5209758796360312502": {
+      "message": "Spijkerschrift"
+   },
+   "5216466426869773105": {
+      "message": "Pahlavi uit inscripties"
+   },
+   "522508588411648848": {
+      "message": "Bekijk $STORE_LINK_TITLE$ in de Play Store.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Muzieksymbool begin frase"
+   },
+   "524096672349210886": {
+      "message": "Vervoer en kaarten"
+   },
+   "5241676005655672226": {
+      "message": "Han 9-Stroke Radicals"
+   },
+   "5241820237010230531": {
+      "message": "Vai"
+   },
+   "5252668631265690404": {
+      "message": "Overig"
+   },
+   "52534048856251312": {
+      "message": "Feedback verzenden"
+   },
+   "5255871588113212604": {
+      "message": "Geen suggesties"
+   },
+   "5261311595095150702": {
+      "message": "Muzieksymbool eind legatoteken"
+   },
+   "5261596970471311774": {
+      "message": "Groot"
+   },
+   "5281671802836592116": {
+      "message": "Serif - proportioneel"
+   },
+   "5293326322671103002": {
+      "message": "Laden op $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "$CURRENT_TIME$ van $DURATION$ bekeken",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Hanunoo"
+   },
+   "5438255274292242922": {
+      "message": "Technisch"
+   },
+   "5439710597412767794": {
+      "message": "Deze video is op het maximumaantal apparaten gedownload. Als je deze hier wilt downloaden, moet je de video eerst van een ander apparaat verwijderen."
+   },
+   "545021630455133011": {
+      "message": "Koptisch"
+   },
+   "5461901018141989680": {
+      "message": "Arabisch einde van Ayah"
+   },
+   "5484073037133610477": {
+      "message": "Buginees"
+   },
+   "5490715514416345531": {
+      "message": "Witte tekst op zwarte achtergrond"
+   },
+   "54946385235790268": {
+      "message": "De film kan niet worden verwijderd vanwege een systeemfout. Neem contact op met de klantenservice of verzend feedback vanuit het instellingenmenu."
+   },
+   "5496646217073800560": {
+      "message": "Cijfer"
+   },
+   "5505627655067167147": {
+      "message": "Naar welk e-mailadres moet deze link verwijzen?"
+   },
+   "5515365680802763380": {
+      "message": "Het afspelen is gestopt omdat deze video is afgespeeld op te veel apparaten. Wacht 24 uur voordat je deze video opnieuw afspeelt."
+   },
+   "5527963094685167949": {
+      "message": "Er zijn momenteel problemen bij het afspelen van deze video. Vernieuw deze pagina."
+   },
+   "5548738790581121863": {
+      "message": "Het account heeft de contractuele beperkingen voor het aantal apparaatdeactiveringen bereikt. Als je denkt dat dit een fout is, neem je contact op met de klantenservice."
+   },
+   "556303983072423917": {
+      "message": "De film kan niet worden gedownload omdat de auteursrechteigenaar offline weergave verbiedt."
+   },
+   "5568872195580328526": {
+      "message": "Verbonden met $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Onderbroken."
+   },
+   "5625642025808759710": {
+      "message": "Zuid-Oost Aziatische schriften"
+   },
+   "5649689590162845077": {
+      "message": "Beschrijving uitvouwen of samenvouwen"
+   },
+   "568365569990952204": {
+      "message": "Laden..."
+   },
+   "5690743679710570538": {
+      "message": "Doorgaan"
+   },
+   "5699299130874036286": {
+      "message": "Gefeliciteerd!"
+   },
+   "5701676109334495247": {
+      "message": "De aankoop van deze video is terugbetaald. Koop of huur de video opnieuw als je deze wilt bekijken."
+   },
+   "5739753659630714071": {
+      "message": "Achtergrondkleur tekst"
+   },
+   "5740091738966096065": {
+      "message": "Je hebt momenteel geen inhoud gedownload voor offline gebruik. Ga online en download inhoud uit je bibliotheek om deze offline te bekijken."
+   },
+   "57403663622654391": {
+      "message": "Opslag"
+   },
+   "5758941098755146708": {
+      "message": "Link toevoegen of verwijderen"
+   },
+   "5765285425521589331": {
+      "message": "Vervoer, kaarten en bewegwijzering"
+   },
+   "5773223913514548808": {
+      "message": "Er is een fout opgetreden bij het inloggen op je account. Controleer of je bent ingelogd bij Chrome door naar chrome://chrome-signin/ te gaan en vervolgens de app opnieuw te starten."
+   },
+   "5793916253768843563": {
+      "message": "De afbeelding die je probeert te slepen, is geblokkeerd door de hostsite."
+   },
+   "5818819286276765821": {
+      "message": "Buhid"
+   },
+   "5823773924892832157": {
+      "message": "Witregels"
+   },
+   "5831261098398725527": {
+      "message": "Citaat"
+   },
+   "5843775533846981999": {
+      "message": "Bekijk films via Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Onderbroken. $EVAL_1$ min. resterend.}other{Onderbroken. $EVAL_2$ min. resterend.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Omslagafbeelding van $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "HTML-bron bewerken"
+   },
+   "5884014452536244885": {
+      "message": "Gratis tv-afleveringen downloaden"
+   },
+   "5889420664241962721": {
+      "message": "De Google Play Films-app voor Chrome wordt alleen ondersteund in Chrome versie 34 of hoger. Zorg ervoor dat Chrome volledig is bijgewerkt."
+   },
+   "5891242694179659653": {
+      "message": "Deze link testen"
+   },
+   "5911102149852781948": {
+      "message": "Opmaak voor schrijfrichting herstellen"
+   },
+   "5924149156142134621": {
+      "message": "De server kan het rootcertificaat niet accepteren dat is gebruikt voor communicatie. Probeer het later opnieuw."
+   },
+   "592520084270766310": {
+      "message": "Thai"
+   },
+   "5931872839329863827": {
+      "message": "Zwarte tekst op witte achtergrond"
+   },
+   "593622950044400136": {
+      "message": "Normaal"
+   },
+   "5961302828987058223": {
+      "message": "Pijlen"
+   },
+   "5970051322674660677": {
+      "message": "De castsessie is verlopen. Verbreek de verbinding en probeer het opnieuw."
+   },
+   "5984875596889567804": {
+      "message": "De film kan niet worden verwijderd vanwege een systeemfout. Neem contact op met de klantenservice of verzend feedback vanuit het instellingenmenu."
+   },
+   "6003902003271431273": {
+      "message": "Verwijderen"
+   },
+   "6005860289879017562": {
+      "message": "Er zijn momenteel problemen bij het afspelen van deze video. Probeer het later opnieuw."
+   },
+   "6014354480663192727": {
+      "message": "Tv-programma's die je koopt in de Play Store, worden hier weergegeven."
+   },
+   "6034340809890392304": {
+      "message": "Films kopen"
+   },
+   "6060953217197345552": {
+      "message": "Canadees Aboriginal"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Toch uitvoeren"
+   },
+   "6084972307281346150": {
+      "message": "Numeriek Kaithi-teken"
+   },
+   "6105544360205581717": {
+      "message": "Annuleren"
+   },
+   "6122892080995252667": {
+      "message": "Opmaak en witregels"
+   },
+   "6137797587633467697": {
+      "message": "Meroïtisch cursief"
+   },
+   "6155475143120453982": {
+      "message": "0 minuten"
+   },
+   "6190120025272183060": {
+      "message": "Markeringen"
+   },
+   "6193238841287195586": {
+      "message": "Geschreven door"
+   },
+   "6222709653953533319": {
+      "message": "Tekstkleur"
+   },
+   "6232382505914187032": {
+      "message": "Gratis afleveringen downloaden"
+   },
+   "6245954250506012649": {
+      "message": "Verhuur"
+   },
+   "6247516545605893720": {
+      "message": "Feedback verzenden"
+   },
+   "6248269670479966135": {
+      "message": "Toetsenbord en UI"
+   },
+   "6252201064611373493": {
+      "message": "Kaarten weergeven"
+   },
+   "6270812530472396287": {
+      "message": "Vandaag"
+   },
+   "6272228095428812454": {
+      "message": "Tagalog"
+   },
+   "6279370317435309772": {
+      "message": "Avestisch"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Weet je niet zeker wat je in het vak moet zetten?$END_BOLD$ Zoek eerst de pagina waarnaar je een link wilt opnemen. (Een $SEARCH_ENGINE_LINK$zoekmachine$END_LINK$ kan hierbij handig zijn.) Kopieer vervolgens het webadres vanuit het vak in de adresbalk van je browser en plak dit in het bovenstaande vak.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Afspelen"
+   },
+   "6335175380341340581": {
+      "message": "Het apparaat in de castsessie komt niet overeen met het gevraagde apparaat."
+   },
+   "6343010841347906907": {
+      "message": "over $NUM$ dag",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Compatibiliteit"
+   },
+   "6350391521435965588": {
+      "message": "Gereserveerd"
+   },
+   "6352913008658578632": {
+      "message": "Zacht koppelteken"
+   },
+   "6363122915809877223": {
+      "message": "Slagschaduw links"
+   },
+   "6371465733575496232": {
+      "message": "Midden-Oosterse schriften"
+   },
+   "6405814875010182725": {
+      "message": "De server kan het rootcertificaat niet accepteren dat is gebruikt voor communicatie. Probeer het later opnieuw."
+   },
+   "6407996489854784042": {
+      "message": "Link bewerken"
+   },
+   "6414884042279967640": {
+      "message": "ongeldige URL"
+   },
+   "6425847105595230473": {
+      "message": "Negeren"
+   },
+   "6432298456231736850": {
+      "message": "Google Play Films"
+   },
+   "6440344606961499591": {
+      "message": "Lycisch"
+   },
+   "6456384515113758910": {
+      "message": "Meer lezen"
+   },
+   "6456933929616370051": {
+      "message": "Woord bewerken"
+   },
+   "6479123880196723568": {
+      "message": "Cursief"
+   },
+   "6496283442053180405": {
+      "message": "Van links naar rechts"
+   },
+   "6501155781262627001": {
+      "message": "Er zijn in de periode van 24 uur te veel apparaten/IP-adressen gebruikt. Gebruik een van de eerder gebruikte apparaten of probeer het later opnieuw."
+   },
+   "6508375652910000957": {
+      "message": "Geen spatiëring"
+   },
+   "6536020395223120161": {
+      "message": "Fout"
+   },
+   "6546669593466967671": {
+      "message": "Rekenen - Alfanumeriek"
+   },
+   "6551745305926008747": {
+      "message": "Reserveren"
+   },
+   "6554134808157634636": {
+      "message": "Lineair B"
+   },
+   "656481501116924913": {
+      "message": "Het afspelen is gestopt omdat deze video is afgespeeld op te veel apparaten. Wacht 24 uur voordat je deze video opnieuw afspeelt."
+   },
+   "6569656063466645753": {
+      "message": "Ondertiteling"
+   },
+   "6602025155112861839": {
+      "message": "Brahmi"
+   },
+   "6621933208862353132": {
+      "message": "Deze video is niet beschikbaar in jouw land."
+   },
+   "6625801467720528503": {
+      "message": "Oud-Perzisch"
+   },
+   "6629216961322187103": {
+      "message": "Opslaan"
+   },
+   "6633629616609262609": {
+      "message": "Je kunt je instellingen later wijzigen in de $START_TAG_19$app-instellingen$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Overige Europese schriften"
+   },
+   "6651639811736683845": {
+      "message": "Mijn films"
+   },
+   "6661681603632549986": {
+      "message": "Ondertiteling"
+   },
+   "6667667434733000643": {
+      "message": "Bevat infokaarten"
+   },
+   "6677363386267424723": {
+      "message": "$MOVIE_TITLE$ afspelen",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Koop $MOVIE_TITLE$ voor $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Lettergrootte"
+   },
+   "677905689563333998": {
+      "message": "Het afspelen is gestopt omdat er te veel video's worden afgespeeld die horen bij hetzelfde account. Stop het afspelen van een aantal video's en probeer het opnieuw."
+   },
+   "679571059806777318": {
+      "message": "Thaana"
+   },
+   "6810753777984126315": {
+      "message": "Deseret"
+   },
+   "6827910084162380306": {
+      "message": "Het apparaat in de castsessie komt niet overeen met het gevraagde apparaat."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} uur}other{{TEXT} uur}}"
+   },
+   "6851957197139570861": {
+      "message": "Deze video is niet beschikbaar in je land."
+   },
+   "6853191352018412040": {
+      "message": "Balinees"
+   },
+   "6855074016004156398": {
+      "message": "HTML bewerken"
+   },
+   "6860315656437719971": {
+      "message": "Deze film is al gedownload op het apparaat. Controleer andere accounts op dit apparaat."
+   },
+   "6875483133393301003": {
+      "message": "Overige Oost-Aziatische schriften"
+   },
+   "6883682454262090493": {
+      "message": "Kies een interessante film in de Play Store en ontspan en geniet met de Play Films-app voor Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Extra groot"
+   },
+   "6896826577403437656": {
+      "message": "Koppelteken/min-teken"
+   },
+   "6902004800313673513": {
+      "message": "Gedraaid/gespiegeld"
+   },
+   "6964937916732516478": {
+      "message": "Normaal"
+   },
+   "696905759309523016": {
+      "message": "Kies een geweldige film of een geweldig tv-programma in de Play Store en ontspan en geniet met de Play Films-app voor Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Als je de film verwijdert, kun je deze alleen bekijken op je apparaat als je online bent."
+   },
+   "6989393626433450594": {
+      "message": "Phagspa"
+   },
+   "7012766363608830434": {
+      "message": "Onzichtbaar plusteken"
+   },
+   "7024834031644866926": {
+      "message": "Hulp vragen"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "$NUM$ uur geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Als je de aflevering verwijdert, kun je deze alleen bekijken op je apparaat als je online bent."
+   },
+   "7094242414651579769": {
+      "message": "Aanbevolen voor jou"
+   },
+   "7101065047913928628": {
+      "message": "Nko"
+   },
+   "711332449732375422": {
+      "message": "Alle"
+   },
+   "7119313535591306971": {
+      "message": "Oud-Syrisch"
+   },
+   "7133753811730291503": {
+      "message": "Redjang"
+   },
+   "7134932904164509880": {
+      "message": "Audio en ondertiteling"
+   },
+   "7142370112218882473": {
+      "message": "Cijfer-koppelstreepje"
+   },
+   "7143481033215693523": {
+      "message": "Fenicisch"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{over # dagen}=1{over # dag}other{over # dagen}}"
+   },
+   "7166131491680306441": {
+      "message": "Vet"
+   },
+   "717756764917242379": {
+      "message": "Er zijn dit jaar te veel resets door de klantenservice uitgevoerd voor je account."
+   },
+   "7209204842613884996": {
+      "message": "Cherokee"
+   },
+   "7217613154757397815": {
+      "message": "Tussenkop"
+   },
+   "7222798856864539991": {
+      "message": "Emoticons"
+   },
+   "7231513918080506880": {
+      "message": "Fout bij afspelen van video"
+   },
+   "7233133314598482636": {
+      "message": "Symbool"
+   },
+   "7237310906976510879": {
+      "message": "Verificatiefout"
+   },
+   "7254769271789170667": {
+      "message": "Rechts-naar-links opheffen"
+   },
+   "7271563194657138998": {
+      "message": "Begin met een gratis aflevering uit de Play Store en bekijk deze onmiddellijk met de Play Films-app voor Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Koopovereenkomst niet gevonden."
+   },
+   "7333054716894862082": {
+      "message": "Uitvullen"
+   },
+   "7352037235710614813": {
+      "message": "Geregisseerd door"
+   },
+   "7379356741388986662": {
+      "message": "Winkelen"
+   },
+   "738294154320637123": {
+      "message": "Meitei Mayek"
+   },
+   "7403213530684675547": {
+      "message": "De film kan niet worden verwijderd omdat deze op een ander apparaat is gedownload. Verwijder die versie eerst."
+   },
+   "7423355034259912329": {
+      "message": "De film is al gestopt."
+   },
+   "742861914041471563": {
+      "message": "Links uitlijnen"
+   },
+   "7431208184373206966": {
+      "message": "Groot"
+   },
+   "7436129358876453178": {
+      "message": "Han 2-Stroke Radicals"
+   },
+   "7443523425660741023": {
+      "message": "De film kan niet worden verwijderd omdat deze op een ander apparaat is gedownload. Verwijder die eerst."
+   },
+   "7444530187008825696": {
+      "message": "Deze link kan niet worden getest."
+   },
+   "7445716324927695719": {
+      "message": "$DOWNLOADED_TITLE$ gedownload. Klik om te verwijderen.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Verbinding verbreken"
+   },
+   "7499894239558451540": {
+      "message": "Ja"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Er is een serverfout opgetreden. Probeer het later opnieuw."
+   },
+   "754389774434351130": {
+      "message": "Mongoolse klinkerseparator"
+   },
+   "7545663607980395021": {
+      "message": "De castsessie is niet beschikbaar. Vernieuw de pagina of probeer het later opnieuw."
+   },
+   "7559531330043741601": {
+      "message": "Centreren"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (aantal)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangul Choseong-opvulteken"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Wees voorzichtig.$POSTB$ Vergeet niet dat elke keer dat je een e-mailadres toevoegt aan een webpagina, vervelende spammers het e-mailadres ook kunnen vinden.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Beweeg over elke cel voor de tekennaam."
+   },
+   "7628853095173216399": {
+      "message": "Log in om verder te kijken."
+   },
+   "7628997973779702278": {
+      "message": "$DOWNLOAD_TITLE$ downloaden",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Trailer afspelen"
+   },
+   "7644195558431380264": {
+      "message": "Verhoogd"
+   },
+   "7656269245189992953": {
+      "message": "Geen"
+   },
+   "765644786799307419": {
+      "message": "4-per-em-spatie"
+   },
+   "7661273651737426088": {
+      "message": "Vast koppelteken"
+   },
+   "7671671293660378394": {
+      "message": "Vaste spatie"
+   },
+   "7687757766363784951": {
+      "message": "Recente selecties:"
+   },
+   "7704099115712609154": {
+      "message": "Instellingen"
+   },
+   "7707854987324577924": {
+      "message": "Vaste spatie (breedte nul)"
+   },
+   "7721864005040197774": {
+      "message": "Objecten"
+   },
+   "7735652872804202135": {
+      "message": "Video's afspelen in mijn apparaattaal, indien beschikbaar"
+   },
+   "7776630049782874310": {
+      "message": "Op een apparaat kunnen maximaal drie accounts tegelijk gedownloade video's bevatten. Als je deze video hier wilt downloaden, moet je alle downloads uit een ander account verwijderen."
+   },
+   "779039068486648656": {
+      "message": "Je browser biedt geen ondersteuning voor diagrammen"
+   },
+   "7792182371277036944": {
+      "message": "Nu kijken"
+   },
+   "7807783089931705706": {
+      "message": "Voorinstellingen"
+   },
+   "7825923098003586011": {
+      "message": "Meroïtische hiërogliefen"
+   },
+   "7835136621565821438": {
+      "message": "Parthisch uit inscripties"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ min.",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Deze film is al gedownload op het apparaat. Controleer andere accounts op dit apparaat."
+   },
+   "7872307517743373476": {
+      "message": "Ongeldige castsessie. Vernieuw de pagina of probeer het later opnieuw."
+   },
+   "7873756658795212081": {
+      "message": "verloopt over $EVAL_1$ dagen",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ in de Play Store",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "p.m."
+   },
+   "7918520961628671120": {
+      "message": "Toegang tot deze video is niet toegestaan."
+   },
+   "791855806965154343": {
+      "message": "Batak"
+   },
+   "7926689704723702466": {
+      "message": "biljard"
+   },
+   "7933902915184371880": {
+      "message": "Carisch"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Onderbroken. $EVAL_1$ sec. resterend.}other{Onderbroken. $EVAL_2$ sec. resterend.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Amerikaanse scripts"
+   },
+   "7943286917138037388": {
+      "message": "En-streepje"
+   },
+   "7952530065274028271": {
+      "message": "Bekijk details over $WN_SHOW_TITLE$, aflevering $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "verloopt over $EVAL_1$ uur",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamil"
+   },
+   "7978764644554853286": {
+      "message": "over $NUM$ minuut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Han 1-Stroke Radicals"
+   },
+   "7985246120023271230": {
+      "message": "De huurperiode van deze video is afgelopen. Koop of huur de video opnieuw als je deze wilt bekijken."
+   },
+   "7991898653680244970": {
+      "message": "Latijn-1 - Uitgebreid"
+   },
+   "7993302948330451962": {
+      "message": "Myanmar"
+   },
+   "7993967737532196015": {
+      "message": "Waarderingscijfer $VIEWER_RATING$ van 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Gedownloade aflevering verwijderen?"
+   },
+   "8013309308261303688": {
+      "message": "Films kopen"
+   },
+   "8018308926864382762": {
+      "message": "Oudsyrisch afkortingsteken"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Verlaagd"
+   },
+   "8039844141475995654": {
+      "message": "over $NUM$ minuten",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Runeschrift"
+   },
+   "8042716985296303990": {
+      "message": "Opmaak"
+   },
+   "8042730852758398655": {
+      "message": "Audiotaal"
+   },
+   "8062522779459151420": {
+      "message": "Opmaak verwijderen"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "ID"
+   },
+   "8101733308672950303": {
+      "message": "Ondertiteling ziet er zo uit"
+   },
+   "8132424293432274889": {
+      "message": "Terug"
+   },
+   "8134822873948566976": {
+      "message": "Meer afleveringen downloaden"
+   },
+   "8153387349716171448": {
+      "message": "Deze video is op het maximumaantal apparaten gedownload. Als je deze hier wilt afspelen, moet je de video eerst van een ander apparaat verwijderen."
+   },
+   "8161910726112545534": {
+      "message": "Klein koppelteken/min-teken"
+   },
+   "8167719451188045081": {
+      "message": "Verdelingselement (breedte nul)"
+   },
+   "8175552949837381315": {
+      "message": "Sluiten"
+   },
+   "8176183622289427250": {
+      "message": "Kies een geweldige film in de Play Store en ontspan en geniet met de Play Films-app voor Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Muzieksymbool eind balk"
+   },
+   "8182154803169715176": {
+      "message": "Valuta"
+   },
+   "8188276694329647401": {
+      "message": "miljoen"
+   },
+   "8203155312190167416": {
+      "message": "Gratis afleveringen downloaden"
+   },
+   "8204709243856731897": {
+      "message": "Het account heeft de contractuele beperkingen voor het aantal apparaatdeactiveringen bereikt. Als je denkt dat dit een fout is, neem je contact op met de klantenservice."
+   },
+   "8209649773417809069": {
+      "message": "Serif - monospace"
+   },
+   "8223592563721543961": {
+      "message": "Rechts-naar-links-teken (RLM)"
+   },
+   "8229110080399300640": {
+      "message": "Lydisch"
+   },
+   "825047260879284602": {
+      "message": "Aangepaste kleur invoeren, bijv. roze, #F00, #D015FF of rgb(100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "Osmanya"
+   },
+   "8303685272985764664": {
+      "message": "Vierkant (em-spatie)"
+   },
+   "8316357291574004120": {
+      "message": "Afspelen wordt niet ondersteund op dit apparaat."
+   },
+   "8317092845662281711": {
+      "message": "Audio"
+   },
+   "8317239070847268844": {
+      "message": "biljoen"
+   },
+   "8356754494097778995": {
+      "message": "Rechts-naar-links ingesloten"
+   },
+   "836493064290964717": {
+      "message": "Han 7-Stroke Radicals"
+   },
+   "8367205574605681054": {
+      "message": "Contact"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{over # uur}=1{over # uur}other{over # uur}}"
+   },
+   "838631802941302770": {
+      "message": "Kharoshthi"
+   },
+   "8387836334671661814": {
+      "message": "Normaal"
+   },
+   "8406794425024838870": {
+      "message": "Video's afspelen in de oorspronkelijke taal, indien beschikbaar"
+   },
+   "8415457571769345476": {
+      "message": "Gurmukhi"
+   },
+   "8432592301984570372": {
+      "message": "Kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Films"
+   },
+   "8439955599488894226": {
+      "message": "Privacybeleid"
+   },
+   "8440105734244130524": {
+      "message": "Bevat ondertiteling"
+   },
+   "8440128775129354214": {
+      "message": "Privacy"
+   },
+   "8440161680481095392": {
+      "message": "Sora Sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Interlineair annotatie-scheidingsteken"
+   },
+   "8468046265986853572": {
+      "message": "Klein em-streepje"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Informatie over acteurs en muzieknummers weergeven als het afspelen is onderbroken"
+   },
+   "8480915536260760621": {
+      "message": "Lijnscheidingsteken"
+   },
+   "8483017128806448808": {
+      "message": "Han - Overig"
+   },
+   "8484953793514450798": {
+      "message": "Kan deze video niet downloaden"
+   },
+   "8496572760621552382": {
+      "message": "Afbeeldingen besturingselement"
+   },
+   "8504288534013316809": {
+      "message": "Altijd deze app gebruiken om inhoud van Play Films af te spelen op dit apparaat."
+   },
+   "8533646618757813590": {
+      "message": "Soendanees"
+   },
+   "8540686664487399786": {
+      "message": "Keizerlijk Aramees"
+   },
+   "854429928571549912": {
+      "message": "Kannada"
+   },
+   "8544418813868326219": {
+      "message": "Subkop"
+   },
+   "8561163275403408048": {
+      "message": "HD of SD kiezen"
+   },
+   "8562537001029340643": {
+      "message": "En-spatie"
+   },
+   "8562629041340204805": {
+      "message": "Lijst met opsommingtekens"
+   },
+   "8564202903947049539": {
+      "message": "Afspelen"
+   },
+   "8595279472837556966": {
+      "message": "Deze video kan niet worden gevonden."
+   },
+   "8598425882608097102": {
+      "message": "Saurashtra"
+   },
+   "8614813208619876018": {
+      "message": "Deze link in een nieuw venster openen"
+   },
+   "8620014669054622585": {
+      "message": "Superscript"
+   },
+   "8654580154537063858": {
+      "message": "Streepje/koppelteken"
+   },
+   "8683517921317388539": {
+      "message": "Infokaarttabel uitvouwen"
+   },
+   "8686061785869890050": {
+      "message": "Links-naar-rechts-teken (LRM)"
+   },
+   "8721105090660343056": {
+      "message": "Samaritaans"
+   },
+   "8751395052938425392": {
+      "message": "Anders"
+   },
+   "8756624200843285720": {
+      "message": "Normaal/serif"
+   },
+   "875775686870257693": {
+      "message": "Khmer klinkerteken inherent Aa"
+   },
+   "8784627238941457153": {
+      "message": "Van rechts naar links"
+   },
+   "8785585428177743106": {
+      "message": "Arabisch teken Safha"
+   },
+   "8788046284717061808": {
+      "message": "Mongools zacht koppelteken"
+   },
+   "8815814381380608540": {
+      "message": "Nee"
+   },
+   "8834132438727381257": {
+      "message": "Bekijk films in HD-kwaliteit op je laptop, Chromecast, Roku en de meeste Android-apparaten. HD-aankopen worden elders in SD-kwaliteit afgespeeld. $START_TAG_1$Meer informatie$END_TAG_1$",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Op basis van ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Webadres"
+   },
+   "8894457765459513654": {
+      "message": "Link"
+   },
+   "8917983075453481180": {
+      "message": "Presentatievorm voor verticaal streepje (gemiddelde letterbreedte)"
+   },
+   "8919720204772722134": {
+      "message": "Weer te geven tekst:"
+   },
+   "8921884278179224689": {
+      "message": "Servicevoorwaarden van Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Vandaag"
+   },
+   "892438729140054354": {
+      "message": "Glagolitisch"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malayalam"
+   },
+   "8945516772470397544": {
+      "message": "Hebreeuws"
+   },
+   "8975694361063929758": {
+      "message": "Download annuleren…"
+   },
+   "900213554674035877": {
+      "message": "Waarschuwing: niet-ondersteund platform"
+   },
+   "9003255502339267646": {
+      "message": "Oudturks"
+   },
+   "9006212563579865934": {
+      "message": "Er is een tijdelijke serverfout opgetreden. Probeer het later opnieuw."
+   },
+   "9007600562969287199": {
+      "message": "Annuleren"
+   },
+   "9009756347438736077": {
+      "message": "Emoji"
+   },
+   "9039190587572892203": {
+      "message": "Feedbackdialoogvenster geopend."
+   },
+   "9058407001544582930": {
+      "message": "Braille"
+   },
+   "9082286440748444032": {
+      "message": "Rechts uitlijnen"
+   },
+   "9119571405974007627": {
+      "message": "Klik om over te schakelen naar volledig scherm"
+   },
+   "9129936585862826417": {
+      "message": "Katakana-Hiragana dubbel koppelteken"
+   },
+   "9133561684694194118": {
+      "message": "Han 8-Stroke Radicals"
+   },
+   "9140663398525770181": {
+      "message": "$NUM$ dagen geleden",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ afleveringen",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Oud-Italisch"
+   },
+   "9157868620634436826": {
+      "message": "Anonieme gebruiksstatistieken van Play Films op dit apparaat verzenden naar Google"
+   },
+   "9169327677828809572": {
+      "message": "Onderstrepen"
+   },
+   "9187708289836789739": {
+      "message": "Geslacht en genealogisch"
+   },
+   "9191795572559844778": {
+      "message": "Latijn"
+   },
+   "9199894931939214644": {
+      "message": "Het afspelen is gestopt omdat er te veel video's worden afgespeeld die horen bij hetzelfde account. Stop het afspelen van een aantal video's en probeer het opnieuw."
+   },
+   "936850558951011636": {
+      "message": "over $NUM$ dagen",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "biljoen"
+   },
+   "964943437084290735": {
+      "message": "3-per-em-spatie"
+   },
+   "968485661339291047": {
+      "message": "verloopt over één dag"
+   },
+   "969796838380220069": {
+      "message": "Interpunctie"
+   },
+   "992901664798536243": {
+      "message": "Hexadecimale invoer"
+   },
+   "996885966963281379": {
+      "message": "Links-naar-rechts opheffen"
+   },
+   "998767118090785897": {
+      "message": "over $NUM$ uur",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

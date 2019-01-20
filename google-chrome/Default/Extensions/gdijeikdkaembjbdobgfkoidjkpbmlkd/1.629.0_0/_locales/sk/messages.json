@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Uzatvorené/bodkované"
+   },
+   "1070809808108857931": {
+      "message": "Pred $NUM$ minútou",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Odkaz na stránku alebo súbor v inom webovom umiestnení"
+   },
+   "1102310712956565239": {
+      "message": "Licencie open source"
+   },
+   "1130652265542107236": {
+      "message": "Vek"
+   },
+   "1134649645976473070": {
+      "message": "Arabčina – znak čísla"
+   },
+   "1142417372321533593": {
+      "message": "Radikály znakov Han – 11..17 ťahov"
+   },
+   "1147656502873524992": {
+      "message": "Bengálské písmo"
+   },
+   "1163524414906063407": {
+      "message": "Vlnovka"
+   },
+   "1180214318241646187": {
+      "message": "Dévanágarí"
+   },
+   "1201655285096694629": {
+      "message": "Pridajte spôsob platby na dokončenie nákupu"
+   },
+   "1208097920246951223": {
+      "message": "Písmo yi"
+   },
+   "12190752990595538": {
+      "message": "Obrys"
+   },
+   "1237413374221837088": {
+      "message": "Prehrávanie sa zastavilo, pretože toto video sa začalo prehrávať na inom zariadení. Video si môžete znova prehrať po tom, ako zastavíte jeho prehrávanie na inom zariadení."
+   },
+   "123775052533814018": {
+      "message": "Gruzínčina"
+   },
+   "1257931524938240638": {
+      "message": "Pozrieť"
+   },
+   "1297025664516669951": {
+      "message": "mld."
+   },
+   "1305766628630415604": {
+      "message": "Počasie, scény a znamenia zverokruhu"
+   },
+   "1310971928430788285": {
+      "message": "Arabský znak Sanah"
+   },
+   "1347269818800657320": {
+      "message": "1 epizóda"
+   },
+   "1358234736811100710": {
+      "message": "Gudžarátské písmo"
+   },
+   "1361445704105826758": {
+      "message": "Vlasová medzera"
+   },
+   "1364333963472303494": {
+      "message": "vyprší o $EVAL_1$ min",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Prečiarknuté"
+   },
+   "1368767014310906187": {
+      "message": "Viac informácií"
+   },
+   "1386128393601544077": {
+      "message": "Sťahuje sa na pozeranie offline…"
+   },
+   "1394022802077775553": {
+      "message": "Malé"
+   },
+   "1408430211331783844": {
+      "message": "Radikály znakov Han – 10 ťahov"
+   },
+   "140933529008432611": {
+      "message": "Celá obrazovka"
+   },
+   "1410700625120387041": {
+      "message": "Stránka bola obnovená."
+   },
+   "1411272293021752124": {
+      "message": "Keď bude zariadenie znova online, aktivita v aplikácii Filmy a televízia Play sa synchronizuje. Túto epizódu si potom budete môcť prehrať na inom zariadení."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "Počas obdobia 24 hodín ste použili príliš veľa zariadení / adries IP. Použite niektoré zo zariadení, na ktorom ste položku stiahli už predtým, alebo to skúste znova neskôr."
+   },
+   "1430062769418326205": {
+      "message": "Takri"
+   },
+   "1440735285675788071": {
+      "message": "Zvieratá, rastliny a jedlo"
+   },
+   "1446182608983200385": {
+      "message": "Sledujte obsah na televízore"
+   },
+   "1452953224047775588": {
+      "message": "Vyskytla sa chyba servera. Skúste to znova neskôr."
+   },
+   "1464429406563501593": {
+      "message": "Kúpiť za $PRICE_BUY$",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Ugaritské písmo"
+   },
+   "1511375217423134113": {
+      "message": "Úzka medzera"
+   },
+   "1538935182784871964": {
+      "message": "Žiadne"
+   },
+   "1550882703360589242": {
+      "message": "Nadpis"
+   },
+   "1569384361123250083": {
+      "message": "Úzka pevná medzera"
+   },
+   "1569694034972476152": {
+      "message": "Pridať kreditnú alebo debetnú kartu"
+   },
+   "1574702217174092165": {
+      "message": "Lepčské písmo"
+   },
+   "1577035400209415987": {
+      "message": "Šport, oslavy a aktivity"
+   },
+   "1578936298060149953": {
+      "message": "Na tomto zariadení bolo stiahnutých príliš veľa filmov. Odstráňte niektoré z nich. Ak sa domnievate, že ide o omyl, kontaktujte služby zákazníkom."
+   },
+   "1585399878613556769": {
+      "message": "Mandaické písmo"
+   },
+   "1622977981214364224": {
+      "message": "Hodnota"
+   },
+   "1624496666386832541": {
+      "message": "Ľudia a nálady"
+   },
+   "163585285607136383": {
+      "message": "Medzera"
+   },
+   "1659260306743134961": {
+      "message": "Prehráva sa na zariadení $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Upozornenie výpožičky"
+   },
+   "167137904963051280": {
+      "message": "Zavrieť"
+   },
+   "1672514695079052416": {
+      "message": "Toto video momentálne nie je k dispozícii z dôvodu nezvyčajnej aktivity účtu."
+   },
+   "1689687103490595695": {
+      "message": "Filmy Play"
+   },
+   "1693658896006835421": {
+      "message": "Spojovací znak grafém"
+   },
+   "1695785777963864871": {
+      "message": "Prejsť na odkaz: "
+   },
+   "1705348214738149530": {
+      "message": "vyprší o minútu"
+   },
+   "1719824778219074772": {
+      "message": "Khmérčina"
+   },
+   "1730622041976529093": {
+      "message": "Šestinová en medzera"
+   },
+   "175470934010823676": {
+      "message": "Číslovaný zoznam"
+   },
+   "17841002962364046": {
+      "message": "Znova"
+   },
+   "1790234586531719509": {
+      "message": "Kúpiť"
+   },
+   "1792545992204167651": {
+      "message": "Radikály znakov Han – 4 ťahy"
+   },
+   "179542577867490020": {
+      "message": "Neplatná e-mailová adresa"
+   },
+   "180976998764453681": {
+      "message": "Sťahovanie v rozlíšení HD alebo SD"
+   },
+   "1814369088251817607": {
+      "message": "Zlomky/súvisiace"
+   },
+   "1828658977714723982": {
+      "message": "Figúrky"
+   },
+   "1830872643153553266": {
+      "message": "Zobraziť podrobnosti o titule $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Sinhalské písmo"
+   },
+   "1846295350891951774": {
+      "message": "Vyhľadajte v Obchode Play svoje obľúbené televízne relácie a potom si ich pohodlne vychutnajte pomocou aplikácie Filmy a televízia Play pre Chrome."
+   },
+   "1855549404303496723": {
+      "message": "vyprší o hodinu"
+   },
+   "1877803725479774313": {
+      "message": "Prehrávanie nie je podporované na tomto zariadení."
+   },
+   "1890638601494854916": {
+      "message": "mld."
+   },
+   "1901872524864997402": {
+      "message": "Ukončiť"
+   },
+   "1905843731663924055": {
+      "message": "O $NUM$ hod.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Zmluva o nákupe sa nenašla."
+   },
+   "1935128618068091278": {
+      "message": "Etiópske písmo"
+   },
+   "1938219414696116874": {
+      "message": "Obrázkové súbory sa momentálne nedajú presunúť.\nPresuňte obrázok z webového prehliadača."
+   },
+   "1954151364415665795": {
+      "message": "Hangul"
+   },
+   "1977431342799515224": {
+      "message": "Prehrávanie sa zastavilo, pretože toto video sa začalo prehrávať na inom zariadení. Video si môžete znova prehrať po tom, ako zastavíte jeho prehrávanie na inom zariadení."
+   },
+   "2029980907058777630": {
+      "message": "Zmluvné podmienky"
+   },
+   "2044442466969080056": {
+      "message": "Desatinné číslo"
+   },
+   "2047343614481498061": {
+      "message": "Pridať farbu"
+   },
+   "2072847589626610105": {
+      "message": "Vypožičať"
+   },
+   "2092212617914314411": {
+      "message": "Momentálne ste offline. Ak chcete streamovať svoje obľúbené filmy a televízne relácie, znova sa pripojte."
+   },
+   "2101164867731291209": {
+      "message": "Kayah li"
+   },
+   "2113719628962111778": {
+      "message": "Arabská značka päty"
+   },
+   "2114961653707808791": {
+      "message": "Chýba vyžadovaný komponent. Prejdite na ďalšej karte prehliadača na adresu chrome://components a kliknite na tlačidlo Skontrolovať dostupnosť aktualizácie pre komponent WidevineCdm. Keď sa zobrazí stav Komponent bol aktualizovaný, reštartujte prehliadač."
+   },
+   "2118949532496601536": {
+      "message": "Štandardné"
+   },
+   "2123474539731286604": {
+      "message": "Obnoviť"
+   },
+   "2124380732103580135": {
+      "message": "Film už bol zastavený."
+   },
+   "2131073272476560470": {
+      "message": "Výpožičná lehota tohto videa vypršala. Ak si ho chcete pozrieť, buď si ho kúpte, alebo znova vypožičajte."
+   },
+   "2149182740887046022": {
+      "message": "Výber variácie – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Momentálne máme problémy s prehratím tohto videa. Skúste to znova neskôr."
+   },
+   "2194774716002570022": {
+      "message": "Ukončenie medziriadkovej poznámky"
+   },
+   "2206769964843652278": {
+      "message": "Gótske písmo"
+   },
+   "22109057671064768": {
+      "message": "Prehráva sa na zariadení $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonetika (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Dlhá pomlčka"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Hrať $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Veľkosť"
+   },
+   "2285569294581055781": {
+      "message": "Interpunkčná medzera"
+   },
+   "230507365422499768": {
+      "message": "Ol Chiki"
+   },
+   "2325815383560299041": {
+      "message": "Televízne relácie"
+   },
+   "2358744432156444454": {
+      "message": "Telugčina"
+   },
+   "2370311583523472863": {
+      "message": "bil."
+   },
+   "2378154636827917381": {
+      "message": "Vybrať spôsob platby"
+   },
+   "2398583048519934048": {
+      "message": "Niečo sa pokazilo. Skúste to znova."
+   },
+   "2404545964673636424": {
+      "message": "Uzavreté"
+   },
+   "2416235035434522626": {
+      "message": "Platba za nákup tohto videa bola vrátená. Ak si ho chcete pozrieť, buď si ho kúpte, alebo znova vypožičajte."
+   },
+   "2458370016363828146": {
+      "message": "Odkaz na e-mailovú adresu"
+   },
+   "2469139219925930348": {
+      "message": "Počasie a astrológia"
+   },
+   "2484918978489875840": {
+      "message": "Arabské písmo"
+   },
+   "2500940977211244160": {
+      "message": "Zariadenie Chromecast umožňuje sledovať obľúbené filmy a televízne relácie na televízore."
+   },
+   "2510334389873855577": {
+      "message": "Južná Ázia – písma"
+   },
+   "2524488082161774200": {
+      "message": "Tibetčina"
+   },
+   "2556195906496703534": {
+      "message": "Spojovník"
+   },
+   "2567552453606568838": {
+      "message": "Pred $NUM$ hod.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Dolný index"
+   },
+   "2596943043266694861": {
+      "message": "Toto video sa nenašlo."
+   },
+   "2602773901491715295": {
+      "message": "Titulky"
+   },
+   "2609303773462214063": {
+      "message": "Film nie je možné stiahnuť, pretože vlastník autorských práv pozeranie offline zakázal."
+   },
+   "2617084065793155411": {
+      "message": "En štvorček"
+   },
+   "2623430506770319716": {
+      "message": "Vo vašom účte vykonali tento rok služby zákazníkom príliš mnoho obnovení."
+   },
+   "2624723575430661735": {
+      "message": "Verzia $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Vaša výpožička filmu $MOVIE_TITLE$ momentálne $LONG_EXPIRATION_MESSAGE$. Po začatí prehrávania $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Pomocník"
+   },
+   "2634032400851497621": {
+      "message": "Veľmi veľké"
+   },
+   "2636578811345390596": {
+      "message": "Graf."
+   },
+   "265418312065535093": {
+      "message": "Neproporcionálne bezpätkové"
+   },
+   "2669412054237461578": {
+      "message": "Zakúpiť položku $ASSET_PURCHASE_TITLE$",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Grafická medzera"
+   },
+   "267152712329867450": {
+      "message": "Historické"
+   },
+   "2676989239174849130": {
+      "message": "Nákupy môžete stiahnuť najviac do piatich zariadení. Ak chcete video stiahnuť do tohto zariadenia, odstráňte všetky stiahnuté súbory z iného zariadenia."
+   },
+   "2694197056256485674": {
+      "message": "am"
+   },
+   "2696605111162327790": {
+      "message": "Hudobný symbol – začiatok legata"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Informácie o službe Filmy Google Play"
+   },
+   "2725131744113020753": {
+      "message": "Vypršala platnosť relácie prenášania. Zrušte pripojenie a skúste to znova."
+   },
+   "2726210069762481377": {
+      "message": "$VOLUME_LEVEL$ % hlasitosti",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Spracúva sa…"
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, ak je k dispozícii",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Včera"
+   },
+   "2778320704487179651": {
+      "message": "Staré juhoarabské písmo"
+   },
+   "2811578318938008571": {
+      "message": "Spojovník s prehláskou"
+   },
+   "2823408948793387406": {
+      "message": "Žltý text na čiernom pozadí"
+   },
+   "2843666691789766965": {
+      "message": "Symboly"
+   },
+   "285220876417404298": {
+      "message": "Zmeniť"
+   },
+   "2866884137027183397": {
+      "message": "Licencie open source"
+   },
+   "287293401853426183": {
+      "message": "Em medzera"
+   },
+   "2873226479878121265": {
+      "message": "Miesto narodenia"
+   },
+   "2873450949697555837": {
+      "message": "Získať televízne epizódy"
+   },
+   "2874298691560753701": {
+      "message": "bld."
+   },
+   "2874903004453257636": {
+      "message": "Tai le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{Pred # minútami}=1{Pred # minútou}few{Pred # minútami}many{# minutes ago}other{Pred # minútami}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Zobraziť podrobnosti$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Komponent$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Kód chyby$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Správa$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Atribúty$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Medzery"
+   },
+   "2972646465175951960": {
+      "message": "Farba v kóde Hex"
+   },
+   "2976070904514926378": {
+      "message": "Keď bude zariadenie znova online, aktivita v aplikácii Filmy a televízia Play sa synchronizuje. Tento film si potom budete môcť prehrať na inom zariadení."
+   },
+   "299212393546620995": {
+      "message": "Dostupné s nákupom verzie SD alebo HD"
+   },
+   "3001599311394934937": {
+      "message": "Farba"
+   },
+   "3024031615064271409": {
+      "message": "Neviditeľné krát"
+   },
+   "3051680812108612733": {
+      "message": "HD za $BUY_HD_PRICE$",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Geometrické tvary"
+   },
+   "3076131322444154485": {
+      "message": "Hudobné symboly"
+   },
+   "3082451864182626107": {
+      "message": "Malé"
+   },
+   "3082728000817887688": {
+      "message": "Pripojiť k zariadeniu"
+   },
+   "3090277567861361522": {
+      "message": "Hudobný symbol – koniec ligatúry"
+   },
+   "3090955389577626836": {
+      "message": "Prezentačný formát pre zvislú em pomlčku"
+   },
+   "3139446734703149686": {
+      "message": "Rôzne"
+   },
+   "3145479901031711697": {
+      "message": "Kontrola pravopisu"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "Správa DRM pre konkrétny systém je neplatná."
+   },
+   "3151300615969236340": {
+      "message": "Obrázok na obale TV relácie $WN_SHOW_TITLE$, číslo epizódy $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Ideografický popis"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} deň}few{{TEXT} dni}many{{TEXT} days}other{{TEXT} dní}}"
+   },
+   "3194384156250789686": {
+      "message": "Písma – Afrika"
+   },
+   "3201110180818098584": {
+      "message": "Čamské písmo"
+   },
+   "3207692705529645309": {
+      "message": "Neviditeľný oddeľovač"
+   },
+   "321244849474197695": {
+      "message": "Zajtra"
+   },
+   "3229124980345092092": {
+      "message": "Nulová medzera"
+   },
+   "322985691330688230": {
+      "message": "Pre váš dopyt neboli nájdené žiadne výsledky."
+   },
+   "3230391931526221675": {
+      "message": "Formát"
+   },
+   "3232820577716196711": {
+      "message": "Vložiť obrázok"
+   },
+   "3243505317143754724": {
+      "message": "Vlastné"
+   },
+   "3243750297590914955": {
+      "message": "Kmérska samohláska inherentné aq"
+   },
+   "3247076985979796797": {
+      "message": "Gréčtina"
+   },
+   "3251309750789560433": {
+      "message": "Arménsky spojovník"
+   },
+   "3254567788720420543": {
+      "message": " "
+   },
+   "3256010424127814333": {
+      "message": "Hudobný symbol – začiatok ligatúry"
+   },
+   "3256903505595292698": {
+      "message": "Zmenšiť odsadenie"
+   },
+   "3265250603400790440": {
+      "message": "Začíname"
+   },
+   "3281239119456770372": {
+      "message": "Azbuka"
+   },
+   "3289148576120895160": {
+      "message": "Kapitálky"
+   },
+   "3294214489713824609": {
+      "message": "Radikály znakov Han – 5 ťahov"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Kód chyby: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Farba textu"
+   },
+   "332000134635733746": {
+      "message": "Uzatváracie"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Cyperské písmo"
+   },
+   "3336445884996834318": {
+      "message": "Licenciu videa sa nepodarilo stiahnuť. Skúste to znova neskôr."
+   },
+   "3347761840855731301": {
+      "message": "Relácia prenášania nie je k dispozícii. Obnovte stránku alebo to skúste znova neskôr."
+   },
+   "3351553150964917854": {
+      "message": "Výber variácie"
+   },
+   "3355166016320182029": {
+      "message": "Licenciu tohto videa sa nepodarilo získať. Skúste to znova neskôr."
+   },
+   "3391942411715503600": {
+      "message": "HD za $RENT_HD_PRICE$",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Ukotvenie medziriadkovej poznámky"
+   },
+   "3415775657739029002": {
+      "message": "Číselná medzera"
+   },
+   "3427321493644124084": {
+      "message": "Hviezdičky"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Hľadať herca/herečku $ACTOR_NAME$",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematika"
+   },
+   "3496221549802542517": {
+      "message": "Veľmi malé"
+   },
+   "3499317959717425890": {
+      "message": "Späť"
+   },
+   "3500807335769892741": {
+      "message": "Spojovník slov"
+   },
+   "3508852687023675805": {
+      "message": "Pred $NUM$ minútami",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normálne"
+   },
+   "3540495086170177505": {
+      "message": "Nakupovať televízne relácie"
+   },
+   "3546034467178790154": {
+      "message": "Dolný index"
+   },
+   "355565230200681214": {
+      "message": "Tučný spojovník, znak mínus"
+   },
+   "3560179919548880444": {
+      "message": "Farba pozadia"
+   },
+   "3593213843486034190": {
+      "message": "Formát"
+   },
+   "3596415344748536540": {
+      "message": "Bamumské písmo"
+   },
+   "3599005616661192177": {
+      "message": "vypnuté"
+   },
+   "3600868534694594413": {
+      "message": "Obrázok"
+   },
+   "3614370613824040896": {
+      "message": "Toto video bolo stiahnuté do maximálneho povoleného počtu zariadení. Ak si ho chcete prehrať alebo stiahnuť na tomto zariadení, odstráňte ho z iného zariadenia."
+   },
+   "3614813368690293135": {
+      "message": "Hebrejská značka maqqéf"
+   },
+   "3620501040875186062": {
+      "message": "Vkladanie zľava doprava"
+   },
+   "3650983100916004596": {
+      "message": "mld."
+   },
+   "3652059248591982819": {
+      "message": "Radikály znakov Han – 3 ťahy"
+   },
+   "3652469401274752477": {
+      "message": "Zväčšiť odsadenie"
+   },
+   "3653098733292921132": {
+      "message": "bld."
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ SD (štandardné rozlíšenie)",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Pri aktivovaní výpožičky došlo k chybe. Obnovte stránku alebo to skúste znova neskôr."
+   },
+   "3709540316929878378": {
+      "message": "Produkcia"
+   },
+   "3721275173574409786": {
+      "message": "Predobjednané"
+   },
+   "3722812838665571404": {
+      "message": "Zakúpené"
+   },
+   "3728552702457015750": {
+      "message": "Nákupy môžete stiahnuť najviac do piatich zariadení. Ak chcete video stiahnuť do tohto zariadenia, odstráňte všetky stiahnuté súbory z iného zariadenia."
+   },
+   "3752083240065277436": {
+      "message": "Oríjčina"
+   },
+   "3808754582975714579": {
+      "message": "Toto video už bolo stiahnuté na maximálny počet zariadení. Ak si ho chcete prehrať tu, odstráňte ho na inom zariadení."
+   },
+   "3815693850657578096": {
+      "message": "Písmo Šarada"
+   },
+   "3826397878188995605": {
+      "message": "Tento film si môžete pozrieť tu alebo na podporovaných telefónoch a tabletoch."
+   },
+   "3831022207582977943": {
+      "message": "Hudobný symbol – koniec frázy"
+   },
+   "3846565521051999754": {
+      "message": "Na tomto zariadení bolo stiahnutých príliš veľa filmov. Odstráňte niektoré z nich. Ak sa domnievate, že ide o omyl, kontaktujte službu zákazníkom."
+   },
+   "3878153116309225131": {
+      "message": "Na akú webovú adresu má tento odkaz smerovať?"
+   },
+   "3878202445977233728": {
+      "message": "Pri sťahovaní filmov alebo epizód na pozeranie offline uprednostniť zvuk vo vysokej kvalite"
+   },
+   "3890590273177043325": {
+      "message": "Pridať atribút „$REL_NO_FOLLOW$“ ($LINK_START$Viac informácií$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javánské písmo"
+   },
+   "397098723873502323": {
+      "message": "Hotovo"
+   },
+   "3990377875754602116": {
+      "message": "Radikály znakov Han – 6 ťahov"
+   },
+   "3992132733680288700": {
+      "message": "Tai tham"
+   },
+   "4001637111049313831": {
+      "message": "Obsahuje zvuk 5.1"
+   },
+   "4002348975328837413": {
+      "message": "Prehrať"
+   },
+   "4005427126456357141": {
+      "message": "Pred $NUM$ dňom",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Vypožičať za $PRICE_RENT$",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Kurzíva"
+   },
+   "4023151405827971137": {
+      "message": "Vo vašom počítači nie je dostatok miesta na stiahnutie tohto videa. Uvoľnite miesto a skúste to znova."
+   },
+   "4024812820054201230": {
+      "message": "Fonetika (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Účinkujú"
+   },
+   "4050502316465597694": {
+      "message": "Syloti Nagri"
+   },
+   "406627050327127223": {
+      "message": "Nastavenia sťahovania"
+   },
+   "4068597226649219969": {
+      "message": "Video v relácii prenášania nezodpovedá požadovanému videu."
+   },
+   "409370207508422421": {
+      "message": "Moje televízne relácie"
+   },
+   "4115063437096532185": {
+      "message": "Ťahy čínskeho, japonského a kórejského písma"
+   },
+   "4146453603518633252": {
+      "message": "Na tomto mieste sa zobrazia filmy požičané alebo zakúpené v Obchode Play."
+   },
+   "4147180678866875282": {
+      "message": "$SEASON_NUMBER$. séria",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Egyptské hieroglyfy"
+   },
+   "4165304946050965012": {
+      "message": "Zahŕňa daň vo výške $PURCHASE_TAX$",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Žltý text na modrom pozadí"
+   },
+   "4171449911657770848": {
+      "message": "Nové písmo tai lue"
+   },
+   "4181834061497947522": {
+      "message": "CHYBA: „$COLOR$“ nie je platná farba.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Pozastaviť"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "mil."
+   },
+   "4241565389203750613": {
+      "message": "Modifikátor"
+   },
+   "4242947662880926847": {
+      "message": "Miao"
+   },
+   "4258500568871377211": {
+      "message": "Dobre"
+   },
+   "4289161867449641226": {
+      "message": "Chcete odstrániť stiahnutý film?"
+   },
+   "4326728310335009890": {
+      "message": "Tai viet"
+   },
+   "4327117004280518691": {
+      "message": "Shawovo písmo"
+   },
+   "4327135909829829353": {
+      "message": "Arménčina"
+   },
+   "4327389288032644198": {
+      "message": "Čakmajské písmo"
+   },
+   "4330118138352331494": {
+      "message": "Hudobný symbol – začiatok trámca"
+   },
+   "4365544241082610712": {
+      "message": "Pôvodný jazyk videa"
+   },
+   "4389982170398859731": {
+      "message": "Bežné"
+   },
+   "4414892686324469274": {
+      "message": "Zvuková stopa"
+   },
+   "4430021444843507791": {
+      "message": "Aplikácia funkcie"
+   },
+   "4464935242536677493": {
+      "message": "Aká je to pesnička?"
+   },
+   "447254005463967829": {
+      "message": "Spárované"
+   },
+   "4489533087577236543": {
+      "message": "Práve ste zmeškali"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{Pred # hodinami}=1{Pred # hodinou}few{Pred # hodinami}many{# hours ago}other{Pred # hodinami}}"
+   },
+   "4516988402150653150": {
+      "message": "Chýba požadovaný komponent. Prejdite na ďalšej karte prehliadača na adresu chrome://components, kliknite na tlačidlo Skontrolovať dostupnosť aktualizácie pre komponent WidevineCdm a keď uvidíte stav Komponent bol aktualizovaný, reštartujte prehliadač."
+   },
+   "4524440614927500782": {
+      "message": "Proporcionálne bezpätkové"
+   },
+   "4530344539930689918": {
+      "message": "Ogamské písmo – značka medzery"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Vyhľadať"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ x $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Vypožičať"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{o # minút}=1{o # minútu}few{o # minúty}many{in # minutes}other{o # minút}}"
+   },
+   "463873241822657784": {
+      "message": "Vlnitá pomlčka"
+   },
+   "464267706146568699": {
+      "message": "Laoština"
+   },
+   "4654657327320140306": {
+      "message": "Horný index"
+   },
+   "4658723167166809016": {
+      "message": "Stredná matematická medzera"
+   },
+   "4661634374225039228": {
+      "message": "Oddeľovač odsekov"
+   },
+   "467915794683941071": {
+      "message": "Prehrať epizódu číslo $EPISODE_NUMBER$, $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongolské písmo"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{Pred # dňami}=1{Pred # dňom}few{Pred # dňami}many{# days ago}other{Pred # dňami}}"
+   },
+   "4712209269320332893": {
+      "message": "Bonusové položky"
+   },
+   "4716710616284048819": {
+      "message": "Tabuľkové znázornenie údajov v grafe."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minúta}few{{TEXT} minúty}many{{TEXT} minutes}other{{TEXT} minút}}"
+   },
+   "4725762888646270913": {
+      "message": "Prehrať epizódu $WN_SHOW_TITLE$, číslo epizódy $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Dvojitý naklonený spojovník"
+   },
+   "4762347778259393153": {
+      "message": "Menej bežné"
+   },
+   "4800386880747162133": {
+      "message": "Došlo k dočasnej chybe servera. Skúste to znova neskôr."
+   },
+   "4822858567120963779": {
+      "message": "Výsledky vyhľadávania pre dopyt $SEARCH_QUERY$",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Toto video bolo stiahnuté do maximálneho povoleného počtu zariadení. Ak si ho chcete prehrať alebo stiahnuť na tomto zariadení, odstráňte ho z iného zariadenia."
+   },
+   "48271036515889672": {
+      "message": "Neplatná relácia prenášania. Obnovte stránku alebo to skúste znova neskôr."
+   },
+   "4831214862800127209": {
+      "message": "Video v relácii prenášania nezodpovedá požadovanému videu."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogham"
+   },
+   "4871903967361312376": {
+      "message": "I-ťing / Tai Xuan Jing"
+   },
+   "4875958436183735304": {
+      "message": "Tieň vpravo"
+   },
+   "4906346168276586100": {
+      "message": "Správa DRM pre konkrétny systém je neplatná."
+   },
+   "491995769371858733": {
+      "message": "Žiadne"
+   },
+   "4920312719509022176": {
+      "message": "Typ písma"
+   },
+   "4930506384627295710": {
+      "message": "Nastavenia"
+   },
+   "4933409796062109057": {
+      "message": "Stiahnuté: $DOWNLOAD_PROGRESS$ %. Sťahovanie zrušíte kliknutím.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Rezerva pre kórejské písmená"
+   },
+   "4950037820737346052": {
+      "message": "Rezerva pre kórejské písmená s polovičnou hrúbkou"
+   },
+   "4968001688305770755": {
+      "message": "Kliknutím na tlačidlo „$OFFER_TYPE$\" vyjadrujete súhlas s dokumentom",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Odkaz na:"
+   },
+   "500501967044040199": {
+      "message": "Položky"
+   },
+   "5011669227045570891": {
+      "message": "Vodorovný pruh"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Na každom zariadení je možné mať stiahnuté videá až z troch účtov súčasne. Ak chcete video stiahnuť do tohto zariadenia, odstráňte všetky stiahnuté súbory z iného účtu."
+   },
+   "5048838621444724614": {
+      "message": "Toto video už bolo stiahnuté na maximálny počet zariadení. Ak ho chcete stiahnuť tu, odstráňte ho na inom zariadení."
+   },
+   "5056334923803362149": {
+      "message": "Prístup k tomuto videu je zakázaný."
+   },
+   "5057747709360994470": {
+      "message": "mil."
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Rezerva pre kórejské mediály"
+   },
+   "5089553823126293996": {
+      "message": "Zrušiť"
+   },
+   "5135948647887912891": {
+      "message": "Položka $ASSET_TITLE$ bola pridaná do vašej knižnice.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Nulová spojovacia medzera"
+   },
+   "5145175165902220114": {
+      "message": "Kanadské slabičné písmo – spojovník"
+   },
+   "5161805074897471162": {
+      "message": "Aplikácia Filmy Google Play pre prehliadač Chrome nie je podporovaná v systémoch Windows XP alebo starších. Skúste to znova pomocou systému Windows Vista alebo vyššej verzie, prípadne pomocou operačného systému Mac OS, Linux alebo OS Chrome."
+   },
+   "516881150339066546": {
+      "message": "Berberské písmo (Tifinagh)"
+   },
+   "5176392387315400391": {
+      "message": "Žiadne údaje"
+   },
+   "5179659870501454485": {
+      "message": "Pridať spôsob platby"
+   },
+   "5184276027321226501": {
+      "message": "E-mailová adresa"
+   },
+   "5194883651451379462": {
+      "message": "Kúpiť"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Filmy Play – spätná väzba"
+   },
+   "5209758796360312502": {
+      "message": "Klinové písmo"
+   },
+   "5216466426869773105": {
+      "message": "Ryté pahlavské písmo"
+   },
+   "522508588411648848": {
+      "message": "Zobraziť $STORE_LINK_TITLE$ v Obchode Play.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Hudobný symbol – začiatok frázy"
+   },
+   "524096672349210886": {
+      "message": "Doprava a mapy"
+   },
+   "5241676005655672226": {
+      "message": "Radikály znakov Han – 9 ťahov"
+   },
+   "5241820237010230531": {
+      "message": "Vai"
+   },
+   "5252668631265690404": {
+      "message": "Iné"
+   },
+   "52534048856251312": {
+      "message": "Odoslať spätnú väzbu"
+   },
+   "5255871588113212604": {
+      "message": "Žiadne návrhy"
+   },
+   "5261311595095150702": {
+      "message": "Hudobný symbol – koniec legata"
+   },
+   "5261596970471311774": {
+      "message": "Veľké"
+   },
+   "5281671802836592116": {
+      "message": "Proporcionálne pätkové"
+   },
+   "5293326322671103002": {
+      "message": "Načítava sa na zariadení $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Pozreté $CURRENT_TIME$ z $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Písmo hanunóo"
+   },
+   "5438255274292242922": {
+      "message": "Technické"
+   },
+   "5439710597412767794": {
+      "message": "Toto video už bolo stiahnuté na maximálny počet zariadení. Ak ho chcete stiahnuť tu, odstráňte ho na inom zariadení."
+   },
+   "545021630455133011": {
+      "message": "Koptské písmo"
+   },
+   "5461901018141989680": {
+      "message": "Arabské ukončenie verša Koránu"
+   },
+   "5484073037133610477": {
+      "message": "Buginézske písmo"
+   },
+   "5490715514416345531": {
+      "message": "Biely text na čiernom pozadí"
+   },
+   "54946385235790268": {
+      "message": "Film nie je možné odstrániť pre systémovú chybu. Kontaktujte služby zákazníkom alebo odošlite spätnú väzbu pomocou ponuky Nastavenia."
+   },
+   "5496646217073800560": {
+      "message": "Číslo"
+   },
+   "5505627655067167147": {
+      "message": "Na akú e-mailovú adresu má byť prepojený tento odkaz?"
+   },
+   "5515365680802763380": {
+      "message": "Prehrávanie sa zastavilo, pretože toto video bolo prehrané na príliš veľkom počte zariadení. Než si video znova prehráte, počkajte 24 hodín."
+   },
+   "5527963094685167949": {
+      "message": "Momentálne máme problémy s prehratím tohto videa. Skúste túto stránku obnoviť."
+   },
+   "5548738790581121863": {
+      "message": "Účet dosiahol zmluvný limit počtu deaktivácií zariadení. Ak sa domnievate, že ide o chybu, kontaktujte zákaznícku službu."
+   },
+   "556303983072423917": {
+      "message": "Film nie je možné stiahnuť, pretože vlastník autorských práv pozeranie offline zakázal."
+   },
+   "5568872195580328526": {
+      "message": "Pripojené k zariadeniu $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Pozastavené."
+   },
+   "5625642025808759710": {
+      "message": "Juhovýchodná Ázia – písma"
+   },
+   "5649689590162845077": {
+      "message": "Rozbaliť alebo zbaliť popis"
+   },
+   "568365569990952204": {
+      "message": "Načítava sa…"
+   },
+   "5690743679710570538": {
+      "message": "Pokračovať"
+   },
+   "5699299130874036286": {
+      "message": "Blahoželáme!"
+   },
+   "5701676109334495247": {
+      "message": "Platba za nákup tohto videa bola vrátená. Ak si ho chcete pozrieť, buď si ho kúpte, alebo znova vypožičajte."
+   },
+   "5739753659630714071": {
+      "message": "Farba pozadia textu"
+   },
+   "5740091738966096065": {
+      "message": "Momentálne nemáte stiahnutý žiadny obsah na použitie v režime offline. Prejdite online a stiahnite si zo svojej knižnice obsah na pozeranie v režime offline."
+   },
+   "57403663622654391": {
+      "message": "Ukladací priestor"
+   },
+   "5758941098755146708": {
+      "message": "Pridať alebo odstrániť odkaz"
+   },
+   "5765285425521589331": {
+      "message": "Doprava, mapy a značenie"
+   },
+   "5773223913514548808": {
+      "message": "Pri pokuse o prihlásenie do vášho účtu došlo k chybe. Uistite sa, že ste prihlásený/-á do prehliadača Chrome na adrese chrome://chrome-signin/. Potom skúste aplikáciu reštartovať."
+   },
+   "5793916253768843563": {
+      "message": "Obrázok, ktorý sa pokúšate presunúť, bol hostiteľským webom zablokovaný."
+   },
+   "5818819286276765821": {
+      "message": "Buhidské písmo"
+   },
+   "5823773924892832157": {
+      "message": "Medzera"
+   },
+   "5831261098398725527": {
+      "message": "Citácia"
+   },
+   "5843775533846981999": {
+      "message": "Pozeranie filmov zo služby Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Pozastavené. Zostáva $EVAL_1$ minúta.}few{Pozastavené. Zostávajú $EVAL_2$ minúty.}many{Paused. $EVAL_2$min left.}other{Pozastavené. Zostáva $EVAL_2$ minút.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Obrázok na obale filmu $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Upraviť zdroj HTML"
+   },
+   "5884014452536244885": {
+      "message": "Získať bezplatné televízne epizódy"
+   },
+   "5889420664241962721": {
+      "message": "Aplikácia Filmy Google Play pre prehliadač Chrome je podporovaná iba v prehliadačoch Chrome verzie 34 a vyššej. Overte, či je prehliadač Chrome úplne aktualizovaný."
+   },
+   "5891242694179659653": {
+      "message": "Testovať tento odkaz"
+   },
+   "5911102149852781948": {
+      "message": "Vloženie priameho formátovania"
+   },
+   "5924149156142134621": {
+      "message": "Server nemôže prijať koreňový certifikát použitý pri komunikácii. Skúste to znova neskôr."
+   },
+   "592520084270766310": {
+      "message": "Thajčina"
+   },
+   "5931872839329863827": {
+      "message": "Čierny text na bielom pozadí"
+   },
+   "593622950044400136": {
+      "message": "Normálne"
+   },
+   "5961302828987058223": {
+      "message": "Šípky"
+   },
+   "5970051322674660677": {
+      "message": "Vypršala platnosť relácie prenášania. Zrušte pripojenie a skúste to znova."
+   },
+   "5984875596889567804": {
+      "message": "Film nie je možné odstrániť pre systémovú chybu. Kontaktujte službu zákazníkom alebo odošlite spätnú väzbu pomocou ponuky Nastavenia."
+   },
+   "6003902003271431273": {
+      "message": "Odstrániť"
+   },
+   "6005860289879017562": {
+      "message": "Momentálne máme problémy s prehraním tohto videa. Skúste to znova neskôr."
+   },
+   "6014354480663192727": {
+      "message": "Na tomto mieste sa zobrazia televízne relácie zakúpené v Obchode Play."
+   },
+   "6034340809890392304": {
+      "message": "Nakupovať filmy"
+   },
+   "6060953217197345552": {
+      "message": "Jazyk pôvodných obyvateľov Kanady"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Spustiť aj tak"
+   },
+   "6084972307281346150": {
+      "message": "Číselný symbol písma Kaithi"
+   },
+   "6105544360205581717": {
+      "message": "Zrušiť"
+   },
+   "6122892080995252667": {
+      "message": "Formát a medzery"
+   },
+   "6137797587633467697": {
+      "message": "Meroitické písmo s kurzívou"
+   },
+   "6155475143120453982": {
+      "message": "0 minút"
+   },
+   "6190120025272183060": {
+      "message": "Značky"
+   },
+   "6193238841287195586": {
+      "message": "Scenár"
+   },
+   "6222709653953533319": {
+      "message": "Farba textu"
+   },
+   "6232382505914187032": {
+      "message": "Získať bezplatné epizódy"
+   },
+   "6245954250506012649": {
+      "message": "Výpožičky"
+   },
+   "6247516545605893720": {
+      "message": "Odoslať spätnú väzbu"
+   },
+   "6248269670479966135": {
+      "message": "Klávesnica a používateľské rozhranie"
+   },
+   "6252201064611373493": {
+      "message": "Zobraziť karty"
+   },
+   "6270812530472396287": {
+      "message": "Dnes"
+   },
+   "6272228095428812454": {
+      "message": "Tagalčina"
+   },
+   "6279370317435309772": {
+      "message": "Avestánske písmo"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Neviete, čo do poľa vložiť?$END_BOLD$Najprv na webe vyhľadajte stránku, na ktorú chcete odkazovať. (Použite na to napríklad $SEARCH_ENGINE_LINK$vyhľadávací nástroj$END_LINK$.) Potom z poľa na paneli s adresou prehliadača skopírujte webovú adresu a prilepte ju do poľa zobrazeného vyššie.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Prehrávanie"
+   },
+   "6335175380341340581": {
+      "message": "Zariadenie v relácii prenášania nezodpovedá požadovanému zariadeniu."
+   },
+   "6343010841347906907": {
+      "message": "O $NUM$ deň",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Kompatibilita"
+   },
+   "6350391521435965588": {
+      "message": "Predobjednané"
+   },
+   "6352913008658578632": {
+      "message": "Mäkký spojovník"
+   },
+   "6363122915809877223": {
+      "message": "Tieň vľavo"
+   },
+   "6371465733575496232": {
+      "message": "Blízky východ – písma"
+   },
+   "6405814875010182725": {
+      "message": "Server nemôže prijať koreňový certifikát použitý pri komunikácii. Skúste to znova neskôr."
+   },
+   "6407996489854784042": {
+      "message": "Upraviť odkaz"
+   },
+   "6414884042279967640": {
+      "message": "neplatná adresa url"
+   },
+   "6425847105595230473": {
+      "message": "Ignorovať"
+   },
+   "6432298456231736850": {
+      "message": "Filmy Google Play"
+   },
+   "6440344606961499591": {
+      "message": "Lykijské písmo"
+   },
+   "6456384515113758910": {
+      "message": "Viac informácií"
+   },
+   "6456933929616370051": {
+      "message": "Upraviť slovo"
+   },
+   "6479123880196723568": {
+      "message": "Kurzíva"
+   },
+   "6496283442053180405": {
+      "message": "Zľava doprava"
+   },
+   "6501155781262627001": {
+      "message": "Počas obdobia 24 hodín ste použili príliš veľa zariadení / adries IP. Použite niektoré zo zariadení, na ktorom ste položku stiahli už predtým, alebo to skúste znova neskôr."
+   },
+   "6508375652910000957": {
+      "message": "Doplnkové"
+   },
+   "6536020395223120161": {
+      "message": "Chyba"
+   },
+   "6546669593466967671": {
+      "message": "Matematické symboly"
+   },
+   "6551745305926008747": {
+      "message": "Predobjednať"
+   },
+   "6554134808157634636": {
+      "message": "Lineárne písmo B"
+   },
+   "656481501116924913": {
+      "message": "Prehrávanie sa zastavilo, pretože toto video bolo prehraté na príliš veľkom počte zariadení. Než si video znova prehráte, počkajte 24 hodín."
+   },
+   "6569656063466645753": {
+      "message": "Titulky"
+   },
+   "6602025155112861839": {
+      "message": "Bráhmí"
+   },
+   "6621933208862353132": {
+      "message": "Toto video nie je vo vašej krajine k dispozícii."
+   },
+   "6625801467720528503": {
+      "message": "Staroperzské písmo"
+   },
+   "6629216961322187103": {
+      "message": "Uložiť"
+   },
+   "6633629616609262609": {
+      "message": "Nastavenia môžete neskôr zmeniť v $START_TAG_19$nastaveniach aplikácie$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Iné európske písma"
+   },
+   "6651639811736683845": {
+      "message": "Moje filmy"
+   },
+   "6661681603632549986": {
+      "message": "Titulky"
+   },
+   "6667667434733000643": {
+      "message": "Obsahuje informačné karty"
+   },
+   "6677363386267424723": {
+      "message": "Prehrať film $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Kúpiť film $MOVIE_TITLE$ za $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Veľkosť písma"
+   },
+   "677905689563333998": {
+      "message": "Prehrávanie sa zastavilo, pretože sa prehráva príliš veľa videí, ktoré patria do rovnakého účtu. Zastavte niektoré videá a skúste to znova."
+   },
+   "679571059806777318": {
+      "message": "Thaana"
+   },
+   "6810753777984126315": {
+      "message": "Deseret"
+   },
+   "6827910084162380306": {
+      "message": "Zariadenie v relácii prenášania nezodpovedá požadovanému zariadeniu."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} hodina}few{{TEXT} hodiny}many{{TEXT} hours}other{{TEXT} hodín}}"
+   },
+   "6851957197139570861": {
+      "message": "Toto video nie je k dispozícii vo vašej krajine."
+   },
+   "6853191352018412040": {
+      "message": "Balinézske písmo"
+   },
+   "6855074016004156398": {
+      "message": "Upraviť HTML"
+   },
+   "6860315656437719971": {
+      "message": "Tento film je už na zariadení stiahnutý. Skontrolujte ďalšie účty na tomto zariadení."
+   },
+   "6875483133393301003": {
+      "message": "Iné písma – Východná Ázia"
+   },
+   "6883682454262090493": {
+      "message": "Vyhľadajte skvelý film v Obchode Play a potom si ho pohodlne vychutnajte pomocou aplikácie Filmy Play pre Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Obrovské"
+   },
+   "6896826577403437656": {
+      "message": "Spojovník, znak mínus"
+   },
+   "6902004800313673513": {
+      "message": "Otočené/zrkadlové"
+   },
+   "6964937916732516478": {
+      "message": "Normálne"
+   },
+   "696905759309523016": {
+      "message": "Vyhľadajte v Obchode Play skvelý film alebo televíznu reláciu a potom si ich pohodlne vychutnajte pomocou aplikácie Filmy a televízia Play pre Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Ak tento film odstránite, budete ho môcť pozerať v zariadení iba vtedy, keď budete online."
+   },
+   "6989393626433450594": {
+      "message": "Písmo phags pa"
+   },
+   "7012766363608830434": {
+      "message": "Neviditeľné plus"
+   },
+   "7024834031644866926": {
+      "message": "Pomocník"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "Pred $NUM$ hodinami",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Ak túto epizódu odstránite, budete ju môcť pozerať v zariadení iba vtedy, keď budete online."
+   },
+   "7094242414651579769": {
+      "message": "Mohlo by sa vám páčiť"
+   },
+   "7101065047913928628": {
+      "message": "Nko"
+   },
+   "711332449732375422": {
+      "message": "Všetko"
+   },
+   "7119313535591306971": {
+      "message": "Sýrske písmo"
+   },
+   "7133753811730291503": {
+      "message": "Rejangské písmo"
+   },
+   "7134932904164509880": {
+      "message": "Zvuk a titulky"
+   },
+   "7142370112218882473": {
+      "message": "Číselná pomlčka"
+   },
+   "7143481033215693523": {
+      "message": "Fenické písmo"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{o # dní}=1{o deň}few{o # dni}many{in # days}other{o # dní}}"
+   },
+   "7166131491680306441": {
+      "message": "Hrubé"
+   },
+   "717756764917242379": {
+      "message": "Vo vašom účte vykonala tento rok zákaznícka služba príliš mnoho obnovení."
+   },
+   "7209204842613884996": {
+      "message": "Čerokézske písmo"
+   },
+   "7217613154757397815": {
+      "message": "Menší nadpis"
+   },
+   "7222798856864539991": {
+      "message": "Emotikony"
+   },
+   "7231513918080506880": {
+      "message": "Pri prehrávaní videa došlo k chybe"
+   },
+   "7233133314598482636": {
+      "message": "Symbol"
+   },
+   "7237310906976510879": {
+      "message": "Chyba overenia"
+   },
+   "7254769271789170667": {
+      "message": "Prepisovanie sprava doľava"
+   },
+   "7271563194657138998": {
+      "message": "Začnite tak, že si v Obchode Play vyhľadáte bezplatnú epizódu, ktorú si potom môžete okamžite pozrieť pomocou aplikácie Filmy a televízia Play pre Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Zmluva o nákupe sa nenašla."
+   },
+   "7333054716894862082": {
+      "message": "Zarovnať podľa okrajov"
+   },
+   "7352037235710614813": {
+      "message": "Réžia"
+   },
+   "7379356741388986662": {
+      "message": "Obchod"
+   },
+   "738294154320637123": {
+      "message": "Meetei Mayek"
+   },
+   "7403213530684675547": {
+      "message": "Film nie je možné odstrániť, pretože je stiahnutý na inom zariadení. Najprv ho odstráňte z daného zariadenia."
+   },
+   "7423355034259912329": {
+      "message": "Film už bol zastavený."
+   },
+   "742861914041471563": {
+      "message": "Zarovnať doľava"
+   },
+   "7431208184373206966": {
+      "message": "Veľké"
+   },
+   "7436129358876453178": {
+      "message": "Radikály znakov Han – 2 ťahy"
+   },
+   "7443523425660741023": {
+      "message": "Film nie je možné odstrániť, pretože je stiahnutý na inom zariadení. Najprv ho odstráňte z daného zariadenia."
+   },
+   "7444530187008825696": {
+      "message": "Tento odkaz nie je možné testovať."
+   },
+   "7445716324927695719": {
+      "message": "Video $DOWNLOADED_TITLE$ bolo stiahnuté. Odstránite ho kliknutím.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Odpojiť"
+   },
+   "7499894239558451540": {
+      "message": "Áno"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Vyskytla sa chyba servera. Skúste to znova neskôr."
+   },
+   "754389774434351130": {
+      "message": "Mongolský oddeľovač samohlások"
+   },
+   "7545663607980395021": {
+      "message": "Relácia prenášania nie je k dispozícii. Obnovte stránku alebo to skúste znova neskôr."
+   },
+   "7559531330043741601": {
+      "message": "Zarovnať na stred"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (počet)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Rezerva pre kórejské iniciály"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Dávajte si pozor.$POSTB$ Nezabudnite, že ak na nejakej webovej stránke uvediete e-mailovú adresu, môžu ju nájsť aj šíritelia spamu.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Ak chcete zobraziť názov znaku, ukážte kurzorom na každú bunku."
+   },
+   "7628853095173216399": {
+      "message": "Ak chcete obnoviť prehrávanie, prihláste sa."
+   },
+   "7628997973779702278": {
+      "message": "Stiahnuť video $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Prehrať upútavku"
+   },
+   "7644195558431380264": {
+      "message": "Reliéf"
+   },
+   "7656269245189992953": {
+      "message": "Žiadne"
+   },
+   "765644786799307419": {
+      "message": "Štvrtinová em medzera"
+   },
+   "7661273651737426088": {
+      "message": "Pevný spojovník"
+   },
+   "7671671293660378394": {
+      "message": "Pevná medzera"
+   },
+   "7687757766363784951": {
+      "message": "Nedávno vybraté:"
+   },
+   "7704099115712609154": {
+      "message": "Nastavenia"
+   },
+   "7707854987324577924": {
+      "message": "Nulová pevná medzera"
+   },
+   "7721864005040197774": {
+      "message": "Objekty"
+   },
+   "7735652872804202135": {
+      "message": "Prehrávať videá v jazyku môjho zariadenia (ak je táto možnosť k dispozícii)"
+   },
+   "7776630049782874310": {
+      "message": "Na každom zariadení je možné mať stiahnuté videá až z troch účtov súčasne. Ak chcete video stiahnuť do tohto zariadenia, odstráňte všetky stiahnuté súbory z iného účtu."
+   },
+   "779039068486648656": {
+      "message": "Váš prehliadač nepodporuje grafy"
+   },
+   "7792182371277036944": {
+      "message": "Okamžité pozeranie"
+   },
+   "7807783089931705706": {
+      "message": "Preddefinované nastavenia"
+   },
+   "7825923098003586011": {
+      "message": "Meroitické hieroglyfy"
+   },
+   "7835136621565821438": {
+      "message": "Ryté parthské písmo"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Tento film je už na zariadení stiahnutý. Skontrolujte ďalšie účty na tomto zariadení."
+   },
+   "7872307517743373476": {
+      "message": "Neplatná relácia prenášania. Obnovte stránku alebo to skúste znova neskôr."
+   },
+   "7873756658795212081": {
+      "message": "vyprší o $EVAL_1$ d",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ v Obchode Play",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "pm"
+   },
+   "7918520961628671120": {
+      "message": "Prístup k tomuto videu je zakázaný."
+   },
+   "791855806965154343": {
+      "message": "Batacké písmo"
+   },
+   "7926689704723702466": {
+      "message": "bld."
+   },
+   "7933902915184371880": {
+      "message": "Karijské písmo"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Pozastavené. Zostáva $EVAL_1$ sekunda.}few{Pozastavené. Zostávajú $EVAL_2$ sekundy.}many{Paused. $EVAL_2$sec left.}other{Pozastavené. Zostáva $EVAL_2$ sekúnd.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Americké písma"
+   },
+   "7943286917138037388": {
+      "message": "Stredná pomlčka"
+   },
+   "7952530065274028271": {
+      "message": "Zobraziť podrobnosti o relácii $WN_SHOW_TITLE$, číslo epizódy $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "vyprší o $EVAL_1$ h",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamilské písmo"
+   },
+   "7978764644554853286": {
+      "message": "O $NUM$ minútu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Radikály znakov Han – 1 ťah"
+   },
+   "7985246120023271230": {
+      "message": "Výpožičná lehota tohto videa vypršala. Ak si ho chcete pozrieť, buď si ho kúpte, alebo znova vypožičajte."
+   },
+   "7991898653680244970": {
+      "message": "Doplnok Latin-1"
+   },
+   "7993302948330451962": {
+      "message": "Mjanmarsko"
+   },
+   "7993967737532196015": {
+      "message": "Hodnotenie: $VIEWER_RATING$ z 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Chcete odstrániť stiahnutú epizódu?"
+   },
+   "8013309308261303688": {
+      "message": "Nakupovať filmy"
+   },
+   "8018308926864382762": {
+      "message": "Sýrska značka skratky"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Rytina"
+   },
+   "8039844141475995654": {
+      "message": "O $NUM$ min.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Runové písmo"
+   },
+   "8042716985296303990": {
+      "message": "Formát"
+   },
+   "8042730852758398655": {
+      "message": "Jazyk zvuku"
+   },
+   "8062522779459151420": {
+      "message": "Odstrániť formátovanie"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "Identifikátor"
+   },
+   "8101733308672950303": {
+      "message": "Titulky budú vyzerať takto"
+   },
+   "8132424293432274889": {
+      "message": "Späť"
+   },
+   "8134822873948566976": {
+      "message": "Získať ďalšie epizódy"
+   },
+   "8153387349716171448": {
+      "message": "Toto video už bolo stiahnuté na maximálny počet zariadení. Ak si ho chcete prehrať tu, odstráňte ho na inom zariadení.."
+   },
+   "8161910726112545534": {
+      "message": "Malý spojovník, malý znak mínus"
+   },
+   "8167719451188045081": {
+      "message": "Nulová nespojovacia medzera"
+   },
+   "8175552949837381315": {
+      "message": "Zavrieť"
+   },
+   "8176183622289427250": {
+      "message": "Vyhľadajte v Obchode Play skvelý film a potom si ho pohodlne vychutnajte pomocou aplikácie Filmy a televízia Play pre Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Hudobný symbol – koniec trámca"
+   },
+   "8182154803169715176": {
+      "message": "Mena"
+   },
+   "8188276694329647401": {
+      "message": "mil."
+   },
+   "8203155312190167416": {
+      "message": "Získať bezplatné epizódy"
+   },
+   "8204709243856731897": {
+      "message": "Účet dosiahol zmluvný limit počtu deaktivácií zariadení. Ak sa domnievate, že ide o chybu, kontaktujte služby zákazníkom."
+   },
+   "8209649773417809069": {
+      "message": "Neproporcionálne pätkové"
+   },
+   "8223592563721543961": {
+      "message": "Značka sprava doľava"
+   },
+   "8229110080399300640": {
+      "message": "Lýdske písmo"
+   },
+   "825047260879284602": {
+      "message": "Zadajte vlastnú farbu – napríklad hodnotu pink, #F00, #D015FF alebo rgb(100, 50, 25)."
+   },
+   "829017817517555824": {
+      "message": "Osmanské písmo"
+   },
+   "8303685272985764664": {
+      "message": "Em štvorček"
+   },
+   "8316357291574004120": {
+      "message": "Prehrávanie nie je na tomto zariadení podporované."
+   },
+   "8317092845662281711": {
+      "message": "Zvuk"
+   },
+   "8317239070847268844": {
+      "message": "bil."
+   },
+   "8356754494097778995": {
+      "message": "Vkladanie sprava doľava"
+   },
+   "836493064290964717": {
+      "message": "Radikály znakov Han – 7 ťahov"
+   },
+   "8367205574605681054": {
+      "message": "Kontaktujte nás"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{o # hodín}=1{o hodinu}few{o # hodiny}many{in # hours}other{o # hodín}}"
+   },
+   "838631802941302770": {
+      "message": "Kharóšthí"
+   },
+   "8387836334671661814": {
+      "message": "Normálne"
+   },
+   "8406794425024838870": {
+      "message": "Prehrávať videá v pôvodnom jazyku (ak je táto možnosť k dispozícii)"
+   },
+   "8415457571769345476": {
+      "message": "Gurmukhí"
+   },
+   "8432592301984570372": {
+      "message": "Kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Filmy"
+   },
+   "8439955599488894226": {
+      "message": "Pravidlá ochrany súkromia"
+   },
+   "8440105734244130524": {
+      "message": "Obsahuje skryté titulky"
+   },
+   "8440128775129354214": {
+      "message": "Ochrana osobných údajov"
+   },
+   "8440161680481095392": {
+      "message": "Sora Sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Oddeľovač medziriadkovej poznámky"
+   },
+   "8468046265986853572": {
+      "message": "Malá dlhá pomlčka"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Počas pozastavenia zobrazovať informácie o hercoch a skladbách"
+   },
+   "8480915536260760621": {
+      "message": "Oddeľovač riadkov"
+   },
+   "8483017128806448808": {
+      "message": "Han – iné"
+   },
+   "8484953793514450798": {
+      "message": "Toto video sa nepodarilo stiahnuť"
+   },
+   "8496572760621552382": {
+      "message": "Riadiace obrázky"
+   },
+   "8504288534013316809": {
+      "message": "Na prehrávanie obsahu z Filmov a televízie Google Play na tomto zariadení používať vždy túto aplikáciu"
+   },
+   "8533646618757813590": {
+      "message": "Sundčina"
+   },
+   "8540686664487399786": {
+      "message": "Imperiálna aramejčina"
+   },
+   "854429928571549912": {
+      "message": "Kannadské písmo"
+   },
+   "8544418813868326219": {
+      "message": "Podnadpis"
+   },
+   "8561163275403408048": {
+      "message": "Vyberte si verziu v rozlíšení HD alebo SD"
+   },
+   "8562537001029340643": {
+      "message": "En medzera"
+   },
+   "8562629041340204805": {
+      "message": "Zoznam s odrážkami"
+   },
+   "8564202903947049539": {
+      "message": "Prehrať"
+   },
+   "8595279472837556966": {
+      "message": "Toto video sa nenašlo."
+   },
+   "8598425882608097102": {
+      "message": "Sauraštra"
+   },
+   "8614813208619876018": {
+      "message": "Otvoriť tento odkaz v novom okne"
+   },
+   "8620014669054622585": {
+      "message": "Horný index"
+   },
+   "8654580154537063858": {
+      "message": "Pomlčka/spojnica"
+   },
+   "8683517921317388539": {
+      "message": "Rozbaliť tabuľku informačnej karty"
+   },
+   "8686061785869890050": {
+      "message": "Značka zľava doprava"
+   },
+   "8721105090660343056": {
+      "message": "Samaritánske písmo"
+   },
+   "8751395052938425392": {
+      "message": "Ostatné"
+   },
+   "8756624200843285720": {
+      "message": "Normálne/pätkové"
+   },
+   "875775686870257693": {
+      "message": "Kmérska samohláska inherentné á"
+   },
+   "8784627238941457153": {
+      "message": "Sprava doľava"
+   },
+   "8785585428177743106": {
+      "message": "Arabský znak Safha"
+   },
+   "8788046284717061808": {
+      "message": "Mongolský mäkký spojovník"
+   },
+   "8815814381380608540": {
+      "message": "Nie"
+   },
+   "8834132438727381257": {
+      "message": "Pozrite si film v rozlíšení HD na svojom prenosnom počítači, na zariadeniach Chromecast a Roku a na väčšine zariadení s Androidom. Videá zakúpené v rozlíšení HD sa na ostatných zariadeniach budú prehrávať v rozlíšení SD. $START_TAG_1$Ďalšie informácie$END_TAG_1$",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Podľa ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Webová adresa"
+   },
+   "8894457765459513654": {
+      "message": "Odkaz"
+   },
+   "8917983075453481180": {
+      "message": "Prezentačný formát pre zvislú en pomlčku"
+   },
+   "8919720204772722134": {
+      "message": "Text na zobrazenie:"
+   },
+   "8921884278179224689": {
+      "message": "Zmluvné podmienky služby Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Dnes"
+   },
+   "892438729140054354": {
+      "message": "Hlaholika"
+   },
+   "893068498689091913": {
+      "message": "SD za $BUY_SD_PRICE$",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malajámské písmo"
+   },
+   "8945516772470397544": {
+      "message": "Hebrejské písmo"
+   },
+   "8975694361063929758": {
+      "message": "Ruší sa sťahovanie..."
+   },
+   "900213554674035877": {
+      "message": "Upozornenie: nepodporovaná platforma"
+   },
+   "9003255502339267646": {
+      "message": "Orchonské písmo"
+   },
+   "9006212563579865934": {
+      "message": "Došlo k dočasnej chybe servera. Skúste to znova neskôr."
+   },
+   "9007600562969287199": {
+      "message": "Zrušiť"
+   },
+   "9009756347438736077": {
+      "message": "Emodži"
+   },
+   "9039190587572892203": {
+      "message": "Dialógové okno spätnej väzby je otvorené."
+   },
+   "9058407001544582930": {
+      "message": "Braillovo písmo"
+   },
+   "9082286440748444032": {
+      "message": "Zarovnať doprava"
+   },
+   "9119571405974007627": {
+      "message": "Kliknutím prejdete do režimu celej obrazovky"
+   },
+   "9129936585862826417": {
+      "message": "Katakana-Hiragana – dvojitý spojovník"
+   },
+   "9133561684694194118": {
+      "message": "Radikály znakov Han – 8 ťahov"
+   },
+   "9140663398525770181": {
+      "message": "pred $NUM$ dňami",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "Počet epizód: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Staroitalické písmo"
+   },
+   "9157868620634436826": {
+      "message": "Odosielať spoločnosti Google anonymné štatistiky o používaní služby Filmy a televízia Play na tomto zariadení"
+   },
+   "9169327677828809572": {
+      "message": "Podčiarknuté"
+   },
+   "9187708289836789739": {
+      "message": "Pohlavie a genealógia"
+   },
+   "9191795572559844778": {
+      "message": "Latinčina"
+   },
+   "9199894931939214644": {
+      "message": "Prehrávanie sa zastavilo, pretože sa prehráva príliš veľký počet videí, ktoré patria do rovnakého účtu. Zastavte niektoré videá a skúste to znova."
+   },
+   "936850558951011636": {
+      "message": "O $NUM$ d.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "bil."
+   },
+   "964943437084290735": {
+      "message": "Tretinová em medzera"
+   },
+   "968485661339291047": {
+      "message": "vyprší o deň"
+   },
+   "969796838380220069": {
+      "message": "Interpunkcia"
+   },
+   "992901664798536243": {
+      "message": "Šestnástkový vstup"
+   },
+   "996885966963281379": {
+      "message": "Prepisovanie zľava doprava"
+   },
+   "998767118090785897": {
+      "message": "O $NUM$ hodinu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

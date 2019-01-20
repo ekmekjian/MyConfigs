@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Symboles cerclés/en pointillés"
+   },
+   "1070809808108857931": {
+      "message": "il y a $NUM$ minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Lien vers une page ou un fichier sur le Web"
+   },
+   "1102310712956565239": {
+      "message": "Licences Open Source"
+   },
+   "1130652265542107236": {
+      "message": "Âge"
+   },
+   "1134649645976473070": {
+      "message": "Signe arabe de nombre"
+   },
+   "1142417372321533593": {
+      "message": "Chinois – Radicaux à 11~17 traits"
+   },
+   "1147656502873524992": {
+      "message": "Bengali"
+   },
+   "1163524414906063407": {
+      "message": "Trait d'union en esse"
+   },
+   "1180214318241646187": {
+      "message": "Dévanâgarî"
+   },
+   "1201655285096694629": {
+      "message": "Pour finaliser votre achat, veuillez ajouter un mode de paiement."
+   },
+   "1208097920246951223": {
+      "message": "Yi"
+   },
+   "12190752990595538": {
+      "message": "Bord uniforme"
+   },
+   "1237413374221837088": {
+      "message": "Cette vidéo a été interrompue, car la lecture a été lancée sur un autre appareil. Veuillez l'interrompre sur ce dernier avant de la reprendre sur cet appareil."
+   },
+   "123775052533814018": {
+      "message": "Géorgien"
+   },
+   "1257931524938240638": {
+      "message": "Regarder"
+   },
+   "1297025664516669951": {
+      "message": "Mrd"
+   },
+   "1305766628630415604": {
+      "message": "Météorologie et signes du zodiaque"
+   },
+   "1310971928430788285": {
+      "message": "Signe arabe sanah"
+   },
+   "1347269818800657320": {
+      "message": "Un épisode"
+   },
+   "1358234736811100710": {
+      "message": "Gujarati"
+   },
+   "1361445704105826758": {
+      "message": "Espace ultrafine"
+   },
+   "1364333963472303494": {
+      "message": "expire dans $EVAL_1$ minutes",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Barré"
+   },
+   "1368767014310906187": {
+      "message": "En savoir plus"
+   },
+   "1386128393601544077": {
+      "message": "Téléchargement en cours pour visionnage hors connexion…"
+   },
+   "1394022802077775553": {
+      "message": "Petite"
+   },
+   "1408430211331783844": {
+      "message": "Chinois – Radicaux à 10 traits"
+   },
+   "140933529008432611": {
+      "message": "Plein écran"
+   },
+   "1410700625120387041": {
+      "message": "Page actualisée"
+   },
+   "1411272293021752124": {
+      "message": "Lorsque votre appareil sera à nouveau connecté à Internet, votre activité sur Play Films et séries sera synchronisée. Vous pourrez alors regarder cet épisode sur un autre appareil."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "Vous avez utilisé trop d'appareils ou d'adresses IP en l'espace de 24 heures. Veuillez utiliser un des appareils déjà utilisés ou réessayer plus tard."
+   },
+   "1430062769418326205": {
+      "message": "Tâkrî"
+   },
+   "1440735285675788071": {
+      "message": "Animaux, plantes et alimentation"
+   },
+   "1446182608983200385": {
+      "message": "Regarder sur grand écran"
+   },
+   "1452953224047775588": {
+      "message": "Une erreur serveur s'est produite. Veuillez réessayer ultérieurement."
+   },
+   "1464429406563501593": {
+      "message": "Acheter ($PRICE_BUY$)",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Ougaritique"
+   },
+   "1511375217423134113": {
+      "message": "Espace fine"
+   },
+   "1538935182784871964": {
+      "message": "Aucun"
+   },
+   "1550882703360589242": {
+      "message": "Titre"
+   },
+   "1569384361123250083": {
+      "message": "Espace insécable étroite"
+   },
+   "1569694034972476152": {
+      "message": "Ajouter une carte de paiement"
+   },
+   "1574702217174092165": {
+      "message": "Lepcha"
+   },
+   "1577035400209415987": {
+      "message": "Sport, fêtes et activités"
+   },
+   "1578936298060149953": {
+      "message": "Trop de films ont été téléchargés sur cet appareil. Veuillez en supprimer certains. Si vous pensez qu'il s'agit d'une erreur, veuillez contacter le service client."
+   },
+   "1585399878613556769": {
+      "message": "Mandéen"
+   },
+   "1622977981214364224": {
+      "message": "Valeur"
+   },
+   "1624496666386832541": {
+      "message": "Personnes et émotions"
+   },
+   "163585285607136383": {
+      "message": "Espace"
+   },
+   "1659260306743134961": {
+      "message": "En cours de lecture sur l'appareil \"$EVAL_1$\"",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Avertissement concernant la location"
+   },
+   "167137904963051280": {
+      "message": "Fermer"
+   },
+   "1672514695079052416": {
+      "message": "En raison d'une activité inhabituelle sur votre compte, cette vidéo n'est pas disponible pour le moment."
+   },
+   "1689687103490595695": {
+      "message": "Play Films"
+   },
+   "1693658896006835421": {
+      "message": "Diacritique invisible bloquant"
+   },
+   "1695785777963864871": {
+      "message": "Accéder au lien : "
+   },
+   "1705348214738149530": {
+      "message": "expire dans 1 minute"
+   },
+   "1719824778219074772": {
+      "message": "Khmer"
+   },
+   "1730622041976529093": {
+      "message": "Sixième de cadratin"
+   },
+   "175470934010823676": {
+      "message": "Liste numérotée"
+   },
+   "17841002962364046": {
+      "message": "Rétablir"
+   },
+   "1790234586531719509": {
+      "message": "Acheter"
+   },
+   "1792545992204167651": {
+      "message": "Chinois – Radicaux à 4 traits"
+   },
+   "179542577867490020": {
+      "message": "Adresse e-mail non valide."
+   },
+   "180976998764453681": {
+      "message": "Télécharger au format HD ou SD"
+   },
+   "1814369088251817607": {
+      "message": "Fractions/Connexes"
+   },
+   "1828658977714723982": {
+      "message": "Pièces de jeu"
+   },
+   "1830872643153553266": {
+      "message": "Consulter les informations concernant $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Cingalais"
+   },
+   "1846295350891951774": {
+      "message": "Retrouvez toutes vos séries TV préférées sur le Play Store, puis profitez-en avec l'application Play Films et séries pour Chrome."
+   },
+   "1855549404303496723": {
+      "message": "expire dans 1 heure"
+   },
+   "1877803725479774313": {
+      "message": "Lecture impossible sur cet appareil."
+   },
+   "1890638601494854916": {
+      "message": "milliard"
+   },
+   "1901872524864997402": {
+      "message": "Quitter"
+   },
+   "1905843731663924055": {
+      "message": "dans $NUM$ heures",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Contrat d'achat introuvable."
+   },
+   "1935128618068091278": {
+      "message": "Éthiopien"
+   },
+   "1938219414696116874": {
+      "message": "Impossible de glisser-déposer des fichiers image pour le moment.\nVeuillez faire glisser une image depuis votre navigateur Web."
+   },
+   "1954151364415665795": {
+      "message": "Hangûl"
+   },
+   "1977431342799515224": {
+      "message": "Cette vidéo a été suspendue, car la lecture a été lancée sur un autre appareil. Veuillez l'interrompre sur ce dernier avant de la reprendre sur cet appareil."
+   },
+   "2029980907058777630": {
+      "message": "Conditions d'utilisation"
+   },
+   "2044442466969080056": {
+      "message": "Symboles décimaux"
+   },
+   "2047343614481498061": {
+      "message": "Ajouter une couleur"
+   },
+   "2072847589626610105": {
+      "message": "Louer"
+   },
+   "2092212617914314411": {
+      "message": "Vous êtes actuellement hors connexion. Reconnectez-vous pour regarder vos films préférés et séries TV en streaming."
+   },
+   "2101164867731291209": {
+      "message": "Kayah Li"
+   },
+   "2113719628962111778": {
+      "message": "Appel de note de bas de page arabe"
+   },
+   "2114961653707808791": {
+      "message": "Un composant requis est manquant. Rendez-vous sur chrome://components dans un autre onglet du navigateur, cliquez sur le bouton \"Rechercher les mises à jour\" pour le composant WidevineCdm. Relancez le navigateur lorsque la mention \"Composant mis à jour\" s'affiche."
+   },
+   "2118949532496601536": {
+      "message": "Scripte"
+   },
+   "2123474539731286604": {
+      "message": "Actualiser"
+   },
+   "2124380732103580135": {
+      "message": "La lecture du film a déjà été suspendue."
+   },
+   "2131073272476560470": {
+      "message": "La location de cette vidéo est arrivée à expiration. Pour la regarder, veuillez l'acheter ou la louer à nouveau."
+   },
+   "2149182740887046022": {
+      "message": "Sélecteur de variation : $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Impossible de lire cette vidéo pour le moment. Veuillez réessayer plus tard."
+   },
+   "2194774716002570022": {
+      "message": "Terminateur d'annotation interlinéaire"
+   },
+   "2206769964843652278": {
+      "message": "Gothique"
+   },
+   "22109057671064768": {
+      "message": "En cours de lecture sur l'appareil \"$CAST_DEVICE_NAME$\"",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Alphabet phonétique international (API)"
+   },
+   "2236004628274107601": {
+      "message": "Tiret cadratin"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Lire \"$EXTRA_TITLE$\"",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Taille"
+   },
+   "2285569294581055781": {
+      "message": "Espace de ponctuation"
+   },
+   "230507365422499768": {
+      "message": "Santâlî"
+   },
+   "2325815383560299041": {
+      "message": "Séries TV"
+   },
+   "2358744432156444454": {
+      "message": "Télougou"
+   },
+   "2370311583523472863": {
+      "message": "Bio"
+   },
+   "2378154636827917381": {
+      "message": "Sélectionnez un mode de paiement"
+   },
+   "2398583048519934048": {
+      "message": "Une erreur s'est produite. Veuillez réessayer."
+   },
+   "2404545964673636424": {
+      "message": "Symboles cerclés"
+   },
+   "2416235035434522626": {
+      "message": "Cette vidéo a été remboursée. Pour la regarder, veuillez l'acheter ou la louer à nouveau."
+   },
+   "2458370016363828146": {
+      "message": "Lien vers une adresse e-mail"
+   },
+   "2469139219925930348": {
+      "message": "Symboles météorologiques et astrologiques"
+   },
+   "2484918978489875840": {
+      "message": "Arabe"
+   },
+   "2500940977211244160": {
+      "message": "Chromecast vous permet de regarder vos séries TV et vos films préférés sur grand écran."
+   },
+   "2510334389873855577": {
+      "message": "Scripts d'Asie du Sud"
+   },
+   "2524488082161774200": {
+      "message": "Tibétain"
+   },
+   "2556195906496703534": {
+      "message": "Trait d'union"
+   },
+   "2567552453606568838": {
+      "message": "il y a $NUM$ heure",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Indice"
+   },
+   "2596943043266694861": {
+      "message": "Vidéo introuvable."
+   },
+   "2602773901491715295": {
+      "message": "Sous-titres"
+   },
+   "2609303773462214063": {
+      "message": "Impossible de télécharger le film, car le titulaire des droits d'auteur interdit son visionnage hors connexion."
+   },
+   "2617084065793155411": {
+      "message": "Demi-cadratin"
+   },
+   "2623430506770319716": {
+      "message": "Votre compte a été modifié trop souvent par le service client cette année."
+   },
+   "2624723575430661735": {
+      "message": "Version $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "La location du film \"$MOVIE_TITLE$\" $LONG_EXPIRATION_MESSAGE$. Une fois la lecture commencée, elle $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Obtenir de l'aide"
+   },
+   "2634032400851497621": {
+      "message": "Très grande"
+   },
+   "2636578811345390596": {
+      "message": "Graphique"
+   },
+   "265418312065535093": {
+      "message": "Chasse fixe sans empattement"
+   },
+   "2669412054237461578": {
+      "message": "Acheter \"$ASSET_PURCHASE_TITLE$\"",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Espace idéographique"
+   },
+   "267152712329867450": {
+      "message": "Symboles historiques"
+   },
+   "2676989239174849130": {
+      "message": "Vous pouvez télécharger vos achats sur un maximum de cinq appareils en même temps. Pour télécharger cette vidéo sur celui-ci, supprimez tous vos téléchargements d'un autre appareil."
+   },
+   "2694197056256485674": {
+      "message": "a.m."
+   },
+   "2696605111162327790": {
+      "message": "Symbole musical début de coulé"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "À propos de Google Play Films"
+   },
+   "2725131744113020753": {
+      "message": "Session de diffusion arrivée à expiration. Veuillez dissocier l'appareil, puis réessayer."
+   },
+   "2726210069762481377": {
+      "message": "Volume : $VOLUME_LEVEL$ %",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "En cours d'exécution…"
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, si disponible",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Hier"
+   },
+   "2778320704487179651": {
+      "message": "Sudarabique"
+   },
+   "2811578318938008571": {
+      "message": "Trait d'union avec tréma"
+   },
+   "2823408948793387406": {
+      "message": "Texte jaune sur fond noir"
+   },
+   "2843666691789766965": {
+      "message": "Symboles"
+   },
+   "285220876417404298": {
+      "message": "Modifier"
+   },
+   "2866884137027183397": {
+      "message": "Licences Open Source"
+   },
+   "287293401853426183": {
+      "message": "Cadratin"
+   },
+   "2873226479878121265": {
+      "message": "Lieu de naissance"
+   },
+   "2873450949697555837": {
+      "message": "Télécharger des épisodes de séries TV"
+   },
+   "2874298691560753701": {
+      "message": "billiards"
+   },
+   "2874903004453257636": {
+      "message": "Taï-le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{il y a # minute}=1{il y a # minute}one{il y a # minute}other{il y a # minutes}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Afficher les détails$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Composant$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Code d'erreur$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Message$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Attributs$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Espacement"
+   },
+   "2972646465175951960": {
+      "message": "Code couleur hexadécimal"
+   },
+   "2976070904514926378": {
+      "message": "Lorsque votre appareil sera à nouveau connecté à Internet, votre activité sur Play Films et séries sera synchronisée. Vous pourrez alors regarder ce film sur un autre appareil."
+   },
+   "299212393546620995": {
+      "message": "Uniquement avec les achats SD ou HD"
+   },
+   "3001599311394934937": {
+      "message": "Couleur"
+   },
+   "3024031615064271409": {
+      "message": "Signe multiplier invisible"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ (HD)",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Formes géométriques"
+   },
+   "3076131322444154485": {
+      "message": "Symboles musicaux"
+   },
+   "3082451864182626107": {
+      "message": "Petite"
+   },
+   "3082728000817887688": {
+      "message": "Se connecter à un appareil"
+   },
+   "3090277567861361522": {
+      "message": "Symbole musical fin de tenue"
+   },
+   "3090955389577626836": {
+      "message": "Forme de présentation de tiret cadratin vertical"
+   },
+   "3139446734703149686": {
+      "message": "Divers"
+   },
+   "3145479901031711697": {
+      "message": "Correcteur orthographique"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanoua"
+   },
+   "3149652533781441921": {
+      "message": "Le message spécifique au système de GDN est incorrect."
+   },
+   "3151300615969236340": {
+      "message": "Image de couverture de \"$WN_SHOW_TITLE$\", épisode numéro $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Description idéographique"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} jour}one{{TEXT} jour}other{{TEXT} jours}}"
+   },
+   "3194384156250789686": {
+      "message": "Scripts africains"
+   },
+   "3201110180818098584": {
+      "message": "Cham"
+   },
+   "3207692705529645309": {
+      "message": "Séparateur invisible"
+   },
+   "321244849474197695": {
+      "message": "Demain"
+   },
+   "3229124980345092092": {
+      "message": "Espace sans chasse"
+   },
+   "322985691330688230": {
+      "message": "Aucun résultat n'a été trouvé pour votre recherche."
+   },
+   "3230391931526221675": {
+      "message": "Format"
+   },
+   "3232820577716196711": {
+      "message": "Insérer une image"
+   },
+   "3243505317143754724": {
+      "message": "Personnalisé"
+   },
+   "3243750297590914955": {
+      "message": "Voyelle implicite khmère Aq"
+   },
+   "3247076985979796797": {
+      "message": "Grec"
+   },
+   "3251309750789560433": {
+      "message": "Trait d'union arménien"
+   },
+   "3254567788720420543": {
+      "message": " "
+   },
+   "3256010424127814333": {
+      "message": "Symbole musical début de tenue"
+   },
+   "3256903505595292698": {
+      "message": "Réduire le retrait"
+   },
+   "3265250603400790440": {
+      "message": "Premiers pas"
+   },
+   "3281239119456770372": {
+      "message": "Cyrillique"
+   },
+   "3289148576120895160": {
+      "message": "Petites majuscules"
+   },
+   "3294214489713824609": {
+      "message": "Chinois – Radicaux à 5 traits"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Code d'erreur : $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Couleur du texte"
+   },
+   "332000134635733746": {
+      "message": "Symboles englobants"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Chypriote"
+   },
+   "3336445884996834318": {
+      "message": "Impossible de télécharger la licence de la vidéo. Veuillez réessayer plus tard."
+   },
+   "3347761840855731301": {
+      "message": "La session de diffusion n'est pas disponible. Veuillez actualiser la page ou réessayer plus tard."
+   },
+   "3351553150964917854": {
+      "message": "Sélecteur de variante"
+   },
+   "3355166016320182029": {
+      "message": "Impossible d'obtenir la licence de cette vidéo. Veuillez réessayer plus tard."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ (HD)",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Ancre d'annotation interlinéaire"
+   },
+   "3415775657739029002": {
+      "message": "Espace tabulaire"
+   },
+   "3427321493644124084": {
+      "message": "Étoiles/Astérisques"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Rechercher \"$ACTOR_NAME$\"",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Symboles mathématiques"
+   },
+   "3496221549802542517": {
+      "message": "Très petite"
+   },
+   "3499317959717425890": {
+      "message": "Annuler"
+   },
+   "3500807335769892741": {
+      "message": "Gluon de mots"
+   },
+   "3508852687023675805": {
+      "message": "il y a $NUM$ minutes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normale"
+   },
+   "3540495086170177505": {
+      "message": "Acheter des séries TV"
+   },
+   "3546034467178790154": {
+      "message": "Indice"
+   },
+   "355565230200681214": {
+      "message": "Tiret pleine chasse"
+   },
+   "3560179919548880444": {
+      "message": "Couleur d'arrière-plan"
+   },
+   "3593213843486034190": {
+      "message": "Format"
+   },
+   "3596415344748536540": {
+      "message": "Bamoum"
+   },
+   "3599005616661192177": {
+      "message": "Désactiver"
+   },
+   "3600868534694594413": {
+      "message": "Image"
+   },
+   "3614370613824040896": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils. Pour la regarder ou la télécharger sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "3614813368690293135": {
+      "message": "Ponctuation hébraïque maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Enchâssement gauche-à-droite"
+   },
+   "3650983100916004596": {
+      "message": "milliards"
+   },
+   "3652059248591982819": {
+      "message": "Chinois – Radicaux à 3 traits"
+   },
+   "3652469401274752477": {
+      "message": "Augmenter le retrait"
+   },
+   "3653098733292921132": {
+      "message": "Brd"
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ (SD)",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Une erreur s'est produite lors de l'activation de votre location. Veuillez actualiser la page ou réessayer plus tard."
+   },
+   "3709540316929878378": {
+      "message": "Production"
+   },
+   "3721275173574409786": {
+      "message": "Précommandé"
+   },
+   "3722812838665571404": {
+      "message": "Achats"
+   },
+   "3728552702457015750": {
+      "message": "Vous pouvez télécharger vos achats sur un maximum de cinq appareils en même temps. Pour télécharger cette vidéo sur celui-ci, supprimez tous vos téléchargements d'un autre appareil."
+   },
+   "3752083240065277436": {
+      "message": "Oriya"
+   },
+   "3808754582975714579": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils autorisés. Pour la regarder sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "3815693850657578096": {
+      "message": "Sharda"
+   },
+   "3826397878188995605": {
+      "message": "Vous pouvez regarder ce film ici ou sur un téléphone ou une tablette compatibles."
+   },
+   "3831022207582977943": {
+      "message": "Symbole musical fin de phrasé"
+   },
+   "3846565521051999754": {
+      "message": "Trop de films ont été téléchargés sur cet appareil. Veuillez en supprimer certains. Si vous pensez qu'il s'agit d'une erreur, veuillez contacter le service client."
+   },
+   "3878153116309225131": {
+      "message": "Vers quelle URL ce lien doit-il rediriger ?"
+   },
+   "3878202445977233728": {
+      "message": "Préférer les pistes audio haute qualité lorsque vous téléchargez des films pour les visionner hors connexion"
+   },
+   "3890590273177043325": {
+      "message": "Ajouter l'attribut \"$REL_NO_FOLLOW$\" ($LINK_START$En savoir plus$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javanais"
+   },
+   "397098723873502323": {
+      "message": "OK"
+   },
+   "3990377875754602116": {
+      "message": "Chinois – Radicaux à 6 traits"
+   },
+   "3992132733680288700": {
+      "message": "Taï tham"
+   },
+   "4001637111049313831": {
+      "message": "Avec audio 5.1"
+   },
+   "4002348975328837413": {
+      "message": "Lecture"
+   },
+   "4005427126456357141": {
+      "message": "il y a $NUM$ jour",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Louer ($PRICE_RENT$)",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Italique"
+   },
+   "4023151405827971137": {
+      "message": "Vous ne disposez pas de suffisamment d'espace libre sur votre ordinateur pour télécharger cette vidéo. Veuillez libérer de l'espace, puis réessayer."
+   },
+   "4024812820054201230": {
+      "message": "Alphabet phonétique international (X-API)"
+   },
+   "4030079690633228611": {
+      "message": "Distribution"
+   },
+   "4050502316465597694": {
+      "message": "Syloti Nagri"
+   },
+   "406627050327127223": {
+      "message": "Paramètres de téléchargement"
+   },
+   "4068597226649219969": {
+      "message": "La vidéo de la session de diffusion ne correspond pas à celle demandée."
+   },
+   "409370207508422421": {
+      "message": "Mes séries TV"
+   },
+   "4115063437096532185": {
+      "message": "Traits CJC"
+   },
+   "4146453603518633252": {
+      "message": "Les films loués ou achetés sur le Play Store s'affichent ici"
+   },
+   "4147180678866875282": {
+      "message": "Saison $SEASON_NUMBER$",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Hiéroglyphes égyptiens"
+   },
+   "4165304946050965012": {
+      "message": "Taxe de $PURCHASE_TAX$ incluse",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Texte jaune sur fond bleu"
+   },
+   "4171449911657770848": {
+      "message": "Nouveau taï lü"
+   },
+   "4181834061497947522": {
+      "message": "ERREUR : \"$COLOR$\" n'est pas une couleur valide.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Pause"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "Mio"
+   },
+   "4241565389203750613": {
+      "message": "Lettres modificatives"
+   },
+   "4242947662880926847": {
+      "message": "Miao"
+   },
+   "4258500568871377211": {
+      "message": "OK"
+   },
+   "4289161867449641226": {
+      "message": "Supprimer le film téléchargé ?"
+   },
+   "4326728310335009890": {
+      "message": "Taï viêt"
+   },
+   "4327117004280518691": {
+      "message": "Shavien"
+   },
+   "4327135909829829353": {
+      "message": "Arménien"
+   },
+   "4327389288032644198": {
+      "message": "Changma kodha"
+   },
+   "4330118138352331494": {
+      "message": "Symbole musical début de rame"
+   },
+   "4365544241082610712": {
+      "message": "Langue d'origine de la vidéo"
+   },
+   "4389982170398859731": {
+      "message": "Courant"
+   },
+   "4414892686324469274": {
+      "message": "Piste audio"
+   },
+   "4430021444843507791": {
+      "message": "Application d'une fonction"
+   },
+   "4464935242536677493": {
+      "message": "C'est quoi ce titre ?"
+   },
+   "447254005463967829": {
+      "message": "Symboles par paire"
+   },
+   "4489533087577236543": {
+      "message": "Manqués de peu"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{il y a # heure}=1{il y a # heure}one{il y a # heure}other{il y a # heures}}"
+   },
+   "4516988402150653150": {
+      "message": "Un composant requis est manquant. Rendez-vous sur chrome://components dans un autre onglet du navigateur, cliquez sur le bouton \"Rechercher les mises à jour\" pour le composant WidevineCdm. Relancez le navigateur lorsque la mention \"Composant mis à jour\" s'affiche."
+   },
+   "4524440614927500782": {
+      "message": "Chasse proportionnelle sans empattement"
+   },
+   "4530344539930689918": {
+      "message": "Espace d'Ogam"
+   },
+   "4539242619498877242": {
+      "message": "…"
+   },
+   "4580988005648117665": {
+      "message": "Rechercher"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ par $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Louer"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{dans # minute}=1{dans # minute}one{dans # minute}other{dans # minutes}}"
+   },
+   "463873241822657784": {
+      "message": "Trait d'union ondulé"
+   },
+   "464267706146568699": {
+      "message": "Laotien"
+   },
+   "4654657327320140306": {
+      "message": "Exposant"
+   },
+   "4658723167166809016": {
+      "message": "Espace moyenne mathématique"
+   },
+   "4661634374225039228": {
+      "message": "Séparateur de paragraphes"
+   },
+   "467915794683941071": {
+      "message": "Regarder l'épisode numéro $EPISODE_NUMBER$, \"$EPISODE_TITLE$\"",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongol"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{il y a # jour}=1{il y a # jour}one{il y a # jour}other{il y a # jours}}"
+   },
+   "4712209269320332893": {
+      "message": "Bonus"
+   },
+   "4716710616284048819": {
+      "message": "Représentation des données du graphique sous forme de tableau"
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minute}one{{TEXT} minute}other{{TEXT} minutes}}"
+   },
+   "4725762888646270913": {
+      "message": "Regarder \"$WN_SHOW_TITLE$\", épisode numéro $WN_EPISODE_NUMBER$, \"$WN_EPISODE_TITLE$\"",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Trait d'union double oblique"
+   },
+   "4762347778259393153": {
+      "message": "Moins courant"
+   },
+   "4800386880747162133": {
+      "message": "Une erreur serveur temporaire s'est produite. Veuillez réessayer plus tard."
+   },
+   "4822858567120963779": {
+      "message": "Résultats de recherche pour \"$SEARCH_QUERY$\"",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils autorisés. Pour la regarder ou la télécharger sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "48271036515889672": {
+      "message": "Session de diffusion non valide. Veuillez actualiser la page ou réessayer plus tard."
+   },
+   "4831214862800127209": {
+      "message": "La vidéo de la session de diffusion ne correspond pas à celle demandée."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogam"
+   },
+   "4871903967361312376": {
+      "message": "Symboles Yijing/Tai Xuan Jing"
+   },
+   "4875958436183735304": {
+      "message": "Ombre projetée à droite"
+   },
+   "4906346168276586100": {
+      "message": "Le message spécifique au système de GDN est incorrect."
+   },
+   "491995769371858733": {
+      "message": "Aucun"
+   },
+   "4920312719509022176": {
+      "message": "Police"
+   },
+   "4930506384627295710": {
+      "message": "Paramètres"
+   },
+   "4933409796062109057": {
+      "message": "$DOWNLOAD_PROGRESS$ % téléchargés, cliquer pour annuler",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Bourre hangûl"
+   },
+   "4950037820737346052": {
+      "message": "Bourre hangûl demi-chasse"
+   },
+   "4968001688305770755": {
+      "message": "En cliquant sur \"$OFFER_TYPE$\", vous acceptez les",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Lien vers :"
+   },
+   "500501967044040199": {
+      "message": "Éléments"
+   },
+   "5011669227045570891": {
+      "message": "Barre horizontale"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Il est possible que vous ayez téléchargé des vidéos simultanément en utilisant jusqu'à trois comptes sur l'un de vos appareils. Pour télécharger celle-ci sur cet appareil, supprimez tous les téléchargements d'un autre compte."
+   },
+   "5048838621444724614": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils autorisés. Pour la télécharger sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "5056334923803362149": {
+      "message": "Accès à cette vidéo interdit."
+   },
+   "5057747709360994470": {
+      "message": "million"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Bourre hangûl djoungsong"
+   },
+   "5089553823126293996": {
+      "message": "Annuler"
+   },
+   "5135948647887912891": {
+      "message": "\"$ASSET_TITLE$\" a bien été ajouté à votre bibliothèque.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Liant sans chasse"
+   },
+   "5145175165902220114": {
+      "message": "Trait d'union syllabique canadien"
+   },
+   "5161805074897471162": {
+      "message": "L'application Google Play Films pour Chrome n'est pas compatible avec Windows XP ni les versions antérieures. Veuillez réessayer en utilisant Windows Vista ou version ultérieure, Mac, Linux ou Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "Tifinaghe"
+   },
+   "5176392387315400391": {
+      "message": "Aucune donnée"
+   },
+   "5179659870501454485": {
+      "message": "Ajouter un mode de paiement"
+   },
+   "5184276027321226501": {
+      "message": "Adresse e-mail"
+   },
+   "5194883651451379462": {
+      "message": "Acheter"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Commentaires Play Films"
+   },
+   "5209758796360312502": {
+      "message": "Cunéiforme"
+   },
+   "5216466426869773105": {
+      "message": "Pehlevi des inscriptions"
+   },
+   "522508588411648848": {
+      "message": "Voir \"$STORE_LINK_TITLE$\" sur le Play Store",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Symbole musical début de phrasé"
+   },
+   "524096672349210886": {
+      "message": "Transport et cartes"
+   },
+   "5241676005655672226": {
+      "message": "Chinois – Radicaux à 9 traits"
+   },
+   "5241820237010230531": {
+      "message": "Vaï"
+   },
+   "5252668631265690404": {
+      "message": "Autre"
+   },
+   "52534048856251312": {
+      "message": "Envoyer des commentaires"
+   },
+   "5255871588113212604": {
+      "message": "Aucune suggestion"
+   },
+   "5261311595095150702": {
+      "message": "Symbole musical fin de coulé"
+   },
+   "5261596970471311774": {
+      "message": "Grande"
+   },
+   "5281671802836592116": {
+      "message": "Chasse proportionnelle à empattement"
+   },
+   "5293326322671103002": {
+      "message": "Chargement en cours sur $EVAL_1$…",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Vous avez regardé $CURRENT_TIME$ sur $DURATION$.",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Hanounóo"
+   },
+   "5438255274292242922": {
+      "message": "Symboles techniques"
+   },
+   "5439710597412767794": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils. Pour la télécharger sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "545021630455133011": {
+      "message": "Copte"
+   },
+   "5461901018141989680": {
+      "message": "Fin de Ayah arabe"
+   },
+   "5484073037133610477": {
+      "message": "Bougui"
+   },
+   "5490715514416345531": {
+      "message": "Texte blanc sur fond noir"
+   },
+   "54946385235790268": {
+      "message": "Impossible de supprimer le film en raison d'une erreur système. Veuillez contacter le service client ou nous envoyer vos commentaires via le menu des paramètres."
+   },
+   "5496646217073800560": {
+      "message": "Nombre"
+   },
+   "5505627655067167147": {
+      "message": "À quelle adresse e-mail ce lien doit-il être associé ?"
+   },
+   "5515365680802763380": {
+      "message": "La lecture a été suspendue, car le nombre maximal d'appareils autorisés sur lesquels cette vidéo peut être lue a été atteint. Veuillez patienter 24 heures avant de la regarder à nouveau."
+   },
+   "5527963094685167949": {
+      "message": "Impossible de lire cette vidéo pour le moment. Veuillez essayer d'actualiser la page."
+   },
+   "5548738790581121863": {
+      "message": "Le compte a atteint la limite contractuelle du nombre de désactivations d'appareils. Si vous pensez qu'il s'agit d'une erreur, veuillez contacter le service client."
+   },
+   "556303983072423917": {
+      "message": "Impossible de télécharger le film, car le titulaire des droits d'auteur interdit son visionnage hors connexion."
+   },
+   "5568872195580328526": {
+      "message": "Connectée à l'appareil \"$CAST_DEVICE_NAME$\"",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Pause"
+   },
+   "5625642025808759710": {
+      "message": "Scripts d'Asie du Sud-Est"
+   },
+   "5649689590162845077": {
+      "message": "Développer ou réduire la description"
+   },
+   "568365569990952204": {
+      "message": "Chargement en cours…"
+   },
+   "5690743679710570538": {
+      "message": "Continuer"
+   },
+   "5699299130874036286": {
+      "message": "Félicitations !"
+   },
+   "5701676109334495247": {
+      "message": "Cette vidéo a été remboursée. Pour la regarder, veuillez l'acheter ou la louer à nouveau."
+   },
+   "5739753659630714071": {
+      "message": "Couleur d'arrière-plan du texte"
+   },
+   "5740091738966096065": {
+      "message": "Vous n'avez actuellement aucun contenu téléchargé pour une utilisation hors connexion. Connectez-vous, puis téléchargez des contenus de votre bibliothèque pour pouvoir y accéder hors connexion."
+   },
+   "57403663622654391": {
+      "message": "Espace de stockage"
+   },
+   "5758941098755146708": {
+      "message": "Ajouter ou supprimer un lien"
+   },
+   "5765285425521589331": {
+      "message": "Transport, cartes et signalisation"
+   },
+   "5773223913514548808": {
+      "message": "Une erreur s'est produite lors de la connexion à votre compte. Veuillez vous assurer que vous êtes bien connecté à Chrome en vous rendant sur chrome://chrome-signin/. Veuillez ensuite réessayer de relancer l'application."
+   },
+   "5793916253768843563": {
+      "message": "Le site d'hébergement a bloqué l'image que vous essayez de faire glisser."
+   },
+   "5818819286276765821": {
+      "message": "Bouhide"
+   },
+   "5823773924892832157": {
+      "message": "Espace blanc"
+   },
+   "5831261098398725527": {
+      "message": "Citation"
+   },
+   "5843775533846981999": {
+      "message": "Regardez des films sur Google Play."
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Interrompue. $EVAL_1$ min restante.}one{Interrompue. $EVAL_2$ min restante.}other{Interrompue. $EVAL_2$ min restantes.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Image de couverture de \"$MOVIE_TITLE$\"",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Modifier la source HTML"
+   },
+   "5884014452536244885": {
+      "message": "Télécharger des épisodes de séries TV gratuits"
+   },
+   "5889420664241962721": {
+      "message": "L'application Chrome Google Play Films n'est compatible qu'avec Chrome 34 ou version ultérieure. Veuillez vous assurer que Chrome est bien mis à jour."
+   },
+   "5891242694179659653": {
+      "message": "Tester ce lien"
+   },
+   "5911102149852781948": {
+      "message": "Dépilement de formatage directionnel"
+   },
+   "5924149156142134621": {
+      "message": "Impossible d'accepter sur le serveur le certificat racine utilisé dans la communication. Veuillez réessayer plus tard."
+   },
+   "592520084270766310": {
+      "message": "Thaï"
+   },
+   "5931872839329863827": {
+      "message": "Texte noir sur fond blanc"
+   },
+   "593622950044400136": {
+      "message": "Normale"
+   },
+   "5961302828987058223": {
+      "message": "Flèches"
+   },
+   "5970051322674660677": {
+      "message": "Session de diffusion arrivée à expiration. Veuillez dissocier l'appareil, puis réessayer."
+   },
+   "5984875596889567804": {
+      "message": "Impossible de supprimer le film en raison d'une erreur système. Veuillez contacter le service client ou nous envoyer vos commentaires via le menu des paramètres."
+   },
+   "6003902003271431273": {
+      "message": "Supprimer"
+   },
+   "6005860289879017562": {
+      "message": "Impossible de lire cette vidéo pour le moment. Veuillez réessayer plus tard."
+   },
+   "6014354480663192727": {
+      "message": "Les séries TV que vous achetez sur le Play Store s'affichent ici"
+   },
+   "6034340809890392304": {
+      "message": "Acheter des films"
+   },
+   "6060953217197345552": {
+      "message": "Syllabaires autochtones canadiens"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Exécuter quand même"
+   },
+   "6084972307281346150": {
+      "message": "Signe de nombre kaïthî"
+   },
+   "6105544360205581717": {
+      "message": "Annuler"
+   },
+   "6122892080995252667": {
+      "message": "Format et espace blanc"
+   },
+   "6137797587633467697": {
+      "message": "Cursive méroïtique"
+   },
+   "6155475143120453982": {
+      "message": "0 minute"
+   },
+   "6190120025272183060": {
+      "message": "Marques"
+   },
+   "6193238841287195586": {
+      "message": "Scénario"
+   },
+   "6222709653953533319": {
+      "message": "Couleur du texte"
+   },
+   "6232382505914187032": {
+      "message": "Télécharger des épisodes gratuits"
+   },
+   "6245954250506012649": {
+      "message": "Locations"
+   },
+   "6247516545605893720": {
+      "message": "Envoyer des commentaires"
+   },
+   "6248269670479966135": {
+      "message": "Clavier et interface utilisateur"
+   },
+   "6252201064611373493": {
+      "message": "Afficher les cartes"
+   },
+   "6270812530472396287": {
+      "message": "Aujourd'hui"
+   },
+   "6272228095428812454": {
+      "message": "Tagalog"
+   },
+   "6279370317435309772": {
+      "message": "Avestique"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Vous ne savez pas quelle information fournir dans cette zone ?$END_BOLD$ Tout d'abord, localisez la page Web vers laquelle vous souhaitez créer un lien. Pour ce faire, vous pouvez recourir à un $SEARCH_ENGINE_LINK$moteur de recherche$END_LINK$. Copiez ensuite l'adresse Web située dans la barre d'adresse de votre navigateur, puis collez-la dans la zone ci-dessus.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Lecture"
+   },
+   "6335175380341340581": {
+      "message": "L'appareil de la session de diffusion ne correspond pas à celui demandé."
+   },
+   "6343010841347906907": {
+      "message": "dans $NUM$ jour",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Compatibilité"
+   },
+   "6350391521435965588": {
+      "message": "Précommandé"
+   },
+   "6352913008658578632": {
+      "message": "Trait d'union conditionnel"
+   },
+   "6363122915809877223": {
+      "message": "Ombre projetée à gauche"
+   },
+   "6371465733575496232": {
+      "message": "Scripts du Moyen-Orient"
+   },
+   "6405814875010182725": {
+      "message": "Impossible d'accepter sur le serveur le certificat racine utilisé dans la communication. Veuillez réessayer plus tard."
+   },
+   "6407996489854784042": {
+      "message": "Modifier le lien"
+   },
+   "6414884042279967640": {
+      "message": "URL non valide"
+   },
+   "6425847105595230473": {
+      "message": "Ignorer"
+   },
+   "6432298456231736850": {
+      "message": "Google Play Films et séries"
+   },
+   "6440344606961499591": {
+      "message": "Lycien"
+   },
+   "6456384515113758910": {
+      "message": "Afficher plus"
+   },
+   "6456933929616370051": {
+      "message": "Modifier le mot"
+   },
+   "6479123880196723568": {
+      "message": "Cursive"
+   },
+   "6496283442053180405": {
+      "message": "De gauche à droite"
+   },
+   "6501155781262627001": {
+      "message": "Vous avez utilisé trop d'appareils ou d'adresses IP en l'espace de 24 heures. Veuillez utiliser un des appareils déjà utilisés ou réessayer plus tard."
+   },
+   "6508375652910000957": {
+      "message": "Sans espacement"
+   },
+   "6536020395223120161": {
+      "message": "Erreur"
+   },
+   "6546669593466967671": {
+      "message": "Symboles mathématiques alphanumériques"
+   },
+   "6551745305926008747": {
+      "message": "Précommander"
+   },
+   "6554134808157634636": {
+      "message": "Linéaire B"
+   },
+   "656481501116924913": {
+      "message": "La lecture a été interrompue, car le nombre maximal autorisé d'appareils sur lesquels cette vidéo peut être lue a été atteint. Veuillez patienter 24 heures avant de la regarder à nouveau."
+   },
+   "6569656063466645753": {
+      "message": "Sous-titres"
+   },
+   "6602025155112861839": {
+      "message": "Brahmî"
+   },
+   "6621933208862353132": {
+      "message": "Cette vidéo n'est pas disponible dans votre pays."
+   },
+   "6625801467720528503": {
+      "message": "Vieux-perse"
+   },
+   "6629216961322187103": {
+      "message": "Enregistrer"
+   },
+   "6633629616609262609": {
+      "message": "Vous pouvez modifier les paramètres plus tard dans les $START_TAG_19$paramètres de l'application$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Autres scripts européens"
+   },
+   "6651639811736683845": {
+      "message": "Mes films"
+   },
+   "6661681603632549986": {
+      "message": "Sous-titres"
+   },
+   "6667667434733000643": {
+      "message": "Avec fiches info"
+   },
+   "6677363386267424723": {
+      "message": "Regarder \"$MOVIE_TITLE$\"",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Acheter $MOVIE_TITLE$ à $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Taille de police"
+   },
+   "677905689563333998": {
+      "message": "La lecture a été suspendue, car le nombre maximal autorisé de vidéos actives issues du même compte a été atteint. Veuillez interrompre la lecture de certaines vidéos, puis réessayer."
+   },
+   "679571059806777318": {
+      "message": "Thâna"
+   },
+   "6810753777984126315": {
+      "message": "Déseret"
+   },
+   "6827910084162380306": {
+      "message": "L'appareil de la session de diffusion ne correspond pas à celui demandé."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} heure}one{{TEXT} heure}other{{TEXT} heures}}"
+   },
+   "6851957197139570861": {
+      "message": "Cette vidéo n'est pas disponible dans votre pays."
+   },
+   "6853191352018412040": {
+      "message": "Balinais"
+   },
+   "6855074016004156398": {
+      "message": "Modifier le code HTML"
+   },
+   "6860315656437719971": {
+      "message": "Ce film a déjà été téléchargé sur cet appareil. Veuillez consulter les autres comptes de l'appareil."
+   },
+   "6875483133393301003": {
+      "message": "Autres scripts d'Asie de l'Est"
+   },
+   "6883682454262090493": {
+      "message": "Sélectionnez un bon film sur le Play Store, puis regardez-le avec l'application Play Films pour Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Très grande"
+   },
+   "6896826577403437656": {
+      "message": "Trait d'union-signe moins"
+   },
+   "6902004800313673513": {
+      "message": "Symboles retournés/inversés"
+   },
+   "6964937916732516478": {
+      "message": "Normale"
+   },
+   "696905759309523016": {
+      "message": "Sélectionnez un bon film ou une bonne série TV sur le Play Store, puis profitez-en avec l'application Play Films et séries pour Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Si vous supprimez ce film, vous ne pourrez pas le regarder sur cet appareil si vous n'êtes pas connecté à Internet."
+   },
+   "6989393626433450594": {
+      "message": "Phags-Pa"
+   },
+   "7012766363608830434": {
+      "message": "Signe plus invisible"
+   },
+   "7024834031644866926": {
+      "message": "Obtenir de l'aide"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "il y a $NUM$ heures",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Si vous supprimez cet épisode, vous ne pourrez pas le regarder sur cet appareil si vous n'êtes pas connecté à Internet."
+   },
+   "7094242414651579769": {
+      "message": "Recommandé pour vous"
+   },
+   "7101065047913928628": {
+      "message": "N'ko"
+   },
+   "711332449732375422": {
+      "message": "Tous"
+   },
+   "7119313535591306971": {
+      "message": "Syriaque"
+   },
+   "7133753811730291503": {
+      "message": "Redjang"
+   },
+   "7134932904164509880": {
+      "message": "Audio et sous-titres"
+   },
+   "7142370112218882473": {
+      "message": "Tiret numérique"
+   },
+   "7143481033215693523": {
+      "message": "Phénicien"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{dans # jour}=1{dans # jour}one{dans # jour}other{dans # jours}}"
+   },
+   "7166131491680306441": {
+      "message": "Gras"
+   },
+   "717756764917242379": {
+      "message": "Votre compte a été modifié trop souvent par le service client cette année."
+   },
+   "7209204842613884996": {
+      "message": "Cherokee"
+   },
+   "7217613154757397815": {
+      "message": "Titre secondaire"
+   },
+   "7222798856864539991": {
+      "message": "Émoticônes"
+   },
+   "7231513918080506880": {
+      "message": "Erreur de lecture de la vidéo"
+   },
+   "7233133314598482636": {
+      "message": "Symbole"
+   },
+   "7237310906976510879": {
+      "message": "Erreur d'authentification"
+   },
+   "7254769271789170667": {
+      "message": "Forçage droite-à-gauche"
+   },
+   "7271563194657138998": {
+      "message": "Lancez-vous en sélectionnant un épisode gratuit sur le Play Store pour en profiter instantanément avec l'application Play Films et séries pour Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Contrat d'achat introuvable."
+   },
+   "7333054716894862082": {
+      "message": "Justifier"
+   },
+   "7352037235710614813": {
+      "message": "Réalisation"
+   },
+   "7379356741388986662": {
+      "message": "Boutique"
+   },
+   "738294154320637123": {
+      "message": "Meitei mayek"
+   },
+   "7403213530684675547": {
+      "message": "Impossible de supprimer le film, car il a été téléchargé sur un autre appareil. Veuillez tout d'abord le supprimer de ce dernier."
+   },
+   "7423355034259912329": {
+      "message": "La lecture du film a déjà été interrompue."
+   },
+   "742861914041471563": {
+      "message": "Aligner à gauche"
+   },
+   "7431208184373206966": {
+      "message": "Grande"
+   },
+   "7436129358876453178": {
+      "message": "Chinois – Radicaux à 2 traits"
+   },
+   "7443523425660741023": {
+      "message": "Impossible de supprimer le film, car il a été téléchargé sur un autre appareil. Veuillez tout d'abord le supprimer de ce dernier."
+   },
+   "7444530187008825696": {
+      "message": "Impossible de tester ce lien."
+   },
+   "7445716324927695719": {
+      "message": "$DOWNLOADED_TITLE$ % téléchargés, cliquer pour supprimer",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Dissocier"
+   },
+   "7499894239558451540": {
+      "message": "Oui"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Une erreur serveur s'est produite. Veuillez réessayer plus tard."
+   },
+   "754389774434351130": {
+      "message": "Séparateur de voyelles mongol"
+   },
+   "7545663607980395021": {
+      "message": "La session de diffusion n'est pas disponible. Veuillez actualiser la page ou réessayer plus tard."
+   },
+   "7559531330043741601": {
+      "message": "Centrer"
+   },
+   "7561622296230802801": {
+      "message": "\"$SERIES_NAME$\" (nombre)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Bourre hangûl tch'ôsong"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Attention$POSTB$ : N'oubliez pas que chaque fois que vous indiquez une adresse e-mail sur une page Web, les spammeurs peuvent également y avoir accès.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Passez la souris sur les cellules pour afficher le nom du caractère."
+   },
+   "7628853095173216399": {
+      "message": "Veuillez vous connecter pour reprendre la lecture."
+   },
+   "7628997973779702278": {
+      "message": "Télécharger \"$DOWNLOAD_TITLE$\"",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Voir la bande-annonce"
+   },
+   "7644195558431380264": {
+      "message": "Bord en relief"
+   },
+   "7656269245189992953": {
+      "message": "Aucun"
+   },
+   "765644786799307419": {
+      "message": "Quart de cadratin"
+   },
+   "7661273651737426088": {
+      "message": "Trait d'union insécable"
+   },
+   "7671671293660378394": {
+      "message": "Espace insécable"
+   },
+   "7687757766363784951": {
+      "message": "Sélections récentes :"
+   },
+   "7704099115712609154": {
+      "message": "Paramètres"
+   },
+   "7707854987324577924": {
+      "message": "Indicateur d'ordre des octets"
+   },
+   "7721864005040197774": {
+      "message": "Objets"
+   },
+   "7735652872804202135": {
+      "message": "Lire les vidéos dans la langue de mon appareil, si disponible"
+   },
+   "7776630049782874310": {
+      "message": "Il est possible que vous ayez téléchargé des vidéos simultanément en utilisant jusqu'à trois comptes sur l'un de vos appareils. Pour télécharger celle-ci sur cet appareil, supprimez tous les téléchargements d'un autre compte."
+   },
+   "779039068486648656": {
+      "message": "Votre navigateur n'est pas compatible avec les graphiques."
+   },
+   "7792182371277036944": {
+      "message": "À regarder"
+   },
+   "7807783089931705706": {
+      "message": "Préréglages"
+   },
+   "7825923098003586011": {
+      "message": "Hiéroglyphes méroïtiques"
+   },
+   "7835136621565821438": {
+      "message": "Parthe des inscriptions"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ minutes",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Ce film a déjà été téléchargé sur cet appareil. Veuillez consulter les autres comptes de l'appareil."
+   },
+   "7872307517743373476": {
+      "message": "Session de diffusion non valide. Veuillez actualiser la page ou réessayer plus tard."
+   },
+   "7873756658795212081": {
+      "message": "expire dans $EVAL_1$ jours",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ sur le Play Store",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "p.m."
+   },
+   "7918520961628671120": {
+      "message": "Accès à cette vidéo interdit."
+   },
+   "791855806965154343": {
+      "message": "Batak"
+   },
+   "7926689704723702466": {
+      "message": "billiard"
+   },
+   "7933902915184371880": {
+      "message": "Carien"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Interrompue. $EVAL_1$ s restante.}one{Interrompue. $EVAL_2$ s restante.}other{Interrompue. $EVAL_2$ s restantes.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Scripts américains"
+   },
+   "7943286917138037388": {
+      "message": "Tiret demi-cadratin"
+   },
+   "7952530065274028271": {
+      "message": "Afficher les informations détaillées relatives à l'émission \"$WN_SHOW_TITLE$\", épisode numéro $WN_EPISODE_NUMBER$, \"$WN_EPISODE_TITLE$\"",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "expire dans $EVAL_1$ heures",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamoul"
+   },
+   "7978764644554853286": {
+      "message": "dans $NUM$ minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Chinois – Radicaux à 1 trait"
+   },
+   "7985246120023271230": {
+      "message": "La location de cette vidéo est arrivée à expiration. Pour la regarder, veuillez l'acheter ou la louer à nouveau."
+   },
+   "7991898653680244970": {
+      "message": "Supplément Latin-1"
+   },
+   "7993302948330451962": {
+      "message": "Birman"
+   },
+   "7993967737532196015": {
+      "message": "Noté $VIEWER_RATING$ sur 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Supprimer l'épisode téléchargé ?"
+   },
+   "8013309308261303688": {
+      "message": "Acheter des films"
+   },
+   "8018308926864382762": {
+      "message": "Marque d'abréviation syriaque"
+   },
+   "802273028390736200": {
+      "message": "HORS CONNEXION"
+   },
+   "8023737429684265357": {
+      "message": "Bord en retrait"
+   },
+   "8039844141475995654": {
+      "message": "dans $NUM$ minutes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Runique"
+   },
+   "8042716985296303990": {
+      "message": "Format"
+   },
+   "8042730852758398655": {
+      "message": "Langue de l'audio"
+   },
+   "8062522779459151420": {
+      "message": "Supprimer la mise en forme"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "Identifiant"
+   },
+   "8101733308672950303": {
+      "message": "Aperçu des sous-titres"
+   },
+   "8132424293432274889": {
+      "message": "Retour"
+   },
+   "8134822873948566976": {
+      "message": "Télécharger plus d'épisodes"
+   },
+   "8153387349716171448": {
+      "message": "Cette vidéo a été téléchargée sur le nombre maximal d'appareils. Pour la regarder sur celui-ci, supprimez-la d'un autre appareil."
+   },
+   "8161910726112545534": {
+      "message": "Tiret minuscule"
+   },
+   "8167719451188045081": {
+      "message": "Antiliant sans chasse"
+   },
+   "8175552949837381315": {
+      "message": "Fermer"
+   },
+   "8176183622289427250": {
+      "message": "Sélectionnez un bon film sur le Play Store, puis profitez-en avec l'application Play Films et séries pour Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Symbole musical fin de rame"
+   },
+   "8182154803169715176": {
+      "message": "Devise"
+   },
+   "8188276694329647401": {
+      "message": "millions"
+   },
+   "8203155312190167416": {
+      "message": "Télécharger des épisodes gratuits"
+   },
+   "8204709243856731897": {
+      "message": "Le compte a atteint la limite contractuelle du nombre de désactivations d'appareils. Si vous pensez qu'il s'agit d'une erreur, veuillez contacter le service client."
+   },
+   "8209649773417809069": {
+      "message": "Chasse fixe à empattement"
+   },
+   "8223592563721543961": {
+      "message": "Marque droite-à-gauche"
+   },
+   "8229110080399300640": {
+      "message": "Lydien"
+   },
+   "825047260879284602": {
+      "message": "Saisissez une couleur personnalisée, comme le rose : #F00, #D015FF ou rgb(100, 50, 25)."
+   },
+   "829017817517555824": {
+      "message": "Osmanais"
+   },
+   "8303685272985764664": {
+      "message": "Cadratin"
+   },
+   "8316357291574004120": {
+      "message": "La lecture n'est pas possible sur cet appareil."
+   },
+   "8317092845662281711": {
+      "message": "Audio"
+   },
+   "8317239070847268844": {
+      "message": "billions"
+   },
+   "8356754494097778995": {
+      "message": "Enchâssement droite-à-gauche"
+   },
+   "836493064290964717": {
+      "message": "Chinois – Radicaux à 7 traits"
+   },
+   "8367205574605681054": {
+      "message": "Nous contacter"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{dans # heure}=1{dans # heure}one{dans # heure}other{dans # heures}}"
+   },
+   "838631802941302770": {
+      "message": "Kharochthî"
+   },
+   "8387836334671661814": {
+      "message": "Normale"
+   },
+   "8406794425024838870": {
+      "message": "Lire les vidéos dans leur langue d'origine, si disponible"
+   },
+   "8415457571769345476": {
+      "message": "Gurmukhī"
+   },
+   "8432592301984570372": {
+      "message": "Kaïthî"
+   },
+   "8436385934277401930": {
+      "message": "Films"
+   },
+   "8439955599488894226": {
+      "message": "Règles de confidentialité"
+   },
+   "8440105734244130524": {
+      "message": "Avec sous-titres"
+   },
+   "8440128775129354214": {
+      "message": "Confidentialité"
+   },
+   "8440161680481095392": {
+      "message": "Sora Sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Séparateur d'annotation interlinéaire"
+   },
+   "8468046265986853572": {
+      "message": "Trait d'union cadratin minuscule"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Afficher des informations relatives aux acteurs et aux titres lorsque la lecture est interrompue"
+   },
+   "8480915536260760621": {
+      "message": "Séparateur de lignes"
+   },
+   "8483017128806448808": {
+      "message": "Chinois – Autre"
+   },
+   "8484953793514450798": {
+      "message": "Impossible de télécharger cette vidéo."
+   },
+   "8496572760621552382": {
+      "message": "Pictogrammes de commande"
+   },
+   "8504288534013316809": {
+      "message": "Toujours utiliser cette application pour lire le contenu de Play Films et séries sur cet appareil"
+   },
+   "8533646618757813590": {
+      "message": "Soundanais"
+   },
+   "8540686664487399786": {
+      "message": "Araméen impérial"
+   },
+   "854429928571549912": {
+      "message": "Kannada"
+   },
+   "8544418813868326219": {
+      "message": "Sous-titre"
+   },
+   "8561163275403408048": {
+      "message": "Sélectionner le format HD ou SD"
+   },
+   "8562537001029340643": {
+      "message": "Demi-cadratin"
+   },
+   "8562629041340204805": {
+      "message": "Liste à puces"
+   },
+   "8564202903947049539": {
+      "message": "Regarder"
+   },
+   "8595279472837556966": {
+      "message": "Vidéo introuvable."
+   },
+   "8598425882608097102": {
+      "message": "Saurashtra"
+   },
+   "8614813208619876018": {
+      "message": "Ouvrir ce lien dans une nouvelle fenêtre"
+   },
+   "8620014669054622585": {
+      "message": "Exposant"
+   },
+   "8654580154537063858": {
+      "message": "Tiret/Connecteur"
+   },
+   "8683517921317388539": {
+      "message": "Développer le tableau des fiches info"
+   },
+   "8686061785869890050": {
+      "message": "Marque gauche-à-droite"
+   },
+   "8721105090660343056": {
+      "message": "Samaritain"
+   },
+   "8751395052938425392": {
+      "message": "Autres"
+   },
+   "8756624200843285720": {
+      "message": "Normale/serif"
+   },
+   "875775686870257693": {
+      "message": "Voyelle implicite khmère Aa"
+   },
+   "8784627238941457153": {
+      "message": "De droite à gauche"
+   },
+   "8785585428177743106": {
+      "message": "Signe arabe safha"
+   },
+   "8788046284717061808": {
+      "message": "Trait d'union conditionnel mongol"
+   },
+   "8815814381380608540": {
+      "message": "Non"
+   },
+   "8834132438727381257": {
+      "message": "\n      Regardez des vidéos en HD avec un ordinateur portable, Chromecast, Roku et la plupart des appareils Android. En revanche, avec tout autre appareil, seule la SD est disponible pour les vidéos achetées en HD. $START_TAG_1$En savoir plus$END_TAG_1$\n      ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Adresse Web"
+   },
+   "8894457765459513654": {
+      "message": "Lien"
+   },
+   "8917983075453481180": {
+      "message": "Forme de présentation de tiret demi-cadratin vertical"
+   },
+   "8919720204772722134": {
+      "message": "Texte à afficher :"
+   },
+   "8921884278179224689": {
+      "message": "Conditions d'utilisation de Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Aujourd'hui"
+   },
+   "892438729140054354": {
+      "message": "Glagolitique"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ (SD)",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malayalam"
+   },
+   "8945516772470397544": {
+      "message": "Hébreu"
+   },
+   "8975694361063929758": {
+      "message": "Annulation du téléchargement en cours…"
+   },
+   "900213554674035877": {
+      "message": "Avertissement : Plate-forme non compatible"
+   },
+   "9003255502339267646": {
+      "message": "Orkhon"
+   },
+   "9006212563579865934": {
+      "message": "Une erreur serveur temporaire s'est produite. Veuillez réessayer plus tard."
+   },
+   "9007600562969287199": {
+      "message": "Annuler"
+   },
+   "9009756347438736077": {
+      "message": "Emoji"
+   },
+   "9039190587572892203": {
+      "message": "Boîte de dialogue d'envoi de commentaires ouverte"
+   },
+   "9058407001544582930": {
+      "message": "Braille"
+   },
+   "9082286440748444032": {
+      "message": "Aligner à droite"
+   },
+   "9119571405974007627": {
+      "message": "Cliquer pour passer en mode plein écran"
+   },
+   "9129936585862826417": {
+      "message": "Double trait katakana-hiragana"
+   },
+   "9133561684694194118": {
+      "message": "Chinois – Radicaux à 8 traits"
+   },
+   "9140663398525770181": {
+      "message": "il y a $NUM$ jours",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ épisodes",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Italique ancien"
+   },
+   "9157868620634436826": {
+      "message": "Envoyer à Google des statistiques d'utilisation anonymes de Play Films et séries sur cet appareil"
+   },
+   "9169327677828809572": {
+      "message": "Souligné"
+   },
+   "9187708289836789739": {
+      "message": "Symboles généalogiques et sexuels"
+   },
+   "9191795572559844778": {
+      "message": "Latin"
+   },
+   "9199894931939214644": {
+      "message": "La lecture a été interrompue, car le nombre maximal autorisé de vidéos actives issues du même compte a été atteint. Veuillez interrompre la lecture de certaines vidéos, puis réessayer."
+   },
+   "936850558951011636": {
+      "message": "dans $NUM$ jours",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "billion"
+   },
+   "964943437084290735": {
+      "message": "Tiers de cadratin"
+   },
+   "968485661339291047": {
+      "message": "expire dans 1 jour"
+   },
+   "969796838380220069": {
+      "message": "Ponctuation"
+   },
+   "992901664798536243": {
+      "message": "Code hexadécimal"
+   },
+   "996885966963281379": {
+      "message": "Forçage gauche-à-droite"
+   },
+   "998767118090785897": {
+      "message": "dans $NUM$ heure",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

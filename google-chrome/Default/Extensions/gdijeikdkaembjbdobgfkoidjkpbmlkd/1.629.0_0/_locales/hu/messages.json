@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Befoglalt vagy pontozott"
+   },
+   "1070809808108857931": {
+      "message": "$NUM$ perce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Linkkel mutathatsz egy oldalra vagy fájlra az interneten"
+   },
+   "1102310712956565239": {
+      "message": "Nyílt forráskódú licencek"
+   },
+   "1130652265542107236": {
+      "message": "Életkor"
+   },
+   "1134649645976473070": {
+      "message": "Arab számjel"
+   },
+   "1142417372321533593": {
+      "message": "han – 11–17-vonásos gyökök"
+   },
+   "1147656502873524992": {
+      "message": "bengáli"
+   },
+   "1163524414906063407": {
+      "message": "Hullámos vonal"
+   },
+   "1180214318241646187": {
+      "message": "dévanágari"
+   },
+   "1201655285096694629": {
+      "message": "Adj meg egy fizetési módot a vásárlás befejezéséhez."
+   },
+   "1208097920246951223": {
+      "message": "yi"
+   },
+   "12190752990595538": {
+      "message": "Egységesített"
+   },
+   "1237413374221837088": {
+      "message": "A lejátszás leállt, mert a videó lejátszása elindult egy másik eszközön. Játszd le ismét a videót, miután leállítottad a lejátszást a másik eszközön."
+   },
+   "123775052533814018": {
+      "message": "grúz"
+   },
+   "1257931524938240638": {
+      "message": "Megtekintés"
+   },
+   "1297025664516669951": {
+      "message": "M"
+   },
+   "1305766628630415604": {
+      "message": "Időjárás, tájak és csillagjegyek"
+   },
+   "1310971928430788285": {
+      "message": "Arab „Sanah” jel"
+   },
+   "1347269818800657320": {
+      "message": "1 epizód"
+   },
+   "1358234736811100710": {
+      "message": "gudzsaráti"
+   },
+   "1361445704105826758": {
+      "message": "Hajszálszóköz"
+   },
+   "1364333963472303494": {
+      "message": "$EVAL_1$ percen belül lejár",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Áthúzott"
+   },
+   "1368767014310906187": {
+      "message": "További információ"
+   },
+   "1386128393601544077": {
+      "message": "Letöltés offline megtekintésre…"
+   },
+   "1394022802077775553": {
+      "message": "Kicsi"
+   },
+   "1408430211331783844": {
+      "message": "han – tízvonásos gyökök"
+   },
+   "140933529008432611": {
+      "message": "Teljes képernyő"
+   },
+   "1410700625120387041": {
+      "message": "Oldal frissítve."
+   },
+   "1411272293021752124": {
+      "message": "Amikor eszközöd ismét online lesz, a Play Filmek és TV tevékenységei szinkronizálódni fognak. Ezután más eszközön is megtekintheted ezt az epizódot."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "A 24 órás időkereten belül túl sok eszköz/IP-cím volt használva. Kérjük, a korábban használt eszközök közül használj egyet, vagy próbáld újra később."
+   },
+   "1430062769418326205": {
+      "message": "takri"
+   },
+   "1440735285675788071": {
+      "message": "Állatok, növények és étel"
+   },
+   "1446182608983200385": {
+      "message": "Nézd meg nagy képernyőn"
+   },
+   "1452953224047775588": {
+      "message": "Szerverhiba történt, próbálkozz újra később."
+   },
+   "1464429406563501593": {
+      "message": "$PRICE_BUY$ – vásárlás",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "ugariti"
+   },
+   "1511375217423134113": {
+      "message": "Vékony szóköz"
+   },
+   "1538935182784871964": {
+      "message": "Nincs"
+   },
+   "1550882703360589242": {
+      "message": "Címsor"
+   },
+   "1569384361123250083": {
+      "message": "Keskeny nem törhető szóköz"
+   },
+   "1569694034972476152": {
+      "message": "Hitel- vagy bankkártya hozzáadása"
+   },
+   "1574702217174092165": {
+      "message": "lepcha"
+   },
+   "1577035400209415987": {
+      "message": "Sportok, ünnepek és tevékenységek"
+   },
+   "1578936298060149953": {
+      "message": "Erre az eszközre túl sok filmet töltöttek le. Kérjük, törölj néhányat. Ha úgy véled, hogy tévedésről van szó, vedd fel a kapcsolatot az ügyfélszolgálattal."
+   },
+   "1585399878613556769": {
+      "message": "mandai"
+   },
+   "1622977981214364224": {
+      "message": "Érték"
+   },
+   "1624496666386832541": {
+      "message": "Emberek és érzelmek"
+   },
+   "163585285607136383": {
+      "message": "Szóköz"
+   },
+   "1659260306743134961": {
+      "message": "Lejátszás folyamatban a következőn: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Kölcsönzési figyelmeztetés"
+   },
+   "167137904963051280": {
+      "message": "Bezárás"
+   },
+   "1672514695079052416": {
+      "message": "A szokatlan fióktevékenység miatt ez a videó jelenleg nem érhető el."
+   },
+   "1689687103490595695": {
+      "message": "Play Filmek"
+   },
+   "1693658896006835421": {
+      "message": "Kombinációs grafémakapcsoló"
+   },
+   "1695785777963864871": {
+      "message": "Ugrás erre a linkre: "
+   },
+   "1705348214738149530": {
+      "message": "1 percen belül lejár"
+   },
+   "1719824778219074772": {
+      "message": "khmer"
+   },
+   "1730622041976529093": {
+      "message": "Hatod „em” szóköz"
+   },
+   "175470934010823676": {
+      "message": "Számozott felsorolás"
+   },
+   "17841002962364046": {
+      "message": "Újra"
+   },
+   "1790234586531719509": {
+      "message": "Vásárlás"
+   },
+   "1792545992204167651": {
+      "message": "han – négyvonásos gyökök"
+   },
+   "179542577867490020": {
+      "message": "Érvénytelen e-mail cím"
+   },
+   "180976998764453681": {
+      "message": "Letöltés HD vagy SD minőségben"
+   },
+   "1814369088251817607": {
+      "message": "Törtek és kapcsolódó"
+   },
+   "1828658977714723982": {
+      "message": "Játékok"
+   },
+   "1830872643153553266": {
+      "message": "További részletek erről: $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "szingaléz"
+   },
+   "1846295350891951774": {
+      "message": "Keresd meg kedvenc tévéműsoraidat a Play Áruházban, majd dőlj hátra, és élvezd őket a Chrome-hoz készült Play Filmek és TV alkalmazással."
+   },
+   "1855549404303496723": {
+      "message": "1 órán belül lejár"
+   },
+   "1877803725479774313": {
+      "message": "Ez az eszköz nem támogatja a lejátszást."
+   },
+   "1890638601494854916": {
+      "message": "milliárd"
+   },
+   "1901872524864997402": {
+      "message": "Kilépés"
+   },
+   "1905843731663924055": {
+      "message": "$NUM$ órán belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "A vásárlási szerződés nem található."
+   },
+   "1935128618068091278": {
+      "message": "etiópiai"
+   },
+   "1938219414696116874": {
+      "message": "Jelenleg nem lehet képfájlokat máshova áthúzni.\nKérjük, a böngészőből húzz át egy képet."
+   },
+   "1954151364415665795": {
+      "message": "hangul"
+   },
+   "1977431342799515224": {
+      "message": "A lejátszás leállt, mert a videó lejátszása elindult egy másik eszközön. Játszd le ismét a videót, miután leállítottad a lejátszást a másik eszközön."
+   },
+   "2029980907058777630": {
+      "message": "Általános Szerződési Feltételek"
+   },
+   "2044442466969080056": {
+      "message": "Tizedes"
+   },
+   "2047343614481498061": {
+      "message": "Szín hozzáadása"
+   },
+   "2072847589626610105": {
+      "message": "Kölcsönzés"
+   },
+   "2092212617914314411": {
+      "message": "Jelenleg offline állapotban vagy. Csatlakozz újra a kedvenc filmjeid és tévéműsoraid internetes megtekintéséhez."
+   },
+   "2101164867731291209": {
+      "message": "kajah li"
+   },
+   "2113719628962111778": {
+      "message": "Arab lábjegyzetjelölő"
+   },
+   "2114961653707808791": {
+      "message": "Egy szükséges összetevő hiányzik. Lépj a chrome://components oldalra egy másik böngészőlapon, kattints a „Frissítés keresése” gombra a WidevineCdm összetevőnél, majd indítsd újra a böngészőt, ha az „Összetevő frissítve” állapotot látod."
+   },
+   "2118949532496601536": {
+      "message": "Alkalmi"
+   },
+   "2123474539731286604": {
+      "message": "Frissítés"
+   },
+   "2124380732103580135": {
+      "message": "A film már leállt."
+   },
+   "2131073272476560470": {
+      "message": "A videó kölcsönzési ideje lejárt. Ha szeretnéd megtekinteni, vásárold meg, vagy kölcsönözd ki újra."
+   },
+   "2149182740887046022": {
+      "message": "Változatválasztó – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Jelenleg problémáink vannak a videó lejátszásával kapcsolatban. Próbálkozz később."
+   },
+   "2194774716002570022": {
+      "message": "Sorközi annotációs megszakító"
+   },
+   "2206769964843652278": {
+      "message": "gót"
+   },
+   "22109057671064768": {
+      "message": "Lejátszás a következőn: $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonetikai jelek (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Hosszú gondolatjel"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Lejátszás: $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Méret"
+   },
+   "2285569294581055781": {
+      "message": "Írásjelszóköz"
+   },
+   "230507365422499768": {
+      "message": "ol chiki"
+   },
+   "2325815383560299041": {
+      "message": "Tévéműsorok"
+   },
+   "2358744432156444454": {
+      "message": "telugu"
+   },
+   "2370311583523472863": {
+      "message": "b"
+   },
+   "2378154636827917381": {
+      "message": "Fizetési mód kiválasztása"
+   },
+   "2398583048519934048": {
+      "message": "Hiba történt. Próbálkozz újra."
+   },
+   "2404545964673636424": {
+      "message": "Zárójeles/bekarikázott"
+   },
+   "2416235035434522626": {
+      "message": "A videó vásárlási ellenértékét visszatérítették. Ha szeretnéd megtekinteni, vásárold meg, vagy kölcsönözd ki újra."
+   },
+   "2458370016363828146": {
+      "message": "E-mail címre ugró link felvétele"
+   },
+   "2469139219925930348": {
+      "message": "Időjárás és asztrológia"
+   },
+   "2484918978489875840": {
+      "message": "arab"
+   },
+   "2500940977211244160": {
+      "message": "A Chromecast segítségével kedvenc filmjeidet és tévéműsoraidat az otthon található nagyobb képernyőn is megnézheted."
+   },
+   "2510334389873855577": {
+      "message": "dél-ázsiai írásrendszerek"
+   },
+   "2524488082161774200": {
+      "message": "tibeti"
+   },
+   "2556195906496703534": {
+      "message": "Kötőjel"
+   },
+   "2567552453606568838": {
+      "message": "$NUM$ órája",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Alsó index"
+   },
+   "2596943043266694861": {
+      "message": "A videó nem található."
+   },
+   "2602773901491715295": {
+      "message": "Feliratok"
+   },
+   "2609303773462214063": {
+      "message": "A film letöltése nem lehetséges, mert a szerzőijog-tulajdonos megtiltotta az offline megtekintést."
+   },
+   "2617084065793155411": {
+      "message": "„En” szóköz"
+   },
+   "2623430506770319716": {
+      "message": "Fiókodnál ebben az évben túl sok ügyfélszolgálati visszaállítás történt."
+   },
+   "2624723575430661735": {
+      "message": "Verzió: $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "A(z) $MOVIE_TITLE$ kölcsönzése $LONG_EXPIRATION_MESSAGE$. A lejátszás megkezdését követően $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Súgó megnyitása"
+   },
+   "2634032400851497621": {
+      "message": "Nagyon nagy"
+   },
+   "2636578811345390596": {
+      "message": "Egy lista."
+   },
+   "265418312065535093": {
+      "message": "Nem proporcionális sans serif"
+   },
+   "2669412054237461578": {
+      "message": "A(z) $ASSET_PURCHASE_TITLE$ megvásárlása.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Ideografikus szóköz"
+   },
+   "267152712329867450": {
+      "message": "Történelmi"
+   },
+   "2676989239174849130": {
+      "message": "A vásárolt tartalmak egyidejűleg legfeljebb 5 eszközre tölthetők le. Ha szeretnéd ide letölteni a videót, egy másik eszközről távolítsd el az összes letöltést."
+   },
+   "2694197056256485674": {
+      "message": "de."
+   },
+   "2696605111162327790": {
+      "message": "Zenei „hosszú hangkötés eleje” jel"
+   },
+   "2712035565506653929": {
+      "message": "katakana"
+   },
+   "2715131881733149730": {
+      "message": "A Google Play Filmek névjegye"
+   },
+   "2725131744113020753": {
+      "message": "Az átküldési munkamenet lejárt. Kérjük, bontsd a kapcsolatot, majd próbáld újra."
+   },
+   "2726210069762481377": {
+      "message": "Hangerő: $VOLUME_LEVEL$%",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Még dolgozunk..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, ha elérhető",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Tegnap"
+   },
+   "2778320704487179651": {
+      "message": "ódélarab"
+   },
+   "2811578318938008571": {
+      "message": "Ékezetes kötőjel"
+   },
+   "2823408948793387406": {
+      "message": "Sárga szöveg fekete háttérrel"
+   },
+   "2843666691789766965": {
+      "message": "Szimbólumok"
+   },
+   "285220876417404298": {
+      "message": "Módosítás"
+   },
+   "2866884137027183397": {
+      "message": "Nyílt forráskódú licencek"
+   },
+   "287293401853426183": {
+      "message": "Széles szóköz"
+   },
+   "2873226479878121265": {
+      "message": "Születési hely"
+   },
+   "2873450949697555837": {
+      "message": "Sorozatepizódok keresése"
+   },
+   "2874298691560753701": {
+      "message": "billiárd"
+   },
+   "2874903004453257636": {
+      "message": "tai le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{# perce}=1{# perce}other{# perce}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Részletek megjelenítése$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Összetevő$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Hibakód$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Üzenet$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Attribútumok$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Térköz"
+   },
+   "2972646465175951960": {
+      "message": "Hexadecimális színkód"
+   },
+   "2976070904514926378": {
+      "message": "Amikor eszközöd ismét online lesz, a Play Filmek és TV tevékenységei szinkronizálódni fognak. Ezután más eszközön is megtekintheted ezt a filmet."
+   },
+   "299212393546620995": {
+      "message": "SD és HD tartalmak vásárlásakor érhető el"
+   },
+   "3001599311394934937": {
+      "message": "Szín"
+   },
+   "3024031615064271409": {
+      "message": "Nem látható szorzásjel"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Geometriai alakzatok"
+   },
+   "3076131322444154485": {
+      "message": "Zene"
+   },
+   "3082451864182626107": {
+      "message": "Kicsi"
+   },
+   "3082728000817887688": {
+      "message": "Csatlakozás adott eszközhöz"
+   },
+   "3090277567861361522": {
+      "message": "Zenei „rövid hangkötés vége” jel"
+   },
+   "3090955389577626836": {
+      "message": "Függőleges, hosszú kötőjel prezentációs formája"
+   },
+   "3139446734703149686": {
+      "message": "Vegyes"
+   },
+   "3145479901031711697": {
+      "message": "Helyesírás-ellenőrző"
+   },
+   "3148783583230295736": {
+      "message": "tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "A DRM-rendszerspecifikus üzenet érvénytelen."
+   },
+   "3151300615969236340": {
+      "message": "A(z) $WN_SHOW_TITLE$ borítóképe: $WN_EPISODE_NUMBER$. epizód, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "ideogrammatikus leíró karakter"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} nap}other{{TEXT} nap}}"
+   },
+   "3194384156250789686": {
+      "message": "afrikai írásrendszerek"
+   },
+   "3201110180818098584": {
+      "message": "csám"
+   },
+   "3207692705529645309": {
+      "message": "Nem látható elválasztó"
+   },
+   "321244849474197695": {
+      "message": "Holnap"
+   },
+   "3229124980345092092": {
+      "message": "Nullszélességű szóköz"
+   },
+   "322985691330688230": {
+      "message": "A keresés nem eredményezett találatot."
+   },
+   "3230391931526221675": {
+      "message": "Formázás"
+   },
+   "3232820577716196711": {
+      "message": "Kép beszúrása"
+   },
+   "3243505317143754724": {
+      "message": "Egyéni"
+   },
+   "3243750297590914955": {
+      "message": "Khmer „inherens Aq” magánhangzó"
+   },
+   "3247076985979796797": {
+      "message": "görög"
+   },
+   "3251309750789560433": {
+      "message": "Örmény kötőjel"
+   },
+   "3254567788720420543": {
+      "message": " "
+   },
+   "3256010424127814333": {
+      "message": "Zenei „rövid hangkötés eleje” jel"
+   },
+   "3256903505595292698": {
+      "message": "Behúzás csökkentése"
+   },
+   "3265250603400790440": {
+      "message": "Első lépések"
+   },
+   "3281239119456770372": {
+      "message": "cirill"
+   },
+   "3289148576120895160": {
+      "message": "Kiskapitális"
+   },
+   "3294214489713824609": {
+      "message": "han – ötvonásos gyökök"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Hibakód: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Szöveg színe"
+   },
+   "332000134635733746": {
+      "message": "Befoglalás"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ perc",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "ciprusi"
+   },
+   "3336445884996834318": {
+      "message": "Nem lehetett letölteni a videó licencét. Kérjük, próbáld meg később."
+   },
+   "3347761840855731301": {
+      "message": "Az átküldési munkamenet nem érhető el. Frissíts, vagy próbáld újra később."
+   },
+   "3351553150964917854": {
+      "message": "Változatválasztó"
+   },
+   "3355166016320182029": {
+      "message": "A videoengedély nem érhető el. Próbáld újra később."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Sorközi annotációs jel"
+   },
+   "3415775657739029002": {
+      "message": "Számjegyszóköz"
+   },
+   "3427321493644124084": {
+      "message": "Csillagok"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Keresés a következőre: „$ACTOR_NAME$”",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematika"
+   },
+   "3496221549802542517": {
+      "message": "Nagyon kicsi"
+   },
+   "3499317959717425890": {
+      "message": "Visszavonás"
+   },
+   "3500807335769892741": {
+      "message": "Szókötő"
+   },
+   "3508852687023675805": {
+      "message": "$NUM$ perce",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normál"
+   },
+   "3540495086170177505": {
+      "message": "Tévéműsor vásárlása"
+   },
+   "3546034467178790154": {
+      "message": "Alsó index"
+   },
+   "355565230200681214": {
+      "message": "Teljes szélességű mínuszjel"
+   },
+   "3560179919548880444": {
+      "message": "Háttérszín"
+   },
+   "3593213843486034190": {
+      "message": "Formázás"
+   },
+   "3596415344748536540": {
+      "message": "bamum"
+   },
+   "3599005616661192177": {
+      "message": "Ki"
+   },
+   "3600868534694594413": {
+      "message": "Kép"
+   },
+   "3614370613824040896": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd lejátszani vagy letölteni erre az eszközre, távolítsd el egy másikról."
+   },
+   "3614813368690293135": {
+      "message": "Héber „Maqaf” központozás"
+   },
+   "3620501040875186062": {
+      "message": "Balról jobbra beágyazás"
+   },
+   "3650983100916004596": {
+      "message": "milliárd"
+   },
+   "3652059248591982819": {
+      "message": "han – háromvonásos gyökök"
+   },
+   "3652469401274752477": {
+      "message": "Behúzás növelése"
+   },
+   "3653098733292921132": {
+      "message": "B"
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Hiba történt a kölcsönzés aktiválásakor. Kérjük, frissíts, vagy próbáld újra később."
+   },
+   "3709540316929878378": {
+      "message": "Producer"
+   },
+   "3721275173574409786": {
+      "message": "Előrendelve"
+   },
+   "3722812838665571404": {
+      "message": "Megvásárolva"
+   },
+   "3728552702457015750": {
+      "message": "A vásárolt tartalmak egyidejűleg legfeljebb 5 eszközre tölthetők le. Ha szeretnéd ide letölteni a videót, egy másik fiókból távolítsd el annak letöltéseit."
+   },
+   "3752083240065277436": {
+      "message": "oriya"
+   },
+   "3808754582975714579": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd lejátszani ezen az eszközön, távolítsd el egy másikról."
+   },
+   "3815693850657578096": {
+      "message": "sárada"
+   },
+   "3826397878188995605": {
+      "message": "Ezt a filmet megnézheted itt vagy a támogatott telefonokon és táblagépeken."
+   },
+   "3831022207582977943": {
+      "message": "Zenei „szólam vége” jel"
+   },
+   "3846565521051999754": {
+      "message": "Erre az eszközre túl sok filmet töltöttek le. Kérjük, törölj néhányat. Ha úgy véled, hogy tévedésről van szó, vedd fel a kapcsolatot az ügyfélszolgálattal."
+   },
+   "3878153116309225131": {
+      "message": "Melyik URL-re ugorjon ez a link?"
+   },
+   "3878202445977233728": {
+      "message": "Jó hangminőség előnyben részesítése filmek vagy epizódok offline megtekintéshez történő letöltésekor."
+   },
+   "3890590273177043325": {
+      "message": "„$REL_NO_FOLLOW$” attribútum felvétele ($LINK_START$További információ$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "lisu"
+   },
+   "3944070772895230647": {
+      "message": "jávai"
+   },
+   "397098723873502323": {
+      "message": "Kész"
+   },
+   "3990377875754602116": {
+      "message": "han – hatvonásos gyökök"
+   },
+   "3992132733680288700": {
+      "message": "tai tham"
+   },
+   "4001637111049313831": {
+      "message": "5.1-es hang"
+   },
+   "4002348975328837413": {
+      "message": "Lejátszás"
+   },
+   "4005427126456357141": {
+      "message": "$NUM$ napja",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "$PRICE_RENT$ – bérlés",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Dőlt"
+   },
+   "4023151405827971137": {
+      "message": "A számítógépen nincs elég hely a videó letöltéséhez. Szabadíts fel némi tárolóhelyet, majd próbáld újra."
+   },
+   "4024812820054201230": {
+      "message": "Fonetikai jelek (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Főszereplők"
+   },
+   "4050502316465597694": {
+      "message": "sziloti nagri"
+   },
+   "406627050327127223": {
+      "message": "Letöltési beállítások"
+   },
+   "4068597226649219969": {
+      "message": "Az átküldési munkamenetben szereplő videó nem egyezik a kért videóval."
+   },
+   "409370207508422421": {
+      "message": "Saját tévéműsorok"
+   },
+   "4115063437096532185": {
+      "message": "kínai, japán és koreai jelek"
+   },
+   "4146453603518633252": {
+      "message": "A Play Áruházban kölcsönzött vagy megvásárolt filmek itt jelennek meg."
+   },
+   "4147180678866875282": {
+      "message": "$SEASON_NUMBER$. évad",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "egyiptomi hieroglifák"
+   },
+   "4165304946050965012": {
+      "message": "$PURCHASE_TAX$ összegű adót tartalmaz",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Sárga szöveg kék háttérrel"
+   },
+   "4171449911657770848": {
+      "message": "új tai lue"
+   },
+   "4181834061497947522": {
+      "message": "HIBA: a(z) „$COLOR$” nem egy érvényes szín.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Szüneteltetés"
+   },
+   "4236862956906523017": {
+      "message": "hiragana"
+   },
+   "4236953086071206288": {
+      "message": "m"
+   },
+   "4241565389203750613": {
+      "message": "Módosító"
+   },
+   "4242947662880926847": {
+      "message": "miao"
+   },
+   "4258500568871377211": {
+      "message": "Értem"
+   },
+   "4289161867449641226": {
+      "message": "Eltávolítod a letöltött filmet?"
+   },
+   "4326728310335009890": {
+      "message": "tai viet"
+   },
+   "4327117004280518691": {
+      "message": "shaw-i ábécé"
+   },
+   "4327135909829829353": {
+      "message": "örmény"
+   },
+   "4327389288032644198": {
+      "message": "chakmai"
+   },
+   "4330118138352331494": {
+      "message": "Zenei „hangjegykötés eleje” jel"
+   },
+   "4365544241082610712": {
+      "message": "A videó eredeti nyelve"
+   },
+   "4389982170398859731": {
+      "message": "Gyakori"
+   },
+   "4414892686324469274": {
+      "message": "Hangsáv"
+   },
+   "4430021444843507791": {
+      "message": "Függvényalkalmazás"
+   },
+   "4464935242536677493": {
+      "message": "Mi ez a dal?"
+   },
+   "447254005463967829": {
+      "message": "Páros"
+   },
+   "4489533087577236543": {
+      "message": "Épp elmulasztottad"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{# órája}=1{# órája}other{# órája}}"
+   },
+   "4516988402150653150": {
+      "message": "Egy szükséges összetevő hiányzik. Lépj a chrome://components oldalra egy másik böngészőlapon, kattints a „Frissítés keresése” gombra a WidevineCdm összetevőnél, majd indítsd újra a böngészőt, ha az „Összetevő frissítve” állapotot látod."
+   },
+   "4524440614927500782": {
+      "message": "Proporcionális sans serif"
+   },
+   "4530344539930689918": {
+      "message": "„Ogham” szóközjelölő"
+   },
+   "4539242619498877242": {
+      "message": "…"
+   },
+   "4580988005648117665": {
+      "message": "Keresés"
+   },
+   "4589364188628352896": {
+      "message": "Oszlopok száma: $NUM_COLS$, sorok száma: $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Kölcsönzés"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{# perc múlva}=1{# perc múlva}other{# perc múlva}}"
+   },
+   "463873241822657784": {
+      "message": "Kettős hullámvonal"
+   },
+   "464267706146568699": {
+      "message": "lao"
+   },
+   "4654657327320140306": {
+      "message": "Felső index"
+   },
+   "4658723167166809016": {
+      "message": "Közepes matematikai szóköz"
+   },
+   "4661634374225039228": {
+      "message": "Bekezdéselválasztó"
+   },
+   "467915794683941071": {
+      "message": "$EPISODE_NUMBER$. epizód lejátszása (cím: $EPISODE_TITLE$)",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "mongol"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{# napja}=1{# napja}other{# napja}}"
+   },
+   "4712209269320332893": {
+      "message": "Extrák"
+   },
+   "4716710616284048819": {
+      "message": "A lista adatainak táblázatos megjelenítése."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} perc}other{{TEXT} perc}}"
+   },
+   "4725762888646270913": {
+      "message": "A(z) $WN_SHOW_TITLE$ lejátszása (epizódszám: $WN_EPISODE_NUMBER$, cím: $WN_EPISODE_TITLE$)",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Kettős ferde kötőjel"
+   },
+   "4762347778259393153": {
+      "message": "kevésbé gyakori"
+   },
+   "4800386880747162133": {
+      "message": "Átmeneti szerverhiba történt. Próbálkozz újra később."
+   },
+   "4822858567120963779": {
+      "message": "Találatok a következőre: $SEARCH_QUERY$",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd lejátszani vagy letölteni erre az eszközre, távolítsd el egy másikról."
+   },
+   "48271036515889672": {
+      "message": "Érvénytelen átküldési munkamenet. Frissíts, vagy próbáld újra később."
+   },
+   "4831214862800127209": {
+      "message": "Az átküldési munkamenetben szereplő videó nem egyezik a kért videóval."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ perc",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "ogam"
+   },
+   "4871903967361312376": {
+      "message": "Ji king és Taj hszüan king"
+   },
+   "4875958436183735304": {
+      "message": "Árnyékvetés jobbra"
+   },
+   "4906346168276586100": {
+      "message": "A DRM-rendszerspecifikus üzenet érvénytelen."
+   },
+   "491995769371858733": {
+      "message": "Nincs"
+   },
+   "4920312719509022176": {
+      "message": "Betűtípus"
+   },
+   "4930506384627295710": {
+      "message": "Beállítások"
+   },
+   "4933409796062109057": {
+      "message": "$DOWNLOAD_PROGRESS$% letöltve. Kattints a visszavonáshoz.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "„Hangul Filler” jel"
+   },
+   "4950037820737346052": {
+      "message": "Középszéles „Hangul Filler” jel"
+   },
+   "4968001688305770755": {
+      "message": "A(z) „$OFFER_TYPE$” lehetőségre kattintva elfogadod az",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Link ide:"
+   },
+   "500501967044040199": {
+      "message": "Elemek"
+   },
+   "5011669227045570891": {
+      "message": "Vízszintes csík"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Bármely eszközön egyszerre legfeljebb három fiókkal lehet videókat letölteni. Ha szeretnéd ide letölteni a videót, egy másik fiókból távolítsd el az összes letöltést."
+   },
+   "5048838621444724614": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd letölteni erre az eszközre, távolítsd el egy másikról."
+   },
+   "5056334923803362149": {
+      "message": "A videó elérése le van tiltva."
+   },
+   "5057747709360994470": {
+      "message": "millió"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Hangul szótagmag (csungszong) jel"
+   },
+   "5089553823126293996": {
+      "message": "Mégse"
+   },
+   "5135948647887912891": {
+      "message": "A(z) $ASSET_TITLE$ sikeresen hozzáadva könyvtáradhoz.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Nullszélességű kötő"
+   },
+   "5145175165902220114": {
+      "message": "Kanadai szótagírás kötőjele"
+   },
+   "5161805074897471162": {
+      "message": "A Google Play Filmek Chrome-alkalmazás nem támogatott Windows XP vagy a régebbi rendszereken. Próbálkozz újra Windows Vista vagy újabb verziók, Mac típusú számítógép, Linux vagy Chrome OS használatával."
+   },
+   "516881150339066546": {
+      "message": "berber"
+   },
+   "5176392387315400391": {
+      "message": "Nincs adat"
+   },
+   "5179659870501454485": {
+      "message": "Fizetési mód megadása"
+   },
+   "5184276027321226501": {
+      "message": "E-mail cím"
+   },
+   "5194883651451379462": {
+      "message": "Vásárlás"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Play Filmek – Visszajelzés"
+   },
+   "5209758796360312502": {
+      "message": "ékírás"
+   },
+   "5216466426869773105": {
+      "message": "pahlavi felirat"
+   },
+   "522508588411648848": {
+      "message": "A(z) $STORE_LINK_TITLE$ megtekintése a Play Áruházban.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Zenei „szólam eleje” jel"
+   },
+   "524096672349210886": {
+      "message": "Utazás és térkép"
+   },
+   "5241676005655672226": {
+      "message": "han – kilencvonásos gyökök"
+   },
+   "5241820237010230531": {
+      "message": "vai"
+   },
+   "5252668631265690404": {
+      "message": "Egyéb"
+   },
+   "52534048856251312": {
+      "message": "Visszajelzés küldése"
+   },
+   "5255871588113212604": {
+      "message": "Nincs javaslat"
+   },
+   "5261311595095150702": {
+      "message": "Zenei „hosszú hangkötés vége” jel"
+   },
+   "5261596970471311774": {
+      "message": "Nagy"
+   },
+   "5281671802836592116": {
+      "message": "Proporcionális serif"
+   },
+   "5293326322671103002": {
+      "message": "Betöltés a következőn: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "$CURRENT_TIME$ megtekintve, összesen: $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "hanunóo"
+   },
+   "5438255274292242922": {
+      "message": "Műszaki"
+   },
+   "5439710597412767794": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd letölteni erre az eszközre, távolítsd el egy másikról."
+   },
+   "545021630455133011": {
+      "message": "kopt"
+   },
+   "5461901018141989680": {
+      "message": "Arab „ája vége” jel"
+   },
+   "5484073037133610477": {
+      "message": "bugisz"
+   },
+   "5490715514416345531": {
+      "message": "Fehér szöveg fekete háttérrel"
+   },
+   "54946385235790268": {
+      "message": "A film törlése rendszerhiba miatt nem lehetséges. Kérjük, vedd fel a kapcsolatot az ügyfélszolgálattal, vagy küldj visszajelzést a beállítások menüből."
+   },
+   "5496646217073800560": {
+      "message": "Szám"
+   },
+   "5505627655067167147": {
+      "message": "Melyik e-mail címre ugorjon ez a link?"
+   },
+   "5515365680802763380": {
+      "message": "Leállt a lejátszás, mert a videót túl sok eszközön játszották le. Várj 24 órát a videó ismételt lejátszása előtt."
+   },
+   "5527963094685167949": {
+      "message": "Jelenleg problémába ütközünk a videó lejátszásakor. Próbáld meg frissíteni az oldalt."
+   },
+   "5548738790581121863": {
+      "message": "A fiók elérte a szerződésben meghatározott eszközdeaktiválási díjkorlátot. Ha úgy véled, hogy tévedésről van szó, vedd fel a kapcsolatot az ügyfélszolgálattal."
+   },
+   "556303983072423917": {
+      "message": "A film letöltése nem lehetségest, mert a szerzőijog-tulajdonos megtiltotta annak offline megtekintését."
+   },
+   "5568872195580328526": {
+      "message": "Csatlakozott a következőhöz: $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Szünetel."
+   },
+   "5625642025808759710": {
+      "message": "délkelet-ázsiai írásrendszerek"
+   },
+   "5649689590162845077": {
+      "message": "Leírás kibontása, illetve összecsukása"
+   },
+   "568365569990952204": {
+      "message": "Betöltés..."
+   },
+   "5690743679710570538": {
+      "message": "Tovább"
+   },
+   "5699299130874036286": {
+      "message": "Gratulálunk!"
+   },
+   "5701676109334495247": {
+      "message": "A videó vásárlási ellenértékét visszatérítették. Ha szeretnéd megtekinteni, vásárold meg, vagy kölcsönözd ki újra."
+   },
+   "5739753659630714071": {
+      "message": "Szöveg háttérszíne"
+   },
+   "5740091738966096065": {
+      "message": "Jelenleg nincs letöltött tartalom offline megtekintéshez. Tölts le tartalmat könyvtáradból offline megtekintéshez."
+   },
+   "57403663622654391": {
+      "message": "Tárhely"
+   },
+   "5758941098755146708": {
+      "message": "Link hozzáadása vagy eltávolítása"
+   },
+   "5765285425521589331": {
+      "message": "Utazás, térképek és jelölések"
+   },
+   "5773223913514548808": {
+      "message": "Hiba történt a fiókodba való belépés során. Győződj meg a chrome://chrome-signin/ oldalon arról, hogy bejelentkeztél, majd indítsd újra az alkalmazást."
+   },
+   "5793916253768843563": {
+      "message": "A kívánt kép áthúzását a tároló webhely letiltotta."
+   },
+   "5818819286276765821": {
+      "message": "buhid"
+   },
+   "5823773924892832157": {
+      "message": "Térköz"
+   },
+   "5831261098398725527": {
+      "message": "Idézet"
+   },
+   "5843775533846981999": {
+      "message": "Nézz filmeket a Google Playről"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Szünetel. $EVAL_1$ perc maradt.}other{Szünetel. $EVAL_2$ perc maradt.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "A(z) $MOVIE_TITLE$ borítóképe",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "HTML-forrás szerkesztése"
+   },
+   "5884014452536244885": {
+      "message": "Ingyenes epizódok"
+   },
+   "5889420664241962721": {
+      "message": "A Chrome-hoz készült Google Play Filmek alkalmazás csak a Chrome 34-es és újabb verzióiban támogatott. Győződj meg róla, hogy a Chrome naprakész."
+   },
+   "5891242694179659653": {
+      "message": "Link tesztelése"
+   },
+   "5911102149852781948": {
+      "message": "„Pop” irányformázás"
+   },
+   "5924149156142134621": {
+      "message": "A szerver nem tudja elfogadni a kommunikáció során használt gyökértanúsítványt. Próbáld újra később."
+   },
+   "592520084270766310": {
+      "message": "thai"
+   },
+   "5931872839329863827": {
+      "message": "Fekete szöveg fehér háttérrel"
+   },
+   "593622950044400136": {
+      "message": "Normál"
+   },
+   "5961302828987058223": {
+      "message": "Nyilak"
+   },
+   "5970051322674660677": {
+      "message": "Az átküldési munkamenet lejárt. Kérjük, bontsd a kapcsolatot, majd próbálkozz újra."
+   },
+   "5984875596889567804": {
+      "message": "A film törlése egy rendszerhiba miatt nem lehetséges. Kérjük, vedd fel a kapcsolatot az ügyfélszolgálattal, vagy küldj visszajelzést a beállítások menüből."
+   },
+   "6003902003271431273": {
+      "message": "Eltávolítás"
+   },
+   "6005860289879017562": {
+      "message": "Jelenleg problémáink vannak a videó lejátszásával kapcsolatban. Próbálkozz később."
+   },
+   "6014354480663192727": {
+      "message": "A Play Áruházban megvásárolt tévéműsorok itt jelennek meg."
+   },
+   "6034340809890392304": {
+      "message": "Filmek vásárlása"
+   },
+   "6060953217197345552": {
+      "message": "kanadai szótagírás"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Mégis futtatom"
+   },
+   "6084972307281346150": {
+      "message": "Kaithi számjel"
+   },
+   "6105544360205581717": {
+      "message": "Mégse"
+   },
+   "6122892080995252667": {
+      "message": "Formázás és térköz"
+   },
+   "6137797587633467697": {
+      "message": "meroéi kurzív"
+   },
+   "6155475143120453982": {
+      "message": "0 perc"
+   },
+   "6190120025272183060": {
+      "message": "Jelzések"
+   },
+   "6193238841287195586": {
+      "message": "Írta"
+   },
+   "6222709653953533319": {
+      "message": "Szöveg színe"
+   },
+   "6232382505914187032": {
+      "message": "Ingyenes epizódok keresése"
+   },
+   "6245954250506012649": {
+      "message": "KiKölcsönzött tartalmak"
+   },
+   "6247516545605893720": {
+      "message": "Visszajelzés küldése"
+   },
+   "6248269670479966135": {
+      "message": "Billentyűzet és felhasználói felület"
+   },
+   "6252201064611373493": {
+      "message": "Kártyák megjelenítése"
+   },
+   "6270812530472396287": {
+      "message": "Ma"
+   },
+   "6272228095428812454": {
+      "message": "tagalog"
+   },
+   "6279370317435309772": {
+      "message": "aveszta"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Nem tudod biztosan, hogy mit kell a mezőbe írni?$END_BOLD$ Először keresd meg az interneten a linkelni kívánt oldalt. (Ehhez célszerű egy $SEARCH_ENGINE_LINK$keresőmotort$END_LINK$ használni.) Ezután a böngésző címsorában lévő internetcímet másold a vágólapra, majd illeszd be a fenti mezőbe.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Lejátszás"
+   },
+   "6335175380341340581": {
+      "message": "Az átküldési munkamenetben szereplő eszköz nem egyezik a kért eszközzel."
+   },
+   "6343010841347906907": {
+      "message": "$NUM$ napon belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Kompatibilitás"
+   },
+   "6350391521435965588": {
+      "message": "Előrendelt"
+   },
+   "6352913008658578632": {
+      "message": "Lágy kötőjel"
+   },
+   "6363122915809877223": {
+      "message": "Árnyékvetés balra"
+   },
+   "6371465733575496232": {
+      "message": "közel-keleti írásrendszerek"
+   },
+   "6405814875010182725": {
+      "message": "A szerver nem tudja elfogadni a kommunikáció során használt gyökértanúsítványt. Próbálkozz újra később."
+   },
+   "6407996489854784042": {
+      "message": "Link szerkesztése"
+   },
+   "6414884042279967640": {
+      "message": "érvénytelen URL"
+   },
+   "6425847105595230473": {
+      "message": "Mellőzés"
+   },
+   "6432298456231736850": {
+      "message": "Google Play Filmek"
+   },
+   "6440344606961499591": {
+      "message": "lik"
+   },
+   "6456384515113758910": {
+      "message": "Több"
+   },
+   "6456933929616370051": {
+      "message": "Szó szerkesztése"
+   },
+   "6479123880196723568": {
+      "message": "Kurzív"
+   },
+   "6496283442053180405": {
+      "message": "Balról jobbra"
+   },
+   "6501155781262627001": {
+      "message": "A 24 órás időkereten belül túl sok eszközt/IP-címet használtak. Kérjük, a korábban használt eszközök közül használj egyet, vagy próbálkozz újra később."
+   },
+   "6508375652910000957": {
+      "message": "Szóközt nem alkalmazó karakter"
+   },
+   "6536020395223120161": {
+      "message": "Hiba"
+   },
+   "6546669593466967671": {
+      "message": "Matematikai alfanumerikus"
+   },
+   "6551745305926008747": {
+      "message": "Előrendelés"
+   },
+   "6554134808157634636": {
+      "message": "lineáris B"
+   },
+   "656481501116924913": {
+      "message": "Leállt a lejátszás, mert a videó túl sok eszközön volt lejátszva. Várj 24 órát a videó ismételt lejátszása előtt."
+   },
+   "6569656063466645753": {
+      "message": "Feliratok"
+   },
+   "6602025155112861839": {
+      "message": "bráhmi"
+   },
+   "6621933208862353132": {
+      "message": "Ez a videó nem érhető el az országodban."
+   },
+   "6625801467720528503": {
+      "message": "óperzsa"
+   },
+   "6629216961322187103": {
+      "message": "Mentés"
+   },
+   "6633629616609262609": {
+      "message": "A beállításokat később módosíthatod az $START_TAG_19$alkalmazásbeállításoknál$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Egyéb európai írásrendszerek"
+   },
+   "6651639811736683845": {
+      "message": "Saját filmek"
+   },
+   "6661681603632549986": {
+      "message": "Feliratok"
+   },
+   "6667667434733000643": {
+      "message": "Információs kártyák"
+   },
+   "6677363386267424723": {
+      "message": "A(z) $MOVIE_TITLE$ lejátszása",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "A(z) $MOVIE_TITLE$ megvásárlása ennyiért: $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Betűméret"
+   },
+   "677905689563333998": {
+      "message": "A lejátszás leállt, mert túl sok olyan videó lejátszása van folyamatban, amelyek ugyanahhoz a fiókhoz tartoznak. Kérjük, állíts le néhányat, és próbálkozz újra."
+   },
+   "679571059806777318": {
+      "message": "thaana"
+   },
+   "6810753777984126315": {
+      "message": "deseret"
+   },
+   "6827910084162380306": {
+      "message": "Az átküldési munkamenetben szereplő eszköz nem egyezik a kért eszközzel."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} óra}other{{TEXT} óra}}"
+   },
+   "6851957197139570861": {
+      "message": "Ez a videó nem érhető el az országodban."
+   },
+   "6853191352018412040": {
+      "message": "balinéz"
+   },
+   "6855074016004156398": {
+      "message": "HTML szerkesztése"
+   },
+   "6860315656437719971": {
+      "message": "Az eszközre már letöltötték ezt a filmet. Kérjük, ellenőrizd az eszköz további fiókjait."
+   },
+   "6875483133393301003": {
+      "message": "egyéb kelet-ázsiai írásrendszerek"
+   },
+   "6883682454262090493": {
+      "message": "Keress egy jó filmet a Play Áruházban, majd dőlj hátra, és élvezd a Chrome-hoz készült Play Filmek alkalmazással."
+   },
+   "6889309596873739783": {
+      "message": "Hatalmas"
+   },
+   "6896826577403437656": {
+      "message": "Kötőjel-mínuszjel"
+   },
+   "6902004800313673513": {
+      "message": "Tükrözött"
+   },
+   "6964937916732516478": {
+      "message": "Normál"
+   },
+   "696905759309523016": {
+      "message": "Keress egy jó filmet vagy tévéműsort a Play Áruházban, majd dőlj hátra, és élvezd a Chrome-hoz készült Play Filmek és TV alkalmazással."
+   },
+   "6987338929609909868": {
+      "message": "Ha eltávolítod ezt a filmet, akkor ezen az eszközön csak online állapotban tekintheted majd meg."
+   },
+   "6989393626433450594": {
+      "message": "phagsz-pa"
+   },
+   "7012766363608830434": {
+      "message": "Nem látható összeadásjel"
+   },
+   "7024834031644866926": {
+      "message": "Súgó megnyitása"
+   },
+   "7046325096558903089": {
+      "message": "bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "$NUM$ órája",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Ha eltávolítod ezt az epizódot, akkor ezen az eszközön csak online állapotban tekintheted majd meg."
+   },
+   "7094242414651579769": {
+      "message": "Neked ajánlott"
+   },
+   "7101065047913928628": {
+      "message": "n'Ko"
+   },
+   "711332449732375422": {
+      "message": "Mind"
+   },
+   "7119313535591306971": {
+      "message": "szír"
+   },
+   "7133753811730291503": {
+      "message": "redzsang"
+   },
+   "7134932904164509880": {
+      "message": "Hang és feliratok"
+   },
+   "7142370112218882473": {
+      "message": "Számjegygondolatjel"
+   },
+   "7143481033215693523": {
+      "message": "föníciai"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{# nap múlva}=1{# nap múlva}other{# nap múlva}}"
+   },
+   "7166131491680306441": {
+      "message": "Merész"
+   },
+   "717756764917242379": {
+      "message": "Fiókodnál ebben az évben túl sok ügyfélszolgálati visszaállítás történt."
+   },
+   "7209204842613884996": {
+      "message": "cseroki"
+   },
+   "7217613154757397815": {
+      "message": "Kisebb címsor"
+   },
+   "7222798856864539991": {
+      "message": "Hangulatjelek"
+   },
+   "7231513918080506880": {
+      "message": "Videolejátszási hiba"
+   },
+   "7233133314598482636": {
+      "message": "Szimbólum"
+   },
+   "7237310906976510879": {
+      "message": "Hitelesítési hiba"
+   },
+   "7254769271789170667": {
+      "message": "Jobbról balra felülbírálás"
+   },
+   "7271563194657138998": {
+      "message": "Először keress egy ingyenes epizódot a Play Áruházban, amelyet aztán azonnal megnézhetsz a Chrome-hoz készült Play Filmek és TV alkalmazással."
+   },
+   "7322761727637390097": {
+      "message": "A vásárlási szerződés nem található."
+   },
+   "7333054716894862082": {
+      "message": "Igazítás"
+   },
+   "7352037235710614813": {
+      "message": "Rendezte"
+   },
+   "7379356741388986662": {
+      "message": "Vásárlás"
+   },
+   "738294154320637123": {
+      "message": "meetei Mayek"
+   },
+   "7403213530684675547": {
+      "message": "A film törlése nem lehetséges, mert egy másik eszközön is letöltötték. Kérjük, előbb töröld a másik példányt."
+   },
+   "7423355034259912329": {
+      "message": "A film már leállt."
+   },
+   "742861914041471563": {
+      "message": "Balra igazítás"
+   },
+   "7431208184373206966": {
+      "message": "Nagy"
+   },
+   "7436129358876453178": {
+      "message": "han – kétvonásos gyökök"
+   },
+   "7443523425660741023": {
+      "message": "A film törlése nem lehetséges, mert az egy másik eszközön is le van töltve. Kérjük, előbb töröld a másik példányt."
+   },
+   "7444530187008825696": {
+      "message": "Ez a link nem tesztelhető."
+   },
+   "7445716324927695719": {
+      "message": "A(z) $DOWNLOADED_TITLE$ letöltve. Kattints az eltávolításhoz.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Kapcsolat bontása"
+   },
+   "7499894239558451540": {
+      "message": "Igen"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Szerverhiba történt, próbálkozz újra később."
+   },
+   "754389774434351130": {
+      "message": "Mongol magánhangzó-elválasztó"
+   },
+   "7545663607980395021": {
+      "message": "Az átküldési munkamenet nem áll rendelkezésre. Frissíts, vagy próbáld újra később."
+   },
+   "7559531330043741601": {
+      "message": "Középre igazítás"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (szám)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangul szótagkezdő mássalhangzó (cshoszong) jel"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Legyél körültekintő.$POSTB$Ne feledd, ha e-mail címet helyezel el egy weboldalon, akkor azt gátlástalan spamküldők is megtalálhatják.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Az egyes karakterek nevének megjelenítéséhez vigye az egérmutatót a cella fölé."
+   },
+   "7628853095173216399": {
+      "message": "Jelentkezz be a megtekintés folytatásához."
+   },
+   "7628997973779702278": {
+      "message": "A(z) $DOWNLOAD_TITLE$ letöltése",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Előzetes"
+   },
+   "7644195558431380264": {
+      "message": "Emelt"
+   },
+   "7656269245189992953": {
+      "message": "Nincs"
+   },
+   "765644786799307419": {
+      "message": "Negyed „em” szóköz"
+   },
+   "7661273651737426088": {
+      "message": "Nem törhető kötőjel"
+   },
+   "7671671293660378394": {
+      "message": "Nem törhető szóköz"
+   },
+   "7687757766363784951": {
+      "message": "Legutóbbi kijelölések:"
+   },
+   "7704099115712609154": {
+      "message": "Beállítások"
+   },
+   "7707854987324577924": {
+      "message": "Nullszélességű nem törhető szóköz"
+   },
+   "7721864005040197774": {
+      "message": "Objektumok"
+   },
+   "7735652872804202135": {
+      "message": "Videók lejátszása az eszközöm nyelvén, ahol ez elérhető"
+   },
+   "7776630049782874310": {
+      "message": "Bármely eszközön egyszerre legfeljebb három fiókkal lehet videókat letölteni. Ha szeretnéd ide letölteni a videót, egy másik fiókból távolítsd el annak letöltéseit."
+   },
+   "779039068486648656": {
+      "message": "A böngésző nem támogatja a grafikonokat"
+   },
+   "7792182371277036944": {
+      "message": "Megtekintés most"
+   },
+   "7807783089931705706": {
+      "message": "Előre tárolt beállítások"
+   },
+   "7825923098003586011": {
+      "message": "meroéi hieroglifák"
+   },
+   "7835136621565821438": {
+      "message": "párthus felirat"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ perc",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Az eszközre már letöltötték ezt a filmet. Kérjük, ellenőrizd az eszköz további fiókjait."
+   },
+   "7872307517743373476": {
+      "message": "Érvénytelen átküldési munkamenet. Frissíts, vagy próbáld újra később."
+   },
+   "7873756658795212081": {
+      "message": "$EVAL_1$ napon belül lejár",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ a Play Áruházban",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "du."
+   },
+   "7918520961628671120": {
+      "message": "A videó elérését letiltották."
+   },
+   "791855806965154343": {
+      "message": "batak"
+   },
+   "7926689704723702466": {
+      "message": "billiárd"
+   },
+   "7933902915184371880": {
+      "message": "kári"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Szünetel. $EVAL_1$ másodperc maradt.}other{Szünetel. $EVAL_2$ másodperc maradt.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "amerikai írásrendszerek"
+   },
+   "7943286917138037388": {
+      "message": "„En” hosszúságú gondolatjel"
+   },
+   "7952530065274028271": {
+      "message": "Részletek megtekintése a(z) $WN_SHOW_TITLE$ műsor $WN_EPISODE_NUMBER$. részével ($WN_EPISODE_TITLE$) kapcsolatban.",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "$EVAL_1$ órán belül lejár",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "tamil"
+   },
+   "7978764644554853286": {
+      "message": "$NUM$ percen belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "han – egyvonásos gyökök"
+   },
+   "7985246120023271230": {
+      "message": "A videó kölcsönzési ideje lejárt. Ha szeretnéd megtekinteni, vásárold meg, vagy kölcsönözd ki újra."
+   },
+   "7991898653680244970": {
+      "message": "Latin 1 kiegészítő"
+   },
+   "7993302948330451962": {
+      "message": "mianmari"
+   },
+   "7993967737532196015": {
+      "message": "Értékelés: $VIEWER_RATING$/5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Eltávolítod a letöltött epizódot?"
+   },
+   "8013309308261303688": {
+      "message": "Filmek vásárlása"
+   },
+   "8018308926864382762": {
+      "message": "Szíriai rövidítésjelölő"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Nyomott"
+   },
+   "8039844141475995654": {
+      "message": "$NUM$ percen belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "rúna"
+   },
+   "8042716985296303990": {
+      "message": "Formázás"
+   },
+   "8042730852758398655": {
+      "message": "Hang"
+   },
+   "8062522779459151420": {
+      "message": "Formázás eltávolítása"
+   },
+   "8077968665076288666": {
+      "message": "limbu"
+   },
+   "808696534598095161": {
+      "message": "Azonosító"
+   },
+   "8101733308672950303": {
+      "message": "A feliratok így fognak kinézni:"
+   },
+   "8132424293432274889": {
+      "message": "Vissza"
+   },
+   "8134822873948566976": {
+      "message": "További epizódok"
+   },
+   "8153387349716171448": {
+      "message": "Ezt a videót már letöltötték az engedélyezett maximális számú eszközre. Ha szeretnéd lejátszani ezen az eszközön, távolítsd el egy másikról."
+   },
+   "8161910726112545534": {
+      "message": "Rövid mínuszjel"
+   },
+   "8167719451188045081": {
+      "message": "Nullszélességű nem kötő"
+   },
+   "8175552949837381315": {
+      "message": "Bezárás"
+   },
+   "8176183622289427250": {
+      "message": "Keress egy jó filmet a Play Áruházban, majd dőlj hátra, és élvezd a Chrome-hoz készült Play Filmek és TV alkalmazással."
+   },
+   "8179636923390390367": {
+      "message": "Zenei „hangjegykötés vége” jel"
+   },
+   "8182154803169715176": {
+      "message": "Pénznem"
+   },
+   "8188276694329647401": {
+      "message": "millió"
+   },
+   "8203155312190167416": {
+      "message": "Ingyenes epizódok keresése"
+   },
+   "8204709243856731897": {
+      "message": "A fiók elérte a szerződésben meghatározott eszközdeaktiválási díjkorlátot. Ha úgy véled, hogy tévedésről van szó, vedd fel a kapcsolatot az ügyfélszolgálattal."
+   },
+   "8209649773417809069": {
+      "message": "Nem proporcionális serif"
+   },
+   "8223592563721543961": {
+      "message": "Jobbról balra jelölő"
+   },
+   "8229110080399300640": {
+      "message": "lid"
+   },
+   "825047260879284602": {
+      "message": "Egyéni szín megadása, pl. pink, #F00, #D015FF vagy rgb(100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "szomáli"
+   },
+   "8303685272985764664": {
+      "message": "Kvirt"
+   },
+   "8316357291574004120": {
+      "message": "Ez az eszköz nem támogatja a lejátszást."
+   },
+   "8317092845662281711": {
+      "message": "Hang"
+   },
+   "8317239070847268844": {
+      "message": "billió"
+   },
+   "8356754494097778995": {
+      "message": "Jobbról balra beágyazás"
+   },
+   "836493064290964717": {
+      "message": "han – hétvonásos gyökök"
+   },
+   "8367205574605681054": {
+      "message": "Kapcsolatfelvétel"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{# óra múlva}=1{# óra múlva}other{# óra múlva}}"
+   },
+   "838631802941302770": {
+      "message": "kharosti"
+   },
+   "8387836334671661814": {
+      "message": "Normál"
+   },
+   "8406794425024838870": {
+      "message": "Videók lejátszása eredeti nyelven, ahol ez elérhető"
+   },
+   "8415457571769345476": {
+      "message": "gurmuki"
+   },
+   "8432592301984570372": {
+      "message": "kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Filmek"
+   },
+   "8439955599488894226": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "8440105734244130524": {
+      "message": "Feliratok"
+   },
+   "8440128775129354214": {
+      "message": "Adatvédelem"
+   },
+   "8440161680481095392": {
+      "message": "sora sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Sorközi annotációs elválasztó"
+   },
+   "8468046265986853572": {
+      "message": "Kisméretű hosszú gondolatjel"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "A lejátszás szüneteltetésekor jelenítsen meg információt a színészekről és számokról"
+   },
+   "8480915536260760621": {
+      "message": "Sorelválasztó"
+   },
+   "8483017128806448808": {
+      "message": "han – egyéb"
+   },
+   "8484953793514450798": {
+      "message": "Nem sikerült letölteni ezt a videót"
+   },
+   "8496572760621552382": {
+      "message": "Vezérlőkódok képei"
+   },
+   "8504288534013316809": {
+      "message": "Mindig ezt az alkalmazást használja a tartalmak lejátszásához a Play Filmek és TV alkalmazásból ezen az eszközön."
+   },
+   "8533646618757813590": {
+      "message": "szundanéz"
+   },
+   "8540686664487399786": {
+      "message": "birodalmi arámi"
+   },
+   "854429928571549912": {
+      "message": "kannada"
+   },
+   "8544418813868326219": {
+      "message": "Alcímsor"
+   },
+   "8561163275403408048": {
+      "message": "HD vagy SD kiválasztása"
+   },
+   "8562537001029340643": {
+      "message": "Keskeny szóköz"
+   },
+   "8562629041340204805": {
+      "message": "Listajeles felsorolás"
+   },
+   "8564202903947049539": {
+      "message": "Lejátszás"
+   },
+   "8595279472837556966": {
+      "message": "A videó nem található."
+   },
+   "8598425882608097102": {
+      "message": "szaurastra"
+   },
+   "8614813208619876018": {
+      "message": "Link megnyitása új ablakban"
+   },
+   "8620014669054622585": {
+      "message": "Felső index"
+   },
+   "8654580154537063858": {
+      "message": "Gondolatjel"
+   },
+   "8683517921317388539": {
+      "message": "Információs kártyák táblázatának kibontása"
+   },
+   "8686061785869890050": {
+      "message": "Balról jobbra jelölő"
+   },
+   "8721105090660343056": {
+      "message": "szamaritánus"
+   },
+   "8751395052938425392": {
+      "message": "Egyéb"
+   },
+   "8756624200843285720": {
+      "message": "Normál/serif"
+   },
+   "875775686870257693": {
+      "message": "Khmer „inherens Aa” magánhangzó"
+   },
+   "8784627238941457153": {
+      "message": "Jobbról balra"
+   },
+   "8785585428177743106": {
+      "message": "Arab „Safha” jel"
+   },
+   "8788046284717061808": {
+      "message": "Mongol lágy kötőjel"
+   },
+   "8815814381380608540": {
+      "message": "Nem"
+   },
+   "8834132438727381257": {
+      "message": "\n      Megtekintheted HD minőségben laptopodon, illetve Chromecast vagy Roku segítségével és a legtöbb Android-eszközön. A HD-vásárlások más eszközökön SD minőségben játszhatók le. $START_TAG_1$További információ$END_TAG_1$\n      ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "ASCII-alapú"
+   },
+   "8860351949504760658": {
+      "message": "Internetcím"
+   },
+   "8894457765459513654": {
+      "message": "Link"
+   },
+   "8917983075453481180": {
+      "message": "Függőleges, rövid kötőjel prezentációs formája"
+   },
+   "8919720204772722134": {
+      "message": "Megjelenítendő szöveg:"
+   },
+   "8921884278179224689": {
+      "message": "Google Play – Általános Szerződési Feltételeket"
+   },
+   "8924156420198940653": {
+      "message": "Ma"
+   },
+   "892438729140054354": {
+      "message": "glagolita"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "malajálam"
+   },
+   "8945516772470397544": {
+      "message": "héber"
+   },
+   "8975694361063929758": {
+      "message": "Letöltés törlése…"
+   },
+   "900213554674035877": {
+      "message": "Figyelmeztetés: nem támogatott platform"
+   },
+   "9003255502339267646": {
+      "message": "ótörök"
+   },
+   "9006212563579865934": {
+      "message": "Átmeneti szerverhiba történt. Próbálkozz újra később."
+   },
+   "9007600562969287199": {
+      "message": "Mégse"
+   },
+   "9009756347438736077": {
+      "message": "Hangulatjel"
+   },
+   "9039190587572892203": {
+      "message": "Visszajelzési párbeszédablak megnyitva."
+   },
+   "9058407001544582930": {
+      "message": "Braille"
+   },
+   "9082286440748444032": {
+      "message": "Jobbra igazítás"
+   },
+   "9119571405974007627": {
+      "message": "Kattints ide a teljes képernyős nézethez"
+   },
+   "9129936585862826417": {
+      "message": "„Katakana-hiragana” kettős kötőjel"
+   },
+   "9133561684694194118": {
+      "message": "han – nyolcvonásos gyökök"
+   },
+   "9140663398525770181": {
+      "message": "$NUM$ napja",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ epizód",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "ókori itáliai"
+   },
+   "9157868620634436826": {
+      "message": "Névtelen használati statisztikák küldése a Play Filmek és TV alkalmazással kapcsolatban erről az eszközről a Google-nak"
+   },
+   "9169327677828809572": {
+      "message": "Aláhúzott"
+   },
+   "9187708289836789739": {
+      "message": "Nem és leszármazás"
+   },
+   "9191795572559844778": {
+      "message": "latin"
+   },
+   "9199894931939214644": {
+      "message": "A lejátszás leállt, mert túl sok ugyanahhoz a fiókhoz tartozó videó lejátszása van folyamatban. Kérjük, állíts le néhányat, és próbáld újra."
+   },
+   "936850558951011636": {
+      "message": "$NUM$ napon belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "billió"
+   },
+   "964943437084290735": {
+      "message": "Harmad „em” szóköz"
+   },
+   "968485661339291047": {
+      "message": "1 napon belül lejár"
+   },
+   "969796838380220069": {
+      "message": "Központozás"
+   },
+   "992901664798536243": {
+      "message": "Hexadecimális bevitel"
+   },
+   "996885966963281379": {
+      "message": "Balról jobbra felülbírálás"
+   },
+   "998767118090785897": {
+      "message": "$NUM$ órán belül",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Torguard VPN Client
+Comment=TorGuard VPN Software
+Exec=/usr/bin/torguard
+Icon=torguard
+Terminal=false
+Type=Application
+Categories=Network;Security;
+StartupNotify=false
+X-XFCE-Source=file:///usr/share/applications/torguard.desktop

@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Obramowanie pełne/kreskowane"
+   },
+   "1070809808108857931": {
+      "message": "$NUM$ minutę temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Link do strony lub pliku w innym miejscu w internecie"
+   },
+   "1102310712956565239": {
+      "message": "Licencje open source"
+   },
+   "1130652265542107236": {
+      "message": "Wiek"
+   },
+   "1134649645976473070": {
+      "message": "Arabski znak cyfry"
+   },
+   "1142417372321533593": {
+      "message": "11..17-częściowe klucze Han"
+   },
+   "1147656502873524992": {
+      "message": "Pismo bengalskie"
+   },
+   "1163524414906063407": {
+      "message": "Myślnik falujący U+301C"
+   },
+   "1180214318241646187": {
+      "message": "Pismo dewanagari"
+   },
+   "1201655285096694629": {
+      "message": "Dodaj metodę płatności, by dokonać zakupu."
+   },
+   "1208097920246951223": {
+      "message": "Pismo yi"
+   },
+   "12190752990595538": {
+      "message": "Jednolite"
+   },
+   "1237413374221837088": {
+      "message": "Odtwarzanie zostało zatrzymane, ponieważ zacząłeś oglądać film na innym urządzeniu. Odtwórz film ponownie po zatrzymaniu go na innym urządzeniu."
+   },
+   "123775052533814018": {
+      "message": "Pismo gruzińskie"
+   },
+   "1257931524938240638": {
+      "message": "Obejrzyj"
+   },
+   "1297025664516669951": {
+      "message": "mld"
+   },
+   "1305766628630415604": {
+      "message": "Pogoda, sceny i znaki Zodiaku"
+   },
+   "1310971928430788285": {
+      "message": "Arabski znak sanah"
+   },
+   "1347269818800657320": {
+      "message": "Odcinki: 1"
+   },
+   "1358234736811100710": {
+      "message": "Pismo gudżarati"
+   },
+   "1361445704105826758": {
+      "message": "Spacja U+200A"
+   },
+   "1364333963472303494": {
+      "message": "wygasa za $EVAL_1$ min",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Przekreślenie"
+   },
+   "1368767014310906187": {
+      "message": "Więcej informacji"
+   },
+   "1386128393601544077": {
+      "message": "Pobieram do oglądania offline..."
+   },
+   "1394022802077775553": {
+      "message": "Mały"
+   },
+   "1408430211331783844": {
+      "message": "10-częściowe klucze Han"
+   },
+   "140933529008432611": {
+      "message": "Pełny ekran"
+   },
+   "1410700625120387041": {
+      "message": "Strona została odświeżona."
+   },
+   "1411272293021752124": {
+      "message": "Kiedy urządzenie odzyska połączenie z internetem, Twoja aktywność w Filmach i TV Play zostanie zsynchronizowana. Będzie wtedy można obejrzeć ten odcinek na innym urządzeniu."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "W okresie 24 godzin użyto zbyt wielu urządzeń lub adresów IP. Skorzystaj z jednego z wcześniej używanych urządzeń lub spróbuj ponownie."
+   },
+   "1430062769418326205": {
+      "message": "Pismo takri"
+   },
+   "1440735285675788071": {
+      "message": "Zwierzęta, rośliny i żywność"
+   },
+   "1446182608983200385": {
+      "message": "Oglądaj na dużym ekranie"
+   },
+   "1452953224047775588": {
+      "message": "Wystąpił błąd serwera. Spróbuj ponownie później."
+   },
+   "1464429406563501593": {
+      "message": "Kup – $PRICE_BUY$",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Pismo ugaryckie"
+   },
+   "1511375217423134113": {
+      "message": "Cienka spacja"
+   },
+   "1538935182784871964": {
+      "message": "Nic"
+   },
+   "1550882703360589242": {
+      "message": "Nagłówek"
+   },
+   "1569384361123250083": {
+      "message": "Wąska spacja nierozdzielająca"
+   },
+   "1569694034972476152": {
+      "message": "Dodaj kartę kredytową lub debetową"
+   },
+   "1574702217174092165": {
+      "message": "Pismo lepcza"
+   },
+   "1577035400209415987": {
+      "message": "Sport, uroczystości i czynności"
+   },
+   "1578936298060149953": {
+      "message": "Na to urządzenie zostało pobranych zbyt wiele filmów. Usuń niektóre z nich. Jeśli uważasz, że to błąd, skontaktuj się z obsługą klienta."
+   },
+   "1585399878613556769": {
+      "message": "Pismo mandejskie"
+   },
+   "1622977981214364224": {
+      "message": "Wartość"
+   },
+   "1624496666386832541": {
+      "message": "Ludzie i emocje"
+   },
+   "163585285607136383": {
+      "message": "Spacja"
+   },
+   "1659260306743134961": {
+      "message": "Odtwarzany na: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Ostrzeżenie o wypożyczeniu"
+   },
+   "167137904963051280": {
+      "message": "Zamknij"
+   },
+   "1672514695079052416": {
+      "message": "Ten film jest aktualnie niedostępny z powodu nietypowej aktywności na koncie."
+   },
+   "1689687103490595695": {
+      "message": "Filmy Play"
+   },
+   "1693658896006835421": {
+      "message": "Łącznik grafemów"
+   },
+   "1695785777963864871": {
+      "message": "Otwórz link: "
+   },
+   "1705348214738149530": {
+      "message": "wygasa za minutę"
+   },
+   "1719824778219074772": {
+      "message": "Pismo khmerskie"
+   },
+   "1730622041976529093": {
+      "message": "Spacja U+2006"
+   },
+   "175470934010823676": {
+      "message": "Lista numerowana"
+   },
+   "17841002962364046": {
+      "message": "Ponów"
+   },
+   "1790234586531719509": {
+      "message": "Kup"
+   },
+   "1792545992204167651": {
+      "message": "4-częściowe klucze Han"
+   },
+   "179542577867490020": {
+      "message": "Nieprawidłowy adres e-mail"
+   },
+   "180976998764453681": {
+      "message": "Pobierz w jakości HD lub SD"
+   },
+   "1814369088251817607": {
+      "message": "Ułamki/pokrewne"
+   },
+   "1828658977714723982": {
+      "message": "Pionki"
+   },
+   "1830872643153553266": {
+      "message": "Zobacz szczegóły: $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Pismo syngaleskie"
+   },
+   "1846295350891951774": {
+      "message": "Znajdź wszystkie swoje ulubione programy telewizyjne w Sklepie Play i obejrzyj je w aplikacji Filmy i TV Play dla Chrome."
+   },
+   "1855549404303496723": {
+      "message": "wygasa za godzinę"
+   },
+   "1877803725479774313": {
+      "message": "To urządzenie nie umożliwia odtwarzania."
+   },
+   "1890638601494854916": {
+      "message": "miliard"
+   },
+   "1901872524864997402": {
+      "message": "Wyjdź"
+   },
+   "1905843731663924055": {
+      "message": "za $NUM$ godz.",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Nie znaleziono umowy kupna."
+   },
+   "1935128618068091278": {
+      "message": "Pismo etiopskie"
+   },
+   "1938219414696116874": {
+      "message": "Obecnie nie można przeciągać plików obrazów.\nPrzeciągnij obraz z przeglądarki."
+   },
+   "1954151364415665795": {
+      "message": "Pismo hangul"
+   },
+   "1977431342799515224": {
+      "message": "Odtwarzanie zostało zatrzymane, ponieważ film jest uruchomiony na innym urządzeniu. Odtwórz film ponownie po zatrzymaniu go na innym urządzeniu."
+   },
+   "2029980907058777630": {
+      "message": "Warunki usługi"
+   },
+   "2044442466969080056": {
+      "message": "Dziesiętne"
+   },
+   "2047343614481498061": {
+      "message": "Dodaj kolor"
+   },
+   "2072847589626610105": {
+      "message": "Wypożycz"
+   },
+   "2092212617914314411": {
+      "message": "Aktualnie nie masz połączenia z internetem. Połącz się ponownie, by odtwarzać strumieniowo swoje ulubione filmy i programy telewizyjne."
+   },
+   "2101164867731291209": {
+      "message": "Pismo kayah li"
+   },
+   "2113719628962111778": {
+      "message": "Arabski znacznik przypisu"
+   },
+   "2114961653707808791": {
+      "message": "Brak wymaganego komponentu. W nowej karcie przeglądarki wpisz adres chrome://components, znajdź komponent WidevineCdm i kliknij znajdujący się pod nim przycisk „Sprawdź dostępność aktualizacji”. Gdy zobaczysz komunikat „Składnik został zaktualizowany”, uruchom ponownie przeglądarkę."
+   },
+   "2118949532496601536": {
+      "message": "Stylizowana"
+   },
+   "2123474539731286604": {
+      "message": "Odśwież"
+   },
+   "2124380732103580135": {
+      "message": "Film został już zatrzymany."
+   },
+   "2131073272476560470": {
+      "message": "Skończył się okres wypożyczenia tego filmu. Aby go obejrzeć, kup lub wypożycz go ponownie."
+   },
+   "2149182740887046022": {
+      "message": "Wybór odmiany – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Nie możemy odtworzyć teraz tego filmu. Spróbuj ponownie później."
+   },
+   "2194774716002570022": {
+      "message": "Zakończenie przypisu w tekście (U+FFFB)"
+   },
+   "2206769964843652278": {
+      "message": "Pismo gotyckie"
+   },
+   "22109057671064768": {
+      "message": "Odtwarzam na: $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Międzynarodowy alfabet fonetyczny (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Pauza"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Odtwórz $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Rozmiar"
+   },
+   "2285569294581055781": {
+      "message": "Spacja U+2008"
+   },
+   "230507365422499768": {
+      "message": "Pismo ol ciki"
+   },
+   "2325815383560299041": {
+      "message": "Programy telewizyjne"
+   },
+   "2358744432156444454": {
+      "message": "Pismo telugu"
+   },
+   "2370311583523472863": {
+      "message": "bln"
+   },
+   "2378154636827917381": {
+      "message": "Wybierz metodę płatności"
+   },
+   "2398583048519934048": {
+      "message": "Coś poszło nie tak. Spróbuj ponownie."
+   },
+   "2404545964673636424": {
+      "message": "Zamknięte"
+   },
+   "2416235035434522626": {
+      "message": "Pieniądze za zakup tego filmu zostały zwrócone. Aby go obejrzeć, kup lub wypożycz go ponownie."
+   },
+   "2458370016363828146": {
+      "message": "Link do adresu e-mail"
+   },
+   "2469139219925930348": {
+      "message": "Meteorologia i astrologia"
+   },
+   "2484918978489875840": {
+      "message": "Pismo arabskie"
+   },
+   "2500940977211244160": {
+      "message": "Korzystając z Chromecasta, możesz oglądać swoje ulubione filmy i programy telewizyjne na dużym ekranie."
+   },
+   "2510334389873855577": {
+      "message": "Alfabety Azji Południowej"
+   },
+   "2524488082161774200": {
+      "message": "Pismo tybetańskie"
+   },
+   "2556195906496703534": {
+      "message": "Łącznik"
+   },
+   "2567552453606568838": {
+      "message": "$NUM$ godzinę temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Indeks dolny"
+   },
+   "2596943043266694861": {
+      "message": "Nie można znaleźć filmu."
+   },
+   "2602773901491715295": {
+      "message": "Napisy"
+   },
+   "2609303773462214063": {
+      "message": "Nie można pobrać tego filmu, ponieważ właściciel praw autorskich nie zezwala na oglądanie offline."
+   },
+   "2617084065793155411": {
+      "message": "Półfiret"
+   },
+   "2623430506770319716": {
+      "message": "Twoje konto było w tym roku zbyt często resetowane przez dział obsługi klienta."
+   },
+   "2624723575430661735": {
+      "message": "Wersja $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Aktualny okres wypożyczenia filmu $MOVIE_TITLE$ $LONG_EXPIRATION_MESSAGE$. Okres wypożyczenia po rozpoczęciu odtwarzania $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Uzyskaj pomoc"
+   },
+   "2634032400851497621": {
+      "message": "Bardzo duży"
+   },
+   "2636578811345390596": {
+      "message": "Wykres."
+   },
+   "265418312065535093": {
+      "message": "Bezszeryfowa stała"
+   },
+   "2669412054237461578": {
+      "message": "Kup $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Spacja ideograficzna"
+   },
+   "267152712329867450": {
+      "message": "Historyczne"
+   },
+   "2676989239174849130": {
+      "message": "Zakupy można pobrać na maksymalnie pięć urządzeń jednocześnie. Aby pobrać film tutaj, usuń wszystkie pobrania z innego urządzenia."
+   },
+   "2694197056256485674": {
+      "message": "rano"
+   },
+   "2696605111162327790": {
+      "message": "Symbol muzyczny – początek legato"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Filmy Google Play – informacje"
+   },
+   "2725131744113020753": {
+      "message": "Sesja przesyłania wygasła. Odłącz się i spróbuj ponownie."
+   },
+   "2726210069762481377": {
+      "message": "$VOLUME_LEVEL$% wielkości",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Działanie w toku..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, gdy będzie dostępny",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Wczoraj"
+   },
+   "2778320704487179651": {
+      "message": "Pismo staropołudniowoarabskie"
+   },
+   "2811578318938008571": {
+      "message": "Łącznik z dierezą"
+   },
+   "2823408948793387406": {
+      "message": "Żółty tekst na czarnym tle"
+   },
+   "2843666691789766965": {
+      "message": "Symbole"
+   },
+   "285220876417404298": {
+      "message": "Zmień"
+   },
+   "2866884137027183397": {
+      "message": "Licencje open source"
+   },
+   "287293401853426183": {
+      "message": "Długa spacja"
+   },
+   "2873226479878121265": {
+      "message": "Miejsce urodzenia"
+   },
+   "2873450949697555837": {
+      "message": "Obejrzyj odcinki seriali telewizyjnych"
+   },
+   "2874298691560753701": {
+      "message": "biliardy(ów)"
+   },
+   "2874903004453257636": {
+      "message": "Pismo tai le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{# minut temu}=1{# minutę temu}few{# minuty temu}many{# minut temu}other{# minutes ago}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Pokaż szczegóły$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Komponent$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Kod błędu$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Komunikat$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Atrybuty$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Odstępy"
+   },
+   "2972646465175951960": {
+      "message": "Kolor szesnastkowo"
+   },
+   "2976070904514926378": {
+      "message": "Kiedy urządzenie odzyska połączenie z internetem, Twoja aktywność w Filmach i TV Play zostanie zsynchronizowana. Będzie wtedy można obejrzeć ten film na innym urządzeniu."
+   },
+   "299212393546620995": {
+      "message": "Dostępne tylko z zakupami SD lub HD"
+   },
+   "3001599311394934937": {
+      "message": "Kolor"
+   },
+   "3024031615064271409": {
+      "message": "Pismo Times (niewidoczne)"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ za HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Kształty geometryczne"
+   },
+   "3076131322444154485": {
+      "message": "Muzyczne"
+   },
+   "3082451864182626107": {
+      "message": "Mała"
+   },
+   "3082728000817887688": {
+      "message": "Połącz z urządzeniem"
+   },
+   "3090277567861361522": {
+      "message": "Symbol muzyczny – koniec ligatury"
+   },
+   "3090955389577626836": {
+      "message": "Pauza pionowa U+FE31"
+   },
+   "3139446734703149686": {
+      "message": "Różne"
+   },
+   "3145479901031711697": {
+      "message": "Sprawdzanie pisowni"
+   },
+   "3148783583230295736": {
+      "message": "Pismo tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "Komunikat systemu DRM jest nieprawidłowy."
+   },
+   "3151300615969236340": {
+      "message": "Zdjęcie okładki $WN_SHOW_TITLE$, odcinek numer $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Opis ideograficzny"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dzień}few{{TEXT} dni}many{{TEXT} dni}other{{TEXT} days}}"
+   },
+   "3194384156250789686": {
+      "message": "Alfabety afrykańskie"
+   },
+   "3201110180818098584": {
+      "message": "Pismo czamskie"
+   },
+   "3207692705529645309": {
+      "message": "Niewidoczny separator"
+   },
+   "321244849474197695": {
+      "message": "Jutro"
+   },
+   "3229124980345092092": {
+      "message": "Spacja o zerowej szerokości"
+   },
+   "322985691330688230": {
+      "message": "Brak wyników dla Twojego zapytania."
+   },
+   "3230391931526221675": {
+      "message": "Format"
+   },
+   "3232820577716196711": {
+      "message": "Wstaw obraz"
+   },
+   "3243505317143754724": {
+      "message": "Niestandardowe"
+   },
+   "3243750297590914955": {
+      "message": "Samogłoska nieodłączna „Aq” – khmerski"
+   },
+   "3247076985979796797": {
+      "message": "Pismo greckie"
+   },
+   "3251309750789560433": {
+      "message": "Łącznik ormiański"
+   },
+   "3254567788720420543": {
+      "message": " "
+   },
+   "3256010424127814333": {
+      "message": "Symbol muzyczny – początek ligatury"
+   },
+   "3256903505595292698": {
+      "message": "Zmniejsz wcięcie"
+   },
+   "3265250603400790440": {
+      "message": "Pierwsze kroki"
+   },
+   "3281239119456770372": {
+      "message": "Cyrylica"
+   },
+   "3289148576120895160": {
+      "message": "Małe litery"
+   },
+   "3294214489713824609": {
+      "message": "5-częściowe klucze Han"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (kod błędu: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Kolor tekstu"
+   },
+   "332000134635733746": {
+      "message": "Obramowanie"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Pismo cypryjskie"
+   },
+   "3336445884996834318": {
+      "message": "Nie można pobrać licencji wideo. Spróbuj ponownie później."
+   },
+   "3347761840855731301": {
+      "message": "Sesja przesyłania jest niedostępna. Odśwież okno lub spróbuj ponownie później."
+   },
+   "3351553150964917854": {
+      "message": "Przełącznik wariantów"
+   },
+   "3355166016320182029": {
+      "message": "Nie można uzyskać licencji na film. Spróbuj ponownie później."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ za HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Kotwica przypisu w tekście (U+FFF9)"
+   },
+   "3415775657739029002": {
+      "message": "Spacja U+2007"
+   },
+   "3427321493644124084": {
+      "message": "Gwiazdki"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Szukaj „$ACTOR_NAME$”",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematyczne"
+   },
+   "3496221549802542517": {
+      "message": "Bardzo mały"
+   },
+   "3499317959717425890": {
+      "message": "Cofnij"
+   },
+   "3500807335769892741": {
+      "message": "Łącznik U+2060"
+   },
+   "3508852687023675805": {
+      "message": "$NUM$ min temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normalna"
+   },
+   "3540495086170177505": {
+      "message": "Kup programy telewizyjne"
+   },
+   "3546034467178790154": {
+      "message": "Indeks dolny"
+   },
+   "355565230200681214": {
+      "message": "Dywiz U+FF0D"
+   },
+   "3560179919548880444": {
+      "message": "Kolor tła"
+   },
+   "3593213843486034190": {
+      "message": "Format"
+   },
+   "3596415344748536540": {
+      "message": "Pismo bamum"
+   },
+   "3599005616661192177": {
+      "message": "Wyłączone"
+   },
+   "3600868534694594413": {
+      "message": "Grafika"
+   },
+   "3614370613824040896": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby go odtworzyć lub pobrać tutaj, usuń go z innego urządzenia."
+   },
+   "3614813368690293135": {
+      "message": "Hebrajski znak diakrytyczny maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Osadzanie od lewej do prawej"
+   },
+   "3650983100916004596": {
+      "message": "miliardy(ów)"
+   },
+   "3652059248591982819": {
+      "message": "3-częściowe klucze Han"
+   },
+   "3652469401274752477": {
+      "message": "Zwiększ wcięcie"
+   },
+   "3653098733292921132": {
+      "message": "bld"
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ za SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Podczas aktywowania Twojego wypożyczenia wystąpił błąd. Odśwież okno lub spróbuj ponownie później."
+   },
+   "3709540316929878378": {
+      "message": "Produkcja"
+   },
+   "3721275173574409786": {
+      "message": "Zamówione w przedsprzedaży"
+   },
+   "3722812838665571404": {
+      "message": "Kupione"
+   },
+   "3728552702457015750": {
+      "message": "Zakupy można pobrać na maksymalnie pięć urządzeń jednocześnie. Aby pobrać film tutaj, usuń wszystkie pobrania z innego urządzenia."
+   },
+   "3752083240065277436": {
+      "message": "Pismo orija"
+   },
+   "3808754582975714579": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby odtworzyć go tutaj, usuń go z innego urządzenia."
+   },
+   "3815693850657578096": {
+      "message": "Pismo śarada"
+   },
+   "3826397878188995605": {
+      "message": "Film możesz obejrzeć tutaj oraz na zgodnym telefonie lub tablecie."
+   },
+   "3831022207582977943": {
+      "message": "Symbol muzyczny – koniec frazy"
+   },
+   "3846565521051999754": {
+      "message": "Na to urządzenie zostało pobranych zbyt wiele filmów. Usuń niektóre z nich. Jeśli uważasz, że to błąd, skontaktuj się z obsługą klienta."
+   },
+   "3878153116309225131": {
+      "message": "Do jakiego URL-a ma prowadzić ten link?"
+   },
+   "3878202445977233728": {
+      "message": "Preferuj dźwięk wysokiej jakości podczas pobierania filmów lub odcinków do oglądania offline"
+   },
+   "3890590273177043325": {
+      "message": "Dodaj atrybut „$REL_NO_FOLLOW$” ($LINK_START$Więcej informacji$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Pismo Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Pismo jawajskie"
+   },
+   "397098723873502323": {
+      "message": "Gotowe"
+   },
+   "3990377875754602116": {
+      "message": "6-częściowe klucze Han"
+   },
+   "3992132733680288700": {
+      "message": "Pismo tai tham"
+   },
+   "4001637111049313831": {
+      "message": "Ma dźwięk 5.1"
+   },
+   "4002348975328837413": {
+      "message": "Odtwórz"
+   },
+   "4005427126456357141": {
+      "message": "$NUM$ dzień temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Wypożycz – $PRICE_RENT$",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Kursywa"
+   },
+   "4023151405827971137": {
+      "message": "Na Twoim komputerze brakuje miejsca na pobranie tego pliku. Zwolnij trochę miejsca i spróbuj ponownie."
+   },
+   "4024812820054201230": {
+      "message": "Międzynarodowy alfabet fonetyczny (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Obsada"
+   },
+   "4050502316465597694": {
+      "message": "Pismo syloti nagri"
+   },
+   "406627050327127223": {
+      "message": "Ustawienia pobierania"
+   },
+   "4068597226649219969": {
+      "message": "Film w sesji przesyłania jest inny od żądanego."
+   },
+   "409370207508422421": {
+      "message": "Moje programy TV"
+   },
+   "4115063437096532185": {
+      "message": "Znaki CJK"
+   },
+   "4146453603518633252": {
+      "message": "Tu pojawią się filmy, które wypożyczysz lub kupisz w Sklepie Play."
+   },
+   "4147180678866875282": {
+      "message": "Sezon $SEASON_NUMBER$",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Hieroglify egipskie"
+   },
+   "4165304946050965012": {
+      "message": "Zawiera podatek w wysokości $PURCHASE_TAX$",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Żółty tekst na niebieskim tle"
+   },
+   "4171449911657770848": {
+      "message": "Nowe pismo tai lue"
+   },
+   "4181834061497947522": {
+      "message": "BŁĄD: „$COLOR$” nie jest poprawnym kolorem.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Wstrzymaj"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "mln"
+   },
+   "4241565389203750613": {
+      "message": "Modyfikator"
+   },
+   "4242947662880926847": {
+      "message": "Pismo miao"
+   },
+   "4258500568871377211": {
+      "message": "OK"
+   },
+   "4289161867449641226": {
+      "message": "Usunąć pobrany film?"
+   },
+   "4326728310335009890": {
+      "message": "Pismo tai viet"
+   },
+   "4327117004280518691": {
+      "message": "Pismo shawa"
+   },
+   "4327135909829829353": {
+      "message": "Pismo ormiańskie"
+   },
+   "4327389288032644198": {
+      "message": "Pismo czakma"
+   },
+   "4330118138352331494": {
+      "message": "Symbol muzyczny – początek belki"
+   },
+   "4365544241082610712": {
+      "message": "Oryginalny język filmu"
+   },
+   "4389982170398859731": {
+      "message": "Typowe"
+   },
+   "4414892686324469274": {
+      "message": "Ścieżka dźwiękowa"
+   },
+   "4430021444843507791": {
+      "message": "Zastosowanie funkcji"
+   },
+   "4464935242536677493": {
+      "message": "Co to za utwór?"
+   },
+   "447254005463967829": {
+      "message": "Sparowane"
+   },
+   "4489533087577236543": {
+      "message": "Przed chwilą"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{# godzin temu}=1{# godzinę temu}few{# godziny temu}many{# godzin temu}other{# hours ago}}"
+   },
+   "4516988402150653150": {
+      "message": "Brak wymaganego komponentu. W nowej karcie przeglądarki wpisz chrome://components, znajdź komponent WidevineCdm i kliknij znajdujący się pod nim przycisk „Sprawdź dostępność aktualizacji”. Gdy zobaczysz komunikat „Składnik został zaktualizowany”, uruchom przeglądarkę ponownie."
+   },
+   "4524440614927500782": {
+      "message": "Bezszeryfowa proporcjonalna"
+   },
+   "4530344539930689918": {
+      "message": "Znak odstępu w ogham"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Szukaj"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ na $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Wypożycz"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{za # minut}=1{za # minutę}few{za # minuty}many{za # minut}other{in # minutes}}"
+   },
+   "463873241822657784": {
+      "message": "Myślnik falujący U+3030"
+   },
+   "464267706146568699": {
+      "message": "Pismo laotańskie"
+   },
+   "4654657327320140306": {
+      "message": "Indeks górny"
+   },
+   "4658723167166809016": {
+      "message": "Średnia spacja matematyczna"
+   },
+   "4661634374225039228": {
+      "message": "Separator akapitu"
+   },
+   "467915794683941071": {
+      "message": "Obejrzyj odcinek numer $EPISODE_NUMBER$, $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Pismo mongolskie"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{# dni temu}=1{# dzień temu}few{# dni temu}many{# dni temu}other{# days ago}}"
+   },
+   "4712209269320332893": {
+      "message": "Dodatki"
+   },
+   "4716710616284048819": {
+      "message": "Dane z wykresu pokazane w tabeli."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}few{{TEXT} minuty}many{{TEXT} minut}other{{TEXT} minutes}}"
+   },
+   "4725762888646270913": {
+      "message": "Obejrzyj $WN_SHOW_TITLE$, odcinek numer $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Podwójny łącznik ukośny"
+   },
+   "4762347778259393153": {
+      "message": "Mniej typowe"
+   },
+   "4800386880747162133": {
+      "message": "Wystąpił tymczasowy błąd serwera. Spróbuj ponownie później."
+   },
+   "4822858567120963779": {
+      "message": "Wyniki wyszukiwania dla „$SEARCH_QUERY$”",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby go odtworzyć lub pobrać tutaj, usuń go z innego urządzenia."
+   },
+   "48271036515889672": {
+      "message": "Nieprawidłowa sesja przesyłania. Odśwież okno lub spróbuj ponownie później."
+   },
+   "4831214862800127209": {
+      "message": "Film w sesji przesyłania jest inny od żądanego."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Pismo ogamiczne"
+   },
+   "4871903967361312376": {
+      "message": "Yijing / Tai xuan jing"
+   },
+   "4875958436183735304": {
+      "message": "Cień z prawej"
+   },
+   "4906346168276586100": {
+      "message": "Komunikat systemu DRM jest nieprawidłowy."
+   },
+   "491995769371858733": {
+      "message": "Brak"
+   },
+   "4920312719509022176": {
+      "message": "Czcionka"
+   },
+   "4930506384627295710": {
+      "message": "Ustawienia"
+   },
+   "4933409796062109057": {
+      "message": "Pobrano $DOWNLOAD_PROGRESS$%. Kliknij, by anulować.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Hangul Filler"
+   },
+   "4950037820737346052": {
+      "message": "Hangul – wypełnienie o połowie szerokości"
+   },
+   "4968001688305770755": {
+      "message": "Klikając „$OFFER_TYPE$”, akceptujesz",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Link do:"
+   },
+   "500501967044040199": {
+      "message": "Elementy"
+   },
+   "5011669227045570891": {
+      "message": "Słupek poziomy"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Pobrane filmy mogą znajdować się na maksymalnie trzech kontach na każdym urządzeniu. Aby pobrać film tutaj, usuń wszystkie pobrania z innego konta."
+   },
+   "5048838621444724614": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby pobrać go tutaj, usuń go z innego urządzenia."
+   },
+   "5056334923803362149": {
+      "message": "Dostęp do tego filmu jest zabroniony."
+   },
+   "5057747709360994470": {
+      "message": "milion"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Hangul Jungseong – wypełnienie"
+   },
+   "5089553823126293996": {
+      "message": "Anuluj"
+   },
+   "5135948647887912891": {
+      "message": "$ASSET_TITLE$ jest teraz w Twojej bibliotece.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Łącznik o zerowej szerokości"
+   },
+   "5145175165902220114": {
+      "message": "Łącznik z sylabariusza kanadyjskiego"
+   },
+   "5161805074897471162": {
+      "message": "Aplikacja Filmy Google Play do Chrome nie jest obsługiwana w systemie Windows XP i starszych. Spróbuj ponownie, używając systemu Windows Vista lub nowszego, Maca, Linuksa lub Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "Pismo tifinagh"
+   },
+   "5176392387315400391": {
+      "message": "Brak danych"
+   },
+   "5179659870501454485": {
+      "message": "Dodaj metodę płatności"
+   },
+   "5184276027321226501": {
+      "message": "Adres e-mail"
+   },
+   "5194883651451379462": {
+      "message": "Kup"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Filmy Play – opinia"
+   },
+   "5209758796360312502": {
+      "message": "Pismo klinowe"
+   },
+   "5216466426869773105": {
+      "message": "Pahlawi inskrypcyjny"
+   },
+   "522508588411648848": {
+      "message": "Zobacz $STORE_LINK_TITLE$ w Sklepie Play.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Symbol muzyczny – początek frazy"
+   },
+   "524096672349210886": {
+      "message": "Transport i mapa"
+   },
+   "5241676005655672226": {
+      "message": "9-częściowe klucze Han"
+   },
+   "5241820237010230531": {
+      "message": "Pismo wai"
+   },
+   "5252668631265690404": {
+      "message": "Inne"
+   },
+   "52534048856251312": {
+      "message": "Prześlij opinię"
+   },
+   "5255871588113212604": {
+      "message": "Brak sugestii"
+   },
+   "5261311595095150702": {
+      "message": "Symbol muzyczny – koniec legato"
+   },
+   "5261596970471311774": {
+      "message": "Duży"
+   },
+   "5281671802836592116": {
+      "message": "Szeryfowa proporcjonalna"
+   },
+   "5293326322671103002": {
+      "message": "Film ładuje się na urządzeniu $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Obejrzano $CURRENT_TIME$ z $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Pismo hanunoo"
+   },
+   "5438255274292242922": {
+      "message": "Techniczne"
+   },
+   "5439710597412767794": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby pobrać go tutaj, usuń go z innego urządzenia."
+   },
+   "545021630455133011": {
+      "message": "Pismo koptyjskie"
+   },
+   "5461901018141989680": {
+      "message": "Arabski znak Ayah (koniec)"
+   },
+   "5484073037133610477": {
+      "message": "Pismo bugińskie"
+   },
+   "5490715514416345531": {
+      "message": "Biały tekst na czarnym tle"
+   },
+   "54946385235790268": {
+      "message": "Nie można usunąć tego filmu z powodu błędu systemu. Skontaktuj się z obsługą klienta lub prześlij opinię, korzystając z menu ustawień."
+   },
+   "5496646217073800560": {
+      "message": "Cyfry"
+   },
+   "5505627655067167147": {
+      "message": "Do jakiego adresu e-mail ma prowadzić ten link?"
+   },
+   "5515365680802763380": {
+      "message": "Odtwarzanie zostało zatrzymane, bo film był odtwarzany na zbyt wielu urządzeniach. Poczekaj 24 godziny, zanim odtworzysz go ponownie."
+   },
+   "5527963094685167949": {
+      "message": "Nie możemy odtworzyć teraz tego filmu. Odśwież stronę."
+   },
+   "5548738790581121863": {
+      "message": "Na koncie został osiągnięty uzgodniony limit liczby dezaktywacji urządzenia. Jeśli uważasz, że to błąd, skontaktuj się z obsługą klienta."
+   },
+   "556303983072423917": {
+      "message": "Nie można pobrać tego filmu, ponieważ właściciel praw autorskich nie zezwala na oglądanie offline."
+   },
+   "5568872195580328526": {
+      "message": "Połączono z: $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Odtwarzanie wstrzymane."
+   },
+   "5625642025808759710": {
+      "message": "Alfabety Azji Południowo-Wschodniej"
+   },
+   "5649689590162845077": {
+      "message": "Rozwiń lub zwiń opis"
+   },
+   "568365569990952204": {
+      "message": "Wczytuję..."
+   },
+   "5690743679710570538": {
+      "message": "Dalej"
+   },
+   "5699299130874036286": {
+      "message": "Gratulacje."
+   },
+   "5701676109334495247": {
+      "message": "Pieniądze za zakup tego filmu zostały zwrócone. Aby go obejrzeć, kup lub wypożycz go ponownie."
+   },
+   "5739753659630714071": {
+      "message": "Kolor tła"
+   },
+   "5740091738966096065": {
+      "message": "Nie masz treści pobranych do użytku offline. Połącz się z internetem i pobierz coś ze swojej biblioteki, by móc oglądać to offline."
+   },
+   "57403663622654391": {
+      "message": "Pamięć"
+   },
+   "5758941098755146708": {
+      "message": "Dodaj lub usuń link"
+   },
+   "5765285425521589331": {
+      "message": "Transport, mapy i znaki"
+   },
+   "5773223913514548808": {
+      "message": "Podczas logowania się na konto wystąpił błąd. Otwórz stronę chrome://chrome-signin/ i sprawdź, czy jesteś zalogowany w Chrome, a potem uruchom ponownie aplikację."
+   },
+   "5793916253768843563": {
+      "message": "Obraz, który próbujesz przeciągnąć, jest zablokowany przez witrynę, w której się znajduje."
+   },
+   "5818819286276765821": {
+      "message": "Pismo buhid"
+   },
+   "5823773924892832157": {
+      "message": "Odstęp"
+   },
+   "5831261098398725527": {
+      "message": "Cytat"
+   },
+   "5843775533846981999": {
+      "message": "Oglądaj filmy w Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Wstrzymano na $EVAL_1$ min przed końcem.}few{Wstrzymano na $EVAL_2$ min przed końcem.}many{Wstrzymano na $EVAL_2$ min przed końcem.}other{Paused. $EVAL_2$min left.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Zdjęcie okładki filmu $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Edytuj źródło HTML"
+   },
+   "5884014452536244885": {
+      "message": "Pobierz bezpłatne odcinki telewizyjne"
+   },
+   "5889420664241962721": {
+      "message": "Aplikację Filmy Google Play dla Chrome obsługuje tylko Chrome 34 lub nowszy. Upewnij się, że Twój Chrome jest w pełni zaktualizowany."
+   },
+   "5891242694179659653": {
+      "message": "Przetestuj ten link"
+   },
+   "5911102149852781948": {
+      "message": "Formatowanie jednokierunkowe"
+   },
+   "5924149156142134621": {
+      "message": "Serwer nie może zaakceptować certyfikatu głównego używanego w komunikacji. Spróbuj ponownie później."
+   },
+   "592520084270766310": {
+      "message": "Pismo tajskie"
+   },
+   "5931872839329863827": {
+      "message": "Czarny tekst na białym tle"
+   },
+   "593622950044400136": {
+      "message": "Normalny"
+   },
+   "5961302828987058223": {
+      "message": "Strzałki"
+   },
+   "5970051322674660677": {
+      "message": "Sesja przesyłania wygasła. Odłącz się i spróbuj ponownie."
+   },
+   "5984875596889567804": {
+      "message": "Nie można usunąć tego filmu z powodu błędu systemu. Skontaktuj się z obsługą klienta lub prześlij opinię, korzystając z menu ustawień."
+   },
+   "6003902003271431273": {
+      "message": "Usuń"
+   },
+   "6005860289879017562": {
+      "message": "Nie możemy odtworzyć teraz tego filmu. Spróbuj ponownie później."
+   },
+   "6014354480663192727": {
+      "message": "Tu pojawią się programy telewizyjne, które kupisz w Sklepie Play."
+   },
+   "6034340809890392304": {
+      "message": "Kup filmy"
+   },
+   "6060953217197345552": {
+      "message": "Sylabariusz kanadyjski"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Uruchom mimo to"
+   },
+   "6084972307281346150": {
+      "message": "Znak cyfry w kaithi"
+   },
+   "6105544360205581717": {
+      "message": "Anuluj"
+   },
+   "6122892080995252667": {
+      "message": "Formatowanie i odstępy"
+   },
+   "6137797587633467697": {
+      "message": "Kursywa meroicka"
+   },
+   "6155475143120453982": {
+      "message": "0 minut"
+   },
+   "6190120025272183060": {
+      "message": "Znaki"
+   },
+   "6193238841287195586": {
+      "message": "Scenariusz"
+   },
+   "6222709653953533319": {
+      "message": "Kolor tekstu"
+   },
+   "6232382505914187032": {
+      "message": "Obejrzyj bezpłatne odcinki"
+   },
+   "6245954250506012649": {
+      "message": "Wypożyczone"
+   },
+   "6247516545605893720": {
+      "message": "Prześlij opinię"
+   },
+   "6248269670479966135": {
+      "message": "Klawiatura i interfejs"
+   },
+   "6252201064611373493": {
+      "message": "Pokaż karty"
+   },
+   "6270812530472396287": {
+      "message": "Dziś"
+   },
+   "6272228095428812454": {
+      "message": "Pismo tagalskie"
+   },
+   "6279370317435309772": {
+      "message": "Pismo awestyjskie"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Nie wiesz, co tu wpisać?$END_BOLD$ Najpierw znajdź stronę internetową, do której chcesz umieścić link. (Może się przydać $SEARCH_ENGINE_LINK$wyszukiwarka$END_LINK$). Potem skopiuj adres strony z przeglądarki i wklej go w polu powyżej.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Odtwarzanie"
+   },
+   "6335175380341340581": {
+      "message": "Urządzenie w sesji przesyłania jest inne od żądanego."
+   },
+   "6343010841347906907": {
+      "message": "za $NUM$ dzień",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Zgodność"
+   },
+   "6350391521435965588": {
+      "message": "Zamówione w przedsprzedaży"
+   },
+   "6352913008658578632": {
+      "message": "Łącznik nietrwały"
+   },
+   "6363122915809877223": {
+      "message": "Cień z lewej"
+   },
+   "6371465733575496232": {
+      "message": "Alfabety Bliskiego Wschodu"
+   },
+   "6405814875010182725": {
+      "message": "Serwer nie może zaakceptować certyfikatu głównego używanego w komunikacji. Spróbuj ponownie później."
+   },
+   "6407996489854784042": {
+      "message": "Edytuj link"
+   },
+   "6414884042279967640": {
+      "message": "nieprawidłowy URL"
+   },
+   "6425847105595230473": {
+      "message": "Ignoruj"
+   },
+   "6432298456231736850": {
+      "message": "Filmy Google Play"
+   },
+   "6440344606961499591": {
+      "message": "Pismo likijskie"
+   },
+   "6456384515113758910": {
+      "message": "Pokaż więcej"
+   },
+   "6456933929616370051": {
+      "message": "Edytuj słowo"
+   },
+   "6479123880196723568": {
+      "message": "Kursywa"
+   },
+   "6496283442053180405": {
+      "message": "Od lewej do prawej"
+   },
+   "6501155781262627001": {
+      "message": "W okresie 24 godzin użyto zbyt wielu urządzeń lub adresów IP. Skorzystaj z jednego z wcześniej używanych urządzeń lub spróbuj ponownie."
+   },
+   "6508375652910000957": {
+      "message": "Bez odstępów"
+   },
+   "6536020395223120161": {
+      "message": "Błąd"
+   },
+   "6546669593466967671": {
+      "message": "Matematyczne – alfanumeryczne"
+   },
+   "6551745305926008747": {
+      "message": "Przedsprzedaż"
+   },
+   "6554134808157634636": {
+      "message": "Pismo linearne B"
+   },
+   "656481501116924913": {
+      "message": "Odtwarzanie zostało zatrzymane, bo film był odtwarzany na zbyt wielu urządzeniach. Poczekaj 24 godziny, zanim odtworzysz go ponownie."
+   },
+   "6569656063466645753": {
+      "message": "Napisy"
+   },
+   "6602025155112861839": {
+      "message": "Pismo brahmi"
+   },
+   "6621933208862353132": {
+      "message": "Film jest niedostępny w Twoim kraju."
+   },
+   "6625801467720528503": {
+      "message": "Pismo staroperskie"
+   },
+   "6629216961322187103": {
+      "message": "Zapisz"
+   },
+   "6633629616609262609": {
+      "message": "Możesz zmienić ustawienia później w $START_TAG_19$ustawieniach aplikacji$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Inne alfabety europejskie"
+   },
+   "6651639811736683845": {
+      "message": "Moje filmy"
+   },
+   "6661681603632549986": {
+      "message": "Napisy"
+   },
+   "6667667434733000643": {
+      "message": "Ma karty informacyjne"
+   },
+   "6677363386267424723": {
+      "message": "Obejrzyj film $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Kup film $MOVIE_TITLE$ za $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Rozmiar czcionki"
+   },
+   "677905689563333998": {
+      "message": "Odtwarzanie zostało zatrzymane, bo odtwarzanych jest zbyt wiele filmów należących do tego samego konta. Zatrzymaj niektóre z nich i spróbuj ponownie."
+   },
+   "679571059806777318": {
+      "message": "Pismo taana"
+   },
+   "6810753777984126315": {
+      "message": "Pismo deseret"
+   },
+   "6827910084162380306": {
+      "message": "Urządzenie w sesji przesyłania jest inne od żądanego."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} godzina}few{{TEXT} godziny}many{{TEXT} godzin}other{{TEXT} hours}}"
+   },
+   "6851957197139570861": {
+      "message": "Film jest niedostępny w Twoim kraju."
+   },
+   "6853191352018412040": {
+      "message": "Pismo balijskie"
+   },
+   "6855074016004156398": {
+      "message": "Edytuj kod HTML"
+   },
+   "6860315656437719971": {
+      "message": "Ten film został już pobrany na to urządzenie. Sprawdź pozostałe konta na urządzeniu."
+   },
+   "6875483133393301003": {
+      "message": "Inne alfabety Azji Wschodniej"
+   },
+   "6883682454262090493": {
+      "message": "Znajdź fajny film w Sklepie Play i obejrzyj go w aplikacji Filmy Play dla Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Wielka"
+   },
+   "6896826577403437656": {
+      "message": "Dywiz"
+   },
+   "6902004800313673513": {
+      "message": "Obrócone/odbicie lustrzane"
+   },
+   "6964937916732516478": {
+      "message": "Normalny"
+   },
+   "696905759309523016": {
+      "message": "Znajdź fajny film lub program telewizyjny w Sklepie Play i obejrzyj go w aplikacji Filmy i TV Play dla Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Jeśli usuniesz ten film, będzie go można obejrzeć na tym urządzeniu tylko wtedy, gdy będziesz mieć połączenie z internetem."
+   },
+   "6989393626433450594": {
+      "message": "Pismo phags pa"
+   },
+   "7012766363608830434": {
+      "message": "Niewidoczny plus"
+   },
+   "7024834031644866926": {
+      "message": "Uzyskaj pomoc"
+   },
+   "7046325096558903089": {
+      "message": "Pismo bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "$NUM$ godz. temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Jeśli usuniesz ten odcinek, będzie go można obejrzeć na tym urządzeniu tylko wtedy, gdy będziesz mieć połączenie z internetem."
+   },
+   "7094242414651579769": {
+      "message": "Wybrane dla Ciebie"
+   },
+   "7101065047913928628": {
+      "message": "Pismo nko"
+   },
+   "711332449732375422": {
+      "message": "Wszystko"
+   },
+   "7119313535591306971": {
+      "message": "Pismo syryjskie"
+   },
+   "7133753811730291503": {
+      "message": "Pismo rejang"
+   },
+   "7134932904164509880": {
+      "message": "Dźwięk i napisy"
+   },
+   "7142370112218882473": {
+      "message": "Łącznik U+2012"
+   },
+   "7143481033215693523": {
+      "message": "Pismo fenickie"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{za # dni}=1{za # dzień}few{za # dni}many{za # dni}other{in # days}}"
+   },
+   "7166131491680306441": {
+      "message": "Pogrubienie"
+   },
+   "717756764917242379": {
+      "message": "Twoje konto było w tym roku zbyt często resetowane przez dział obsługi klienta."
+   },
+   "7209204842613884996": {
+      "message": "Pismo irokeskie"
+   },
+   "7217613154757397815": {
+      "message": "Mniejszy nagłówek"
+   },
+   "7222798856864539991": {
+      "message": "Emotikony"
+   },
+   "7231513918080506880": {
+      "message": "Błąd odtwarzania filmu"
+   },
+   "7233133314598482636": {
+      "message": "Symbol"
+   },
+   "7237310906976510879": {
+      "message": "Błąd uwierzytelniania"
+   },
+   "7254769271789170667": {
+      "message": "Zastępowanie od prawej do lewej"
+   },
+   "7271563194657138998": {
+      "message": "Na początek wybierz bezpłatny odcinek ze Sklepu Play – możesz go od razu obejrzeć w aplikacji Filmy i TV Play dla Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Nie znaleziono umowy kupna."
+   },
+   "7333054716894862082": {
+      "message": "Wyjustuj"
+   },
+   "7352037235710614813": {
+      "message": "Reżyseria"
+   },
+   "7379356741388986662": {
+      "message": "Sklep"
+   },
+   "738294154320637123": {
+      "message": "Pismo manipuri"
+   },
+   "7403213530684675547": {
+      "message": "Nie można usunąć tego filmu, ponieważ został też pobrany na inne urządzenie. Usuń go najpierw na tym drugim urządzeniu."
+   },
+   "7423355034259912329": {
+      "message": "Film został już zatrzymany."
+   },
+   "742861914041471563": {
+      "message": "Wyrównaj do lewej"
+   },
+   "7431208184373206966": {
+      "message": "Duża"
+   },
+   "7436129358876453178": {
+      "message": "2-częściowe klucze Han"
+   },
+   "7443523425660741023": {
+      "message": "Nie można usunąć tego filmu, ponieważ został też pobrany na inne urządzenie. Usuń go najpierw na tym drugim urządzeniu."
+   },
+   "7444530187008825696": {
+      "message": "Nie można przetestować tego linku."
+   },
+   "7445716324927695719": {
+      "message": "Film $DOWNLOADED_TITLE$ został pobrany. Kliknij, by usunąć.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Rozłącz"
+   },
+   "7499894239558451540": {
+      "message": "Tak"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "Wystąpił błąd serwera. Spróbuj ponownie później."
+   },
+   "754389774434351130": {
+      "message": "Mongolski separator samogłosek"
+   },
+   "7545663607980395021": {
+      "message": "Sesja przesyłania jest niedostępna. Odśwież okno lub spróbuj ponownie później."
+   },
+   "7559531330043741601": {
+      "message": "Wyrównaj do środka"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (liczba)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangul Choseong – wypełnienie"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Uważaj.$POSTB$ Pamiętaj, że adres e-mail, który umieszczasz na stronie internetowej, może trafić w ręce spamerów.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Wskaż komórkę, by wyświetlić nazwę znaku."
+   },
+   "7628853095173216399": {
+      "message": "Zaloguj się, by wznowić oglądanie."
+   },
+   "7628997973779702278": {
+      "message": "Pobierz film $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Odtwórz zwiastun"
+   },
+   "7644195558431380264": {
+      "message": "Uniesione"
+   },
+   "7656269245189992953": {
+      "message": "Nic"
+   },
+   "765644786799307419": {
+      "message": "Spacja U+2005"
+   },
+   "7661273651737426088": {
+      "message": "Łącznik nierozdzielający"
+   },
+   "7671671293660378394": {
+      "message": "Spacja nierozdzielająca"
+   },
+   "7687757766363784951": {
+      "message": "Ostatnio wybierane:"
+   },
+   "7704099115712609154": {
+      "message": "Ustawienia"
+   },
+   "7707854987324577924": {
+      "message": "Spacja nierozdzielająca o zerowej szerokości"
+   },
+   "7721864005040197774": {
+      "message": "Obiekty"
+   },
+   "7735652872804202135": {
+      "message": "Odtwarzaj filmy w języku ustawionym na urządzeniu, jeśli jest to możliwe"
+   },
+   "7776630049782874310": {
+      "message": "Pobrane filmy mogą znajdować się na maksymalnie trzech kontach na każdym urządzeniu. Aby pobrać film tutaj, usuń wszystkie pobrania z innego konta."
+   },
+   "779039068486648656": {
+      "message": "Twoja przeglądarka nie obsługuje wykresów"
+   },
+   "7792182371277036944": {
+      "message": "Obejrzyj teraz"
+   },
+   "7807783089931705706": {
+      "message": "Gotowe"
+   },
+   "7825923098003586011": {
+      "message": "Hieroglify meroickie"
+   },
+   "7835136621565821438": {
+      "message": "Partyjski inskrypcyjny"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Ten film został już pobrany na to urządzenie. Sprawdź pozostałe konta na urządzeniu."
+   },
+   "7872307517743373476": {
+      "message": "Nieprawidłowa sesja przesyłania. Odśwież okno lub spróbuj ponownie później."
+   },
+   "7873756658795212081": {
+      "message": "wygasa za $EVAL_1$ dni",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ w Sklepie Play",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "po południu"
+   },
+   "7918520961628671120": {
+      "message": "Dostęp do tego filmu jest zabroniony."
+   },
+   "791855806965154343": {
+      "message": "Pismo batackie"
+   },
+   "7926689704723702466": {
+      "message": "biliard"
+   },
+   "7933902915184371880": {
+      "message": "Pismo karyjskie"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Wstrzymano na $EVAL_1$ s przed końcem.}few{Wstrzymano na $EVAL_2$ s przed końcem.}many{Wstrzymano na $EVAL_2$ s przed końcem.}other{Paused. $EVAL_2$sec left.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Alfabety amerykańskie"
+   },
+   "7943286917138037388": {
+      "message": "Półpauza"
+   },
+   "7952530065274028271": {
+      "message": "Zobacz szczegóły programu $WN_SHOW_TITLE$, odcinek $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "wygasa za $EVAL_1$ godz.",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Pismo tamilskie"
+   },
+   "7978764644554853286": {
+      "message": "za $NUM$ minutę",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "1-częściowe klucze Han"
+   },
+   "7985246120023271230": {
+      "message": "Skończył się okres wypożyczenia tego filmu. Aby go obejrzeć, kup lub wypożycz go ponownie."
+   },
+   "7991898653680244970": {
+      "message": "Dodatek Latin 1"
+   },
+   "7993302948330451962": {
+      "message": "Pismo birmańskie"
+   },
+   "7993967737532196015": {
+      "message": "Ocena: $VIEWER_RATING$ z 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Usunąć pobrany odcinek?"
+   },
+   "8013309308261303688": {
+      "message": "Kup filmy"
+   },
+   "8018308926864382762": {
+      "message": "Syryjski znak skrótu"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Obniżone"
+   },
+   "8039844141475995654": {
+      "message": "za $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Pismo runiczne"
+   },
+   "8042716985296303990": {
+      "message": "Format"
+   },
+   "8042730852758398655": {
+      "message": "Język dźwięku"
+   },
+   "8062522779459151420": {
+      "message": "Usuń formatowanie"
+   },
+   "8077968665076288666": {
+      "message": "Pismo limbu"
+   },
+   "808696534598095161": {
+      "message": "Identyfikator"
+   },
+   "8101733308672950303": {
+      "message": "Tak będą wyglądać napisy"
+   },
+   "8132424293432274889": {
+      "message": "Wstecz"
+   },
+   "8134822873948566976": {
+      "message": "Obejrzyj więcej odcinków"
+   },
+   "8153387349716171448": {
+      "message": "Ten film został pobrany na maksymalną liczbę urządzeń. Aby odtworzyć go tutaj, usuń go z innego urządzenia."
+   },
+   "8161910726112545534": {
+      "message": "Dywiz U+FE63"
+   },
+   "8167719451188045081": {
+      "message": "Rozłącznik o zerowej szerokości"
+   },
+   "8175552949837381315": {
+      "message": "Zamknij"
+   },
+   "8176183622289427250": {
+      "message": "Znajdź fajny film w Sklepie Play i obejrzyj go w aplikacji Filmy i TV Play dla Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Symbol muzyczny – koniec belki"
+   },
+   "8182154803169715176": {
+      "message": "Waluta"
+   },
+   "8188276694329647401": {
+      "message": "miliony(ów)"
+   },
+   "8203155312190167416": {
+      "message": "Obejrzyj bezpłatne odcinki"
+   },
+   "8204709243856731897": {
+      "message": "Na koncie został osiągnięty uzgodniony limit liczby dezaktywacji urządzenia. Jeśli uważasz, że to błąd, skontaktuj się z obsługą klienta."
+   },
+   "8209649773417809069": {
+      "message": "Szeryfowa stała"
+   },
+   "8223592563721543961": {
+      "message": "Znak Od prawej do lewej"
+   },
+   "8229110080399300640": {
+      "message": "Pismo lidyjskie"
+   },
+   "825047260879284602": {
+      "message": "Wpisz kolor niestandardowy, np różowy, #F00, #D015FF lub rgb (100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "Pismo osmanya"
+   },
+   "8303685272985764664": {
+      "message": "Firet"
+   },
+   "8316357291574004120": {
+      "message": "To urządzenie nie umożliwia odtwarzania."
+   },
+   "8317092845662281711": {
+      "message": "Audio"
+   },
+   "8317239070847268844": {
+      "message": "biliony(ów)"
+   },
+   "8356754494097778995": {
+      "message": "Osadzanie od prawej do lewej"
+   },
+   "836493064290964717": {
+      "message": "7-częściowe klucze Han"
+   },
+   "8367205574605681054": {
+      "message": "Kontakt z nami"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{za # godzin}=1{za # godzinę}few{za # godziny}many{za # godzin}other{in # hours}}"
+   },
+   "838631802941302770": {
+      "message": "Pismo kharoshthi"
+   },
+   "8387836334671661814": {
+      "message": "Normalna"
+   },
+   "8406794425024838870": {
+      "message": "Odtwarzaj filmy w języku oryginalnym, jeśli jest to możliwe"
+   },
+   "8415457571769345476": {
+      "message": "Pismo gurmukhi"
+   },
+   "8432592301984570372": {
+      "message": "Pismo kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Filmy"
+   },
+   "8439955599488894226": {
+      "message": "Polityka prywatności"
+   },
+   "8440105734244130524": {
+      "message": "Ma napisy"
+   },
+   "8440128775129354214": {
+      "message": "Prywatność"
+   },
+   "8440161680481095392": {
+      "message": "Sora sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Separator przypisu w tekście (U+FFFA)"
+   },
+   "8468046265986853572": {
+      "message": "Pauza U+FE58"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Pokazuj informacje o aktorach i utworach, kiedy odtwarzanie jest wstrzymane"
+   },
+   "8480915536260760621": {
+      "message": "Separator wierszy"
+   },
+   "8483017128806448808": {
+      "message": "Klucze Han – inne"
+   },
+   "8484953793514450798": {
+      "message": "Nie udało się pobrać filmu"
+   },
+   "8496572760621552382": {
+      "message": "Obrazy kontrolne"
+   },
+   "8504288534013316809": {
+      "message": "Zawsze używaj tej aplikacji do odtwarzania materiałów z Filmów i TV Play na tym urządzeniu"
+   },
+   "8533646618757813590": {
+      "message": "Pismo sudańskie"
+   },
+   "8540686664487399786": {
+      "message": "Pismo aramejskie imperialne"
+   },
+   "854429928571549912": {
+      "message": "Pismo kannada"
+   },
+   "8544418813868326219": {
+      "message": "Podnagłówek"
+   },
+   "8561163275403408048": {
+      "message": "Wybierz HD lub SD"
+   },
+   "8562537001029340643": {
+      "message": "Krótka spacja"
+   },
+   "8562629041340204805": {
+      "message": "Lista punktowana"
+   },
+   "8564202903947049539": {
+      "message": "Odtwórz"
+   },
+   "8595279472837556966": {
+      "message": "Nie można znaleźć filmu."
+   },
+   "8598425882608097102": {
+      "message": "Pismo saurashtra"
+   },
+   "8614813208619876018": {
+      "message": "Otwórz ten link w nowym oknie"
+   },
+   "8620014669054622585": {
+      "message": "Indeks górny"
+   },
+   "8654580154537063858": {
+      "message": "Łącznik"
+   },
+   "8683517921317388539": {
+      "message": "Rozwiń tabelę na karcie informacyjnej"
+   },
+   "8686061785869890050": {
+      "message": "Znak Od lewej do prawej"
+   },
+   "8721105090660343056": {
+      "message": "Pismo samarytańskie"
+   },
+   "8751395052938425392": {
+      "message": "Inne"
+   },
+   "8756624200843285720": {
+      "message": "Normalna/szeryfowa"
+   },
+   "875775686870257693": {
+      "message": "Samogłoska nieodłączna „Aa” – khmerski"
+   },
+   "8784627238941457153": {
+      "message": "Od prawej do lewej"
+   },
+   "8785585428177743106": {
+      "message": "Arabski znak safha"
+   },
+   "8788046284717061808": {
+      "message": "Mongolski łącznik nietrwały"
+   },
+   "8815814381380608540": {
+      "message": "Nie"
+   },
+   "8834132438727381257": {
+      "message": "\n         Oglądaj w HD na laptopie, urządzeniu Chromecast, Roku i większości urządzeń z Androidem. Na innych urządzeniach kupione materiały HD będą odtwarzane w SD. $START_TAG_1$Więcej informacji$END_TAG_1$\n         ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Na podstawie ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Adres internetowy"
+   },
+   "8894457765459513654": {
+      "message": "Połącz"
+   },
+   "8917983075453481180": {
+      "message": "Półpauza pionowa U+FE32"
+   },
+   "8919720204772722134": {
+      "message": "Tekst do wyświetlenia:"
+   },
+   "8921884278179224689": {
+      "message": "Warunki usługi Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Dziś"
+   },
+   "892438729140054354": {
+      "message": "Głagolica"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ za SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Pismo malajalam"
+   },
+   "8945516772470397544": {
+      "message": "Pismo hebrajskie"
+   },
+   "8975694361063929758": {
+      "message": "Anuluję pobieranie..."
+   },
+   "900213554674035877": {
+      "message": "Ostrzeżenie: nieobsługiwana platforma"
+   },
+   "9003255502339267646": {
+      "message": "Pismo starotureckie"
+   },
+   "9006212563579865934": {
+      "message": "Wystąpił tymczasowy błąd serwera. Spróbuj ponownie później."
+   },
+   "9007600562969287199": {
+      "message": "Anuluj"
+   },
+   "9009756347438736077": {
+      "message": "Emotikony"
+   },
+   "9039190587572892203": {
+      "message": "Otwarto okno opinii."
+   },
+   "9058407001544582930": {
+      "message": "Pismo Braille'a"
+   },
+   "9082286440748444032": {
+      "message": "Wyrównaj do prawej"
+   },
+   "9119571405974007627": {
+      "message": "Kliknij, by przełączyć na pełny ekran"
+   },
+   "9129936585862826417": {
+      "message": "Podwójny łącznik katakana/hiragana"
+   },
+   "9133561684694194118": {
+      "message": "8-częściowe klucze Han"
+   },
+   "9140663398525770181": {
+      "message": "$NUM$ dni temu",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "Odcinki: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Pismo starowłoskie"
+   },
+   "9157868620634436826": {
+      "message": "Wysyłaj anonimowe statystyki użytkowania z Filmów i TV Play na tym urządzeniu do Google"
+   },
+   "9169327677828809572": {
+      "message": "Podkreślenie"
+   },
+   "9187708289836789739": {
+      "message": "Płeć i genealogia"
+   },
+   "9191795572559844778": {
+      "message": "Łacińskie"
+   },
+   "9199894931939214644": {
+      "message": "Odtwarzanie zostało zatrzymane, bo odtwarzanych jest zbyt wiele filmów należących do tego samego konta. Zatrzymaj niektóre z nich i spróbuj ponownie."
+   },
+   "936850558951011636": {
+      "message": "za $NUM$ dni",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "bilion"
+   },
+   "964943437084290735": {
+      "message": "Spacja U+2004"
+   },
+   "968485661339291047": {
+      "message": "wygasa za 1 dzień"
+   },
+   "969796838380220069": {
+      "message": "Interpunkcja"
+   },
+   "992901664798536243": {
+      "message": "Szesnastkowe dane wejściowe"
+   },
+   "996885966963281379": {
+      "message": "Zastępowanie od lewej do prawej"
+   },
+   "998767118090785897": {
+      "message": "za $NUM$ godzinę",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

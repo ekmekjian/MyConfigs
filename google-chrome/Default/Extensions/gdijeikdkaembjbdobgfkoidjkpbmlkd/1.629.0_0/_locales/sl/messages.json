@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Vključeno/črtkano"
+   },
+   "1070809808108857931": {
+      "message": "Pred $NUM$ minuto",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Povezava do strani ali datoteke nekje drugje v spletu"
+   },
+   "1102310712956565239": {
+      "message": "Odprtokodne licence"
+   },
+   "1130652265542107236": {
+      "message": "Starost"
+   },
+   "1134649645976473070": {
+      "message": "Arabski številski znak"
+   },
+   "1142417372321533593": {
+      "message": "11–17-potezni radikali v pisavi han"
+   },
+   "1147656502873524992": {
+      "message": "bengalščina"
+   },
+   "1163524414906063407": {
+      "message": "Tilda"
+   },
+   "1180214318241646187": {
+      "message": "devangarska pisava"
+   },
+   "1201655285096694629": {
+      "message": "Če želite dokončati nakup, dodajte plačilno sredstvo."
+   },
+   "1208097920246951223": {
+      "message": "ji"
+   },
+   "12190752990595538": {
+      "message": "Enotno"
+   },
+   "1237413374221837088": {
+      "message": "Predvajanje je ustavljeno, ker se je videoposnetek začel predvajati v drugi napravi. Ustavite ga v drugi napravi in ga nato znova predvajajte v tej."
+   },
+   "123775052533814018": {
+      "message": "gruzinščina"
+   },
+   "1257931524938240638": {
+      "message": "Ogled"
+   },
+   "1297025664516669951": {
+      "message": "mrd."
+   },
+   "1305766628630415604": {
+      "message": "Vreme, prizori in zodiakalna znamenja"
+   },
+   "1310971928430788285": {
+      "message": "Arabski znak sana"
+   },
+   "1347269818800657320": {
+      "message": "1 epizoda"
+   },
+   "1358234736811100710": {
+      "message": "gudžaratščina"
+   },
+   "1361445704105826758": {
+      "message": "Zelo majhen presledek"
+   },
+   "1364333963472303494": {
+      "message": "poteče čez $EVAL_1$ min",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Prečrtano"
+   },
+   "1368767014310906187": {
+      "message": "Več o tem"
+   },
+   "1386128393601544077": {
+      "message": "Prenos za ogled brez povezave ..."
+   },
+   "1394022802077775553": {
+      "message": "Majhna"
+   },
+   "1408430211331783844": {
+      "message": "10-potezni radikali v pisavi han"
+   },
+   "140933529008432611": {
+      "message": "Celozaslonsko"
+   },
+   "1410700625120387041": {
+      "message": "Stran osvežena."
+   },
+   "1411272293021752124": {
+      "message": "Ko bo vaša naprava spet povezana v splet, se bo dejavnost v aplikaciji Filmi in TV Google Play sinhronizirala. Nato boste lahko gledali to epizodo v drugi napravi."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "V obdobju 24 ur ste uporabili preveč naprav ali naslovov IP. Uporabite eno od predhodno uporabljanih naprav ali poskusite znova pozneje."
+   },
+   "1430062769418326205": {
+      "message": "pisava takri"
+   },
+   "1440735285675788071": {
+      "message": "Živali, rastline in hrana"
+   },
+   "1446182608983200385": {
+      "message": "Glejte vsebino na velikem zaslonu"
+   },
+   "1452953224047775588": {
+      "message": "Prišlo je do napake v strežniku. Poskusite znova pozneje."
+   },
+   "1464429406563501593": {
+      "message": "$PRICE_BUY$ Nakup",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "ugaritska pisava"
+   },
+   "1511375217423134113": {
+      "message": "Ozki presledek"
+   },
+   "1538935182784871964": {
+      "message": "Brez"
+   },
+   "1550882703360589242": {
+      "message": "Naslov"
+   },
+   "1569384361123250083": {
+      "message": "Ozek nedeljiv presledek"
+   },
+   "1569694034972476152": {
+      "message": "Dodajanje kreditne ali debetne kartice"
+   },
+   "1574702217174092165": {
+      "message": "pisava lepča"
+   },
+   "1577035400209415987": {
+      "message": "Šport, praznovanja in dejavnosti"
+   },
+   "1578936298060149953": {
+      "message": "V napravo je prenesenih preveč filmov. Odstranite nekaj filmov. Če menite, da je to napaka, se obrnite na službo za pomoč strankam."
+   },
+   "1585399878613556769": {
+      "message": "mandajščina"
+   },
+   "1622977981214364224": {
+      "message": "Vrednost"
+   },
+   "1624496666386832541": {
+      "message": "Ljudje in čustva"
+   },
+   "163585285607136383": {
+      "message": "Presledek"
+   },
+   "1659260306743134961": {
+      "message": "Predvajanje v napravi $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Opozorilo glede izposojene vsebine"
+   },
+   "167137904963051280": {
+      "message": "Zapri"
+   },
+   "1672514695079052416": {
+      "message": "Zaradi nenavadne dejavnosti v računu videoposnetek trenutno ni na voljo."
+   },
+   "1689687103490595695": {
+      "message": "Filmi Play"
+   },
+   "1693658896006835421": {
+      "message": "Znak za ločevanje digrafov"
+   },
+   "1695785777963864871": {
+      "message": "Pojdi na povezavo: "
+   },
+   "1705348214738149530": {
+      "message": "poteče čez 1 minuto"
+   },
+   "1719824778219074772": {
+      "message": "kmerščina"
+   },
+   "1730622041976529093": {
+      "message": "Presledek velikosti šestine pike"
+   },
+   "175470934010823676": {
+      "message": "Oštevilčen seznam"
+   },
+   "17841002962364046": {
+      "message": "Uveljavi"
+   },
+   "1790234586531719509": {
+      "message": "Nakup"
+   },
+   "1792545992204167651": {
+      "message": "4-potezni radikali v pisavi han"
+   },
+   "179542577867490020": {
+      "message": "Neveljaven e-poštni naslov"
+   },
+   "180976998764453681": {
+      "message": "Prenos v kakovosti HD ali SD"
+   },
+   "1814369088251817607": {
+      "message": "Ulomki/sorodno"
+   },
+   "1828658977714723982": {
+      "message": "Igrače"
+   },
+   "1830872643153553266": {
+      "message": "Ogled podrobnosti glede tega: $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "sinhalščina"
+   },
+   "1846295350891951774": {
+      "message": "Poiščite priljubljene TV-oddaje v Trgovini Play ter se udobno namestite in uživajte z aplikacijo Filmi in TV Play za Chrome."
+   },
+   "1855549404303496723": {
+      "message": "poteče čez 1 uro"
+   },
+   "1877803725479774313": {
+      "message": "Naprava ne podpira predvajanja."
+   },
+   "1890638601494854916": {
+      "message": "milijarda"
+   },
+   "1901872524864997402": {
+      "message": "Izhod"
+   },
+   "1905843731663924055": {
+      "message": "Čez $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Pogodbe o nakupu ni bilo mogoče najti."
+   },
+   "1935128618068091278": {
+      "message": "etiopska pisava"
+   },
+   "1938219414696116874": {
+      "message": "Datotek s slikami za zdaj ni mogoče vleči in spustiti.\nPovlecite sliko iz brskalnika."
+   },
+   "1954151364415665795": {
+      "message": "hangul"
+   },
+   "1977431342799515224": {
+      "message": "Predvajanje je ustavljeno, ker se je videoposnetek začel predvajati v drugi napravi. Ustavite ga v drugi napravi in ga nato znova predvajajte v tej."
+   },
+   "2029980907058777630": {
+      "message": "Pogoji storitve"
+   },
+   "2044442466969080056": {
+      "message": "Decimalno"
+   },
+   "2047343614481498061": {
+      "message": "Dodajanje barve"
+   },
+   "2072847589626610105": {
+      "message": "Izposoja"
+   },
+   "2092212617914314411": {
+      "message": "Trenutno ste brez povezave. Znova jo vzpostavite, če želite pretočno predvajati priljubljene filme in TV-oddaje."
+   },
+   "2101164867731291209": {
+      "message": "karenska pisava"
+   },
+   "2113719628962111778": {
+      "message": "Arabska oznaka za sprotno opombo"
+   },
+   "2114961653707808791": {
+      "message": "Manjka obvezna komponenta. Na drugem zavihku brskalnika odprite chrome://components, kliknite gumb »Preverjanje, ali je na voljo posodobitev« za komponento WidevineCdm in znova zaženite brskalnik, ko je prikazano stanje »Komponenta posodobljena«."
+   },
+   "2118949532496601536": {
+      "message": "Vsakdanja"
+   },
+   "2123474539731286604": {
+      "message": "Osveži"
+   },
+   "2124380732103580135": {
+      "message": "Film je bil že ustavljen."
+   },
+   "2131073272476560470": {
+      "message": "Izposoja videoposnetka je potekla. Če ga želite gledati, ga morate znova kupiti ali si ga izposoditi."
+   },
+   "2149182740887046022": {
+      "message": "Izbirnik variacij – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Trenutno imamo težave pri predvajanju tega videoposnetka. Poskusite znova pozneje."
+   },
+   "2194774716002570022": {
+      "message": "Zaključni znak za medvrstično opombo"
+   },
+   "2206769964843652278": {
+      "message": "gotska pisava"
+   },
+   "22109057671064768": {
+      "message": "Predvajanje v napravi $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonetika (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Dolgi pomišljaj"
+   },
+   "2245743941655687682": {
+      "message": ","
+   },
+   "2247792997610980110": {
+      "message": "Predvajaj $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Velikost"
+   },
+   "2285569294581055781": {
+      "message": "Presledek, enak dolžini ločila"
+   },
+   "230507365422499768": {
+      "message": "pisava ol čiki"
+   },
+   "2325815383560299041": {
+      "message": "TV-oddaje"
+   },
+   "2358744432156444454": {
+      "message": "teluščina"
+   },
+   "2370311583523472863": {
+      "message": "bilj."
+   },
+   "2378154636827917381": {
+      "message": "Izberite način plačila"
+   },
+   "2398583048519934048": {
+      "message": "Prišlo je do napake. Poskusite znova."
+   },
+   "2404545964673636424": {
+      "message": "Priloženo"
+   },
+   "2416235035434522626": {
+      "message": "Kupnina za ta videoposnetek je vrnjena. Če ga želite gledati, ga morate znova kupiti ali si ga izposoditi."
+   },
+   "2458370016363828146": {
+      "message": "Povezava na e-poštni naslov"
+   },
+   "2469139219925930348": {
+      "message": "Vreme in astrologija"
+   },
+   "2484918978489875840": {
+      "message": "arabščina"
+   },
+   "2500940977211244160": {
+      "message": "Chromecast vam omogoča gledanje priljubljenih filmov in TV-oddaj na velikem zaslonu."
+   },
+   "2510334389873855577": {
+      "message": "Južnoazijske pisave"
+   },
+   "2524488082161774200": {
+      "message": "tibetanščina"
+   },
+   "2556195906496703534": {
+      "message": "Vezaj"
+   },
+   "2567552453606568838": {
+      "message": "Pred $NUM$ uro",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Podpisano"
+   },
+   "2596943043266694861": {
+      "message": "Videoposnetka ni mogoče najti."
+   },
+   "2602773901491715295": {
+      "message": "Napisi"
+   },
+   "2609303773462214063": {
+      "message": "Filma ni mogoče prenesti, ker avtorske pravice lastnika prepovedujejo ogled brez povezave."
+   },
+   "2617084065793155411": {
+      "message": "Polovinec"
+   },
+   "2623430506770319716": {
+      "message": "Služba za pomoč strankam je letos prevečkrat ponastavila vaš račun."
+   },
+   "2624723575430661735": {
+      "message": "Različica $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "Izposoja filma $MOVIE_TITLE$ trenutno $LONG_EXPIRATION_MESSAGE$. Po začetku predvajanja $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Pomoč"
+   },
+   "2634032400851497621": {
+      "message": "Zelo velika"
+   },
+   "2636578811345390596": {
+      "message": "Grafikon."
+   },
+   "265418312065535093": {
+      "message": "Enopresledna sans serif"
+   },
+   "2669412054237461578": {
+      "message": "Nakup izdelka $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Ideografski presledek"
+   },
+   "267152712329867450": {
+      "message": "Zgodovinsko"
+   },
+   "2676989239174849130": {
+      "message": "Kupljeno vsebino je mogoče hkrati prenesti v največ pet naprav. Če želite prenesti ta videoposnetek sem, odstranite vse prenose iz druge naprave."
+   },
+   "2694197056256485674": {
+      "message": "dopoldne"
+   },
+   "2696605111162327790": {
+      "message": "Glasbeni simbol za začetek legato vezaja"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "O Filmih Google Play"
+   },
+   "2725131744113020753": {
+      "message": "Seja predvajanja je potekla. Prekinite povezavo in poskusite znova."
+   },
+   "2726210069762481377": {
+      "message": "$VOLUME_LEVEL$ % glasnosti",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Še vedno poteka ..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, ko je na voljo",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Včeraj"
+   },
+   "2778320704487179651": {
+      "message": "stara južnoarabska pisava"
+   },
+   "2811578318938008571": {
+      "message": "Vezaj z diarezo"
+   },
+   "2823408948793387406": {
+      "message": "Rumeno besedilo na črnem ozadju"
+   },
+   "2843666691789766965": {
+      "message": "Simboli"
+   },
+   "285220876417404298": {
+      "message": "Sprememba"
+   },
+   "2866884137027183397": {
+      "message": "Odprtokodne licence"
+   },
+   "287293401853426183": {
+      "message": "Dolgi presledek"
+   },
+   "2873226479878121265": {
+      "message": "Kraj rojstva"
+   },
+   "2873450949697555837": {
+      "message": "TV-epizode"
+   },
+   "2874298691560753701": {
+      "message": "trilijoni"
+   },
+   "2874903004453257636": {
+      "message": "pisava taj le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{Pred # minutami}=1{Pred # minuto}one{pred # minuto}two{pred # minutama}few{pred # minutami}other{pred # minutami}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Prikaz podrobnosti$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Komponenta$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Koda napake$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Sporočilo$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Atributi$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Razmik"
+   },
+   "2972646465175951960": {
+      "message": "Barva v šestnajstiškem zapisu"
+   },
+   "2976070904514926378": {
+      "message": "Ko bo vaša naprava spet povezana v splet, se bo dejavnost v aplikaciji Filmi in TV Google Play sinhronizirala. Nato boste lahko gledali ta film v drugi napravi."
+   },
+   "299212393546620995": {
+      "message": "Na voljo pri nakupi vsebine v kakovosti SD ali HD"
+   },
+   "3001599311394934937": {
+      "message": "Barva"
+   },
+   "3024031615064271409": {
+      "message": "Neviden znak za krat"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Geometrijske oblike"
+   },
+   "3076131322444154485": {
+      "message": "Glasbeni"
+   },
+   "3082451864182626107": {
+      "message": "Majhna"
+   },
+   "3082728000817887688": {
+      "message": "Povezovanje z napravo"
+   },
+   "3090277567861361522": {
+      "message": "Glasbeni simbol za konec legatura vezaja"
+   },
+   "3090955389577626836": {
+      "message": "Predstavitvena oblika za navpični dolgi pomišljaj"
+   },
+   "3139446734703149686": {
+      "message": "Razno"
+   },
+   "3145479901031711697": {
+      "message": "Črkovalnik"
+   },
+   "3148783583230295736": {
+      "message": "takbanva"
+   },
+   "3149652533781441921": {
+      "message": "Sporočilo sistema za upravljanje digitalnih pravic je neveljavno."
+   },
+   "3151300615969236340": {
+      "message": "Slika na naslovnici za oddajo $WN_SHOW_TITLE$, $WN_EPISODE_NUMBER$. epizoda – $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Ideografski opis"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} dan}one{{TEXT} dan}two{{TEXT} dneva}few{{TEXT} dni}other{{TEXT} dni}}"
+   },
+   "3194384156250789686": {
+      "message": "Afriške pisave"
+   },
+   "3201110180818098584": {
+      "message": "čamska pisava"
+   },
+   "3207692705529645309": {
+      "message": "Nevidno ločilo"
+   },
+   "321244849474197695": {
+      "message": "Jutri"
+   },
+   "3229124980345092092": {
+      "message": "Presledek ničte širine"
+   },
+   "322985691330688230": {
+      "message": "Za vaše iskanje ni rezultatov."
+   },
+   "3230391931526221675": {
+      "message": "Oblika"
+   },
+   "3232820577716196711": {
+      "message": "Vstavi sliko"
+   },
+   "3243505317143754724": {
+      "message": "Po meri"
+   },
+   "3243750297590914955": {
+      "message": "Kmerski inherentni samoglasnik Aq"
+   },
+   "3247076985979796797": {
+      "message": "grščina"
+   },
+   "3251309750789560433": {
+      "message": "Armenski vezaj"
+   },
+   "3254567788720420543": {
+      "message": "."
+   },
+   "3256010424127814333": {
+      "message": "Glasbeni simbol za začetek legatura vezaja"
+   },
+   "3256903505595292698": {
+      "message": "Zmanjšaj zamik"
+   },
+   "3265250603400790440": {
+      "message": "Začnite"
+   },
+   "3281239119456770372": {
+      "message": "cirilica"
+   },
+   "3289148576120895160": {
+      "message": "Pomanjšane velike črke"
+   },
+   "3294214489713824609": {
+      "message": "5-potezni radikali v pisavi han"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (Koda napake: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Barva besedila"
+   },
+   "332000134635733746": {
+      "message": "Obdajajoči"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ min",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "ciprščina"
+   },
+   "3336445884996834318": {
+      "message": "Licence za videoposnetek ni mogoče prenesti. Poskusite znova pozneje."
+   },
+   "3347761840855731301": {
+      "message": "Seja predvajanja ni na voljo. Osvežite ali poskusite znova pozneje."
+   },
+   "3351553150964917854": {
+      "message": "Izbirnik različic"
+   },
+   "3355166016320182029": {
+      "message": "Licence za videoposnetek ni bilo mogoče dobiti. Poskusite znova pozneje."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Sidro za ločevanje pripomb"
+   },
+   "3415775657739029002": {
+      "message": "Presledek med številkama"
+   },
+   "3427321493644124084": {
+      "message": "Zvezdice"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Iskanje igralca »$ACTOR_NAME$«",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematika"
+   },
+   "3496221549802542517": {
+      "message": "Zelo majhna"
+   },
+   "3499317959717425890": {
+      "message": "Razveljavi"
+   },
+   "3500807335769892741": {
+      "message": "Navadni presledek brez preloma med besedama"
+   },
+   "3508852687023675805": {
+      "message": "Pred $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Navadna"
+   },
+   "3540495086170177505": {
+      "message": "Nakup TV-oddaj"
+   },
+   "3546034467178790154": {
+      "message": "Podpisano"
+   },
+   "355565230200681214": {
+      "message": "Dolgi znak za minus"
+   },
+   "3560179919548880444": {
+      "message": "Barva ozadja"
+   },
+   "3593213843486034190": {
+      "message": "Oblika"
+   },
+   "3596415344748536540": {
+      "message": "pisava bamum"
+   },
+   "3599005616661192177": {
+      "message": "Izklopi"
+   },
+   "3600868534694594413": {
+      "message": "Slika"
+   },
+   "3614370613824040896": {
+      "message": "Videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite predvajati tu ali prenesti v to napravo, ga odstranite iz druge naprave."
+   },
+   "3614813368690293135": {
+      "message": "Hebrejsko ločilo makaf"
+   },
+   "3620501040875186062": {
+      "message": "Vdelava za jezike s pisavo od leve proti desni"
+   },
+   "3650983100916004596": {
+      "message": "milijarde"
+   },
+   "3652059248591982819": {
+      "message": "3-potezni radikali v pisavi han"
+   },
+   "3652469401274752477": {
+      "message": "Povečaj zamik"
+   },
+   "3653098733292921132": {
+      "message": "trilj."
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "Pri aktiviranju izposojene vsebine je prišlo do napake. Osvežite ali poskusite znova pozneje."
+   },
+   "3709540316929878378": {
+      "message": "Producent"
+   },
+   "3721275173574409786": {
+      "message": "Prednaročeno"
+   },
+   "3722812838665571404": {
+      "message": "Kupljeno"
+   },
+   "3728552702457015750": {
+      "message": "Kupljeno vsebino je mogoče hkrati prenesti v največ pet naprav. Če želite prenesti ta videoposnetek sem, odstranite vse prenose iz druge naprave."
+   },
+   "3752083240065277436": {
+      "message": "orijščina"
+   },
+   "3808754582975714579": {
+      "message": "Ta videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite predvajati tej napravi, ga odstranite iz druge."
+   },
+   "3815693850657578096": {
+      "message": "pisava šarada"
+   },
+   "3826397878188995605": {
+      "message": "Ta film si lahko ogledate tukaj ali v podprtih telefonih in tabličnih računalnikih."
+   },
+   "3831022207582977943": {
+      "message": "Glasbeni simbol za konec stavka"
+   },
+   "3846565521051999754": {
+      "message": "V napravo je prenesenih preveč filmov. Odstranite nekaj filmov. Če menite, da je to napaka, se obrnite na službo za pomoč strankam."
+   },
+   "3878153116309225131": {
+      "message": "Na kateri URL želite ustvariti to povezavo?"
+   },
+   "3878202445977233728": {
+      "message": "Daj prednost visokokakovostnemu zvoku pri prenosu filmov ali epizod za gledanje v načinu brez povezave"
+   },
+   "3890590273177043325": {
+      "message": "Dodaj atribut »$REL_NO_FOLLOW$« ($LINK_START$Več o tem$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "pisava lisu"
+   },
+   "3944070772895230647": {
+      "message": "javanščina"
+   },
+   "397098723873502323": {
+      "message": "Končano"
+   },
+   "3990377875754602116": {
+      "message": "6-potezni radikali v pisavi han"
+   },
+   "3992132733680288700": {
+      "message": "pisava taj tam"
+   },
+   "4001637111049313831": {
+      "message": "Ima zvok 5.1"
+   },
+   "4002348975328837413": {
+      "message": "Predvajaj"
+   },
+   "4005427126456357141": {
+      "message": "Pred $NUM$ dnevom",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "$PRICE_RENT$ Izposoja",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Ležeče"
+   },
+   "4023151405827971137": {
+      "message": "V vašem računalniku ni dovolj prostora za prenos tega videoposnetka. Sprostite nekaj prostora in poskusite znova."
+   },
+   "4024812820054201230": {
+      "message": "Fonetika (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "V glavnih vlogah"
+   },
+   "4050502316465597694": {
+      "message": "silotska pisava"
+   },
+   "406627050327127223": {
+      "message": "Nastavitve prenosa"
+   },
+   "4068597226649219969": {
+      "message": "Videoposnetek v seji predvajanja se ne ujema z zahtevanim."
+   },
+   "409370207508422421": {
+      "message": "Moje TV-oddaje"
+   },
+   "4115063437096532185": {
+      "message": "Poteze CJK"
+   },
+   "4146453603518633252": {
+      "message": "Filmi, ki jih kupite ali si jih izposodite v Trgovini Play, bodo prikazani tukaj."
+   },
+   "4147180678866875282": {
+      "message": "$SEASON_NUMBER$. sezona",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "egipčanski hieroglifi"
+   },
+   "4165304946050965012": {
+      "message": "Vključuje davek v višini $PURCHASE_TAX$",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Rumeno besedilo na modrem ozadju"
+   },
+   "4171449911657770848": {
+      "message": "nova pisava taj lue"
+   },
+   "4181834061497947522": {
+      "message": "NAPAKA: »$COLOR$« ni veljavna barva.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Zaustavi"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "mio."
+   },
+   "4241565389203750613": {
+      "message": "Modifikator"
+   },
+   "4242947662880926847": {
+      "message": "pisava miao"
+   },
+   "4258500568871377211": {
+      "message": "Razumem"
+   },
+   "4289161867449641226": {
+      "message": "Želite odstraniti preneseni film?"
+   },
+   "4326728310335009890": {
+      "message": "pisava taj viet"
+   },
+   "4327117004280518691": {
+      "message": "šojevska pisava"
+   },
+   "4327135909829829353": {
+      "message": "armenščina"
+   },
+   "4327389288032644198": {
+      "message": "pisava čakma"
+   },
+   "4330118138352331494": {
+      "message": "Glasbeni simbol za začetek prečke"
+   },
+   "4365544241082610712": {
+      "message": "Izvirni jezik videoposnetka"
+   },
+   "4389982170398859731": {
+      "message": "Splošno"
+   },
+   "4414892686324469274": {
+      "message": "Zvočni posnetek"
+   },
+   "4430021444843507791": {
+      "message": "Operator za uporabo funkcije"
+   },
+   "4464935242536677493": {
+      "message": "Katera skladba je to?"
+   },
+   "447254005463967829": {
+      "message": "Povezano"
+   },
+   "4489533087577236543": {
+      "message": "Pravkar zamujeno"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{Pred # urami}=1{Pred # uro}one{Pred # uro}two{Pred # urama}few{Pred # urami}other{Pred # urami}}"
+   },
+   "4516988402150653150": {
+      "message": "Manjka obvezna komponenta. Na drugem zavihku brskalnika odprite chrome://components, kliknite gumb »Preverjanje, ali je na voljo posodobitev« za komponento WidevineCdm in znova zaženite brskalnik, ko je prikazano stanje »Komponenta posodobljena«."
+   },
+   "4524440614927500782": {
+      "message": "Sorazmerna sans serif"
+   },
+   "4530344539930689918": {
+      "message": "Oznaka presledka ogami"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Iskanje"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ krat $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Izposoja"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{Čez # minut}=1{Čez # minuto}one{Čez # minuto}two{Čez # minuti}few{Čez # minute}other{Čez # minut}}"
+   },
+   "463873241822657784": {
+      "message": "Valovit pomišljaj"
+   },
+   "464267706146568699": {
+      "message": "laoščina"
+   },
+   "4654657327320140306": {
+      "message": "Nadpisano"
+   },
+   "4658723167166809016": {
+      "message": "Srednje dolgi matematični presledek"
+   },
+   "4661634374225039228": {
+      "message": "Znak za ločevanje odstavkov"
+   },
+   "467915794683941071": {
+      "message": "Predvajaj epizodo številka $EPISODE_NUMBER$, $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "mongolščina"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{Pred # dnevi}=1{Pred # dnevom}one{pred # dnevom}two{Pred # dnevoma}few{Pred # dnevi}other{Pred # dnevi}}"
+   },
+   "4712209269320332893": {
+      "message": "Dodatki"
+   },
+   "4716710616284048819": {
+      "message": "Ponazoritev podatkov iz grafikona s tabelo."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minuta}one{{TEXT} minuta}two{{TEXT} minuti}few{{TEXT} minute}other{{TEXT} minut}}"
+   },
+   "4725762888646270913": {
+      "message": "Predvajaj $WN_SHOW_TITLE$, epizodo številka $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Poševni enačaj"
+   },
+   "4762347778259393153": {
+      "message": "Manj pogosto"
+   },
+   "4800386880747162133": {
+      "message": "Prišlo je do začasne napake v strežniku. Poskusite znova pozneje."
+   },
+   "4822858567120963779": {
+      "message": "Rezultati iskanja za »$SEARCH_QUERY$«",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite predvajati tu ali prenesti v to napravo, ga odstranite iz druge naprave."
+   },
+   "48271036515889672": {
+      "message": "Neveljavna seja predvajanja. Osvežite ali poskusite znova pozneje."
+   },
+   "4831214862800127209": {
+      "message": "Videoposnetek v seji predvajanja se ne ujema z zahtevanim."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "ogamska pisava"
+   },
+   "4871903967361312376": {
+      "message": "Jidžing/Tai ksuan džing"
+   },
+   "4875958436183735304": {
+      "message": "Desna senca"
+   },
+   "4906346168276586100": {
+      "message": "Sporočilo sistema za upravljanje digitalnih pravic je neveljavno."
+   },
+   "491995769371858733": {
+      "message": "Brez"
+   },
+   "4920312719509022176": {
+      "message": "Pisava"
+   },
+   "4930506384627295710": {
+      "message": "Nastavitve"
+   },
+   "4933409796062109057": {
+      "message": "Preneseno: $DOWNLOAD_PROGRESS$ %. Če želite preklicati, kliknite.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Hangulsko polnilo"
+   },
+   "4950037820737346052": {
+      "message": "Hangulsko polnilo polovične dolžine"
+   },
+   "4968001688305770755": {
+      "message": "Če kliknete »$OFFER_TYPE$«, se strinjate s tem:",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Povezava do:"
+   },
+   "500501967044040199": {
+      "message": "Elementi"
+   },
+   "5011669227045570891": {
+      "message": "Vodoravna črta"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "V eni napravi lahko videoposnetke hkrati prenašajo največ trije računi. Če želite prenesti ta videoposnetek sem, odstranite vse prenose iz drugega računa."
+   },
+   "5048838621444724614": {
+      "message": "Ta videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite prenesti v to napravo, ga odstranite iz druge."
+   },
+   "5056334923803362149": {
+      "message": "Dostop do tega videoposnetka je prepovedan."
+   },
+   "5057747709360994470": {
+      "message": "milijon"
+   },
+   "5072722173570082853": {
+      "message": "V redu"
+   },
+   "5079268465360103993": {
+      "message": "Hangulsko polnilo džungseong"
+   },
+   "5089553823126293996": {
+      "message": "Prekliči"
+   },
+   "5135948647887912891": {
+      "message": "Naslov $ASSET_TITLE$ je dodan v vašo knjižnico.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Znak za združevanje"
+   },
+   "5145175165902220114": {
+      "message": "Kanadski enačaj"
+   },
+   "5161805074897471162": {
+      "message": "Aplikacija Filmi Google Play za Chrome ni podprta v sistemu Windows XP ali starejših različicah. Poskusite znova v sistemu Windows Vista ali novejši različici, sistemu Mac, Linux ali Chrome OS."
+   },
+   "516881150339066546": {
+      "message": "pisava tifinaf"
+   },
+   "5176392387315400391": {
+      "message": "Ni podatkov"
+   },
+   "5179659870501454485": {
+      "message": "Dodajanje plačilnega sredstva"
+   },
+   "5184276027321226501": {
+      "message": "E-poštni naslov"
+   },
+   "5194883651451379462": {
+      "message": "Nakup"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Povratne informacije za Filme Play"
+   },
+   "5209758796360312502": {
+      "message": "klinopis"
+   },
+   "5216466426869773105": {
+      "message": "inskripcijska perzijščina"
+   },
+   "522508588411648848": {
+      "message": "Ogled izdelka $STORE_LINK_TITLE$ v Trgovini Play.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Glasbeni simbol za začetek stavka"
+   },
+   "524096672349210886": {
+      "message": "Transport in zemljevidi"
+   },
+   "5241676005655672226": {
+      "message": "9-potezni radikali v pisavi han"
+   },
+   "5241820237010230531": {
+      "message": "pisava vai"
+   },
+   "5252668631265690404": {
+      "message": "Drugo"
+   },
+   "52534048856251312": {
+      "message": "Pošljite povratne informacije"
+   },
+   "5255871588113212604": {
+      "message": "Ni predlogov"
+   },
+   "5261311595095150702": {
+      "message": "Glasbeni simbol za konec legato vezaja"
+   },
+   "5261596970471311774": {
+      "message": "Velika"
+   },
+   "5281671802836592116": {
+      "message": "Sorazmerna serif"
+   },
+   "5293326322671103002": {
+      "message": "Nalaganje v napravi $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Ogledano $CURRENT_TIME$ od $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "hanunu"
+   },
+   "5438255274292242922": {
+      "message": "Tehnično"
+   },
+   "5439710597412767794": {
+      "message": "Ta videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite prenesti v to napravo, ga odstranite iz druge."
+   },
+   "545021630455133011": {
+      "message": "koptska pisava"
+   },
+   "5461901018141989680": {
+      "message": "Arabski konec ajaha"
+   },
+   "5484073037133610477": {
+      "message": "buginska pisava"
+   },
+   "5490715514416345531": {
+      "message": "Belo besedilo na črnem ozadju"
+   },
+   "54946385235790268": {
+      "message": "Filma ni mogoče odstraniti zaradi sistemske napake. Obrnite se na službo za pomoč strankam ali v meniju za nastavitve pošljite povratne informacije."
+   },
+   "5496646217073800560": {
+      "message": "Številka"
+   },
+   "5505627655067167147": {
+      "message": "Na kateri e-poštni naslov želite ustvariti to povezavo?"
+   },
+   "5515365680802763380": {
+      "message": "Predvajanje je ustavljeno, ker se je videoposnetek predvajal v prevelikem številu naprav. Počakajte 24 ur, preden ga znova predvajate."
+   },
+   "5527963094685167949": {
+      "message": "Trenutno imamo težave pri predvajanju tega videoposnetka. Poskusite osvežiti stran."
+   },
+   "5548738790581121863": {
+      "message": "V računu ste dosegli omejitev števila deaktivacij naprav. Če menite, da je to napaka, se obrnite na službo za pomoč strankam."
+   },
+   "556303983072423917": {
+      "message": "Filma ni mogoče prenesti, ker avtorske pravice lastnika prepovedujejo ogled brez povezave."
+   },
+   "5568872195580328526": {
+      "message": "Vzpostavljena je povezava z napravo $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Začasno ustavljeno."
+   },
+   "5625642025808759710": {
+      "message": "Jugovzhodno azijske pisave"
+   },
+   "5649689590162845077": {
+      "message": "Razširi ali strni opis"
+   },
+   "568365569990952204": {
+      "message": "Nalaganje ..."
+   },
+   "5690743679710570538": {
+      "message": "Naprej"
+   },
+   "5699299130874036286": {
+      "message": "Čestitamo!"
+   },
+   "5701676109334495247": {
+      "message": "Kupnina za ta videoposnetek je vrnjena. Če ga želite gledati, ga morate znova kupiti ali si ga izposoditi."
+   },
+   "5739753659630714071": {
+      "message": "Barva ozadja za besedilo"
+   },
+   "5740091738966096065": {
+      "message": "Trenutno nimate vsebine, prenesene za uporabo brez povezave. Povežite se v splet in prenesite vsebino iz knjižnice za ogled brez povezave."
+   },
+   "57403663622654391": {
+      "message": "Shramba"
+   },
+   "5758941098755146708": {
+      "message": "Dodaj ali odstrani povezavo"
+   },
+   "5765285425521589331": {
+      "message": "Promet, zemljevidi in table"
+   },
+   "5773223913514548808": {
+      "message": "Pri poskusu prijave v vaš račun je prišlo do napake. Preverite, ali ste prijavljeni v Chrome, tako da odprete chrome://chrome-signin/. Nato poskusite znova zagnati aplikacijo."
+   },
+   "5793916253768843563": {
+      "message": "Gostiteljsko spletno mesto je blokiralo sliko, ki jo poskušate povleči."
+   },
+   "5818819286276765821": {
+      "message": "buhidska pisava"
+   },
+   "5823773924892832157": {
+      "message": "Presledek"
+   },
+   "5831261098398725527": {
+      "message": "Navedba"
+   },
+   "5843775533846981999": {
+      "message": "Glejte filme iz Googla Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Zaustavljeno. Še $EVAL_1$ min do konca.}one{Zaustavljeno. Še $EVAL_2$ min do konca.}two{Zaustavljeno. Še $EVAL_2$ min do konca.}few{Zaustavljeno. Še $EVAL_2$ min do konca.}other{Zaustavljeno. Še $EVAL_2$ min do konca.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Naslovna slika filma $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Urejanje izvorne kode HTML"
+   },
+   "5884014452536244885": {
+      "message": "Brezplačne TV-epizode"
+   },
+   "5889420664241962721": {
+      "message": "Aplikacija Filmi Google Play za Chrome je podprta samo v Chromu različice 34 in novejših. Preverite, ali je Chrome posodobljen."
+   },
+   "5891242694179659653": {
+      "message": "Preskusi to povezavo"
+   },
+   "5911102149852781948": {
+      "message": "Zaključek smernega formatiranja"
+   },
+   "5924149156142134621": {
+      "message": "Strežnik ne more sprejeti korenskega potrdila, ki se uporablja za komunikacijo. Poskusite znova pozneje."
+   },
+   "592520084270766310": {
+      "message": "tajščina"
+   },
+   "5931872839329863827": {
+      "message": "Črno besedilo na belem ozadju"
+   },
+   "593622950044400136": {
+      "message": "Navadna"
+   },
+   "5961302828987058223": {
+      "message": "Puščice"
+   },
+   "5970051322674660677": {
+      "message": "Seja predvajanja je potekla. Prekinite povezavo in poskusite znova."
+   },
+   "5984875596889567804": {
+      "message": "Filma ni mogoče odstraniti zaradi sistemske napake. Obrnite se na službo za pomoč strankam ali v meniju za nastavitve pošljite povratne informacije."
+   },
+   "6003902003271431273": {
+      "message": "Odstranitev"
+   },
+   "6005860289879017562": {
+      "message": "Trenutno imamo težave pri predvajanju tega videoposnetka. Poskusite znova pozneje."
+   },
+   "6014354480663192727": {
+      "message": "TV-oddaje, ki jih kupite v Trgovini Play, bodo prikazane tukaj."
+   },
+   "6034340809890392304": {
+      "message": "Nakup filmov"
+   },
+   "6060953217197345552": {
+      "message": "pisava kanadskih staroselcev"
+   },
+   "6061761559474667363": {
+      "message": "V redu"
+   },
+   "6071912363550058507": {
+      "message": "Vseeno zaženi"
+   },
+   "6084972307281346150": {
+      "message": "Številski znak kaiti"
+   },
+   "6105544360205581717": {
+      "message": "Prekliči"
+   },
+   "6122892080995252667": {
+      "message": "Oblika in presledek"
+   },
+   "6137797587633467697": {
+      "message": "meriotski rokopis"
+   },
+   "6155475143120453982": {
+      "message": "0 minut"
+   },
+   "6190120025272183060": {
+      "message": "Oznake"
+   },
+   "6193238841287195586": {
+      "message": "Scenarij"
+   },
+   "6222709653953533319": {
+      "message": "Barva besedila"
+   },
+   "6232382505914187032": {
+      "message": "Brezplačne epizode"
+   },
+   "6245954250506012649": {
+      "message": "Izposojeno"
+   },
+   "6247516545605893720": {
+      "message": "Pošlji povratne informacije"
+   },
+   "6248269670479966135": {
+      "message": "Tipkovnica in uporabniški vmesnik"
+   },
+   "6252201064611373493": {
+      "message": "Prikaz kartic"
+   },
+   "6270812530472396287": {
+      "message": "Danes"
+   },
+   "6272228095428812454": {
+      "message": "tagaloščina"
+   },
+   "6279370317435309772": {
+      "message": "avestanščina"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Ne veste, kaj bi vnesli v polje?$END_BOLD$ Najprej v spletu poiščite stran, na katero želite objaviti povezavo. (Priporočamo, da uporabite $SEARCH_ENGINE_LINK$iskalnik$END_LINK$.) Nato kopirajte spletni naslov iz polja v naslovni vrstici brskalnika in ga prilepite v zgornje polje.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Predvajanje"
+   },
+   "6335175380341340581": {
+      "message": "Naprava v seji predvajanja se ne ujema z zahtevano."
+   },
+   "6343010841347906907": {
+      "message": "Čez $NUM$ dan",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Združljivost"
+   },
+   "6350391521435965588": {
+      "message": "Prednaročeno"
+   },
+   "6352913008658578632": {
+      "message": "Mehki vezaj"
+   },
+   "6363122915809877223": {
+      "message": "Leva senca"
+   },
+   "6371465733575496232": {
+      "message": "Bližnjevzhodne pisave"
+   },
+   "6405814875010182725": {
+      "message": "Strežnik ne more sprejeti korenskega potrdila, ki se uporablja za komunikacijo. Poskusite znova pozneje."
+   },
+   "6407996489854784042": {
+      "message": "Urejanje povezave"
+   },
+   "6414884042279967640": {
+      "message": "neveljaven URL"
+   },
+   "6425847105595230473": {
+      "message": "Prezri"
+   },
+   "6432298456231736850": {
+      "message": "Filmi Google Play"
+   },
+   "6440344606961499591": {
+      "message": "licijska pisava"
+   },
+   "6456384515113758910": {
+      "message": "Več o tem"
+   },
+   "6456933929616370051": {
+      "message": "Urejanje besede"
+   },
+   "6479123880196723568": {
+      "message": "Ležeča"
+   },
+   "6496283442053180405": {
+      "message": "Od leve proti desni"
+   },
+   "6501155781262627001": {
+      "message": "V obdobju 24 ur ste uporabili preveč naprav ali naslovov IP. Uporabite eno od predhodno uporabljanih naprav ali poskusite znova pozneje."
+   },
+   "6508375652910000957": {
+      "message": "Sestavljiv znak"
+   },
+   "6536020395223120161": {
+      "message": "Napaka"
+   },
+   "6546669593466967671": {
+      "message": "Matematika – alfanumerični"
+   },
+   "6551745305926008747": {
+      "message": "Prednaročilo"
+   },
+   "6554134808157634636": {
+      "message": "linearna pisava B"
+   },
+   "656481501116924913": {
+      "message": "Predvajanje je ustavljeno, ker se je videoposnetek predvajal v prevelikem številu naprav. Počakajte 24 ur, preden ga znova predvajate."
+   },
+   "6569656063466645753": {
+      "message": "Napisi"
+   },
+   "6602025155112861839": {
+      "message": "pisava brami"
+   },
+   "6621933208862353132": {
+      "message": "Videoposnetek ni na voljo v vaši državi."
+   },
+   "6625801467720528503": {
+      "message": "staroperzijska pisava"
+   },
+   "6629216961322187103": {
+      "message": "Shrani"
+   },
+   "6633629616609262609": {
+      "message": "Nastavitve lahko spremenite pozneje v $START_TAG_19$nastavitvah aplikacije$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Druge evropske pisave"
+   },
+   "6651639811736683845": {
+      "message": "Moji filmi"
+   },
+   "6661681603632549986": {
+      "message": "Podnapisi"
+   },
+   "6667667434733000643": {
+      "message": "Ima kartice z informacijami"
+   },
+   "6677363386267424723": {
+      "message": "Predvajaj $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Nakup filma $MOVIE_TITLE$ za $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Velikost pisave"
+   },
+   "677905689563333998": {
+      "message": "Predvajanje je ustavljeno zaradi predvajanja prevelikega števila videoposnetkov v istem računu. Ustavite jih nekaj in poskusite znova."
+   },
+   "679571059806777318": {
+      "message": "maldivska pisava"
+   },
+   "6810753777984126315": {
+      "message": "deseret (mormonska pisava)"
+   },
+   "6827910084162380306": {
+      "message": "Naprava v seji predvajanja se ne ujema z zahtevano."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} ura}one{{TEXT} ura}two{{TEXT} uri}few{{TEXT} ure}other{{TEXT} ur}}"
+   },
+   "6851957197139570861": {
+      "message": "Videoposnetek ni na voljo v vaši državi."
+   },
+   "6853191352018412040": {
+      "message": "balijska pisava"
+   },
+   "6855074016004156398": {
+      "message": "Uredi HTML"
+   },
+   "6860315656437719971": {
+      "message": "Ta film je že bil prenesen v napravo. Preverite druge račune v tej napravi."
+   },
+   "6875483133393301003": {
+      "message": "Druge vzhodnoazijske pisave"
+   },
+   "6883682454262090493": {
+      "message": "Poiščite odličen film v Trgovini Play ter se udobno namestite in uživajte z aplikacijo Filmi Play za Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Ogromna"
+   },
+   "6896826577403437656": {
+      "message": "Znak za minus"
+   },
+   "6902004800313673513": {
+      "message": "Obrnjeno/zrcaljeno"
+   },
+   "6964937916732516478": {
+      "message": "Navadna"
+   },
+   "696905759309523016": {
+      "message": "Poiščite odličen film ali TV-oddajo v Trgovini Play ter se udobno namestite in uživajte z aplikacijo Filmi in TV Play za Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Če odstranite ta film, jo boste lahko v tej napravi gledali samo, ko boste povezani v splet."
+   },
+   "6989393626433450594": {
+      "message": "pisava fags pa"
+   },
+   "7012766363608830434": {
+      "message": "Neviden znak za plus"
+   },
+   "7024834031644866926": {
+      "message": "Pomoč"
+   },
+   "7046325096558903089": {
+      "message": "bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "Pred $NUM$ h",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Če odstranite to epizodo, jo boste lahko v tej napravi gledali samo, ko boste povezani v splet."
+   },
+   "7094242414651579769": {
+      "message": "Priporočamo"
+   },
+   "7101065047913928628": {
+      "message": "pisava nko"
+   },
+   "711332449732375422": {
+      "message": "Vse"
+   },
+   "7119313535591306971": {
+      "message": "sirijska pisava"
+   },
+   "7133753811730291503": {
+      "message": "pisava rejang"
+   },
+   "7134932904164509880": {
+      "message": "Zvok in napisi"
+   },
+   "7142370112218882473": {
+      "message": "Številski pomišljaj"
+   },
+   "7143481033215693523": {
+      "message": "feničanska pisava"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{Čez # dni}=1{Čez # dan}one{Čez # dan}two{Čez # dneva}few{Čez # dni}other{Čez # dni}}"
+   },
+   "7166131491680306441": {
+      "message": "Drzno"
+   },
+   "717756764917242379": {
+      "message": "Služba za pomoč strankam je letos prevečkrat ponastavila vaš račun."
+   },
+   "7209204842613884996": {
+      "message": "čerokeščina"
+   },
+   "7217613154757397815": {
+      "message": "Manjši naslov"
+   },
+   "7222798856864539991": {
+      "message": "Čustveni simboli"
+   },
+   "7231513918080506880": {
+      "message": "Napaka pri predvajanju videoposnetka"
+   },
+   "7233133314598482636": {
+      "message": "Simbol"
+   },
+   "7237310906976510879": {
+      "message": "Napaka pri preverjanju pristnosti"
+   },
+   "7254769271789170667": {
+      "message": "Znak za preglasitev za jezike s pisavo od desne proti levi"
+   },
+   "7271563194657138998": {
+      "message": "Začnite z brezplačno epizodo iz Trgovine Play in jo takoj glejte z aplikacijo Filmi in TV Play za Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Pogodbe o nakupu ni bilo mogoče najti."
+   },
+   "7333054716894862082": {
+      "message": "Poravnaj"
+   },
+   "7352037235710614813": {
+      "message": "Režija"
+   },
+   "7379356741388986662": {
+      "message": "Trgovina"
+   },
+   "738294154320637123": {
+      "message": "pisava mitej majek"
+   },
+   "7403213530684675547": {
+      "message": "Filma ni mogoče odstraniti, ker je prenesen v drugo napravo. Najprej ga odstranite tam."
+   },
+   "7423355034259912329": {
+      "message": "Film je bil že ustavljen."
+   },
+   "742861914041471563": {
+      "message": "Poravnaj levo"
+   },
+   "7431208184373206966": {
+      "message": "Velika"
+   },
+   "7436129358876453178": {
+      "message": "2-potezni radikali v pisavi han"
+   },
+   "7443523425660741023": {
+      "message": "Filma ni mogoče odstraniti, ker je prenesen v drugo napravo. Najprej ga odstranite tam."
+   },
+   "7444530187008825696": {
+      "message": "Te povezave ni mogoče preskusiti."
+   },
+   "7445716324927695719": {
+      "message": "Videoposnetek $DOWNLOADED_TITLE$ je prenesen. Če ga želite odstraniti, kliknite.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Prekini povezavo"
+   },
+   "7499894239558451540": {
+      "message": "Da"
+   },
+   "7531884248412347499": {
+      "message": "V redu"
+   },
+   "7534921436388469168": {
+      "message": "Prišlo je do napake v strežniku. Poskusite znova pozneje."
+   },
+   "754389774434351130": {
+      "message": "Mongolski znak za ločevanje samoglasnikov"
+   },
+   "7545663607980395021": {
+      "message": "Seja predvajanja ni na voljo. Osvežite ali poskusite znova pozneje."
+   },
+   "7559531330043741601": {
+      "message": "Poravnaj na sredino"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (število)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Hangulsko polnilo čoseong"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Bodite previdni.$POSTB$ Kadar koli na spletno stran vnesete e-poštni naslov, ga lahko najdejo tudi nadležni pošiljatelji vsiljene pošte.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Premaknite miškin kazalec na posamezno celico, da se prikaže ime znaka."
+   },
+   "7628853095173216399": {
+      "message": "Če želite gledati naprej, se prijavite."
+   },
+   "7628997973779702278": {
+      "message": "Prenos videoposnetka $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Predvajanje napovednika"
+   },
+   "7644195558431380264": {
+      "message": "Dvignjeno"
+   },
+   "7656269245189992953": {
+      "message": "Brez"
+   },
+   "765644786799307419": {
+      "message": "Presledek velikosti četrtine pike"
+   },
+   "7661273651737426088": {
+      "message": "Nedeljivi vezaj"
+   },
+   "7671671293660378394": {
+      "message": "Nedeljivi presledek"
+   },
+   "7687757766363784951": {
+      "message": "Nedavni izbori:"
+   },
+   "7704099115712609154": {
+      "message": "Nastavitve"
+   },
+   "7707854987324577924": {
+      "message": "Navaden nedeljivi presledek"
+   },
+   "7721864005040197774": {
+      "message": "Predmeti"
+   },
+   "7735652872804202135": {
+      "message": "Predvajaj videoposnetke v jeziku moje naprave, ko je na voljo"
+   },
+   "7776630049782874310": {
+      "message": "V eni napravi lahko videoposnetke hkrati prenašajo največ trije računi. Če želite prenesti ta videoposnetek sem, odstranite vse prenose iz drugega računa."
+   },
+   "779039068486648656": {
+      "message": "Vaš brskalnik ne podpira grafikonov"
+   },
+   "7792182371277036944": {
+      "message": "Glejte"
+   },
+   "7807783089931705706": {
+      "message": "Prednastavitve"
+   },
+   "7825923098003586011": {
+      "message": "meriotski hieroglifi"
+   },
+   "7835136621565821438": {
+      "message": "inskripcijska partščina"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ min",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Ta film je že bil prenesen v napravo. Preverite druge račune v tej napravi."
+   },
+   "7872307517743373476": {
+      "message": "Neveljavna seja predvajanja. Osvežite ali poskusite znova pozneje."
+   },
+   "7873756658795212081": {
+      "message": "poteče čez toliko dni: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ v Trgovini Play",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "popoldne"
+   },
+   "7918520961628671120": {
+      "message": "Dostop do tega videoposnetka je prepovedan."
+   },
+   "791855806965154343": {
+      "message": "pisava batak"
+   },
+   "7926689704723702466": {
+      "message": "trilijon"
+   },
+   "7933902915184371880": {
+      "message": "karijska pisava"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Zaustavljeno. Še $EVAL_1$ s do konca.}one{Zaustavljeno. Še $EVAL_2$ s do konca.}two{Zaustavljeno. Še $EVAL_2$ s do konca.}few{Zaustavljeno. Še $EVAL_2$ s do konca.}other{Zaustavljeno. Še $EVAL_2$ s do konca.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Ameriške pisave"
+   },
+   "7943286917138037388": {
+      "message": "Pomišljaj"
+   },
+   "7952530065274028271": {
+      "message": "Oglejte si podrobnosti o oddaji $WN_SHOW_TITLE$, epizoda številka $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "poteče čez $EVAL_1$ h",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "tamilščina"
+   },
+   "7978764644554853286": {
+      "message": "Čez $NUM$ minuto",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "1-potezni radikali v pisavi han"
+   },
+   "7985246120023271230": {
+      "message": "Izposoja videoposnetka je potekla. Če ga želite gledati, ga morate znova kupiti ali si ga izposoditi."
+   },
+   "7991898653680244970": {
+      "message": "Dodatek Latin 1"
+   },
+   "7993302948330451962": {
+      "message": "mjanmarska pisava"
+   },
+   "7993967737532196015": {
+      "message": "Ocena: $VIEWER_RATING$ od 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Želite odstraniti preneseno epizodo?"
+   },
+   "8013309308261303688": {
+      "message": "Nakup filmov"
+   },
+   "8018308926864382762": {
+      "message": "Sirski znak za okrajšavo"
+   },
+   "802273028390736200": {
+      "message": "BREZ POVEZAVE"
+   },
+   "8023737429684265357": {
+      "message": "Znižano"
+   },
+   "8039844141475995654": {
+      "message": "Čez $NUM$ min",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "runska pisava"
+   },
+   "8042716985296303990": {
+      "message": "Oblika"
+   },
+   "8042730852758398655": {
+      "message": "Jezik zvoka"
+   },
+   "8062522779459151420": {
+      "message": "Odstrani oblikovanje"
+   },
+   "8077968665076288666": {
+      "message": "limbuška pisava"
+   },
+   "808696534598095161": {
+      "message": "ID"
+   },
+   "8101733308672950303": {
+      "message": "Napisi bodo videti tako:"
+   },
+   "8132424293432274889": {
+      "message": "Nazaj"
+   },
+   "8134822873948566976": {
+      "message": "Več epizod"
+   },
+   "8153387349716171448": {
+      "message": "Ta videoposnetek je bil prenesen v največje dovoljeno število naprav. Če ga želite predvajati tukaj, ga odstranite iz druge naprave."
+   },
+   "8161910726112545534": {
+      "message": "Majhen znak za minus"
+   },
+   "8167719451188045081": {
+      "message": "Znak za navadni presledek"
+   },
+   "8175552949837381315": {
+      "message": "Zapri"
+   },
+   "8176183622289427250": {
+      "message": "Poiščite odličen film v Trgovini Play ter se udobno namestite in uživajte z aplikacijo Filmi in TV Play za Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Glasbeni simbol za konec prečke"
+   },
+   "8182154803169715176": {
+      "message": "Valuta"
+   },
+   "8188276694329647401": {
+      "message": "milijoni"
+   },
+   "8203155312190167416": {
+      "message": "Brezplačne epizode"
+   },
+   "8204709243856731897": {
+      "message": "V računu ste dosegli omejitev števila deaktivacij naprav. Če menite, da je to napaka, se obrnite na službo za pomoč strankam."
+   },
+   "8209649773417809069": {
+      "message": "Enopresledna serif"
+   },
+   "8223592563721543961": {
+      "message": "Oznaka za jezike s pisavo od desne proti levi"
+   },
+   "8229110080399300640": {
+      "message": "lidijska pisava"
+   },
+   "825047260879284602": {
+      "message": "Vnesite barvo po meri npr. roza, #F00, #D015FF ali rgb(100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "osmanijščina"
+   },
+   "8303685272985764664": {
+      "message": "Celec"
+   },
+   "8316357291574004120": {
+      "message": "Naprava ne podpira predvajanja."
+   },
+   "8317092845662281711": {
+      "message": "Zvok"
+   },
+   "8317239070847268844": {
+      "message": "bilijoni"
+   },
+   "8356754494097778995": {
+      "message": "Vdelava za jezike s pisavo od desne proti levi"
+   },
+   "836493064290964717": {
+      "message": "7-potezni radikali v pisavi han"
+   },
+   "8367205574605681054": {
+      "message": "Stik z nami"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{Čez # ur}=1{Čez # uro}one{Čez # uro}two{Čez # uri}few{Čez # ure}other{Čez # ur}}"
+   },
+   "838631802941302770": {
+      "message": "gandarska pisava"
+   },
+   "8387836334671661814": {
+      "message": "Navadna"
+   },
+   "8406794425024838870": {
+      "message": "Predvajaj videoposnetke v izvirnem jeziku, ko je na voljo"
+   },
+   "8415457571769345476": {
+      "message": "pisava gurmuki"
+   },
+   "8432592301984570372": {
+      "message": "pisava kajti"
+   },
+   "8436385934277401930": {
+      "message": "Filmi"
+   },
+   "8439955599488894226": {
+      "message": "Pravilnik o zasebnosti"
+   },
+   "8440105734244130524": {
+      "message": "Ima podnapise"
+   },
+   "8440128775129354214": {
+      "message": "Zasebnost"
+   },
+   "8440161680481095392": {
+      "message": "pisava sora sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Znak za ločevanje medvrstičnih opomb"
+   },
+   "8468046265986853572": {
+      "message": "Majhen dolgi pomišljaj"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Med zaustavitvijo prikaži podatke o igralcih in skladbah"
+   },
+   "8480915536260760621": {
+      "message": "Znak za ločevanje vrstic"
+   },
+   "8483017128806448808": {
+      "message": "Han – drugo"
+   },
+   "8484953793514450798": {
+      "message": "Videoposnetka ni bilo mogoče prenesti"
+   },
+   "8496572760621552382": {
+      "message": "Slike kontrolnikov"
+   },
+   "8504288534013316809": {
+      "message": "Vedno uporabi to aplikacijo za predvajanje vsebine iz Filmov in TV Google Play v tej napravi."
+   },
+   "8533646618757813590": {
+      "message": "sundanščina"
+   },
+   "8540686664487399786": {
+      "message": "imperialna aramejščina"
+   },
+   "854429928571549912": {
+      "message": "kanareščina"
+   },
+   "8544418813868326219": {
+      "message": "Podnaslov"
+   },
+   "8561163275403408048": {
+      "message": "Izbira kakovosti HD ali SD"
+   },
+   "8562537001029340643": {
+      "message": "Kratki presledek"
+   },
+   "8562629041340204805": {
+      "message": "Označen seznam"
+   },
+   "8564202903947049539": {
+      "message": "Predvajaj"
+   },
+   "8595279472837556966": {
+      "message": "Videoposnetka ni mogoče najti."
+   },
+   "8598425882608097102": {
+      "message": "pisava sauraštra"
+   },
+   "8614813208619876018": {
+      "message": "Odpre to povezavo v novem oknu"
+   },
+   "8620014669054622585": {
+      "message": "Nadpisano"
+   },
+   "8654580154537063858": {
+      "message": "Pomišljaj/povezovalnik"
+   },
+   "8683517921317388539": {
+      "message": "Razširi tabelo informacijske kartice"
+   },
+   "8686061785869890050": {
+      "message": "Oznaka za jezike s pisavo od leve proti desni"
+   },
+   "8721105090660343056": {
+      "message": "samaritanščina"
+   },
+   "8751395052938425392": {
+      "message": "Drugo"
+   },
+   "8756624200843285720": {
+      "message": "Običajna/serif"
+   },
+   "875775686870257693": {
+      "message": "Kmerski inherentni samoglasnik Aa"
+   },
+   "8784627238941457153": {
+      "message": "Od desne proti levi"
+   },
+   "8785585428177743106": {
+      "message": "Arabski znak safa"
+   },
+   "8788046284717061808": {
+      "message": "Mongolski mehki vezaj"
+   },
+   "8815814381380608540": {
+      "message": "Ne"
+   },
+   "8834132438727381257": {
+      "message": "Vsebino v kakovosti HD je mogoče gledati v prenosniku, Chromecastu, napravi Roku in večini naprav Android. Kupljena vsebina v kakovosti HD bo v drugih napravah predvajana v kakovosti SD. $START_TAG_1$Več o tem$END_TAG_1$",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Na osnovi ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Spletni naslov"
+   },
+   "8894457765459513654": {
+      "message": "Povezava"
+   },
+   "8917983075453481180": {
+      "message": "Predstavitvena oblika za navpični kratki pomišljaj"
+   },
+   "8919720204772722134": {
+      "message": "Besedilo za prikaz:"
+   },
+   "8921884278179224689": {
+      "message": "Pogoji storitve Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Danes"
+   },
+   "892438729140054354": {
+      "message": "glagolica"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "malajalamščina"
+   },
+   "8945516772470397544": {
+      "message": "hebrejščina"
+   },
+   "8975694361063929758": {
+      "message": "Preklic prenosa ..."
+   },
+   "900213554674035877": {
+      "message": "Opozorilo: nepodprto okolje"
+   },
+   "9003255502339267646": {
+      "message": "stara turščina"
+   },
+   "9006212563579865934": {
+      "message": "Prišlo je do začasne napake v strežniku. Poskusite znova pozneje."
+   },
+   "9007600562969287199": {
+      "message": "Prekliči"
+   },
+   "9009756347438736077": {
+      "message": "Znaki »emoji«"
+   },
+   "9039190587572892203": {
+      "message": "Pogovorno okno za povratne informacije odprto."
+   },
+   "9058407001544582930": {
+      "message": "Braillova pisava"
+   },
+   "9082286440748444032": {
+      "message": "Poravnaj desno"
+   },
+   "9119571405974007627": {
+      "message": "Kliknite za preklop v celozaslonski način"
+   },
+   "9129936585862826417": {
+      "message": "Enačaj v katakani in hiragani"
+   },
+   "9133561684694194118": {
+      "message": "8-potezni radikali v pisavi han"
+   },
+   "9140663398525770181": {
+      "message": "Pred toliko dnevi: $NUM$",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "Št. epizod: $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "stara ležeča pisava"
+   },
+   "9157868620634436826": {
+      "message": "Pošiljanje anonimnih podatkov o uporabi iz aplikacije Filmi in TV Google Play v tej napravi Googlu"
+   },
+   "9169327677828809572": {
+      "message": "Podčrtano"
+   },
+   "9187708289836789739": {
+      "message": "Spol in rodoslovje"
+   },
+   "9191795572559844778": {
+      "message": "Latinica"
+   },
+   "9199894931939214644": {
+      "message": "Predvajanje je ustavljeno zaradi predvajanja prevelikega števila videoposnetkov v istem računu. Ustavite jih nekaj in poskusite znova."
+   },
+   "936850558951011636": {
+      "message": "Čez toliko dni: $NUM$",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "bilijon"
+   },
+   "964943437084290735": {
+      "message": "Presledek velikosti tretjine pike"
+   },
+   "968485661339291047": {
+      "message": "poteče čez 1 dan"
+   },
+   "969796838380220069": {
+      "message": "Ločila"
+   },
+   "992901664798536243": {
+      "message": "Šestnajstiški vnos"
+   },
+   "996885966963281379": {
+      "message": "Znak za preglasitev za jezike s pisavo od leve proti desni"
+   },
+   "998767118090785897": {
+      "message": "Čez $NUM$ uro",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,21 @@
+00:00:00.288688 VirtualBox GUI VM Selector Window 6.0.2 r128162 linux.amd64 (Jan 14 2019 16:22:23) release log
+00:00:00.288690 Log opened 2019-01-19T22:58:31.643611000Z
+00:00:00.288690 Build Type: release
+00:00:00.288694 OS Product: Linux
+00:00:00.288695 OS Release: 4.15.0-43-generic
+00:00:00.288695 OS Version: #46~16.04.1-Ubuntu SMP Fri Dec 7 13:31:08 UTC 2018
+00:00:00.288720 DMI Product Name: To Be Filled By O.E.M.
+00:00:00.288725 DMI Product Version: To Be Filled By O.E.M.
+00:00:00.288765 Host RAM: 16036MB (15.6GB) total, 13644MB (13.3GB) available
+00:00:00.288769 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.288769 Process ID: 26147
+00:00:00.288770 Package type: LINUX_64BITS_UBUNTU_16_04
+00:00:00.288794 Qt version: 5.6.1
+00:00:00.588952 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.407033 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:01.412323 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.420960 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:01.423048 refreshCertificates/#3: Found 1/147 SSL certs we/you trust (previously 0/0).
+00:00:01.424202 rtldrNativeLoad: dlopen('/usr/lib/libproxy.so.1', RTLD_NOW | RTLD_LOCAL) failed: /usr/lib/libproxy.so.1: cannot open shared object file: No such file or directory
+00:00:05.276249 GUI: UIInvisibleWindow::sltFallback: Move event haven't came. Screen: 0, work area: 0x0 x -2147483648x-2147483648
+00:00:05.276282 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x -2147483648x-2147483648

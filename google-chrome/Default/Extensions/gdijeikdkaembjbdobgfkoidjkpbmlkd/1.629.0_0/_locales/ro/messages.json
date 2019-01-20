@@ -1,0 +1,2737 @@
+{
+   "1007681062480545985": {
+      "message": "Închise/Cu puncte"
+   },
+   "1070809808108857931": {
+      "message": "acum $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1099315809462731403": {
+      "message": "Creați un link spre o pagină sau un fișier din altă locație de pe web"
+   },
+   "1102310712956565239": {
+      "message": "Licențe open source"
+   },
+   "1130652265542107236": {
+      "message": "Vârstă"
+   },
+   "1134649645976473070": {
+      "message": "Semn numeric arab"
+   },
+   "1142417372321533593": {
+      "message": "Radicali Han 11..17 linii"
+   },
+   "1147656502873524992": {
+      "message": "Bengalez"
+   },
+   "1163524414906063407": {
+      "message": "Tildă"
+   },
+   "1180214318241646187": {
+      "message": "Devanagari"
+   },
+   "1201655285096694629": {
+      "message": "Pentru a finaliza achiziția, adăugați o metodă de plată."
+   },
+   "1208097920246951223": {
+      "message": "Yi"
+   },
+   "12190752990595538": {
+      "message": "Uniformă"
+   },
+   "1237413374221837088": {
+      "message": "Redarea videoclipului s-a oprit pentru că a început pe alt dispozitiv. Redați din nou videoclipul după ce opriți redarea pe celălalt dispozitiv."
+   },
+   "123775052533814018": {
+      "message": "Georgian"
+   },
+   "1257931524938240638": {
+      "message": "Vizionați"
+   },
+   "1297025664516669951": {
+      "message": "mld."
+   },
+   "1305766628630415604": {
+      "message": "Meteo, peisaje și semne zodiacale"
+   },
+   "1310971928430788285": {
+      "message": "Semnul arab sanah"
+   },
+   "1347269818800657320": {
+      "message": "1 episod"
+   },
+   "1358234736811100710": {
+      "message": "Gujarati"
+   },
+   "1361445704105826758": {
+      "message": "Spațiu fir de păr"
+   },
+   "1364333963472303494": {
+      "message": "expiră în $EVAL_1$ (de) minute",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1367527666333126246": {
+      "message": "Tăiați cu o linie"
+   },
+   "1368767014310906187": {
+      "message": "Aflați mai multe"
+   },
+   "1386128393601544077": {
+      "message": "Se descarcă pentru vizionare offline..."
+   },
+   "1394022802077775553": {
+      "message": "Mică"
+   },
+   "1408430211331783844": {
+      "message": "Radicali Han din 10 linii"
+   },
+   "140933529008432611": {
+      "message": "Ecran complet"
+   },
+   "1410700625120387041": {
+      "message": "Pagină actualizată."
+   },
+   "1411272293021752124": {
+      "message": "Când dispozitivul este din nou online, activitatea din Filme Play va fi sincronizată. Apoi, puteți viziona acest episod pe alt dispozitiv."
+   },
+   "1423831546878707866": {
+      "message": "Chromecast"
+   },
+   "1427701695210072413": {
+      "message": "În ultimele 24 de ore s-au utilizat prea multe dispozitive/adrese IP. Utilizați unul dintre dispozitivele folosite anterior sau încercați din nou mai târziu."
+   },
+   "1430062769418326205": {
+      "message": "Takri"
+   },
+   "1440735285675788071": {
+      "message": "Animale, plante și alimente"
+   },
+   "1446182608983200385": {
+      "message": "Vizionați conținutul pe un ecran mare"
+   },
+   "1452953224047775588": {
+      "message": "A apărut o eroare de server. Încercați din nou mai târziu."
+   },
+   "1464429406563501593": {
+      "message": "Cumpărați cu $PRICE_BUY$",
+      "placeholders": {
+         "PRICE_BUY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1478769628610120171": {
+      "message": "Ugaritic"
+   },
+   "1511375217423134113": {
+      "message": "Spațiu îngust"
+   },
+   "1538935182784871964": {
+      "message": "Fără"
+   },
+   "1550882703360589242": {
+      "message": "Titlu"
+   },
+   "1569384361123250083": {
+      "message": "Spațiu de unire îngust"
+   },
+   "1569694034972476152": {
+      "message": "Adăugați un card de credit sau de debit"
+   },
+   "1574702217174092165": {
+      "message": "Lepcha"
+   },
+   "1577035400209415987": {
+      "message": "Sport, festivități și activități"
+   },
+   "1578936298060149953": {
+      "message": "Dispozitivul are prea multe filme descărcate. Eliminați unele filme. În cazul în care considerați că aceasta este o eroare, contactați serviciul de asistență pentru clienți."
+   },
+   "1585399878613556769": {
+      "message": "Mandaic"
+   },
+   "1622977981214364224": {
+      "message": "Valoare"
+   },
+   "1624496666386832541": {
+      "message": "Oameni și emoții"
+   },
+   "163585285607136383": {
+      "message": "Spațiu"
+   },
+   "1659260306743134961": {
+      "message": "Se redă pe $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "1665527014218438702": {
+      "message": "Avertisment privind închirierea"
+   },
+   "167137904963051280": {
+      "message": "Închideți"
+   },
+   "1672514695079052416": {
+      "message": "Din cauza activității neobișnuite din cont, acest videoclip nu este disponibil în prezent."
+   },
+   "1689687103490595695": {
+      "message": "Filme Play"
+   },
+   "1693658896006835421": {
+      "message": "Caracter de îmbinare grafeme"
+   },
+   "1695785777963864871": {
+      "message": "Accesați linkul: "
+   },
+   "1705348214738149530": {
+      "message": "expiră într-un minut"
+   },
+   "1719824778219074772": {
+      "message": "Khmer"
+   },
+   "1730622041976529093": {
+      "message": "O șesime din spațiul em"
+   },
+   "175470934010823676": {
+      "message": "Listă numerotată"
+   },
+   "17841002962364046": {
+      "message": "Repetați"
+   },
+   "1790234586531719509": {
+      "message": "Cumpărați"
+   },
+   "1792545992204167651": {
+      "message": "Radicali Han din 4 linii"
+   },
+   "179542577867490020": {
+      "message": "Adresă de e-mail nevalidă"
+   },
+   "180976998764453681": {
+      "message": "Descărcați în HD sau în SD"
+   },
+   "1814369088251817607": {
+      "message": "Fracții/Simboluri conexe"
+   },
+   "1828658977714723982": {
+      "message": "Piese de joc"
+   },
+   "1830872643153553266": {
+      "message": "Vedeți detalii despre $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1845798683873890887": {
+      "message": "Singhalez"
+   },
+   "1846295350891951774": {
+      "message": "Găsiți emisiunile TV preferate în Magazin Play, apoi relaxați-vă și vizionați-le cu aplicația Filme Play pentru Chrome."
+   },
+   "1855549404303496723": {
+      "message": "expiră într-o oră"
+   },
+   "1877803725479774313": {
+      "message": "Redarea nu este acceptată pe acest dispozitiv."
+   },
+   "1890638601494854916": {
+      "message": "Miliard"
+   },
+   "1901872524864997402": {
+      "message": "Ieșiți"
+   },
+   "1905843731663924055": {
+      "message": "peste $NUM$ (de) ore",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "190878262959450521": {
+      "message": "Contractul de achiziție nu a fost găsit."
+   },
+   "1935128618068091278": {
+      "message": "Etiopian"
+   },
+   "1938219414696116874": {
+      "message": "Momentan, nu puteți trage și plasa fișiere cu imagini.\nTrageți o imagine din browserul web."
+   },
+   "1954151364415665795": {
+      "message": "Hangul"
+   },
+   "1977431342799515224": {
+      "message": "Redarea videoclipului s-a oprit pentru că a început pe alt dispozitiv. Redați din nou videoclipul după ce opriți redarea pe celălalt dispozitiv."
+   },
+   "2029980907058777630": {
+      "message": "Termeni și condiții"
+   },
+   "2044442466969080056": {
+      "message": "Zecimale"
+   },
+   "2047343614481498061": {
+      "message": "Adăugați o culoare"
+   },
+   "2072847589626610105": {
+      "message": "Închiriați"
+   },
+   "2092212617914314411": {
+      "message": "Momentan sunteți offline. Reconectați-vă pentru a transmite în flux filmele și emisiunile TV preferate."
+   },
+   "2101164867731291209": {
+      "message": "Kayah Li"
+   },
+   "2113719628962111778": {
+      "message": "Semnul arab notă de subsol"
+   },
+   "2114961653707808791": {
+      "message": "Lipsește o componentă necesară. Accesați chrome://components în altă filă a browserului, dați clic pe butonul „Căutați actualizări” pentru componenta WidevineCdm și reporniți browserul după ce vedeți starea „Componentă actualizată”."
+   },
+   "2118949532496601536": {
+      "message": "Obișnuit"
+   },
+   "2123474539731286604": {
+      "message": "Actualizați"
+   },
+   "2124380732103580135": {
+      "message": "Filmul a fost deja oprit."
+   },
+   "2131073272476560470": {
+      "message": "Închirierea acestui videoclip a expirat. Pentru a-l viziona, cumpărați-l sau închiriați-l din nou."
+   },
+   "2149182740887046022": {
+      "message": "Selector de variație: $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2175271168009635624": {
+      "message": "Momentan, sunt probleme la redarea acestui videoclip. Încercați din nou mai târziu."
+   },
+   "2194774716002570022": {
+      "message": "Demarcație adnotare interlineară"
+   },
+   "2206769964843652278": {
+      "message": "Gotic"
+   },
+   "22109057671064768": {
+      "message": "Se redă pe $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2212884907628125113": {
+      "message": "Fonetice (IPA)"
+   },
+   "2236004628274107601": {
+      "message": "Liniuță em"
+   },
+   "2245743941655687682": {
+      "message": "."
+   },
+   "2247792997610980110": {
+      "message": "Redați $EXTRA_TITLE$.",
+      "placeholders": {
+         "EXTRA_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2282123655793122843": {
+      "message": "Dimensiune"
+   },
+   "2285569294581055781": {
+      "message": "Spațiu de punctuație"
+   },
+   "230507365422499768": {
+      "message": "Ol Chiki"
+   },
+   "2325815383560299041": {
+      "message": "Emisiuni TV"
+   },
+   "2358744432156444454": {
+      "message": "Telugu"
+   },
+   "2370311583523472863": {
+      "message": "tril."
+   },
+   "2378154636827917381": {
+      "message": "Selectați o metodă de plată"
+   },
+   "2398583048519934048": {
+      "message": "A apărut o eroare. Încercați din nou."
+   },
+   "2404545964673636424": {
+      "message": "Închise"
+   },
+   "2416235035434522626": {
+      "message": "Pentru acest videoclip cumpărat s-a acordat o rambursare. Pentru a-l viziona, cumpărați-l sau închiriați-l din nou."
+   },
+   "2458370016363828146": {
+      "message": "Creați un link spre o adresă de e-mail"
+   },
+   "2469139219925930348": {
+      "message": "Meteorologice și astrologice"
+   },
+   "2484918978489875840": {
+      "message": "Arab"
+   },
+   "2500940977211244160": {
+      "message": "Cu Chromecast puteți să vedeți filmele și emisiunile TV preferate pe un ecran mare."
+   },
+   "2510334389873855577": {
+      "message": "Alfabete din Asia de Sud"
+   },
+   "2524488082161774200": {
+      "message": "Tibetan"
+   },
+   "2556195906496703534": {
+      "message": "Cratimă"
+   },
+   "2567552453606568838": {
+      "message": "acum $NUM$ oră",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2591639390981845108": {
+      "message": "Indice"
+   },
+   "2596943043266694861": {
+      "message": "Acest videoclip nu poate fi găsit."
+   },
+   "2602773901491715295": {
+      "message": "Subtitrări"
+   },
+   "2609303773462214063": {
+      "message": "Filmul nu poate fi descărcat, deoarece deținătorul drepturilor de autor nu permite vizionarea offline."
+   },
+   "2617084065793155411": {
+      "message": "Interlinie en"
+   },
+   "2623430506770319716": {
+      "message": "Pentru contul dvs. au existat prea multe resetări din serviciul de asistență pentru clienți în acest an."
+   },
+   "2624723575430661735": {
+      "message": "Versiunea $VERSION_NUMBER$",
+      "placeholders": {
+         "VERSION_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "2626389647931868247": {
+      "message": "În prezent, perioada de închiriere pentru $MOVIE_TITLE$ $LONG_EXPIRATION_MESSAGE$. După ce începeți redarea, perioada $SHORT_EXPIRATION_MESSAGE$.",
+      "placeholders": {
+         "LONG_EXPIRATION_MESSAGE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         },
+         "SHORT_EXPIRATION_MESSAGE": {
+            "content": "$3"
+         }
+      }
+   },
+   "2631540507626913857": {
+      "message": "Obțineți ajutor"
+   },
+   "2634032400851497621": {
+      "message": "Foarte mare"
+   },
+   "2636578811345390596": {
+      "message": "Un grafic."
+   },
+   "265418312065535093": {
+      "message": "Monospaced sans serif"
+   },
+   "2669412054237461578": {
+      "message": "Cumpărați $ASSET_PURCHASE_TITLE$.",
+      "placeholders": {
+         "ASSET_PURCHASE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2671127725720468510": {
+      "message": "Spațiu ideografic"
+   },
+   "267152712329867450": {
+      "message": "Istorice"
+   },
+   "2676989239174849130": {
+      "message": "Achizițiile pot fi descărcate pe cel mult cinci dispozitive simultan. Pentru a descărca acest videoclip aici, eliminați toate descărcările de pe alt dispozitiv."
+   },
+   "2694197056256485674": {
+      "message": "a.m."
+   },
+   "2696605111162327790": {
+      "message": "Simbol muzical început legătură de expresie"
+   },
+   "2712035565506653929": {
+      "message": "Katakana"
+   },
+   "2715131881733149730": {
+      "message": "Despre Filme Google Play"
+   },
+   "2725131744113020753": {
+      "message": "Sesiunea de proiecție a expirat. Deconectați-vă și încercați din nou."
+   },
+   "2726210069762481377": {
+      "message": "Volum: $VOLUME_LEVEL$%",
+      "placeholders": {
+         "VOLUME_LEVEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2729184261638747391": {
+      "message": "Încă se încarcă..."
+   },
+   "2746290516298138427": {
+      "message": "$EVAL_10$, când este disponibilă",
+      "placeholders": {
+         "EVAL_10": {
+            "content": "$1"
+         }
+      }
+   },
+   "2761131313792792561": {
+      "message": "Ieri"
+   },
+   "2778320704487179651": {
+      "message": "Arab sudic vechi"
+   },
+   "2811578318938008571": {
+      "message": "Cratimă cu diereză"
+   },
+   "2823408948793387406": {
+      "message": "Text galben pe fundal negru"
+   },
+   "2843666691789766965": {
+      "message": "Simboluri"
+   },
+   "285220876417404298": {
+      "message": "Schimbați"
+   },
+   "2866884137027183397": {
+      "message": "Licențe open source"
+   },
+   "287293401853426183": {
+      "message": "Spațiu em"
+   },
+   "2873226479878121265": {
+      "message": "S-a născut în"
+   },
+   "2873450949697555837": {
+      "message": "Obțineți episoade TV"
+   },
+   "2874298691560753701": {
+      "message": "Cvadrilioane"
+   },
+   "2874903004453257636": {
+      "message": "Tai Le"
+   },
+   "2905217299030199575": {
+      "message": "{NUM,plural, =0{acum # minute}=1{acum # minut}few{acum # minute}other{acum # de minute}}"
+   },
+   "2922119724129505813": {
+      "message": "$EVAL_1$ $START_TAG_2$Vedeți detaliile$END_TAG_2$ $START_TAG_3$ $START_TAG_4$ $START_TAG_5$Componentă$END_TAG_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $START_TAG_8$Cod de eroare$END_TAG_8$ $EVAL_9$ $END_TAG_7$ $START_TAG_10$ $START_TAG_11$Mesaj$END_TAG_11$ $EVAL_12$ $END_TAG_10$ $START_TAG_13$ $START_TAG_14$Atribute$END_TAG_14$ $EVAL_15$ $END_TAG_13$ $END_TAG_3$",
+      "placeholders": {
+         "END_TAG_10": {
+            "content": "$1"
+         },
+         "END_TAG_11": {
+            "content": "$2"
+         },
+         "END_TAG_13": {
+            "content": "$3"
+         },
+         "END_TAG_14": {
+            "content": "$4"
+         },
+         "END_TAG_2": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_5": {
+            "content": "$8"
+         },
+         "END_TAG_7": {
+            "content": "$9"
+         },
+         "END_TAG_8": {
+            "content": "$10"
+         },
+         "EVAL_1": {
+            "content": "$11"
+         },
+         "EVAL_12": {
+            "content": "$12"
+         },
+         "EVAL_15": {
+            "content": "$13"
+         },
+         "EVAL_6": {
+            "content": "$14"
+         },
+         "EVAL_9": {
+            "content": "$15"
+         },
+         "START_TAG_10": {
+            "content": "$16"
+         },
+         "START_TAG_11": {
+            "content": "$17"
+         },
+         "START_TAG_13": {
+            "content": "$18"
+         },
+         "START_TAG_14": {
+            "content": "$19"
+         },
+         "START_TAG_2": {
+            "content": "$20"
+         },
+         "START_TAG_3": {
+            "content": "$21"
+         },
+         "START_TAG_4": {
+            "content": "$22"
+         },
+         "START_TAG_5": {
+            "content": "$23"
+         },
+         "START_TAG_7": {
+            "content": "$24"
+         },
+         "START_TAG_8": {
+            "content": "$25"
+         }
+      }
+   },
+   "2941246385235235669": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "2957696792170552912": {
+      "message": "Spațiere"
+   },
+   "2972646465175951960": {
+      "message": "Culoare hexazecimală"
+   },
+   "2976070904514926378": {
+      "message": "Când dispozitivul este din nou online, activitatea din Filme Play va fi sincronizată. Apoi, puteți viziona acest film pe alt dispozitiv."
+   },
+   "299212393546620995": {
+      "message": "Disponibile doar cu achiziționări SD sau HD"
+   },
+   "3001599311394934937": {
+      "message": "Culoare"
+   },
+   "3024031615064271409": {
+      "message": "Semnul înmulțirii invizibil"
+   },
+   "3051680812108612733": {
+      "message": "$BUY_HD_PRICE$ în HD",
+      "placeholders": {
+         "BUY_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3070637752189727635": {
+      "message": "Forme geometrice"
+   },
+   "3076131322444154485": {
+      "message": "Muzicale"
+   },
+   "3082451864182626107": {
+      "message": "Mică"
+   },
+   "3082728000817887688": {
+      "message": "Conectați-vă la dispozitiv"
+   },
+   "3090277567861361522": {
+      "message": "Simbol muzical final legătură de valoare"
+   },
+   "3090955389577626836": {
+      "message": "Formă de prezentare pentru liniuța em verticală"
+   },
+   "3139446734703149686": {
+      "message": "Diverse"
+   },
+   "3145479901031711697": {
+      "message": "Verificator ortografic"
+   },
+   "3148783583230295736": {
+      "message": "Tagbanwa"
+   },
+   "3149652533781441921": {
+      "message": "Mesajul DRM specific sistemului nu este valid."
+   },
+   "3151300615969236340": {
+      "message": "Imagine de copertă din $WN_SHOW_TITLE$, episodul numărul $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3170938546976431982": {
+      "message": "Descriere ideografică"
+   },
+   "3186351164431854905": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} zi}few{{TEXT} zile}other{{TEXT} de zile}}"
+   },
+   "3194384156250789686": {
+      "message": "Alfabete din Africa"
+   },
+   "3201110180818098584": {
+      "message": "Cham"
+   },
+   "3207692705529645309": {
+      "message": "Separator invizibil"
+   },
+   "321244849474197695": {
+      "message": "Mâine"
+   },
+   "3229124980345092092": {
+      "message": "Spațiu cu lățime zero"
+   },
+   "322985691330688230": {
+      "message": "Nu au existat rezultate pentru căutarea dvs."
+   },
+   "3230391931526221675": {
+      "message": "Format"
+   },
+   "3232820577716196711": {
+      "message": "Inserați imaginea"
+   },
+   "3243505317143754724": {
+      "message": "Personalizat"
+   },
+   "3243750297590914955": {
+      "message": "Aq vocală implicită khmeră"
+   },
+   "3247076985979796797": {
+      "message": "Grec"
+   },
+   "3251309750789560433": {
+      "message": "Cratimă armeană"
+   },
+   "3254567788720420543": {
+      "message": ","
+   },
+   "3256010424127814333": {
+      "message": "Simbol muzical început legătură de valoare"
+   },
+   "3256903505595292698": {
+      "message": "Reduceți indentarea"
+   },
+   "3265250603400790440": {
+      "message": "Începeți"
+   },
+   "3281239119456770372": {
+      "message": "Chirilic"
+   },
+   "3289148576120895160": {
+      "message": "Majuscule reduse"
+   },
+   "3294214489713824609": {
+      "message": "Radicali Han din 5 linii"
+   },
+   "3305364023017970715": {
+      "message": "$MESSAGE$ (cod de eroare: $ERROR_CODE$)",
+      "placeholders": {
+         "ERROR_CODE": {
+            "content": "$1"
+         },
+         "MESSAGE": {
+            "content": "$2"
+         }
+      }
+   },
+   "3311284710630481365": {
+      "message": "Culoarea textului"
+   },
+   "332000134635733746": {
+      "message": "Închidere"
+   },
+   "332946373608175794": {
+      "message": "$RUNTIME_MINUTES$ (de) minute",
+      "placeholders": {
+         "RUNTIME_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "3335396984793778576": {
+      "message": "Cipriot"
+   },
+   "3336445884996834318": {
+      "message": "Nu se poate descărca licența videoclipului. Încercați din nou mai târziu."
+   },
+   "3347761840855731301": {
+      "message": "Sesiunea de proiecție nu este disponibilă. Actualizați sau încercați din nou mai târziu."
+   },
+   "3351553150964917854": {
+      "message": "Selector de variație"
+   },
+   "3355166016320182029": {
+      "message": "Licența videoclipului nu a putut fi preluată. Încercați din nou mai târziu."
+   },
+   "3391942411715503600": {
+      "message": "$RENT_HD_PRICE$ în HD",
+      "placeholders": {
+         "RENT_HD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "339571161389801151": {
+      "message": "Ancoră de adnotare interlineară"
+   },
+   "3415775657739029002": {
+      "message": "Spațiu cu lățime de un caracter"
+   },
+   "3427321493644124084": {
+      "message": "Stele/asteriscuri"
+   },
+   "3447346868280917431": {
+      "message": "SD"
+   },
+   "3458030628952030316": {
+      "message": "Căutați „$ACTOR_NAME$”",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3466624330570155011": {
+      "message": "Matematice"
+   },
+   "3496221549802542517": {
+      "message": "Foarte mică"
+   },
+   "3499317959717425890": {
+      "message": "Anulați"
+   },
+   "3500807335769892741": {
+      "message": "Caracter de îmbinare cuvinte"
+   },
+   "3508852687023675805": {
+      "message": "acum $NUM$ (de) minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3538605332926463974": {
+      "message": "Normală"
+   },
+   "3540495086170177505": {
+      "message": "Cumpărați emisiuni TV"
+   },
+   "3546034467178790154": {
+      "message": "Indice"
+   },
+   "355565230200681214": {
+      "message": "Cratimă minus cu lățime întreagă"
+   },
+   "3560179919548880444": {
+      "message": "Culoarea de fundal"
+   },
+   "3593213843486034190": {
+      "message": "Format"
+   },
+   "3596415344748536540": {
+      "message": "Bamum"
+   },
+   "3599005616661192177": {
+      "message": "Dezactivați"
+   },
+   "3600868534694594413": {
+      "message": "Imagine"
+   },
+   "3614370613824040896": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l reda sau a-l descărca aici, eliminați-l de pe alt dispozitiv."
+   },
+   "3614813368690293135": {
+      "message": "Semn de punctuație ebraic maqaf"
+   },
+   "3620501040875186062": {
+      "message": "Încorporare stânga-spre-dreapta"
+   },
+   "3650983100916004596": {
+      "message": "Miliarde"
+   },
+   "3652059248591982819": {
+      "message": "Radicali Han din 3 linii"
+   },
+   "3652469401274752477": {
+      "message": "Creșteți indentarea"
+   },
+   "3653098733292921132": {
+      "message": "cvadr."
+   },
+   "3679766418982563491": {
+      "message": "$RENT_SD_PRICE$ în SD",
+      "placeholders": {
+         "RENT_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3703577195368655870": {
+      "message": "A apărut o eroare la activarea închirierii. Actualizați sau încercați din nou mai târziu."
+   },
+   "3709540316929878378": {
+      "message": "Produs de"
+   },
+   "3721275173574409786": {
+      "message": "Comandate anticipat"
+   },
+   "3722812838665571404": {
+      "message": "Achiziționate"
+   },
+   "3728552702457015750": {
+      "message": "Achizițiile pot fi descărcate pe cel mult cinci dispozitive simultan. Pentru a descărca acest videoclip aici, eliminați toate descărcările de pe alt dispozitiv."
+   },
+   "3752083240065277436": {
+      "message": "Oriya"
+   },
+   "3808754582975714579": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l reda aici, eliminați-l de pe alt dispozitiv."
+   },
+   "3815693850657578096": {
+      "message": "Sharada"
+   },
+   "3826397878188995605": {
+      "message": "Puteți viziona acest film aici sau pe telefoanele și tabletele acceptate."
+   },
+   "3831022207582977943": {
+      "message": "Simbol muzical final de expresie"
+   },
+   "3846565521051999754": {
+      "message": "Dispozitivul are prea multe filme descărcate. Eliminați unele filme. Dacă credeți că aceasta este o eroare, contactați serviciul de asistență pentru clienți."
+   },
+   "3878153116309225131": {
+      "message": "Ce adresă URL trebuie să acceseze acest link?"
+   },
+   "3878202445977233728": {
+      "message": "Prefer conținutul audio de calitate înaltă pentru descărcarea filmelor sau a episoadelor pentru vizionare offline"
+   },
+   "3890590273177043325": {
+      "message": "Adăugați atributul „$REL_NO_FOLLOW$” ($LINK_START$Aflați mai multe$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "3941901560337236438": {
+      "message": "$BASE_PATTERN$ $ORDER_OF_MAGNITUDE_STRING$",
+      "placeholders": {
+         "BASE_PATTERN": {
+            "content": "$1"
+         },
+         "ORDER_OF_MAGNITUDE_STRING": {
+            "content": "$2"
+         }
+      }
+   },
+   "3942681591838961351": {
+      "message": "Lisu"
+   },
+   "3944070772895230647": {
+      "message": "Javanez"
+   },
+   "397098723873502323": {
+      "message": "Terminat"
+   },
+   "3990377875754602116": {
+      "message": "Radicali Han din 6 linii"
+   },
+   "3992132733680288700": {
+      "message": "Tai Tham"
+   },
+   "4001637111049313831": {
+      "message": "Are sunet 5.1"
+   },
+   "4002348975328837413": {
+      "message": "Redați"
+   },
+   "4005427126456357141": {
+      "message": "acum $NUM$ zi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4007281138612331353": {
+      "message": "Închiriați cu $PRICE_RENT$",
+      "placeholders": {
+         "PRICE_RENT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4008375743479729579": {
+      "message": "Cursiv"
+   },
+   "4023151405827971137": {
+      "message": "Nu există suficient spațiu pe computer pentru a descărca acest videoclip. Eliberați spațiu și încercați din nou."
+   },
+   "4024812820054201230": {
+      "message": "Fonetice (X-IPA)"
+   },
+   "4030079690633228611": {
+      "message": "Distribuție"
+   },
+   "4050502316465597694": {
+      "message": "Syloti Nagri"
+   },
+   "406627050327127223": {
+      "message": "Setările de descărcare"
+   },
+   "4068597226649219969": {
+      "message": "Videoclipul din sesiunea de proiecție nu se potrivește cu cel solicitat."
+   },
+   "409370207508422421": {
+      "message": "Emisiunile mele TV"
+   },
+   "4115063437096532185": {
+      "message": "Taste CJK"
+   },
+   "4146453603518633252": {
+      "message": "Filmele pe care le închiriați sau le achiziționați din Magazin Play vor apărea aici."
+   },
+   "4147180678866875282": {
+      "message": "Sezonul $SEASON_NUMBER$",
+      "placeholders": {
+         "SEASON_NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "4159708913136196199": {
+      "message": "Hieroglife egiptene"
+   },
+   "4165304946050965012": {
+      "message": "Include o taxă de $PURCHASE_TAX$",
+      "placeholders": {
+         "PURCHASE_TAX": {
+            "content": "$1"
+         }
+      }
+   },
+   "4166101448667570388": {
+      "message": "Text galben pe fundal albastru"
+   },
+   "4171449911657770848": {
+      "message": "New Tai Lue"
+   },
+   "4181834061497947522": {
+      "message": "EROARE: „$COLOR$” nu este o culoare validă.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "4235048773939818674": {
+      "message": "Întrerupeți"
+   },
+   "4236862956906523017": {
+      "message": "Hiragana"
+   },
+   "4236953086071206288": {
+      "message": "mil."
+   },
+   "4241565389203750613": {
+      "message": "Modificator"
+   },
+   "4242947662880926847": {
+      "message": "Miao"
+   },
+   "4258500568871377211": {
+      "message": "Am înțeles"
+   },
+   "4289161867449641226": {
+      "message": "Eliminați filmul descărcat?"
+   },
+   "4326728310335009890": {
+      "message": "Tai Viet"
+   },
+   "4327117004280518691": {
+      "message": "Alfabetul lui G. B. Shaw"
+   },
+   "4327135909829829353": {
+      "message": "Armean"
+   },
+   "4327389288032644198": {
+      "message": "Chakma"
+   },
+   "4330118138352331494": {
+      "message": "Simbol muzical început de ligatură"
+   },
+   "4365544241082610712": {
+      "message": "Limba inițială a videoclipului"
+   },
+   "4389982170398859731": {
+      "message": "Frecvente"
+   },
+   "4414892686324469274": {
+      "message": "Înregistrare audio"
+   },
+   "4430021444843507791": {
+      "message": "Semnul aplicării funcției"
+   },
+   "4464935242536677493": {
+      "message": "Ce cântec este?"
+   },
+   "447254005463967829": {
+      "message": "Împerecheate"
+   },
+   "4489533087577236543": {
+      "message": "Apariții recente"
+   },
+   "4514660026683236020": {
+      "message": "{NUM,plural, =0{acum # ore}=1{acum # oră}few{acum # ore}other{acum # de ore}}"
+   },
+   "4516988402150653150": {
+      "message": "Lipsește o componentă necesară. Accesați chrome://components în altă filă a browserului, dați clic pe butonul „Căutați actualizări” pentru componenta WidevineCdm și reporniți browserul după ce vedeți starea „Componentă actualizată”."
+   },
+   "4524440614927500782": {
+      "message": "Proportional sans serif"
+   },
+   "4530344539930689918": {
+      "message": "Marcaj spațiu ogham"
+   },
+   "4539242619498877242": {
+      "message": "..."
+   },
+   "4580988005648117665": {
+      "message": "Căutați"
+   },
+   "4589364188628352896": {
+      "message": "$NUM_COLS$ pe $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4604170007808946939": {
+      "message": "Închiriați"
+   },
+   "4619562008741607048": {
+      "message": "{NUM,plural, =0{peste # minute}=1{peste # minut}few{peste # minute}other{peste # de minute}}"
+   },
+   "463873241822657784": {
+      "message": "Liniuță vălurită"
+   },
+   "464267706146568699": {
+      "message": "Laoțian"
+   },
+   "4654657327320140306": {
+      "message": "Exponent"
+   },
+   "4658723167166809016": {
+      "message": "Spațiu matematic mediu"
+   },
+   "4661634374225039228": {
+      "message": "Separator paragrafe"
+   },
+   "467915794683941071": {
+      "message": "Redați episodul numărul $EPISODE_NUMBER$, $EPISODE_TITLE$.",
+      "placeholders": {
+         "EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "EPISODE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4700058524437547599": {
+      "message": "Mongol"
+   },
+   "4706026709879976308": {
+      "message": "{NUM,plural, =0{acum # zile}=1{acum # zi}few{acum # zile}other{acum # de zile}}"
+   },
+   "4712209269320332893": {
+      "message": "Elemente suplimentare"
+   },
+   "4716710616284048819": {
+      "message": "O reprezentare tabelară a datelor din grafic."
+   },
+   "4721019717473739861": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minut}few{{TEXT} minute}other{{TEXT} de minute}}"
+   },
+   "4725762888646270913": {
+      "message": "Redați $WN_SHOW_TITLE$, episodul numărul $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4741086871671268934": {
+      "message": "Cratimă oblică dublă"
+   },
+   "4762347778259393153": {
+      "message": "Mai puțin frecvente"
+   },
+   "4800386880747162133": {
+      "message": "A apărut o eroare temporară de server. Încercați din nou mai târziu."
+   },
+   "4822858567120963779": {
+      "message": "Rezultatele căutării pentru „$SEARCH_QUERY$”",
+      "placeholders": {
+         "SEARCH_QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "4823517742155909411": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l reda sau a-l descărca aici, eliminați-l de pe alt dispozitiv."
+   },
+   "48271036515889672": {
+      "message": "Sesiunea de proiecție nu este validă. Actualizați sau încercați din nou mai târziu."
+   },
+   "4831214862800127209": {
+      "message": "Videoclipul din sesiunea de proiecție nu se potrivește cu cel solicitat."
+   },
+   "4841536888003292202": {
+      "message": "$DURATION_MINUTES$ (de) min.",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         }
+      }
+   },
+   "4854642479396941579": {
+      "message": "Ogam"
+   },
+   "4871903967361312376": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "4875958436183735304": {
+      "message": "Umbră pe dreapta"
+   },
+   "4906346168276586100": {
+      "message": "Mesajul DRM specific sistemului nu este valid."
+   },
+   "491995769371858733": {
+      "message": "Fără"
+   },
+   "4920312719509022176": {
+      "message": "Font"
+   },
+   "4930506384627295710": {
+      "message": "Setări"
+   },
+   "4933409796062109057": {
+      "message": "$DOWNLOAD_PROGRESS$% descărcat. Dați clic pentru a anula.",
+      "placeholders": {
+         "DOWNLOAD_PROGRESS": {
+            "content": "$1"
+         }
+      }
+   },
+   "4939527775629889066": {
+      "message": "Element de completare hangul"
+   },
+   "4950037820737346052": {
+      "message": "Element de completare hangul cu jumătate de lățime"
+   },
+   "4968001688305770755": {
+      "message": "Dând clic pe „$OFFER_TYPE$”, acceptați",
+      "placeholders": {
+         "OFFER_TYPE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4969470149107184130": {
+      "message": "Creați un link spre:"
+   },
+   "500501967044040199": {
+      "message": "Articole"
+   },
+   "5011669227045570891": {
+      "message": "Bară orizontală"
+   },
+   "502291553170097807": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "502765052498154756": {
+      "message": "Pe fiecare dispozitiv pot exista simultan maximum trei conturi cu videoclipuri descărcate. Pentru a descărca videoclipul aici, eliminați toate descărcările din alt cont."
+   },
+   "5048838621444724614": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l descărca aici, eliminați-l de pe alt dispozitiv."
+   },
+   "5056334923803362149": {
+      "message": "Accesul la acest videoclip este interzis."
+   },
+   "5057747709360994470": {
+      "message": "Milion"
+   },
+   "5072722173570082853": {
+      "message": "OK"
+   },
+   "5079268465360103993": {
+      "message": "Element de completare jungseong hangul"
+   },
+   "5089553823126293996": {
+      "message": "Anulați"
+   },
+   "5135948647887912891": {
+      "message": "Materialul $ASSET_TITLE$ a fost adăugat în biblioteca dvs.",
+      "placeholders": {
+         "ASSET_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "513646583262960652": {
+      "message": "Caracter de îmbinare cu lățime zero"
+   },
+   "5145175165902220114": {
+      "message": "Cratima silabică canadiană"
+   },
+   "5161805074897471162": {
+      "message": "Aplicația Filme Google Play pentru Chrome nu este acceptată pe Windows XP sau pe versiuni anterioare. Încercați din nou folosind Windows Vista sau versiuni ulterioare, Mac, Linux sau sistemul de operare Chrome."
+   },
+   "516881150339066546": {
+      "message": "Tifinagh"
+   },
+   "5176392387315400391": {
+      "message": "Nu există date"
+   },
+   "5179659870501454485": {
+      "message": "Adăugați o metodă de plată"
+   },
+   "5184276027321226501": {
+      "message": "Adresă de e-mail"
+   },
+   "5194883651451379462": {
+      "message": "Cumpărați"
+   },
+   "5199955430339689118": {
+      "message": "Y"
+   },
+   "5206022637965774357": {
+      "message": "Feedback privind Filme Play"
+   },
+   "5209758796360312502": {
+      "message": "Cuneiform"
+   },
+   "5216466426869773105": {
+      "message": "Pahlavi inscripțional"
+   },
+   "522508588411648848": {
+      "message": "Vedeți $STORE_LINK_TITLE$ în Magazin Play.",
+      "placeholders": {
+         "STORE_LINK_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5225851424402892632": {
+      "message": "Simbol muzical început de expresie"
+   },
+   "524096672349210886": {
+      "message": "Transport și hartă"
+   },
+   "5241676005655672226": {
+      "message": "Radicali Han din 9 linii"
+   },
+   "5241820237010230531": {
+      "message": "Vai"
+   },
+   "5252668631265690404": {
+      "message": "Altele"
+   },
+   "52534048856251312": {
+      "message": "Trimiteți feedback"
+   },
+   "5255871588113212604": {
+      "message": "Nicio sugestie"
+   },
+   "5261311595095150702": {
+      "message": "Simbol muzical final legătură de expresie"
+   },
+   "5261596970471311774": {
+      "message": "Mare"
+   },
+   "5281671802836592116": {
+      "message": "Proportional serif"
+   },
+   "5293326322671103002": {
+      "message": "Se încarcă pe $EVAL_1$",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "5317942510548065733": {
+      "message": "Vizionat: $CURRENT_TIME$ din $DURATION$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         },
+         "DURATION": {
+            "content": "$2"
+         }
+      }
+   },
+   "5423843004634149426": {
+      "message": "Hanunoo"
+   },
+   "5438255274292242922": {
+      "message": "Tehnice"
+   },
+   "5439710597412767794": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l descărca aici, eliminați-l de pe alt dispozitiv."
+   },
+   "545021630455133011": {
+      "message": "Coptic"
+   },
+   "5461901018141989680": {
+      "message": "Final de verset arab"
+   },
+   "5484073037133610477": {
+      "message": "Buginez"
+   },
+   "5490715514416345531": {
+      "message": "Text alb pe fundal negru"
+   },
+   "54946385235790268": {
+      "message": "Filmul nu poate fi eliminat din cauza unei erori de sistem. Contactați serviciul de asistență pentru clienți sau trimiteți feedback din meniul de setări."
+   },
+   "5496646217073800560": {
+      "message": "Numere"
+   },
+   "5505627655067167147": {
+      "message": "La ce adresă de e-mail trebuie să trimită acest link?"
+   },
+   "5515365680802763380": {
+      "message": "Redarea s-a oprit, deoarece acest videoclip a fost redat pe prea multe dispozitive. Așteptați 24 de ore înainte de a reda din nou acest videoclip."
+   },
+   "5527963094685167949": {
+      "message": "Momentan, sunt probleme la redarea acestui videoclip. Încercați să actualizați pagina."
+   },
+   "5548738790581121863": {
+      "message": "Contul a atins limitele contractuale pentru rata de dezactivare a dispozitivelor. În cazul în care considerați că aceasta este o eroare, contactați serviciul de asistență pentru clienți."
+   },
+   "556303983072423917": {
+      "message": "Filmul nu poate fi descărcat, deoarece deținătorul drepturilor de autor nu permite vizionarea offline."
+   },
+   "5568872195580328526": {
+      "message": "Conectată la $CAST_DEVICE_NAME$",
+      "placeholders": {
+         "CAST_DEVICE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "561318040134063021": {
+      "message": "Întrerupt."
+   },
+   "5625642025808759710": {
+      "message": "Alfabete din Asia de Sud-Est"
+   },
+   "5649689590162845077": {
+      "message": "Extindeți sau restrângeți descrierea"
+   },
+   "568365569990952204": {
+      "message": "Se încarcă..."
+   },
+   "5690743679710570538": {
+      "message": "Continuați"
+   },
+   "5699299130874036286": {
+      "message": "Felicitări!"
+   },
+   "5701676109334495247": {
+      "message": "Pentru acest videoclip cumpărat s-a acordat o rambursare. Pentru a-l viziona, cumpărați-l sau închiriați-l din nou."
+   },
+   "5739753659630714071": {
+      "message": "Culoarea de fundal a textului"
+   },
+   "5740091738966096065": {
+      "message": "În prezent, nu aveți conținut descărcat pentru utilizare offline. Conectați-vă la internet și descărcați conținut din bibliotecă pentru a-l viziona offline!"
+   },
+   "57403663622654391": {
+      "message": "Stocare"
+   },
+   "5758941098755146708": {
+      "message": "Adăugați sau eliminați un link"
+   },
+   "5765285425521589331": {
+      "message": "Transport, hărți și panouri informative"
+   },
+   "5773223913514548808": {
+      "message": "A apărut o eroare la conectarea la cont. Asigurați-vă că v-ați conectat la Chrome accesând chrome://chrome-signin/, apoi încercați să reporniți aplicația."
+   },
+   "5793916253768843563": {
+      "message": "Imaginea pe care încercați să o trageți a fost blocată de site-ul gazdă."
+   },
+   "5818819286276765821": {
+      "message": "Buhid"
+   },
+   "5823773924892832157": {
+      "message": "Spațiu alb"
+   },
+   "5831261098398725527": {
+      "message": "Ghilimele"
+   },
+   "5843775533846981999": {
+      "message": "Vizionați filme de pe Google Play"
+   },
+   "5863283361687907514": {
+      "message": "{minutesLeft,plural, =1{Întrerupt. $EVAL_1$ minut rămas.}few{Întrerupt. $EVAL_2$ minute rămase.}other{Întrerupt. $EVAL_2$ de minute rămase.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "5879330654762236137": {
+      "message": "Imaginea de copertă pentru $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5881148502869512332": {
+      "message": "Editați sursa HTML"
+   },
+   "5884014452536244885": {
+      "message": "Obțineți episoade TV gratuite"
+   },
+   "5889420664241962721": {
+      "message": "Aplicația Filme Google Play pentru Chrome este acceptată numai în Chrome 34 sau în versiuni ulterioare. Asigurați-vă că browserul Chrome este complet actualizat."
+   },
+   "5891242694179659653": {
+      "message": "Testați acest link"
+   },
+   "5911102149852781948": {
+      "message": "Formatare direcțională POP"
+   },
+   "5924149156142134621": {
+      "message": "Serverul nu poate accepta certificatul rădăcină folosit în comunicare. Încercați din nou mai târziu."
+   },
+   "592520084270766310": {
+      "message": "Thai"
+   },
+   "5931872839329863827": {
+      "message": "Text negru pe fundal alb"
+   },
+   "593622950044400136": {
+      "message": "Normală"
+   },
+   "5961302828987058223": {
+      "message": "Săgeți"
+   },
+   "5970051322674660677": {
+      "message": "Sesiunea de proiecție a expirat. Deconectați-vă și încercați din nou."
+   },
+   "5984875596889567804": {
+      "message": "Filmul nu poate fi eliminat din cauza unei erori de sistem. Contactați serviciul de asistență pentru clienți sau trimiteți feedback din meniul de setări."
+   },
+   "6003902003271431273": {
+      "message": "Eliminați"
+   },
+   "6005860289879017562": {
+      "message": "Momentan, sunt probleme la redarea acestui videoclip. Încercați din nou mai târziu."
+   },
+   "6014354480663192727": {
+      "message": "Emisiunile TV pe care le achiziționați din Magazin Play vor apărea aici."
+   },
+   "6034340809890392304": {
+      "message": "Cumpărați filme"
+   },
+   "6060953217197345552": {
+      "message": "Canadian aborigen"
+   },
+   "6061761559474667363": {
+      "message": "OK"
+   },
+   "6071912363550058507": {
+      "message": "Rulați oricum"
+   },
+   "6084972307281346150": {
+      "message": "Semn numeric kaithi"
+   },
+   "6105544360205581717": {
+      "message": "Anulați"
+   },
+   "6122892080995252667": {
+      "message": "Formatare și spațiu alb"
+   },
+   "6137797587633467697": {
+      "message": "Meroitic cursiv"
+   },
+   "6155475143120453982": {
+      "message": "0 minute"
+   },
+   "6190120025272183060": {
+      "message": "Semne"
+   },
+   "6193238841287195586": {
+      "message": "Scris de"
+   },
+   "6222709653953533319": {
+      "message": "Culoarea textului"
+   },
+   "6232382505914187032": {
+      "message": "Obțineți episoade gratuite"
+   },
+   "6245954250506012649": {
+      "message": "Închirieri"
+   },
+   "6247516545605893720": {
+      "message": "Trimiteți feedback"
+   },
+   "6248269670479966135": {
+      "message": "Tastatură și interfață"
+   },
+   "6252201064611373493": {
+      "message": "Afișați carduri"
+   },
+   "6270812530472396287": {
+      "message": "Astăzi"
+   },
+   "6272228095428812454": {
+      "message": "Tagalog"
+   },
+   "6279370317435309772": {
+      "message": "Avest"
+   },
+   "6289967782280389879": {
+      "message": "$START_BOLD$Nu știți sigur ce să introduceți în casetă?$END_BOLD$ Mai întâi, găsiți pagina web spre care doriți să creați un link. (Un $SEARCH_ENGINE_LINK$motor de căutare$END_LINK$ ar putea fi util.) Apoi, copiați adresa web din caseta barei de adrese a browserului și inserați-o în caseta de mai sus.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "6321629750851370838": {
+      "message": "Redare"
+   },
+   "6335175380341340581": {
+      "message": "Dispozitivul din sesiunea de proiecție nu se potrivește cu cel solicitat."
+   },
+   "6343010841347906907": {
+      "message": "peste $NUM$ zi",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "6345321684894063919": {
+      "message": "Compatibilitate"
+   },
+   "6350391521435965588": {
+      "message": "Comandat anticipat"
+   },
+   "6352913008658578632": {
+      "message": "Cratimă slabă"
+   },
+   "6363122915809877223": {
+      "message": "Umbră pe stânga"
+   },
+   "6371465733575496232": {
+      "message": "Alfabete din Orientul Mijlociu"
+   },
+   "6405814875010182725": {
+      "message": "Serverul nu poate accepta certificatul rădăcină folosit în comunicare. Încercați din nou mai târziu."
+   },
+   "6407996489854784042": {
+      "message": "Editați linkul"
+   },
+   "6414884042279967640": {
+      "message": "adresă URL nevalidă"
+   },
+   "6425847105595230473": {
+      "message": "Ignorați"
+   },
+   "6432298456231736850": {
+      "message": "Filme Google Play"
+   },
+   "6440344606961499591": {
+      "message": "Lycian"
+   },
+   "6456384515113758910": {
+      "message": "Citiți mai mult"
+   },
+   "6456933929616370051": {
+      "message": "Editați cuvântul"
+   },
+   "6479123880196723568": {
+      "message": "Cursiv"
+   },
+   "6496283442053180405": {
+      "message": "De la stânga la dreapta"
+   },
+   "6501155781262627001": {
+      "message": "În ultimele 24 de ore s-au utilizat prea multe dispozitive/adrese IP. Utilizați unul dintre dispozitivele folosite anterior sau încercați din nou mai târziu."
+   },
+   "6508375652910000957": {
+      "message": "Fără spații albe"
+   },
+   "6536020395223120161": {
+      "message": "Eroare"
+   },
+   "6546669593466967671": {
+      "message": "Matematice alfanumerice"
+   },
+   "6551745305926008747": {
+      "message": "Poate fi comandat anticipat"
+   },
+   "6554134808157634636": {
+      "message": "Liniar B"
+   },
+   "656481501116924913": {
+      "message": "Redarea s-a oprit, deoarece acest videoclip a fost redat pe prea multe dispozitive. Așteptați 24 de ore înainte de a reda din nou acest videoclip."
+   },
+   "6569656063466645753": {
+      "message": "Subtitrări"
+   },
+   "6602025155112861839": {
+      "message": "Brahmi"
+   },
+   "6621933208862353132": {
+      "message": "Acest videoclip nu este disponibil în țara dvs."
+   },
+   "6625801467720528503": {
+      "message": "Persan vechi"
+   },
+   "6629216961322187103": {
+      "message": "Salvați"
+   },
+   "6633629616609262609": {
+      "message": "Puteți modifica setările ulterior din $START_TAG_19$setările aplicației$END_TAG_19$.",
+      "placeholders": {
+         "END_TAG_19": {
+            "content": "$1"
+         },
+         "START_TAG_19": {
+            "content": "$2"
+         }
+      }
+   },
+   "6645762179063593036": {
+      "message": "Alte alfabete din Europa"
+   },
+   "6651639811736683845": {
+      "message": "Filmele mele"
+   },
+   "6661681603632549986": {
+      "message": "Subtitrări"
+   },
+   "6667667434733000643": {
+      "message": "Are carduri cu informații"
+   },
+   "6677363386267424723": {
+      "message": "Redați $MOVIE_TITLE$",
+      "placeholders": {
+         "MOVIE_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6716833875580478379": {
+      "message": "Cumpărați $MOVIE_TITLE$ cu $MOVIE_PRICE$",
+      "placeholders": {
+         "MOVIE_PRICE": {
+            "content": "$1"
+         },
+         "MOVIE_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6755614164969851369": {
+      "message": "Dimensiunea fontului"
+   },
+   "677905689563333998": {
+      "message": "Redarea s-a oprit, deoarece se redau prea multe videoclipuri care aparțin aceluiași cont. Opriți câteva videoclipuri și încercați din nou."
+   },
+   "679571059806777318": {
+      "message": "Thaana"
+   },
+   "6810753777984126315": {
+      "message": "Mormon"
+   },
+   "6827910084162380306": {
+      "message": "Dispozitivul din sesiunea de proiecție nu se potrivește cu cel solicitat."
+   },
+   "6849040808834710280": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} oră}few{{TEXT} ore}other{{TEXT} de ore}}"
+   },
+   "6851957197139570861": {
+      "message": "Acest videoclip nu este disponibil în țara dvs."
+   },
+   "6853191352018412040": {
+      "message": "Balinez"
+   },
+   "6855074016004156398": {
+      "message": "Editați codul HTML"
+   },
+   "6860315656437719971": {
+      "message": "Acest film este deja descărcat pe dispozitiv. Verificați alte conturi de pe acest dispozitiv."
+   },
+   "6875483133393301003": {
+      "message": "Alte alfabete din Asia de Est"
+   },
+   "6883682454262090493": {
+      "message": "Găsiți un film excelent în Magazin Play, apoi relaxați-vă și vizionați-l cu aplicația Filme Play pentru Chrome."
+   },
+   "6889309596873739783": {
+      "message": "Foarte mare"
+   },
+   "6896826577403437656": {
+      "message": "Cratimă minus"
+   },
+   "6902004800313673513": {
+      "message": "Inversate/În oglindă"
+   },
+   "6964937916732516478": {
+      "message": "Normal"
+   },
+   "696905759309523016": {
+      "message": "Găsiți un film sau o emisiune TV excelentă în Magazin Play, apoi relaxați-vă și bucurați-vă de programul ales, în aplicația Filme Play pentru Chrome."
+   },
+   "6987338929609909868": {
+      "message": "Dacă eliminați filmul, îl veți putea viziona pe acest dispozitiv doar dacă sunteți online."
+   },
+   "6989393626433450594": {
+      "message": "Phags Pa"
+   },
+   "7012766363608830434": {
+      "message": "Semnul plus invizibil"
+   },
+   "7024834031644866926": {
+      "message": "Obțineți ajutor"
+   },
+   "7046325096558903089": {
+      "message": "Bopomofo"
+   },
+   "7060886050879229425": {
+      "message": "acum $NUM$ (de) ore",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7063585646207405928": {
+      "message": "Dacă eliminați episodul, îl veți putea viziona pe acest dispozitiv doar dacă sunteți online."
+   },
+   "7094242414651579769": {
+      "message": "Recomandate"
+   },
+   "7101065047913928628": {
+      "message": "Nko"
+   },
+   "711332449732375422": {
+      "message": "Toate"
+   },
+   "7119313535591306971": {
+      "message": "Siriac"
+   },
+   "7133753811730291503": {
+      "message": "Rejang"
+   },
+   "7134932904164509880": {
+      "message": "Conținut audio și subtitrări"
+   },
+   "7142370112218882473": {
+      "message": "Liniuță cu lățime de un caracter"
+   },
+   "7143481033215693523": {
+      "message": "Fenician"
+   },
+   "7161979755625025826": {
+      "message": "{NUM,plural, =0{peste # zile}=1{peste # zi}few{peste # zile}other{peste # de zile}}"
+   },
+   "7166131491680306441": {
+      "message": "Aldin"
+   },
+   "717756764917242379": {
+      "message": "Pentru contul dvs. au existat prea multe resetări din serviciul de asistență pentru clienți în acest an."
+   },
+   "7209204842613884996": {
+      "message": "Cherokee"
+   },
+   "7217613154757397815": {
+      "message": "Titlu secundar"
+   },
+   "7222798856864539991": {
+      "message": "Emoticonuri"
+   },
+   "7231513918080506880": {
+      "message": "Eroare de redare a videoclipului"
+   },
+   "7233133314598482636": {
+      "message": "Simbol"
+   },
+   "7237310906976510879": {
+      "message": "Eroare de autentificare"
+   },
+   "7254769271789170667": {
+      "message": "Suprascriere dreapta-spre-stânga"
+   },
+   "7271563194657138998": {
+      "message": "Alegeți pentru început un episod gratuit din Magazin Play, apoi vizionați-l imediat cu aplicația Filme Play pentru Chrome."
+   },
+   "7322761727637390097": {
+      "message": "Nu s-a găsit acordul de achiziție."
+   },
+   "7333054716894862082": {
+      "message": "Aliniați stânga-dreapta"
+   },
+   "7352037235710614813": {
+      "message": "Regizat de"
+   },
+   "7379356741388986662": {
+      "message": "Magazin"
+   },
+   "738294154320637123": {
+      "message": "Meetei Mayek"
+   },
+   "7403213530684675547": {
+      "message": "Filmul nu poate fi eliminat, deoarece este descărcat pe alt dispozitiv. Mai întâi trebuie să-l eliminați de pe acel dispozitiv."
+   },
+   "7423355034259912329": {
+      "message": "Filmul a fost deja oprit."
+   },
+   "742861914041471563": {
+      "message": "Aliniați la stânga"
+   },
+   "7431208184373206966": {
+      "message": "Mare"
+   },
+   "7436129358876453178": {
+      "message": "Radicali Han din 2 linii"
+   },
+   "7443523425660741023": {
+      "message": "Filmul nu poate fi eliminat, deoarece este descărcat pe alt dispozitiv. Mai întâi trebuie să-l eliminați de pe acel dispozitiv."
+   },
+   "7444530187008825696": {
+      "message": "Acest link nu poate fi testat."
+   },
+   "7445716324927695719": {
+      "message": "$DOWNLOADED_TITLE$ a fost descărcat. Dați clic pentru a-l elimina.",
+      "placeholders": {
+         "DOWNLOADED_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7485995976269020304": {
+      "message": "Deconectați-vă"
+   },
+   "7499894239558451540": {
+      "message": "Da"
+   },
+   "7531884248412347499": {
+      "message": "OK"
+   },
+   "7534921436388469168": {
+      "message": "A apărut o eroare de server. Încercați din nou mai târziu."
+   },
+   "754389774434351130": {
+      "message": "Separator vocale mongol"
+   },
+   "7545663607980395021": {
+      "message": "Sesiunea de proiecție nu este disponibilă. Actualizați sau încercați din nou mai târziu."
+   },
+   "7559531330043741601": {
+      "message": "Aliniați la centru"
+   },
+   "7561622296230802801": {
+      "message": "$SERIES_NAME$ (număr)",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "758833359948379586": {
+      "message": "Element de completare choseong hangul"
+   },
+   "7603379345152092406": {
+      "message": "$PREB$Fiți precaut(ă).$POSTB$ Nu uitați că dacă introduceți o adresă de e-mail într-o pagină web, cei care trimit spam o pot găsi.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "7624732353226727350": {
+      "message": "Treceți peste fiecare celulă pentru a vedea numele caracterului."
+   },
+   "7628853095173216399": {
+      "message": "Conectați-vă pentru a relua vizionarea."
+   },
+   "7628997973779702278": {
+      "message": "Descărcați $DOWNLOAD_TITLE$",
+      "placeholders": {
+         "DOWNLOAD_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7630594546362784435": {
+      "message": "Redați trailerul"
+   },
+   "7644195558431380264": {
+      "message": "Ridicată"
+   },
+   "7656269245189992953": {
+      "message": "Niciunul"
+   },
+   "765644786799307419": {
+      "message": "O pătrime din spațiul em"
+   },
+   "7661273651737426088": {
+      "message": "Cratimă de unire"
+   },
+   "7671671293660378394": {
+      "message": "Spațiu de unire"
+   },
+   "7687757766363784951": {
+      "message": "Caractere selectate recent:"
+   },
+   "7704099115712609154": {
+      "message": "Setări"
+   },
+   "7707854987324577924": {
+      "message": "Spațiu de unire cu lățime zero"
+   },
+   "7721864005040197774": {
+      "message": "Obiecte"
+   },
+   "7735652872804202135": {
+      "message": "Redați videoclipurile în limba dispozitivului, când este posibil"
+   },
+   "7776630049782874310": {
+      "message": "Pe fiecare dispozitiv pot exista simultan maximum trei conturi cu videoclipuri descărcate. Pentru a descărca videoclipul aici, eliminați toate descărcările din alt cont."
+   },
+   "779039068486648656": {
+      "message": "Browserul nu acceptă diagrame"
+   },
+   "7792182371277036944": {
+      "message": "Vizionați acum"
+   },
+   "7807783089931705706": {
+      "message": "Presetări"
+   },
+   "7825923098003586011": {
+      "message": "Hieroglife meroitice"
+   },
+   "7835136621565821438": {
+      "message": "Part inscripțional"
+   },
+   "7843216930799624621": {
+      "message": "$YEAR$, $DURATION_MINUTES$ (de) minute",
+      "placeholders": {
+         "DURATION_MINUTES": {
+            "content": "$1"
+         },
+         "YEAR": {
+            "content": "$2"
+         }
+      }
+   },
+   "7860962781603722351": {
+      "message": "Acest film este deja descărcat pe dispozitiv. Verificați alte conturi de pe acest dispozitiv."
+   },
+   "7872307517743373476": {
+      "message": "Sesiunea de proiecție nu este validă. Actualizați sau încercați din nou mai târziu."
+   },
+   "7873756658795212081": {
+      "message": "expiră în $EVAL_1$ (de) zile",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7876253949333885784": {
+      "message": "$ACTOR_NAME$ în Magazin Play",
+      "placeholders": {
+         "ACTOR_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "7913298344424008739": {
+      "message": "p.m."
+   },
+   "7918520961628671120": {
+      "message": "Accesul la acest videoclip este interzis."
+   },
+   "791855806965154343": {
+      "message": "Batak"
+   },
+   "7926689704723702466": {
+      "message": "Cvadrilion"
+   },
+   "7933902915184371880": {
+      "message": "Carian"
+   },
+   "7935070032411597818": {
+      "message": "{secondsLeft,plural, =1{Întrerupt. $EVAL_1$ secundă rămasă.}few{Întrerupt. $EVAL_2$ secunde rămase.}other{Întrerupt. $EVAL_2$ de secunde rămase.}}",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         },
+         "EVAL_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "7940494512953983463": {
+      "message": "Alfabete din America"
+   },
+   "7943286917138037388": {
+      "message": "Liniuță en"
+   },
+   "7952530065274028271": {
+      "message": "Vedeți detalii privind $WN_SHOW_TITLE$, episodul numărul $WN_EPISODE_NUMBER$, $WN_EPISODE_TITLE$",
+      "placeholders": {
+         "WN_EPISODE_NUMBER": {
+            "content": "$1"
+         },
+         "WN_EPISODE_TITLE": {
+            "content": "$2"
+         },
+         "WN_SHOW_TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7976307677903830820": {
+      "message": "X"
+   },
+   "7977285074199968173": {
+      "message": "expiră în $EVAL_1$ (de) ore",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "7977556132626466535": {
+      "message": "Tamil"
+   },
+   "7978764644554853286": {
+      "message": "peste $NUM$ minut",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7984287538758544481": {
+      "message": "Radicali Han dintr-o linie"
+   },
+   "7985246120023271230": {
+      "message": "Închirierea acestui videoclip a expirat. Pentru a-l viziona, cumpărați-l sau închiriați-l din nou."
+   },
+   "7991898653680244970": {
+      "message": "Caractere Latin-1 suplimentar"
+   },
+   "7993302948330451962": {
+      "message": "Birmanez"
+   },
+   "7993967737532196015": {
+      "message": "Evaluat cu $VIEWER_RATING$ din 5",
+      "placeholders": {
+         "VIEWER_RATING": {
+            "content": "$1"
+         }
+      }
+   },
+   "799645488160903156": {
+      "message": "Eliminați episodul descărcat?"
+   },
+   "8013309308261303688": {
+      "message": "Cumpărați filme"
+   },
+   "8018308926864382762": {
+      "message": "Semn abreviere sirian"
+   },
+   "802273028390736200": {
+      "message": "OFFLINE"
+   },
+   "8023737429684265357": {
+      "message": "Adâncită"
+   },
+   "8039844141475995654": {
+      "message": "peste $NUM$ (de) minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040844926599527758": {
+      "message": "Runic"
+   },
+   "8042716985296303990": {
+      "message": "Formatare"
+   },
+   "8042730852758398655": {
+      "message": "Limba conținutului audio"
+   },
+   "8062522779459151420": {
+      "message": "Eliminați formatarea"
+   },
+   "8077968665076288666": {
+      "message": "Limbu"
+   },
+   "808696534598095161": {
+      "message": "ID"
+   },
+   "8101733308672950303": {
+      "message": "Subtitrările vor arăta așa"
+   },
+   "8132424293432274889": {
+      "message": "Înapoi"
+   },
+   "8134822873948566976": {
+      "message": "Obțineți mai multe episoade"
+   },
+   "8153387349716171448": {
+      "message": "Acest videoclip a fost descărcat pe numărul maxim de dispozitive. Pentru a-l reda aici, eliminați-l de pe alt dispozitiv."
+   },
+   "8161910726112545534": {
+      "message": "Cratimă minus mică"
+   },
+   "8167719451188045081": {
+      "message": "Separator cu lățime zero"
+   },
+   "8175552949837381315": {
+      "message": "Închideți"
+   },
+   "8176183622289427250": {
+      "message": "Găsiți un film excelent în Magazin Play, apoi relaxați-vă și vizionați-l cu aplicația Filme Play pentru Chrome."
+   },
+   "8179636923390390367": {
+      "message": "Simbol muzical final de ligatură"
+   },
+   "8182154803169715176": {
+      "message": "Monedă"
+   },
+   "8188276694329647401": {
+      "message": "Milioane"
+   },
+   "8203155312190167416": {
+      "message": "Obțineți episoade gratuite"
+   },
+   "8204709243856731897": {
+      "message": "Contul a atins limitele contractuale pentru rata de dezactivare a dispozitivelor. În cazul în care considerați că aceasta este o eroare, contactați serviciul de asistență pentru clienți."
+   },
+   "8209649773417809069": {
+      "message": "Monospaced serif"
+   },
+   "8223592563721543961": {
+      "message": "Marcaj dreapta-spre-stânga"
+   },
+   "8229110080399300640": {
+      "message": "Lydian"
+   },
+   "825047260879284602": {
+      "message": "Introduceți o culoare personalizată, de ex., roz, #F00, #D015FF sau rgb (100, 50, 25)"
+   },
+   "829017817517555824": {
+      "message": "Osmanya"
+   },
+   "8303685272985764664": {
+      "message": "Interlinie em"
+   },
+   "8316357291574004120": {
+      "message": "Redarea nu este acceptată pe acest dispozitiv."
+   },
+   "8317092845662281711": {
+      "message": "Audio"
+   },
+   "8317239070847268844": {
+      "message": "Trilioane"
+   },
+   "8356754494097778995": {
+      "message": "Încorporare dreapta-spre-stânga"
+   },
+   "836493064290964717": {
+      "message": "Radicali Han din 7 linii"
+   },
+   "8367205574605681054": {
+      "message": "Contactați-ne"
+   },
+   "8369460333735569464": {
+      "message": "{NUM,plural, =0{peste # ore}=1{peste # oră}few{peste # ore}other{peste # de ore}}"
+   },
+   "838631802941302770": {
+      "message": "Kharoshthi"
+   },
+   "8387836334671661814": {
+      "message": "Normal"
+   },
+   "8406794425024838870": {
+      "message": "Redați videoclipurile în limba inițială, când este posibil"
+   },
+   "8415457571769345476": {
+      "message": "Gurmukhi"
+   },
+   "8432592301984570372": {
+      "message": "Kaithi"
+   },
+   "8436385934277401930": {
+      "message": "Filme"
+   },
+   "8439955599488894226": {
+      "message": "Politica de confidențialitate"
+   },
+   "8440105734244130524": {
+      "message": "Are subtitrări"
+   },
+   "8440128775129354214": {
+      "message": "Confidențialitate"
+   },
+   "8440161680481095392": {
+      "message": "Sora Sompeng"
+   },
+   "8451214628267913361": {
+      "message": "$START_TAG_1$ $EVAL_2$ $START_TAG_3$ $START_TAG_4$ $EVAL_5$ $EVAL_6$ $END_TAG_4$ $START_TAG_7$ $EVAL_8$ $EVAL_9$ $END_TAG_7$ $END_TAG_3$ $END_TAG_1$ $START_TAG_10$ $EVAL_11$ $START_TAG_12$ $START_TAG_13$ $EVAL_14$ $EVAL_15$ $END_TAG_13$ $START_TAG_16$ $EVAL_17$ $EVAL_18$ $END_TAG_16$ $END_TAG_12$ $END_TAG_10$ $EVAL_19$ ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "END_TAG_10": {
+            "content": "$2"
+         },
+         "END_TAG_12": {
+            "content": "$3"
+         },
+         "END_TAG_13": {
+            "content": "$4"
+         },
+         "END_TAG_16": {
+            "content": "$5"
+         },
+         "END_TAG_3": {
+            "content": "$6"
+         },
+         "END_TAG_4": {
+            "content": "$7"
+         },
+         "END_TAG_7": {
+            "content": "$8"
+         },
+         "EVAL_11": {
+            "content": "$9"
+         },
+         "EVAL_14": {
+            "content": "$10"
+         },
+         "EVAL_15": {
+            "content": "$11"
+         },
+         "EVAL_17": {
+            "content": "$12"
+         },
+         "EVAL_18": {
+            "content": "$13"
+         },
+         "EVAL_19": {
+            "content": "$14"
+         },
+         "EVAL_2": {
+            "content": "$15"
+         },
+         "EVAL_5": {
+            "content": "$16"
+         },
+         "EVAL_6": {
+            "content": "$17"
+         },
+         "EVAL_8": {
+            "content": "$18"
+         },
+         "EVAL_9": {
+            "content": "$19"
+         },
+         "START_TAG_1": {
+            "content": "$20"
+         },
+         "START_TAG_10": {
+            "content": "$21"
+         },
+         "START_TAG_12": {
+            "content": "$22"
+         },
+         "START_TAG_13": {
+            "content": "$23"
+         },
+         "START_TAG_16": {
+            "content": "$24"
+         },
+         "START_TAG_3": {
+            "content": "$25"
+         },
+         "START_TAG_4": {
+            "content": "$26"
+         },
+         "START_TAG_7": {
+            "content": "$27"
+         }
+      }
+   },
+   "8464753477202712734": {
+      "message": "Separator adnotare interlineară"
+   },
+   "8468046265986853572": {
+      "message": "Liniuță em scurtă"
+   },
+   "8477315354313049999": {
+      "message": "HD"
+   },
+   "8478260234911223406": {
+      "message": "Afișează informații despre actori și cântece când videoclipul este întrerupt"
+   },
+   "8480915536260760621": {
+      "message": "Separator rânduri"
+   },
+   "8483017128806448808": {
+      "message": "Han – Altele"
+   },
+   "8484953793514450798": {
+      "message": "Acest videoclip nu a putut fi descărcat"
+   },
+   "8496572760621552382": {
+      "message": "Imagini de comandă"
+   },
+   "8504288534013316809": {
+      "message": "Folosește întotdeauna această aplicație pentru a reda conținutul din Filme Play pe acest dispozitiv."
+   },
+   "8533646618757813590": {
+      "message": "Sundanez"
+   },
+   "8540686664487399786": {
+      "message": "Arameic imperial"
+   },
+   "854429928571549912": {
+      "message": "Kannada"
+   },
+   "8544418813868326219": {
+      "message": "Subtitlu"
+   },
+   "8561163275403408048": {
+      "message": "Alegeți HD sau SD"
+   },
+   "8562537001029340643": {
+      "message": "Spațiu en"
+   },
+   "8562629041340204805": {
+      "message": "Listă cu marcatori"
+   },
+   "8564202903947049539": {
+      "message": "Redați"
+   },
+   "8595279472837556966": {
+      "message": "Acest videoclip nu poate fi găsit."
+   },
+   "8598425882608097102": {
+      "message": "Saurashtra"
+   },
+   "8614813208619876018": {
+      "message": "Deschideți acest link într-o fereastră nouă"
+   },
+   "8620014669054622585": {
+      "message": "Exponent"
+   },
+   "8654580154537063858": {
+      "message": "Linie/Conector"
+   },
+   "8683517921317388539": {
+      "message": "Extindeți tabelul cardului cu informații"
+   },
+   "8686061785869890050": {
+      "message": "Marcaj stânga-spre-dreapta"
+   },
+   "8721105090660343056": {
+      "message": "Samaritean"
+   },
+   "8751395052938425392": {
+      "message": "Altele"
+   },
+   "8756624200843285720": {
+      "message": "Normal/serif"
+   },
+   "875775686870257693": {
+      "message": "Aa vocală implicită khmeră"
+   },
+   "8784627238941457153": {
+      "message": "De la dreapta la stânga"
+   },
+   "8785585428177743106": {
+      "message": "Semnul arab safha"
+   },
+   "8788046284717061808": {
+      "message": "Cratimă slabă mongolă"
+   },
+   "8815814381380608540": {
+      "message": "Nu"
+   },
+   "8834132438727381257": {
+      "message": "\n      Vizionați în HD pe laptop, prin Chromecast, prin Roku și pe majoritatea dispozitivelor Android. Filmele achiziționate în format HD vor fi redate în format SD pe alte dispozitive. $START_TAG_1$Aflați mai multe$END_TAG_1$\n      ",
+      "placeholders": {
+         "END_TAG_1": {
+            "content": "$1"
+         },
+         "START_TAG_1": {
+            "content": "$2"
+         }
+      }
+   },
+   "8852003327476620161": {
+      "message": "Bazate pe ASCII"
+   },
+   "8860351949504760658": {
+      "message": "Adresă web"
+   },
+   "8894457765459513654": {
+      "message": "Link"
+   },
+   "8917983075453481180": {
+      "message": "Formă de prezentare pentru liniuța en verticală"
+   },
+   "8919720204772722134": {
+      "message": "Text de afișat:"
+   },
+   "8921884278179224689": {
+      "message": "Termenii și condițiile Google Play"
+   },
+   "8924156420198940653": {
+      "message": "Astăzi"
+   },
+   "892438729140054354": {
+      "message": "Glagolitic"
+   },
+   "893068498689091913": {
+      "message": "$BUY_SD_PRICE$ în SD",
+      "placeholders": {
+         "BUY_SD_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8940049598269551937": {
+      "message": "Malayalam"
+   },
+   "8945516772470397544": {
+      "message": "Ebraic"
+   },
+   "8975694361063929758": {
+      "message": "Se anulează descărcarea..."
+   },
+   "900213554674035877": {
+      "message": "Avertisment: platformă neacceptată"
+   },
+   "9003255502339267646": {
+      "message": "Turc vechi"
+   },
+   "9006212563579865934": {
+      "message": "A apărut o eroare temporară de server. Încercați din nou mai târziu."
+   },
+   "9007600562969287199": {
+      "message": "Anulați"
+   },
+   "9009756347438736077": {
+      "message": "Emoji"
+   },
+   "9039190587572892203": {
+      "message": "S-a deschis o casetă de dialog pentru feedback."
+   },
+   "9058407001544582930": {
+      "message": "Braille"
+   },
+   "9082286440748444032": {
+      "message": "Aliniați la dreapta"
+   },
+   "9119571405974007627": {
+      "message": "Dați clic pentru a vedea în ecran complet"
+   },
+   "9129936585862826417": {
+      "message": "Cratimă dublă katakana-hiragana"
+   },
+   "9133561684694194118": {
+      "message": "Radicali Han din 8 linii"
+   },
+   "9140663398525770181": {
+      "message": "acum $NUM$ (de) zile",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "9143770611947539460": {
+      "message": "$EVAL_1$ (de) episoade",
+      "placeholders": {
+         "EVAL_1": {
+            "content": "$1"
+         }
+      }
+   },
+   "9145981585113793503": {
+      "message": "Italic vechi"
+   },
+   "9157868620634436826": {
+      "message": "Trimiteți statistici de utilizare anonime din Filme Play de pe acest dispozitiv la Google"
+   },
+   "9169327677828809572": {
+      "message": "Subliniat"
+   },
+   "9187708289836789739": {
+      "message": "Genealogie și gen"
+   },
+   "9191795572559844778": {
+      "message": "Latine"
+   },
+   "9199894931939214644": {
+      "message": "Redarea s-a oprit, deoarece se redau prea multe videoclipuri care aparțin aceluiași cont. Opriți câteva videoclipuri și încercați din nou."
+   },
+   "936850558951011636": {
+      "message": "peste $NUM$ (de) zile",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "958106243621022209": {
+      "message": "Trilion"
+   },
+   "964943437084290735": {
+      "message": "O treime din spațiul em"
+   },
+   "968485661339291047": {
+      "message": "expiră într-o zi"
+   },
+   "969796838380220069": {
+      "message": "Punctuație"
+   },
+   "992901664798536243": {
+      "message": "Hexazecimal"
+   },
+   "996885966963281379": {
+      "message": "Suprascriere stânga-spre-dreapta"
+   },
+   "998767118090785897": {
+      "message": "peste $NUM$ oră",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   }
+}
