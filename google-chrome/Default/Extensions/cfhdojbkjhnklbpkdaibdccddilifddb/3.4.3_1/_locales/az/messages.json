@@ -1,0 +1,236 @@
+{
+  "add": {
+    "message": "Əlavə et"
+  },
+  "add_filters_msg": {
+    "message": "Filtr əlavə et?"
+  },
+  "block_element": {
+    "message": "Elementi əngəllə"
+  },
+  "cancel": {
+    "message": "Ləğv et"
+  },
+  "clickhide_instructions": {
+    "message": "Bu popap pəncərəni bağlayandan sonra, səhifədə lazım olan elementə klik (sol və ya sağ klik) edin."
+  },
+  "continue": {
+    "message": "İrəli"
+  },
+  "description": {
+    "message": "Adblock Plus əlavəni 500 milyondan çox insan istifadə edir. Bu, dünyanın ən məşhir reklama qarşı əlavədir."
+  },
+  "disabled_for_site": {
+    "message": "Bu saytda <strong>söndürülüb</strong>"
+  },
+  "easy_create_filter": {
+    "message": "Elementi əngəllə"
+  },
+  "enabled_for_site": {
+    "message": "Bu saytda <strong>aktivdir</strong>"
+  },
+  "filter_elemhideemulation_nodomain": {
+    "message": "Elementlərin geniş gizlədilməsi üçün aktiv domen qeyd olunmayıb"
+  },
+  "filter_invalid_csp": {
+    "message": "Məzmunun təhlükəsizlik siyasətində səhv var"
+  },
+  "filter_invalid_domain": {
+    "message": "Qeyd olunmuş domendə səhv tapıldı"
+  },
+  "filter_invalid_regexp": {
+    "message": "Etibarsız ifadə"
+  },
+  "filter_unknown_option": {
+    "message": "Qeyri-müəyyən filtr seçimi"
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Baş tutmadı, yükləmə uğursuz oldu"
+  },
+  "invalid_css_selector": {
+    "message": "$selector$ etibarsız CSS-selektorudur",
+    "placeholders": {
+      "selector": {
+        "content": "$1"
+      }
+    }
+  },
+  "issueReporter_anonymousSubmission_label": {
+    "message": "Anonim göndəriş"
+  },
+  "issueReporter_anonymousSubmission_warning": {
+    "message": "Sizinlə əlaqə saxlaya bilməyəcəyik və raportu çox vacib qiymətləndirə bilməyəcəyik."
+  },
+  "issueReporter_commentPage_heading": {
+    "message": "Qeyd əlavə et"
+  },
+  "issueReporter_comment_description": {
+    "message": "Aşağıdakı hissəyə qeydlərinizi yazaraq problemi yaxşı izah edə bilərsiniz. Bu mərhələ istəyə bağlıdır, amma problem ciddidirsə qeyd etməyiniz məsləhət bilinir. Raportu göndərməmişdən əvvəl onun məzmununa nəzər sala bilərsiniz."
+  },
+  "issueReporter_comment_label": {
+    "message": "Qeyd (seçimə bağlı):"
+  },
+  "issueReporter_confirmationMessage": {
+    "message": "Raportunuz yadda saxlandı. Ona aşağıdakı ünvandan keçə bilərsiniz:"
+  },
+  "issueReporter_doneButton_label": {
+    "message": "Oldu"
+  },
+  "issueReporter_email_description": {
+    "message": "Raport haqqında sualımız olarkən sizinlə əlaqə saxlaya biləcəyimiz e-ünvan daxil etməyinizi xahiş edirik. Bu qatqılarınıza prioritetlik verməyimizə və onlara görə sizxatırlmağımıza kömək edəcək."
+  },
+  "issueReporter_errorMessage": {
+    "message": "Raport göndərmə cəhdi \"?1?\" xəta səbəbi ilə uğursuz alındı. Lütfən internet əlaqənizi yoxlayın və yenidən cəhd edin. Problem hələ də qalırsa [link]Adblock Plus forum[/link] - dən kömək alın."
+  },
+  "issueReporter_falseNegative_description": {
+    "message": "Adblock Plus aktiv olmasına rəğmən reklam yenə görünürsə bu bəndi seçin."
+  },
+  "issueReporter_falseNegative_label": {
+    "message": "Adblock Plus reklamı blok etmir"
+  },
+  "issueReporter_falsePositive_description": {
+    "message": "Səhifə vacib məzmunu əskildirsə, yalnış göstərirsə, düzgün işləmirsə bu bölməni seçin. Problemin səbəbini öyrənmək üçün Adblock Plus' su müvəqqəti olaraq deaktiv edin."
+  },
+  "issueReporter_falsePositive_label": {
+    "message": "Adblock Plus aşırı çox blok edir"
+  },
+  "issueReporter_knownIssueMessage": {
+    "message": "Bildirdiyiniz problemin səbəbi bilinir. Ətraflı:"
+  },
+  "issueReporter_page_title": {
+    "message": "Problem xəbərçisi"
+  },
+  "issueReporter_privacyPolicy": {
+    "message": "Gizlilik siyasəti"
+  },
+  "issueReporter_sendButton_label": {
+    "message": "Raportu göndər"
+  },
+  "issueReporter_sendPage_heading": {
+    "message": "Raport göndər"
+  },
+  "issueReporter_sending": {
+    "message": "Lütfən Adblock Plus raportunuzu göndərənədək gözləyin."
+  },
+  "issueReporter_showData_label": {
+    "message": "Raport məzmununu göstər"
+  },
+  "issueReporter_typeSelector_description": {
+    "message": "Bu pəncərə sizi Adblock Plus' un problemini göndərənədək sizə yardımçi olacaq. Birinci, lütfən qarşılaşdığınız problemin növünü seçin:"
+  },
+  "issueReporter_typeSelector_heading": {
+    "message": "Problem növünü seçin"
+  },
+  "line": {
+    "message": "Sətir $number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "loading": {
+    "message": "Yüklənir..."
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "name_devbuild": {
+    "message": "Adblock Plus (sınaq versiyası)"
+  },
+  "name_releasebuild": {
+    "description": "Extension name to be shown for release builds. Note: this cannot be longer than 45 characters.",
+    "message": "Adblock Plus - free ad blocker"
+  },
+  "notification_antiadblock_message": {
+    "message": "Bu səhifənin lazımi mesajları Adblock Plus istifadəçilərinə göstərir. Adblock Plus' un hədəf mesajları gizlətməyini istəyirsiniz?"
+  },
+  "notification_antiadblock_title": {
+    "message": "Hədəf mesajlar gizlədilsin?"
+  },
+  "notification_configure": {
+    "message": "Bildirişlərin ayarlarını seç"
+  },
+  "notification_open_all": {
+    "message": "Bu bildirişə aid bütün keçidləri aç"
+  },
+  "notification_with_buttons": {
+    "message": "Bu bildirişə aid bütün keçidləri açmaq üçün 'OK' düyməsini basın."
+  },
+  "notification_without_buttons": {
+    "message": "Bütün keçidləri açmaq üçün, bildirişin üzərinə klik edin."
+  },
+  "options_close": {
+    "message": "bağla"
+  },
+  "options_customFilter_cancel": {
+    "message": "Ləğv et"
+  },
+  "options_customize_showNotifications": {
+    "message": "Faydalı bildirişləri göstər"
+  },
+  "options_filterList_lastDownload_checksumMismatch": {
+    "message": "Baş tutmadı, rəqəmsal cəm uyğunlaşmadı"
+  },
+  "options_filterList_lastDownload_connectionError": {
+    "message": "Baş tutmadı yükləmə uğursuz oldu"
+  },
+  "options_filterList_lastDownload_invalidURL": {
+    "message": "Baş tutmadı ünvan düzgün deyil"
+  },
+  "options_filterList_state_disabled": {
+    "message": "Deaktiv edilmiş"
+  },
+  "options_filterList_updateNow": {
+    "message": "indi yenilə"
+  },
+  "options_language_header": {
+    "message": "Dil"
+  },
+  "options_page_document_title": {
+    "message": "Tənzimləmələr"
+  },
+  "options_page_title": {
+    "message": "Tənzimləmələr"
+  },
+  "options_short": {
+    "message": "Ayarlar"
+  },
+  "options_tab_general": {
+    "message": "Ümumi"
+  },
+  "overlay_notification_button_no": {
+    "message": "Xeyr"
+  },
+  "overlay_notification_button_yes": {
+    "message": "Bəli"
+  },
+  "overlay_notification_closing_button_optout": {
+    "message": "Bildirişləri göstərməyi dayandır"
+  },
+  "stats_label_page": {
+    "message": "Bu səhifədə <strong>$number$</strong>",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "Ümumi <strong>$number$</strong>",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_show_iconnumber": {
+    "message": "Nişanda nömrə göstər"
+  },
+  "stats_title": {
+    "message": "Cəmi blok edilib"
+  },
+  "unexpected_filter_list_header": {
+    "message": "Filtr siyahının başlıqları burada istifadə olunmur"
+  }
+}

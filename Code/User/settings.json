@@ -1,8 +1,10 @@
 {
-    "window.zoomLevel": -1,
+    "window.zoomLevel": -2,
     "arduino.path": "/home/black/Documents/arduino-1.8.8",
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "workbench.colorTheme": "Nord",
     "window.menuBarVisibility": "toggle",
-    "workbench.statusBar.visible": false
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true
 }

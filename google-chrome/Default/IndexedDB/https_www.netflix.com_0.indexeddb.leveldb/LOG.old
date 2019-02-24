@@ -1,15 +1,18 @@
-2019/01/19-17:23:03.452 628c Reusing MANIFEST /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/01/19-17:23:03.452 628c Recovering log #50
-2019/01/19-17:23:03.457 628c Reusing old log /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000050.log 
-2019/01/19-18:26:53.111 6812 Level-0 table #54: started
-2019/01/19-18:26:53.183 6812 Level-0 table #54: 1827186 bytes OK
-2019/01/19-18:26:53.217 6812 Delete type=0 #50
-2019/01/19-18:26:53.218 6812 Compacting 4@0 + 1@1 files
-2019/01/19-18:26:53.268 6812 Generated table #55@0: 16 keys, 11101 bytes
-2019/01/19-18:26:53.268 6812 Compacted 4@0 + 1@1 files => 11101 bytes
-2019/01/19-18:26:53.301 6812 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/01/19-18:26:53.301 6812 Delete type=2 #49
-2019/01/19-18:26:53.302 6812 Delete type=2 #54
-2019/01/19-18:26:53.302 6812 Delete type=2 #46
-2019/01/19-18:26:53.303 6812 Delete type=2 #43
-2019/01/19-18:26:53.303 6812 Delete type=2 #51
+2019/02/09-14:53:52.129 23f1 Reusing MANIFEST /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/02/09-14:53:52.129 23f1 Recovering log #96
+2019/02/09-14:53:52.144 23f1 Reusing old log /home/black/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000096.log 
+2019/02/09-17:16:10.414 3558 Level-0 table #100: started
+2019/02/09-17:16:10.502 3558 Level-0 table #100: 1739189 bytes OK
+2019/02/09-17:16:10.537 3558 Delete type=0 #96
+2019/02/09-19:13:55.192 3558 Level-0 table #102: started
+2019/02/09-19:13:55.274 3558 Level-0 table #102: 1653467 bytes OK
+2019/02/09-19:13:55.326 3558 Delete type=0 #99
+2019/02/09-19:13:55.327 3558 Compacting 4@0 + 1@1 files
+2019/02/09-19:13:55.467 3558 Generated table #103@0: 16 keys, 11105 bytes
+2019/02/09-19:13:55.467 3558 Compacted 4@0 + 1@1 files => 11105 bytes
+2019/02/09-19:13:55.500 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/09-19:13:55.501 3558 Delete type=2 #97
+2019/02/09-19:13:55.501 3558 Delete type=2 #95
+2019/02/09-19:13:55.501 3558 Delete type=2 #102
+2019/02/09-19:13:55.502 3558 Delete type=2 #92
+2019/02/09-19:13:55.502 3558 Delete type=2 #100

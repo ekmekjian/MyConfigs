@@ -14,3 +14,4 @@ image/svg+xml=eog.desktop;
 video/x-matroska=org.gnome.Totem.desktop;
 image/png=eog.desktop;
 image/jpeg=eog.desktop;
+video/mp4=org.gnome.Totem.desktop;

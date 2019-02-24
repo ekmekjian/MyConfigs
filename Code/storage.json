@@ -1,12 +1,15 @@
 {
     "telemetry.machineId": "7152c86e346802aad0d599f04511b6651ad4146f7781d5fb6218156d357464a8",
     "openedPathsList": {
-        "workspaces2": [],
+        "workspaces2": [
+            "file:///home/black/Documents/Projects/pyrss"
+        ],
         "files2": [
+            "file:///home/black/.config/i3/config",
+            "file:///home/black/exercism/c/isogram/src/isogram.c",
             "file:///Documents/Projects/pyrss/pyrss.py",
             "file:///home/black/Documents/Projects/pyrss/pyrss.py",
             "file:///home/black/nether.ovpn",
-            "file:///home/black/.config/i3/config",
             "file:///media/black/A428187E281851A2/Users/black/Dropbox/Source/Python/Metal%20Calculator/Metal%20Calculator.py",
             "file:///usr/bin/pip",
             "file:///home/black/.irssi/config",
@@ -15,17 +18,21 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#2e3440",
-    "pickerWorkingDir": "/media/black/A428187E281851A2/Users/black/Dropbox/Source/Python/Metal Calculator",
+    "pickerWorkingDir": "/home/black/Documents/Projects",
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/black/.config/Code/Backups/1547606201738",
+            "workspace": {
+                "id": "8d83c12e7505605818f787ba63589319",
+                "configPath": "/home/black/.config/Code/Workspaces/1548560571716/workspace.json"
+            },
+            "backupPath": "/home/black/.config/Code/Backups/8d83c12e7505605818f787ba63589319",
             "uiState": {
                 "mode": 1,
-                "x": 59,
-                "y": 38,
-                "width": 616,
-                "height": 665
+                "x": 50,
+                "y": 50,
+                "width": 620,
+                "height": 642
             }
         }
     }

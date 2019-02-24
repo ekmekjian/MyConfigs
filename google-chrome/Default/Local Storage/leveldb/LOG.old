@@ -1,39 +1,6 @@
-2019/01/19-10:24:26.838 1bc7 Reusing MANIFEST leveldb/MANIFEST-000001
-2019/01/19-10:24:26.838 1bc7 Recovering log #88
-2019/01/19-10:24:26.839 1bc7 Reusing old log leveldb/000088.log 
-2019/01/19-10:26:33.013 1bcf Level-0 table #92: started
-2019/01/19-10:26:33.042 1bcf Level-0 table #92: 19402 bytes OK
-2019/01/19-10:26:33.068 1bcf Delete type=0 #88
-2019/01/19-12:36:32.386 311e Level-0 table #94: started
-2019/01/19-12:36:32.412 311e Level-0 table #94: 22295 bytes OK
-2019/01/19-12:36:32.446 311e Delete type=0 #91
-2019/01/19-12:36:32.446 311e Compacting 4@0 + 1@1 files
-2019/01/19-12:36:32.471 311e Generated table #95@0: 603 keys, 20618 bytes
-2019/01/19-12:36:32.471 311e Compacted 4@0 + 1@1 files => 20618 bytes
-2019/01/19-12:36:32.521 311e compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/01/19-12:36:32.522 311e Delete type=2 #85
-2019/01/19-12:36:32.522 311e Delete type=2 #87
-2019/01/19-12:36:32.522 311e Delete type=2 #94
-2019/01/19-12:36:32.522 311e Delete type=2 #92
-2019/01/19-12:36:32.522 311e Delete type=2 #89
-2019/01/19-14:03:32.387 1bcf Level-0 table #97: started
-2019/01/19-14:03:32.456 1bcf Level-0 table #97: 20041 bytes OK
-2019/01/19-14:03:32.506 1bcf Delete type=0 #93
-2019/01/19-14:51:32.387 391b Level-0 table #99: started
-2019/01/19-14:51:32.422 391b Level-0 table #99: 15176 bytes OK
-2019/01/19-14:51:32.455 391b Delete type=0 #96
-2019/01/19-16:44:52.928 3e52 Level-0 table #101: started
-2019/01/19-16:44:52.956 3e52 Level-0 table #101: 13996 bytes OK
-2019/01/19-16:44:52.991 3e52 Delete type=0 #98
-2019/01/19-17:00:50.614 3ed1 Level-0 table #103: started
-2019/01/19-17:00:50.645 3ed1 Level-0 table #103: 23946 bytes OK
-2019/01/19-17:00:50.679 3ed1 Delete type=0 #100
-2019/01/19-17:00:50.679 3ed1 Compacting 4@0 + 1@1 files
-2019/01/19-17:00:50.712 3ed1 Generated table #104@0: 659 keys, 28351 bytes
-2019/01/19-17:00:50.712 3ed1 Compacted 4@0 + 1@1 files => 28351 bytes
-2019/01/19-17:00:50.745 3ed1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/01/19-17:00:50.746 3ed1 Delete type=2 #97
-2019/01/19-17:00:50.746 3ed1 Delete type=2 #101
-2019/01/19-17:00:50.746 3ed1 Delete type=2 #95
-2019/01/19-17:00:50.746 3ed1 Delete type=2 #99
-2019/01/19-17:00:50.746 3ed1 Delete type=2 #103
+2019/02/15-21:16:13.368 2593 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/02/15-21:16:13.369 2593 Recovering log #242
+2019/02/15-21:16:13.565 2593 Reusing old log leveldb/000242.log 
+2019/02/15-21:25:18.067 3172 Level-0 table #246: started
+2019/02/15-21:25:18.127 3172 Level-0 table #246: 16442 bytes OK
+2019/02/15-21:25:18.203 3172 Delete type=0 #242

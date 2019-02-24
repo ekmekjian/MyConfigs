@@ -1,0 +1,178 @@
+[2019-02-10 12:25:54.749] [exthost] [info] extension host started
+[2019-02-10 12:25:54.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:54.762] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-10 12:25:54.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:54.799] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-10 12:25:54.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:54.832] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-10 12:25:54.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:54.967] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-10 12:25:55.025] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:55.025] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-10 12:25:55.368] [exthost] [info] eager extensions activated
+[2019-02-10 12:25:55.655] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:55.655] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-10 12:25:56.632] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:25:56.632] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-10 12:27:07.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:07.907] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-10 12:27:07.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:07.939] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-10 12:27:08.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.014] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-10 12:27:08.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.077] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-10 12:27:08.567] [exthost] [info] extension host started
+[2019-02-10 12:27:08.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.576] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-10 12:27:08.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.578] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-10 12:27:08.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.593] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-10 12:27:08.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.678] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-10 12:27:08.683] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.683] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-10 12:27:08.802] [exthost] [info] eager extensions activated
+[2019-02-10 12:27:08.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.803] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-10 12:27:08.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.812] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-10 12:27:08.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.848] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-10 12:27:08.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:27:08.895] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-10 12:27:08.977] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:08.977] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-10 12:27:09.289] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:27:09.289] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-10 12:28:01.716] [exthost] [info] extension host started
+[2019-02-10 12:28:01.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:01.729] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-10 12:28:01.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:01.732] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-10 12:28:01.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:01.748] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-10 12:28:01.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:01.832] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-10 12:28:01.837] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:01.837] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-10 12:28:01.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:28:01.956] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-10 12:28:01.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:28:01.965] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-10 12:28:02.000] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:28:02.000] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-10 12:28:02.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:28:02.046] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-10 12:28:02.061] [exthost] [info] eager extensions activated
+[2019-02-10 12:28:02.153] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:02.153] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-10 12:28:02.474] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:28:02.474] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-10 12:30:29.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-10 12:30:29.286] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-10 12:32:09.580] [exthost] [info] extension host started
+[2019-02-10 12:32:09.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:09.588] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-10 12:32:09.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:09.591] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-10 12:32:09.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:09.605] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-10 12:32:09.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:09.691] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-10 12:32:09.697] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:09.697] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-10 12:32:09.816] [exthost] [info] eager extensions activated
+[2019-02-10 12:32:09.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:09.817] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-10 12:32:09.826] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:09.826] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-10 12:32:09.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:09.862] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-10 12:32:09.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:09.909] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-10 12:32:09.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-10 12:32:09.923] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-10 12:32:10.029] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:10.029] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-10 12:32:10.357] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:10.357] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-10 12:32:45.892] [exthost] [info] extension host started
+[2019-02-10 12:32:45.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:45.900] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-10 12:32:45.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:45.903] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-10 12:32:45.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:45.917] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-10 12:32:46.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:46.001] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-10 12:32:46.007] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:46.007] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-10 12:32:46.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:46.127] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-10 12:32:46.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:46.136] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-10 12:32:46.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:46.171] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-10 12:32:46.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-10 12:32:46.217] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-10 12:32:46.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-10 12:32:46.231] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-10 12:32:46.282] [exthost] [info] eager extensions activated
+[2019-02-10 12:32:46.431] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:46.431] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-10 12:32:46.700] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-10 12:32:46.700] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-13 20:04:01.228] [exthost] [info] extension host started
+[2019-02-13 20:04:01.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.237] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-13 20:04:01.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.239] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-13 20:04:01.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.253] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-13 20:04:01.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.340] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-13 20:04:01.346] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.346] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-13 20:04:01.466] [exthost] [info] eager extensions activated
+[2019-02-13 20:04:01.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:01.467] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-13 20:04:01.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:01.477] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-13 20:04:01.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:01.513] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-13 20:04:01.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:01.560] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-13 20:04:01.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-13 20:04:01.575] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-13 20:04:01.701] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:01.701] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-13 20:04:02.046] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:02.046] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
+[2019-02-13 20:04:36.260] [exthost] [info] extension host started
+[2019-02-13 20:04:36.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.269] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-13 20:04:36.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.272] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-13 20:04:36.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.286] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-13 20:04:36.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.373] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-13 20:04:36.379] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.379] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-02-13 20:04:36.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:36.498] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-13 20:04:36.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:36.508] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-13 20:04:36.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:36.544] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-13 20:04:36.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-13 20:04:36.590] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-02-13 20:04:36.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-13 20:04:36.605] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-13 20:04:36.656] [exthost] [info] eager extensions activated
+[2019-02-13 20:04:36.759] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:36.759] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/platformio.platformio-ide-1.6.0/dist/extension
+[2019-02-13 20:04:37.033] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-02-13 20:04:37.033] [exthost] [info] ExtensionService#loadCommonJSModule /home/black/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
