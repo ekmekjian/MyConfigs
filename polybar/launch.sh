@@ -1,4 +1,6 @@
-nate already running bar instances
+#!/usr/bin/env bash
+
+# Terminate already running bar instances
 killall -q polybar
 
 # Wait until the processes have been shut down
