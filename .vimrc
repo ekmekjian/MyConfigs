@@ -13,8 +13,11 @@ set encoding=UTF-8
 
 set guifont=OverpassMono\ Nerd\ Font\ 10
 
-colo wal 
-
+"Remap split keys
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
 let g:indent_guides_enable_on_vim_startup = 1
 
 set runtimepath+=~/.vim_runtime
