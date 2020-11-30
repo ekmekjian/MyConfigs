@@ -1,5 +1,6 @@
 call plug#begin()
-Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'sainnhe/gruvbox-material'
 Plug 'dart-lang/dart-vim-plugin'
 Plug 'thosakwe/vim-flutter'
 Plug 'tpope/vim-fugitive'
@@ -28,6 +29,7 @@ set autoindent
 
 set number
 
+colo gruvbox-material
 
 set ts=2 sw=2 et
 
