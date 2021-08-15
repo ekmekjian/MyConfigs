@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+  font:               "Iosevka 10";
+  modi:               "drun,run";
+  theme:              "~/.config/rofi/launchers/colorful/style_9.rasi";
+}
