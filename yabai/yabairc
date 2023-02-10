@@ -1,0 +1,38 @@
+
+yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
+sudo yabai --load-sa
+
+yabai -m config layout bsp
+
+yabai -m config window_border off
+
+# Gaps
+yabai -m config top_padding    30
+# yabai -m config bottom_padding 10
+# yabai -m config left_padding   20
+# yabai -m config right_padding  20
+yabai -m config window_gap    5 
+
+
+# set mouse interaction modifier key (default: fn)
+yabai -m config mouse_modifier fn
+
+# set modifier + left-click drag to move window (default: move)
+yabai -m config mouse_action1 move
+
+# set modifier + right-click drag to resize window (default: resize)
+yabai -m config mouse_action2 resize
+
+# Workspaces
+yabai -m space 1 --label main
+yabai -m space 2 --label code
+yabai -m space 3 --label safari
+yabai -m space 4 --label discord 
+yabai -m space 5 --label spotify
+
+
+# Default Application Spaces
+yabai -m rule --add app=Discord space=discord
+yabai -m rule --add app=Spotify space=spotify
+yabai -m rule --add app=Code space=code
+
