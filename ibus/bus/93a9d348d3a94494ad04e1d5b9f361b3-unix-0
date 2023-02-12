@@ -1,3 +1,0 @@
-# This file is created by ibus-daemon, please do not modify it
-IBUS_ADDRESS=unix:abstract=/tmp/ibus/dbus-WNYSGAIO,guid=91b312889f4259c84ef1494a5c4e10e9
-IBUS_DAEMON_PID=29755

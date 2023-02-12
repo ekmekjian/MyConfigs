@@ -19,6 +19,9 @@ treesitter.setup {
     "swift",
     "css",
     "html",
+    "c",
+    "vim",
+    "help",
     "lua"
   },
   autotag = {
